@@ -1,170 +1,152 @@
 {
   "What is knowledge?": {
-    "type": "question",
+    "summary": "Central Question",
     "content": "What is knowledge?",
-    "children": [
-      "thesis_1",
-      "thesis_8"
-    ],
-    "parent": null,
-    "depth": 0
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
   },
-  "thesis_1": {
-    "type": "thesis",
+  "4ce0f091-a4db-40c9-b57b-bc93f6e70262": {
     "summary": "Knowledge is traditionally defined as justified true belief.",
-    "content": "This view holds that for an individual to know a proposition, three criteria must be met: the proposition must be true, the individual must believe it, and the individual must have justification for that belief. Justification refers to having adequate reasons or evidence to support the belief in question, while truth signifies that the belief accurately reflects reality. This tripartite definition relies on the interplay between belief, truth, and justification, suggesting that knowledge is not merely about having true beliefs but also about the grounding of those beliefs in good reasons or proof. For any hypothetical case, if a person holds a belief that aligns with reality and can demonstrate valid justification for that belief, they would classify the case as knowledge.",
-    "children": [
-      "antithesis_2",
-      "antithesis_5"
-    ],
-    "parent": "What is knowledge?",
-    "identical_to": null,
+    "content": "This view posits that for a person to possess knowledge, three conditions must be met: the belief must be true, the individual must believe in the truth of that proposition, and there must be sufficient justification or evidence for that belief. Justification refers to the reasons or support one has for holding a belief, which must be grounded in reliable methods of inquiry or evidence that can be considered rational or credible. Each of these conditions is necessary and together they create the foundational criteria for what constitutes knowledge. Thus, if a person asserts knowledge of a fact, it must be the case that the fact is true, the person believes it to be true, and there is adequate justification that verifies the truth of that belief in a reliable manner.",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
     "terminal": false,
-    "depth": 1
+    "nonsense": false,
+    "identical_to": null
   },
-  "antithesis_2": {
-    "type": "antithesis",
-    "summary": "Is it possible for a belief to be justified and true yet still not count as knowledge?",
-    "content": "This objection challenges the traditional view by presenting scenarios, known as \"Gettier cases,\" where individuals possess justified true beliefs that intuitively do not qualify as knowledge. For example, if a person has a justified belief based on misleading information that turns out to be true coincidentally, it raises the question of whether the justification was adequate. This undermines the tripartite definition by suggesting that even if the conditions of truth and justification are met, there may still be other aspects necessary for true knowledge that are not captured in the definition.",
-    "children": [
-      "synthesis_3",
-      "synthesis_4"
-    ],
-    "parent": "thesis_1",
-    "identical_to": null,
+  "dfe42ae1-967a-4760-8223-6a979116a08b": {
+    "summary": "How does this view respond to the Gettier problem, which challenges the necessary connection between justified true belief and knowledge?",
+    "content": "The Gettier problem presents scenarios wherein individuals have justified true beliefs that intuitively do not count as knowledge. It illustrates cases where a person justifiably believes a proposition that happens to be true, but due to luck or coincidence rather than reliable justification, their belief is not knowledge. As such, this objection poses a significant challenge to the adequacy of the justified true belief definition of knowledge, suggesting that there must be additional criteria beyond these three conditions to appropriately capture what knowledge entails.",
+    "node_type": "antithesis",
+    "parent_id": "4ce0f091-a4db-40c9-b57b-bc93f6e70262",
+    "depth": 2,
     "terminal": false,
-    "depth": 2
+    "nonsense": false,
+    "identical_to": null
   },
-  "synthesis_3": {
-    "type": "synthesis",
-    "summary": "Knowledge is defined as true belief that is reliably produced by a trustworthy process.",
-    "content": "This view posits that for a belief to count as knowledge, it must not only be true and justified but also formed through a reliable cognitive process. Reliability refers to the degree to which a process consistently produces true beliefs. In this framework, the emphasis is on the mechanisms through which an individual arrives at their belief rather than the internal justification alone. For a hypothetical case to qualify as knowledge, the belief must be true and formed through a process deemed reliable, such as perception or testimony from a credible source, ensuring that the belief is grounded in a trustworthy epistemic method.",
-    "children": [],
-    "parent": "antithesis_2",
-    "identical_to": null,
+  "fad2d444-ac14-47ac-b11a-1d3c3f92296e": {
+    "summary": "Knowledge is defined as justified true belief plus a reliability condition, ensuring that justification stems from a reliable process.",
+    "content": "This view posits that for knowledge to be established, a belief must not only be justified and true, but the justification must arise from a reliable source or method. In this framework, a belief is justified only if it is supported by processes that consistently lead to true beliefs. Therefore, if someone has a belief that is true due to luck, it doesn't count as knowledge because the justification isn't derived from a method that has a track record of reliability. This emphasis on reliability in the justification process provides an additional layer that seeks to address the shortcomings identified by the Gettier problem, making it clear that knowledge requires a robust connection to reliable methods of inquiry.",
+    "node_type": "synthesis",
+    "parent_id": "dfe42ae1-967a-4760-8223-6a979116a08b",
+    "depth": 3,
     "terminal": false,
-    "depth": 3
+    "nonsense": false,
+    "identical_to": null
   },
-  "synthesis_4": {
-    "type": "synthesis",
-    "summary": "Knowledge is understood as a justified true belief that also meets a contextually relevant standard of adequacy.",
-    "content": "This perspective suggests that the conditions for knowledge can vary based on the context in which the belief is held. While maintaining that knowledge must still be a justified true belief, this view includes an additional layer that requires the justification to be sufficient relative to the specific circumstances surrounding the belief. Thus, what counts as adequate justification can depend on factors such as the stakes involved or the social environment. In evaluating a hypothetical case, if a belief is true and justified, it must also be assessed against these contextual standards of adequacy for it to be classified as knowledge, thereby ensuring that the justification aligns with the demands of the particular situation.",
-    "children": [],
-    "parent": "antithesis_2",
-    "identical_to": null,
+  "dc52f7f2-3da1-4579-8a2a-6dd7a565a4ce": {
+    "summary": "Knowledge is understood as a true belief that is safe, meaning that in similar nearby circumstances, the belief would not easily turn out false.",
+    "content": "In this view, knowledge is characterized by the safety condition, which holds that for someone to know a belief, it must be true not just by coincidence but in such a way that if the circumstances were slightly different, the belief would likely remain true. This means that knowledge cannot be based on luck or coincidence, as it must stand firm across possible variations of the situation. The focus here is on the firmness of the belief in relation to similar situations, limiting the instances where justified true belief can occur without being true knowledge. By ensuring that knowledge is robust across nearby scenarios, this perspective aims to resolve the issues raised by the Gettier problem, providing a definition of knowledge that avoids the pitfalls associated with chance.",
+    "node_type": "synthesis",
+    "parent_id": "dfe42ae1-967a-4760-8223-6a979116a08b",
+    "depth": 3,
     "terminal": false,
-    "depth": 3
+    "nonsense": false,
+    "identical_to": null
   },
-  "antithesis_5": {
-    "type": "antithesis",
-    "summary": "Can knowledge be reduced solely to the components of belief, truth, and justification without considering other factors such as context or perspective?",
-    "content": "This objection posits that the traditional definition of knowledge may be overly simplistic and fails to account for the complexities involved in knowing something. It suggests that additional contextual factors, such as the social, historical, or situational contexts in which beliefs and justifications are situated, could play crucial roles in determining what constitutes knowledge. By focusing exclusively on the tripartite components, this view tends to neglect how these components interact with broader epistemic contexts and might thereby misrepresent the nature of knowledge itself.",
-    "children": [
-      "synthesis_6",
-      "synthesis_7"
-    ],
-    "parent": "thesis_1",
-    "identical_to": null,
+  "70922cac-cc7a-4a60-a3a2-bf2eac6a50cc": {
+    "summary": "In what way can this perspective account for instances of disagreement among equally justified beliefs held by different individuals?",
+    "content": "This objection highlights the problem of epistemic relativism, where two individuals can have justified beliefs that are in direct conflict with one another but both satisfy the criteria of justified true belief. If justification is determined by the reasons someone has for their belief, variations in perspectives can lead to radically different but equally justified beliefs about the same issue. This raises questions about how to establish a common ground for knowledge, suggesting that the justified true belief framework might be insufficient for resolving disputes or acknowledging the limits of individual justification in the pursuit of knowledge.",
+    "node_type": "antithesis",
+    "parent_id": "4ce0f091-a4db-40c9-b57b-bc93f6e70262",
+    "depth": 2,
     "terminal": false,
-    "depth": 2
+    "nonsense": false,
+    "identical_to": null
   },
-  "synthesis_6": {
-    "type": "synthesis",
-    "summary": "Knowledge as Contextualized Understanding",
-    "content": "This view holds that knowledge should be understood in relation to the context in which it is acquired, involving social, historical, and situational factors that influence belief formation and justification. It posits that knowing a proposition is not merely about meeting the criteria of truth, belief, and justification in isolation but requires an appreciation of the broader context that shapes how individuals perceive and justify their beliefs. Therefore, to classify a hypothetical case as knowledge, one must consider not only the individual\u2019s belief and justification but also the situational factors that may affect the interpretation and validation of that belief, leading to a more nuanced understanding of what it means to know something.",
-    "children": [],
-    "parent": "antithesis_5",
-    "identical_to": null,
+  "9512d438-9c31-4ce3-a627-0752dc50c7a4": {
+    "summary": "Knowledge as a social or collective construction posits that knowledge is created through social interactions and consensus among communities.",
+    "content": "This view asserts that knowledge is not simply an individual possession but is instead shaped by the norms, practices, and agreements of social groups. It suggests that what counts as justified belief is influenced by the shared standards and validation processes within a community, acknowledging that disagreement can arise from differing contexts, traditions, or frameworks. As such, knowledge is seen as more fluid and dynamic, allowing for multiple justified beliefs to coexist within various communities without necessitating a singular objective truth. Whether a belief is validated as knowledge depends on its acceptance within a particular social context, which can accommodate diverse perspectives and collectively arrived at beliefs.",
+    "node_type": "synthesis",
+    "parent_id": "70922cac-cc7a-4a60-a3a2-bf2eac6a50cc",
+    "depth": 3,
     "terminal": false,
-    "depth": 3
+    "nonsense": false,
+    "identical_to": null
   },
-  "synthesis_7": {
-    "type": "synthesis",
-    "summary": "Knowledge as Relational and Social",
-    "content": "This perspective argues that knowledge is inherently relational and socially situated, emphasizing the importance of communal practices and the roles of trust and credibility in determining what counts as knowledge. According to this view, knowledge is not just a product of individual belief and justification but is also shaped by the interactions and agreements within a community. Classifying a hypothetical case as knowledge, therefore, requires examining the relational dynamics, norms, and evidential standards of the relevant social group, recognizing that what is considered knowledge can vary across different communities and contexts.",
-    "children": [],
-    "parent": "antithesis_5",
-    "identical_to": null,
+  "37e567fe-eb9f-4bf9-99db-76262e03945a": {
+    "summary": "Contextualism argues that the standards for knowledge claims can vary depending on the context in which they are made.",
+    "content": "This view emphasizes that what counts as justification and how knowledge is evaluated can shift based on situational factors, such as the specific circumstances, the stakes involved, or the expertise of the individuals making claims. By recognizing that different contexts can warrant different criteria for justification, contextualism accommodates diversity in beliefs and acknowledges that disagreement may arise due to differing contextual standards rather than absolute failures of justification. In this way, individuals may possess justified beliefs that hold within their specific contexts, allowing for a more nuanced approach to understanding knowledge that respects the complexity of varying perspectives and the dynamics of discourse in different situations.",
+    "node_type": "synthesis",
+    "parent_id": "70922cac-cc7a-4a60-a3a2-bf2eac6a50cc",
+    "depth": 3,
     "terminal": false,
-    "depth": 3
+    "nonsense": false,
+    "identical_to": null
   },
-  "thesis_8": {
-    "type": "thesis",
-    "summary": "Knowledge is a relation between a person and a fact that is derived from reliable cognitive processes.",
-    "content": "This perspective asserts that knowledge arises from cognitive faculties that produce beliefs based on reliable methods, leading to true propositions. Here, reliability refers to the ability of the processes to generate truths across a range of instances. Knowledge is thus viewed as dependent on these processes rather than merely on how beliefs are formed or justified. Under this view, a belief counts as knowledge if it is obtained through a method that is dependable in producing true beliefs. In any hypothetical situation, if a person arrives at a belief through a reliable process that correlates with the truth of the proposition, this situation would be classified as knowledge.",
-    "children": [
-      "antithesis_9",
-      "antithesis_12"
-    ],
-    "parent": "What is knowledge?",
-    "identical_to": null,
+  "192c245b-80b5-41c2-822c-0ca952c38b20": {
+    "summary": "Knowledge is defined as understanding that is based on a reliable method of inquiry.",
+    "content": "According to this perspective, knowledge arises from cognitive processes that utilize reliable methods to arrive at beliefs that correspond to reality. A key element of this view is the emphasis on the reliability of the methods used to form beliefs, meaning that the methods employed must consistently yield true beliefs over time. This can include empirical methods based on observation and experimentation, rational methods based on logical reasoning, or even testimonial methods where knowledge is transmitted through credible sources. The twist in this view is that even if a belief turns out to be true, if it is not formed through a reliable method, it does not count as knowledge. Thus, the focus on methodological reliability serves as the hallmark of genuine knowledge according to this perspective.",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
     "terminal": false,
-    "depth": 1
+    "nonsense": false,
+    "identical_to": null
   },
-  "antithesis_9": {
-    "type": "antithesis",
-    "summary": "Isn't it possible for reliable processes to lead to false beliefs under certain conditions?",
-    "content": "This objection questions the assumption that reliability guarantees truth, suggesting that even reliable processes can yield false beliefs in specific contexts. For example, if a reliable method is applied in a situation where its applicability is compromised or when environmental factors distort outcomes, the belief produced may still be false. This challenges the view by arguing that merely having a reliable cognitive process does not sufficiently ensure that one has knowledge, since knowledge must involve not just the reliability of the process but also its appropriateness to the context in which it is applied.",
-    "children": [
-      "synthesis_10",
-      "synthesis_11"
-    ],
-    "parent": "thesis_8",
-    "identical_to": null,
+  "4e3d856f-ff1d-49e1-8346-aa60850a464f": {
+    "summary": "How does this view account for cases where beliefs formed through unreliable methods turn out to be true?",
+    "content": "This objection challenges the view by presenting situations where individuals arrive at true beliefs despite employing unreliable methods, such as lucky guesses or beliefs based on superstition. If the view claims that knowledge must arise from reliable methods, it risks excluding many true beliefs that can occur by chance. The implication is that if truth alone is not sufficient for knowledge without methodical reliability, we may find ourselves denying knowledge to beliefs that, although incorrect in their formation, align with reality. This potentially undermines the view's definition of knowledge, as it suggests that true beliefs can exist outside the framework of reliable inquiry.",
+    "node_type": "antithesis",
+    "parent_id": "192c245b-80b5-41c2-822c-0ca952c38b20",
+    "depth": 2,
     "terminal": false,
-    "depth": 2
+    "nonsense": false,
+    "identical_to": null
   },
-  "synthesis_10": {
-    "type": "synthesis",
-    "summary": "Knowledge is defined as justified true belief where justification involves a contextual fit for the belief.",
-    "content": "This view maintains that to possess knowledge, an individual must not only have a belief that is true but must also be justified in holding that belief through appropriate evidence or reasoning that relates directly to the specific context. The justification aspect emphasizes that beliefs require support that is relevant to the environment or situation in which they are held. Thus, knowledge is viewed as a combination of truth, belief, and a justification that suitably fits each particular case. Given this framework, an individual could be classified as having knowledge if their belief is true and is supported by reason or evidence that is fitting for the circumstances surrounding that belief.",
-    "children": [],
-    "parent": "antithesis_9",
-    "identical_to": null,
+  "520818fb-1fa1-47bc-9b75-69aed3cdd867": {
+    "summary": "Knowledge is defined as justified true belief, focusing on the justification of beliefs rather than the methods used to acquire them.",
+    "content": "According to this view, for a belief to qualify as knowledge, it must meet three criteria: it must be true, the individual must believe it, and there must be a justification for the belief that is independent of the reliability of the method used to form it. Justification refers to the reasons or evidence supporting the belief, which can include logical arguments, empirical data, or personal experience. The emphasis is on the relationship between the belief and the justification rather than on the means by which the believer arrived at the belief. This means that even if a belief is formed through an unreliable method, as long as it is true and there exists adequate justification for it, it can be classified as knowledge.",
+    "node_type": "synthesis",
+    "parent_id": "4e3d856f-ff1d-49e1-8346-aa60850a464f",
+    "depth": 3,
     "terminal": false,
-    "depth": 3
+    "nonsense": false,
+    "identical_to": null
   },
-  "synthesis_11": {
-    "type": "synthesis",
-    "summary": "Knowledge is understood as a social construct that relies on communal validation and consensus among experts.",
-    "content": "This perspective asserts that what counts as knowledge is determined by the social practices and agreements within a community or among a group of experts. Knowledge is seen as not only an individual endeavor but also a collaborative process where beliefs gain credibility through collective acknowledgment and verification. The communal aspect emphasizes that for a belief to be recognized as knowledge, it must be supported by a process that is accepted and endorsed by those with relevant expertise or authority. Thus, in a hypothetical scenario, a proposition would be classified as knowledge if it is validated by the community's consensus and aligns with their established standards for what constitutes credible knowledge.",
-    "children": [],
-    "parent": "antithesis_9",
-    "identical_to": null,
+  "219abe9a-969d-46e2-b8b7-4ca61c80789b": {
+    "summary": "Knowledge is defined as true belief that is based on appropriate reasons that do not necessarily require reliable methods.",
+    "content": "This perspective asserts that for a belief to be considered knowledge, it must not only be true but must also be supported by appropriate reasons that validate its truth. The criteria for \"appropriate reasons\" can include coherence with other accepted beliefs, formal proofs, or persuasive arguments, and these reasons do not inherently depend on the reliability of the process through which the belief was formed. This allows for beliefs to be considered knowledge even if they arise from methods that may be deemed unreliable, such as intuition or anecdotal evidence. As long as the belief is true and grounded in appropriate reasoning, it qualifies as knowledge, thereby accommodating true beliefs that may not stem from systematic inquiry.",
+    "node_type": "synthesis",
+    "parent_id": "4e3d856f-ff1d-49e1-8346-aa60850a464f",
+    "depth": 3,
     "terminal": false,
-    "depth": 3
+    "nonsense": false,
+    "identical_to": null
   },
-  "antithesis_12": {
-    "type": "antithesis",
-    "summary": "How does this view account for cases of lucky true beliefs that arise from unreliable processes?",
-    "content": "This objection points out that there can be instances in which a person arrives at a true belief through methods that are not reliable. For instance, a person might randomly guess the answer to a question and get it right due to chance. Under the view provided, this true belief could still be classified as knowledge, despite the unreliable nature of the cognitive process leading to it. This raises a critical challenge to the definition of knowledge as it implies that knowledge may be obtained without a reliable basis for belief, thereby undermining the assertion that knowledge fundamentally hinges on cognitive reliability.",
-    "children": [
-      "synthesis_13",
-      "synthesis_14"
-    ],
-    "parent": "thesis_8",
-    "identical_to": null,
+  "a9d0b3c9-a341-406c-ad32-f727f70f6f18": {
+    "summary": "Is reliance on methodical inquiry sufficient to differentiate knowledge from opinion or belief?",
+    "content": "This objection questions whether the emphasis on reliable methods adequately distinguishes knowledge from mere opinion or belief, which can also stem from reliable sources. If a belief is based on a reliable method but is still subjective or a matter of opinion, does it not warrant the same status as knowledge? The critique suggests that focusing solely on method overlooks other critical aspects of knowledge, such as the context, justification, or the knower's perspective. As a result, the insistence on method as the defining feature of knowledge may inadvertently lead to an overly narrow and unrepresentative understanding of what knowledge truly encompasses.",
+    "node_type": "antithesis",
+    "parent_id": "192c245b-80b5-41c2-822c-0ca952c38b20",
+    "depth": 2,
     "terminal": false,
-    "depth": 2
+    "nonsense": false,
+    "identical_to": null
   },
-  "synthesis_13": {
-    "type": "synthesis",
-    "summary": "Knowledge is justified true belief derived from a justified rational process.",
-    "content": "This view holds that knowledge consists of three components: it must be a belief, that belief must be true, and there must be sufficient justification for that belief. Justification refers to having good reasons or evidence that support the belief, ensuring that it falls within a rational framework. Thus, a person possesses knowledge if they have a true belief that is backed by appropriate evidence or reasoning processes. In hypothetical situations, any true belief that is reached through a justificatory process that satisfies these criteria would be classified as knowledge, moving beyond mere reliability to the importance of justification.",
-    "children": [],
-    "parent": "antithesis_12",
-    "identical_to": null,
+  "7ff73774-7fed-4460-a8a8-6d65f32a8c6d": {
+    "summary": "Knowledge is characterized as justified true belief, where justification involves more than just methodical inquiry.",
+    "content": "This view maintains that knowledge consists of beliefs that are both true and justified, emphasizing that for a belief to count as knowledge, it must not only be true but also supported by sufficient reasons or evidence. Justification encompasses a broader array of factors, including the context in which the belief is held and the reasoning behind it. A key element is that an individual's perspective and cognitive engagements play a crucial role in the justification process. Therefore, even if a belief is arrived at through reliable methods, it would not be considered knowledge unless it also possesses adequate justification that aligns with the individual's understanding and the contextual background of the belief.",
+    "node_type": "synthesis",
+    "parent_id": "a9d0b3c9-a341-406c-ad32-f727f70f6f18",
+    "depth": 3,
     "terminal": false,
-    "depth": 3
+    "nonsense": false,
+    "identical_to": null
   },
-  "synthesis_14": {
-    "type": "synthesis",
-    "summary": "Knowledge is a social construct that requires community validation and consensus.",
-    "content": "This perspective posits that knowledge is not merely an individual affair but is constructed through social interactions and agreements within a community. It emphasizes the role of communal practices, dialogues, and the validation process by which groups determine the truth of beliefs. Under this view, knowledge must be recognized and accepted by a community or society for it to qualify as knowledge. In any hypothetical case, a belief would be classified as knowledge if it has been endorsed and accepted by the relevant community based on shared understandings and practices, regardless of the reliability of the individual's initial cognitive processes.",
-    "children": [],
-    "parent": "antithesis_12",
-    "identical_to": null,
+  "0dfdabc5-476e-4939-85d2-5d6289abc7b5": {
+    "summary": "Knowledge is viewed as social and dependent on consensus and credible testimony within a community.",
+    "content": "According to this perspective, knowledge is not merely an individual achievement but a social construct that arises within a community of inquirers. Knowledge claims are validated through communal agreement and the credibility of sources, emphasizing the importance of testimonial evidence and the social context in forming beliefs. This view places value on consensus among knowledgeable members of a community, arguing that what is accepted as knowledge is shaped by collective experiences and perspectives. The credibility of the sources of information and the shared standards of the community greatly influence the status of beliefs, suggesting that knowledge involves a relational aspect that extends beyond individual methods of inquiry.",
+    "node_type": "synthesis",
+    "parent_id": "a9d0b3c9-a341-406c-ad32-f727f70f6f18",
+    "depth": 3,
     "terminal": false,
-    "depth": 3
+    "nonsense": false,
+    "identical_to": null
   }
 }

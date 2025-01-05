@@ -3,6 +3,7 @@ import logging
 import json
 from dotenv import load_dotenv
 from dialectical_question_graph import DialecticalGraph
+import datetime
 
 # Configure logging
 logging.basicConfig(
@@ -46,7 +47,7 @@ def main():
         
         for child_id in root_children:
             node_content = graph.get_node_content(child_id)
-            logging.info(f"Child node {child_id}: {node_content['type']} - {node_content['content'][:50]}...")
+            logging.info(f"Child node {child_id}: {node_content['node_type']} - {node_content['content'][:50]}...")
             
         # Save the graph to a file
         graph_file_path = "./graph.json"
