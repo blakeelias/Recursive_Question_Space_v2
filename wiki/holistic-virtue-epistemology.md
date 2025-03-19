@@ -1,0 +1,12 @@
+# Holistic Virtue Epistemology
+
+**Node Type:** synthesis
+**Node ID:** b124fa11-2334-45c8-9b8b-840e07161bd4
+**Depth:** 3
+**Terminal:** No
+
+**Parent:** [Can knowledge emerge purely from intellectual virtue, ignoring context?](can-knowledge-emerge-purely-from-intellectual-virtue-ignoring-context.md)
+
+## Content
+
+**For a person to know a proposition, it is necessary that they believe the proposition**, **For a person to know a proposition, it is necessary for the proposition to be true**, **For a person to know a proposition, it is necessary that the belief is a result of exercising intellectual virtue**, **For a person to know a proposition, it is necessary that the belief coheres with other justified beliefs**, **For a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, the belief results from exercising intellectual virtue, and the belief coheres with other justified beliefs**
