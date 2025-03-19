@@ -1,0 +1,13 @@
+Graph Structure Analysis:
+------------------------
+Node type distribution: {'question': 1, 'thesis': 2, 'antithesis': 614, 'synthesis': 384}
+
+Terminal nodes by type and termination reason:
+
+synthesis:
+  - nonsense: 14
+  - identical: 58
+
+Maximum depth: 10
+Average depth: 8.74
+Total nodes: 1001

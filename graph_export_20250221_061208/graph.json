@@ -1,0 +1,42 @@
+{
+  "What is knowledge?": {
+    "summary": "What is knowledge?",
+    "content": "What is knowledge?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5cca1f0a-3488-4412-a660-22b8ee2fd7b0": {
+    "summary": "Knowledge is justified true belief.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary for the proposition to be true}, {For a person to know a proposition, it is necessary that they have justification for believing the proposition}.",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9cabe454-2526-44bd-bf21-b97ff5b3766c": {
+    "summary": "Knowledge is a form of cognitive achievement.",
+    "content": "{Knowledge involves the successful application of cognitive abilities}, {Knowledge is constituted by a person's ability to produce true beliefs}, {Knowledge is representational, meaning that it relates to the world accurately}.",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "156f2591-68e9-4637-86be-4ea2e42ce447": {
+    "summary": "Is it possible for knowledge to be justified true belief, given famous counterexamples?",
+    "content": "{Consider a scenario in which a person looks at a grassy field and believes there is a barn in front of them. However, unbeknownst to them, they are looking at a very realistic false front of a barn, making their belief a true and justified belief. In this case, the person is justified in believing that there is a barn because they have evidence for it, but they do not actually know there is a barn since what they see is misleading.}, {There is a plausible principle that knowledge requires not only justified belief and truth but also an element of reliability in the belief-forming process. This principle together with the barn facade scenario entails that justified true belief does not suffice for knowledge, since the belief could have been produced by a misleading situation.}",
+    "node_type": "antithesis",
+    "parent_id": "5cca1f0a-3488-4412-a660-22b8ee2fd7b0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}

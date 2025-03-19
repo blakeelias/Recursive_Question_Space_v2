@@ -1,0 +1,2643 @@
+{
+  "38d815cb-8b09-48f4-93bc-c42d161cedb6": {
+    "summary": "What is knowledge?",
+    "content": "What is knowledge?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5": {
+    "summary": "The Tripartite Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {for a person to know a proposition, it is necessary that the proposition is true}, {for a person to know a proposition, it is necessary that they have justification for believing the proposition}, {for a person to know a proposition, it is sufficient that they have a justified true belief in the proposition}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "abe59e27-bfc8-49e2-afe4-e3b73835718d": {
+    "summary": "The link between belief and knowledge",
+    "content": "{To know a proposition, a person must believe it}, {A belief is a psychological state necessary for knowledge acquisition}",
+    "node_type": "reason",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ea80706b-fff6-4180-9c0a-3707aa9e5889": {
+    "summary": "Truth as a condition for knowledge",
+    "content": "{For knowledge to exist, the proposition believed must be true}, {Knowledge cannot be based on a false proposition}",
+    "node_type": "reason",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "03bdf139-be43-4f2a-9906-01c8d7846055": {
+    "summary": "Justification requirement for knowledge",
+    "content": "{Justification is necessary for distinguishing true belief from knowledge}, {Without justification, true belief may occur due to luck}",
+    "node_type": "reason",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e488389a-4482-4c4d-901d-97ded2eccf98": {
+    "summary": "Justified true belief is sufficient for knowledge",
+    "content": "{For a belief to be knowledge, it must be both true and justified}, {Sufficiency of justified true belief prevents knowledge from being accidental}",
+    "node_type": "reason",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "398ba97a-2c2f-4526-9966-022afec827f6": {
+    "summary": "Differentiating knowledge from true belief",
+    "content": "{A person can have a true belief without knowing}, {Justification adds reliability to true belief, thus forming knowledge}",
+    "node_type": "reason",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0db9f912-bcb8-476a-a8af-44adf77fb1da": {
+    "summary": "Preventing epistemic luck",
+    "content": "{Justification reduces the role of luck in acquiring true beliefs}, {Knowledge implies stability and reliability, beyond mere true belief}",
+    "node_type": "reason",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "614a0ce4-51fc-4e26-8c38-1cde0ddd2f33": {
+    "summary": "Epistemic responsibility and knowledge",
+    "content": "{Knowledge requires having good reasons for belief}, {The obligation to justify beliefs ensures cognitive responsibility}",
+    "node_type": "reason",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ebe12295-ad86-41ad-a55b-502df0421ac3": {
+    "summary": "Relating justification to evidence",
+    "content": "{Justification for belief often involves having evidence}, {Evidence provides a rational basis for claiming knowledge}",
+    "node_type": "reason",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8a80c0f1-ef38-4750-8003-49aa8664e633": {
+    "summary": "Ensuring belief alignment with reality",
+    "content": "{True belief aligns one's cognitive state with reality}, {Aligning belief with reality is critical for it to be knowledge}",
+    "node_type": "reason",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9c8443ea-c114-4485-884f-39fdf24e9ff4": {
+    "summary": "Common intuition about knowledge",
+    "content": "{People often think that to know something, you must have reasons for belief}, {The role of reasons underscores the justification aspect of knowledge}",
+    "node_type": "reason",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "05c4c6bc-4744-4288-9cdf-e1cc94fcc106": {
+    "summary": "The Causal Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {for a person to know a proposition, it is necessary that the proposition is true}, {for a person to know a proposition, it is necessary that the belief is causally connected to the fact that makes the proposition true}, {for a person to know a proposition, it is sufficient that they have a justified true belief and the belief is causally connected to the fact}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "93c825f7-323a-419b-b547-6a5ad80a94bf": {
+    "summary": "Empirical evidence is often linked with knowledge acquisition",
+    "content": "{Empirical evidence is necessary for forming beliefs about the world}, {Observation often plays a key role in justifying beliefs about factual states}, {Evidence often directly influences the strength and validity of a belief}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0c97fe57-cd4b-4a1b-8adf-ce4fc67bdd72": {
+    "summary": "Perception is a fundamental source of knowledge",
+    "content": "{Perceptual experiences often provide immediate awareness of the environment}, {Sensory inputs often give rise to belief in the existence of external objects}, {Perception often constitutes a direct causal link to external facts}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8a416d53-b169-4e7e-b7fc-3e8f78ff28ea": {
+    "summary": "Historical events can be thought of as knowledge due to causal factors",
+    "content": "{Records of historical events are often seen as reliable sources of knowledge}, {Historical events are often believed based on causal connections from past to present}, {The truth of historical knowledge often depends on accurately recorded facts}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ce85d5c8-1862-42f5-8b7c-c0ba183c7c7c": {
+    "summary": "Memories often serve as a link to past truths",
+    "content": "{Memories often provide a retained belief about past experiences}, {Memory recall often involves the retrieval of previously acquired knowledge}, {Beliefs generated from memories are often causally linked to the original experiences}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "80fc40b7-b133-4b91-8ccc-44c17e756726": {
+    "summary": "Testimonies usually rely on causal transmission of information",
+    "content": "{Testimonies often transfer knowledge between individuals}, {A witness's account is often causally linked to the fact-related experiences they had}, {Trust in testimony often derives from the causal history of the information given}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f25cecc4-9383-453e-938d-1477b1e38f8c": {
+    "summary": "Scientific explanations often require causal connections",
+    "content": "{Scientific theories often rely on evidence that causally supports their claims}, {Experiments provide causal evidence that often supports scientific beliefs}, {Causal relations are often central in establishing scientific knowledge}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "08f48970-9d9b-430a-b3f7-ae17c08bd78e": {
+    "summary": "Causal chains often underlie technological knowledge",
+    "content": "{Technological knowledge often depends on understanding causal mechanisms}, {Inventors and engineers often rely on causal reasoning to create new technologies}, {Functionality of technologies is often explained by underlying causal processes}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9c7805d5-1aae-414c-a94f-ccc0e9de7173": {
+    "summary": "Cognitive processes are often causally linked to belief formation",
+    "content": "{Cognitive processes often influence how beliefs are formed}, {The reliability of cognitive agents is often assessed based on causal connections between evidence and belief}, {Rational belief formation often involves a causal link to truth}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "89e382ac-dc64-4ddd-b4c7-be071210c219": {
+    "summary": "Biological responses show causal belief-forming mechanisms",
+    "content": "{Biological responses often affect how organisms form beliefs about their environment}, {The survival of species often relies on accurate causal perceptions of danger and safety}, {Adaptations in species often depend on causal belief-forming mechanisms}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "196b5cb1-13d4-4502-bafc-78bce856517d": {
+    "summary": "Accurate predictions often result from understanding causal relations",
+    "content": "{Predictions are often accurate when they rely on understanding underlying causal mechanisms}, {The reliability of forecasts often depends on the causality-based insights they are derived from}, {Causal knowledge often enhances the predictability of events}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7a113546-d757-4b91-930e-3850404db451": {
+    "summary": "Intuition can guide causal belief assessments",
+    "content": "{Intuition often helps to identify plausible causal links in complex situations}, {Intuitive beliefs about causality often guide reasoning and decision-making}, {Intuitive judgments can result from implicit understanding of causal structures}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7fff5bc7-5f8d-4514-b50e-d2ab4dce0627": {
+    "summary": "Problem-solving often involves tracing causal factors",
+    "content": "{Effective problem-solving often requires identifying and understanding causal factors}, {Analyzing cause and effect often clarifies complex problems}, {Solutions are often traced back to addressing causal issues directly}",
+    "node_type": "reason",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ec0eef77-ae2b-4f85-a630-003e227f604f": {
+    "summary": "The Reliabilism Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {for a person to know a proposition, it is necessary that the proposition is true}, {for a person to know a proposition, it is necessary that the belief is produced by a reliable process}, {for a person to know a proposition, it is sufficient that the belief is true and produced by a reliable process}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "912ce09b-edf1-49fb-824c-3f1784ce7112": {
+    "summary": "Unreliable processes often lead to false beliefs",
+    "content": "{Unreliable cognitive processes frequently lead to incorrect beliefs}, {There is a need for a method to differentiate reliable processes from unreliable ones in forming true beliefs}",
+    "node_type": "reason",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1d228c71-af97-4fd1-8863-42c4f8191518": {
+    "summary": "Intuition that truth and belief are critical to knowledge",
+    "content": "{People generally have the intuition that a belief must be true in order to be considered knowledge}, {People generally have the intuition that one must actually believe a proposition for it to be considered knowledge}",
+    "node_type": "reason",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "449f97f0-3a0b-4080-b704-10b493c4bedb": {
+    "summary": "Objective methods can confirm reliability",
+    "content": "{An objective method can sometimes determine whether a cognitive process is reliable}, {Reliable processes tend to produce correct results consistently across various conditions}",
+    "node_type": "reason",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4a4f4eec-2ee2-413b-889b-3070fd72ebd5": {
+    "summary": "Cognitive science insights into belief formation",
+    "content": "{Cognitive science can identify processes in human belief formation}, {Some cognitive processes can be shown to be more likely to result in true beliefs than others}",
+    "node_type": "reason",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3d22f247-6fc6-4159-89e2-221f7f01ac8d": {
+    "summary": "Reliability varies across contexts and domains",
+    "content": "{The reliability of a belief-forming process may differ across contexts}, {The reliability of a belief-forming process may differ across different domains of knowledge}",
+    "node_type": "reason",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "982ef9da-30aa-4cca-85d3-12d13d9996c3": {
+    "summary": "Role of evolution in developing reliable processes",
+    "content": "{Human cognitive processes have likely evolved to be reliable in certain conditions}, {Evolutionary pressures tend to favor the development of reliable cognitive strategies}",
+    "node_type": "reason",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "da8ccbab-4bf1-4cfc-924f-a72e2efbe2fb": {
+    "summary": "Memory is often a reliable process",
+    "content": "{Memory is frequently a reliable process for retaining and retrieving true beliefs}, {Events consistently remembered across time and individuals suggest a reliable memory process}",
+    "node_type": "reason",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "20b44719-cc6c-4173-b19b-2e36454800e7": {
+    "summary": "Skepticism about overarching certainties",
+    "content": "{There is skepticism about whether absolute certainty is possible for any knowledge}, {Without total certainty, reliability provides a practical framework for evaluating knowledge}",
+    "node_type": "reason",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "92ecdf4b-e7f4-4be0-a7af-a74642578439": {
+    "summary": "Perceptual experiences typically yield accurate beliefs",
+    "content": "{Perceptual experiences generally produce accurate beliefs about the external world}, {Regular patterns of perception suggest reliability in forming true beliefs}",
+    "node_type": "reason",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5684d457-cce6-4053-8f19-423c14caf128": {
+    "summary": "Scientific methods emphasize reliability",
+    "content": "{Scientific methods are designed to minimize error and maximize reliability}, {Successful scientific practices depend on consistently testing reliability of methods and results}",
+    "node_type": "reason",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "16a1d514-f3f4-4e8e-8cae-3d90791dd063": {
+    "summary": "The No False Lemmas Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {for a person to know a proposition, it is necessary that the proposition is true}, {for a person to know a proposition, it is necessary that their belief is justified}, {for a person to know a proposition, it is necessary that the justification for the belief does not involve any false propositions}, {for a person to know a proposition, it is sufficient that they have a justified true belief with no false lemmas}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cb983f32-830e-4575-a6e1-bdeb8f22b2f7": {
+    "summary": "Confronting Gettier Problems",
+    "content": "{There are cases where individuals have justified true beliefs but intuitively lack knowledge}, {These cases involve false intermediate beliefs or assumptions}, {Intuitively, eliminating false intermediates should align justified true belief with knowledge}",
+    "node_type": "reason",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "32efac45-3ad7-4d6a-921d-885f7acb3412": {
+    "summary": "Role of Justification",
+    "content": "{Justification is an essential component in distinguishing knowledge from mere belief}, {Knowledge should be reliably connected to the truth}, {False beliefs diminish the reliability of the justification linking belief to truth}",
+    "node_type": "reason",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e2188ba8-1140-4efd-997e-584d8d5c0d0d": {
+    "summary": "Correctness and Truth Connection",
+    "content": "{Knowledge is expected to be connected to truth in a non-accidental way}, {False intermediates can create accidental correctness}, {Intuitively, true knowledge should avoid such accidental connections}",
+    "node_type": "reason",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3e05d431-6555-41ea-8520-7fa8b2e48226": {
+    "summary": "Intuition of Reliability",
+    "content": "{People intuitively consider reliable belief formation crucial for knowledge}, {False beliefs generally undermine the reliability of the belief formation process}, {An intuition exists that eliminating these false elements enhances reliability}",
+    "node_type": "reason",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fd35afd1-b430-4d62-a136-d443e50629a5": {
+    "summary": "Consistency with Reality",
+    "content": "{Knowledge requires alignment with actual state of affairs}, {False propositions indicate a disconnect with reality}, {Avoiding false intermediates helps ensure beliefs consistently reflect reality}",
+    "node_type": "reason",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a52e9052-7e69-4d6a-8f8a-138d5a75c4f5": {
+    "summary": "Clarity in Belief Pathways",
+    "content": "{Knowledge should have a clear and coherent justification pathway}, {False beliefs introduce confusion into the pathway}, {Eliminating false intermediates can enhance coherence in justification}",
+    "node_type": "reason",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f4ad38c6-7e46-4e77-a2be-48113a8796d6": {
+    "summary": "Necessity of Truth",
+    "content": "{For knowledge to be meaningful, its components must be true}, {False beliefs compromise the meaningfulness of knowledge}, {Avoiding false lemmas ensures all components of believed knowledge are true}",
+    "node_type": "reason",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b72e4209-14f6-4b71-8d27-4d144cd8c6f8": {
+    "summary": "Minimizing Risk of Error",
+    "content": "{Knowledge should be free from significant risk of error}, {False propositions generally increase the risk of error}, {Excluding false elements reduces overall risk enhancing the claim to knowledge}",
+    "node_type": "reason",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b2655da2-5fbd-4758-b899-0aa0bcba41f2": {
+    "summary": "Epistemic Value",
+    "content": "{Knowledge has greater epistemic value than merely true belief}, {False beliefs can decrease the epistemic value of a belief}, {The elimination of false lemmas aims to preserve or enhance this value}",
+    "node_type": "reason",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "62dc5f8d-8858-4fe7-84b3-7a0cbd7724c1": {
+    "summary": "Truth Tracking",
+    "content": "{Knowledge demands that beliefs track the truth across various circumstances}, {False beliefs can inhibit proper tracking}, {Avoiding false intermediates improves the ability of belief to track truth}",
+    "node_type": "reason",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "915ffff9-5b17-4db8-89e9-5de55ec97832": {
+    "summary": "The Virtue Epistemology Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {for a person to know a proposition, it is necessary that the proposition is true}, {for a person to know a proposition, it is necessary that the belief is the result of intellectual virtue}, {for a person to know a proposition, it is sufficient that they have a true belief resulting from intellectual virtue}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7e4d8a2a-a892-4f70-b845-0ff0cfeead9b": {
+    "summary": "Intellectual Virtue and Reliable Belief Formation",
+    "content": "{Intellectual virtues promote reliable belief formation}, {Reliability in belief formation is a key aspect of knowledge}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b5c1d1d1-cd4d-4f42-9070-e8516f4f5429": {
+    "summary": "Ability-Based Understanding",
+    "content": "{There is an intuition that knowledge involves an ability to understand and explain}, {Intellectual virtues enhance one's ability to understand and explain}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8fbddcab-8d3c-4285-b180-a937ccdd829c": {
+    "summary": "Agent-Centered Approach",
+    "content": "{Knowledge seems intimately related to the characteristics of the knowing agent}, {Intellectual virtues are qualities of the agent that contribute to knowledge}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "403311c4-d5e0-445b-9358-df82e17ed674": {
+    "summary": "Responsibility in Belief Acquisition",
+    "content": "{Individuals are intuitively seen as responsible for their beliefs}, {Intellectual virtues involve taking responsibility for belief acquisition}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4258e166-70e4-4f4f-92d8-040d01cc6c78": {
+    "summary": "Moral and Epistemic Parallels",
+    "content": "{There are parallels between moral virtues and intellectual virtues}, {Both moral and intellectual virtues are seen as conducive to flourishing}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5fbbc94f-772b-457f-ae24-760ebe1e1b22": {
+    "summary": "Epistemic Improvement",
+    "content": "{Improving one's intellectual virtues is seen to improve one's epistemic standing}, {Improvement in epistemic standing is related to obtaining knowledge}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "614117b0-5d39-4d67-b865-e18b675578ca": {
+    "summary": "Evaluation of Cognitive Performance",
+    "content": "{Knowledge traditionally requires evaluating cognitive performance}, {Intellectual virtues play a crucial role in evaluating one's cognitive performance}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "803c9e29-9c90-4272-b8a4-139bf4917392": {
+    "summary": "Trustworthy Epistemic Agents",
+    "content": "{We value trustworthy epistemic agents in society}, {Intellectual virtues contribute to being a trustworthy epistemic agent}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "57d08494-e302-464b-b427-4f1ceab047d5": {
+    "summary": "Resilience Against Epistemic Luck",
+    "content": "{There is a concern that knowledge can be undermined by epistemic luck}, {Intellectual virtues are seen as a way to counteract the effects of epistemic luck}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "531950b3-8a08-4cd7-ad71-52a7004f63b3": {
+    "summary": "Promotion of Epistemic Goods",
+    "content": "{Intellectual virtues are seen to promote epistemic goods such as truth, understanding, and insight}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1a0b2098-8edf-4bc1-bd7c-440c11a5fa6f": {
+    "summary": "Learning from Mistakes",
+    "content": "{There is value in learning from cognitive mistakes}, {Intellectual virtues involve the capacity to learn from mistakes}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c23dc112-b69b-49a3-8414-7b97ab80a005": {
+    "summary": "Intellectual Humility",
+    "content": "{Intellectual humility is valued as a trait for acquiring knowledge}, {Intellectual virtues include the trait of intellectual humility}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "829b22eb-910b-4851-a1a0-e4bf7442c0ba": {
+    "summary": "Motivation for Truth-Seeking",
+    "content": "{Motivation to seek truth is a key aspect of gaining knowledge}, {Intellectual virtues involve a motivation to seek truth}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d27150ca-5ed6-4406-9924-2c5f3cbf436c": {
+    "summary": "Facilitating Deep Understanding",
+    "content": "{Deep understanding is a desired component of knowledge}, {Intellectual virtues facilitate the achievement of deep understanding}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "73eaccd0-8a15-4a7b-bb79-c504bf286ede": {
+    "summary": "Adaptive Cognition",
+    "content": "{Cognitive adaptability is seen as beneficial for knowledge acquisition}, {Intellectual virtues contribute to cognitive adaptability}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "31e38a37-e420-45cd-8d21-046c8ea726f1": {
+    "summary": "Integration of Emotion and Reason",
+    "content": "{Effective knowledge involves the integration of emotion and reason}, {Intellectual virtues help in the integration of emotion and reason}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bb7a13d4-d9f1-46bf-83f4-7981b3f845b6": {
+    "summary": "Epistemic Autonomy",
+    "content": "{Epistemic autonomy is valued in knowledge pursuit}, {Intellectual virtues support the development of epistemic autonomy}",
+    "node_type": "reason",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "846e43c4-cdd5-4c12-852c-534774996bb2": {
+    "summary": "The Contextualism Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {for a person to know a proposition, it is necessary that the proposition is true in the context}, {for a person to know a proposition, it is necessary that they have justification based on context-sensitive standards}, {for a person to know a proposition, it is sufficient that they have a justified true belief in the context}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9f166b65-2d5d-4ff4-acec-ce2995743c22": {
+    "summary": "The flexibility of truth conditions",
+    "content": "{Truth conditions for knowledge can vary based on the context}, {Contextual features influence how truth is assessed in different situations}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "35f501f1-d111-4cff-b50f-a7f08f161e49": {
+    "summary": "The variability of justification standards",
+    "content": "{Standards for what counts as sufficient justification can change depending on context}, {Context-dependent standards reflect the varying demands of different knowledge situations}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "12462387-b0e2-4111-ba16-bbb61d93f18d": {
+    "summary": "The problem of skeptical scenarios",
+    "content": "{In high-stakes contexts, skeptical scenarios pose greater challenges to claims of knowledge}, {People express more uncertainty about knowledge in skeptical contexts}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "11912526-a1d6-44e7-94a0-0e46c998f6c7": {
+    "summary": "Linguistic intuitions about knowledge claims",
+    "content": "{People's intuitions about whether someone knows something often depend on contextual factors}, {Language used in knowledge claims shifts with context}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "507e7cb6-bcc7-45a6-a88c-93590adc8fd3": {
+    "summary": "Everyday conversation nuances",
+    "content": "{Everyday dialogues about knowledge are often context-dependent}, {Participants in a conversation might agree or disagree about knowledge based on context}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c0f4b6c8-2fda-47af-978c-d4a8c818b363": {
+    "summary": "Practicality of knowledge attributions",
+    "content": "{Practical considerations often influence whether we treat someone as knowing something}, {Different contexts demand different standards of practical justification}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a4191db0-fa40-4b04-b357-8b2c514d28b4": {
+    "summary": "The effect of stakes on knowledge attribution",
+    "content": "{High-stakes situations typically require more rigorous standards for knowledge attribution}, {People often demand greater justification for claims in high-stakes contexts}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2bff5e25-8dde-4ae2-b107-e3ed64191fdb": {
+    "summary": "The handling of error possibilities",
+    "content": "{Error possibilities are considered more seriously in specific contexts}, {The likelihood of acknowledging possible errors affects whether a knowledge claim is accepted}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a6a18dff-ca64-4502-8161-b3b02d494a5e": {
+    "summary": "The influence of social expectations on knowledge",
+    "content": "{Social norms and expectations often affect judgments about knowledge}, {Acceptable knowledge claims can vary with differing social contexts}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e52e089a-036c-49f8-a189-6a893aa0910f": {
+    "summary": "The adjustment of epistemic standards over time",
+    "content": "{Epistemic standards may evolve as contexts change historically}, {What is considered adequate knowledge in one era may differ in another}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d1d8aec0-94a2-4242-bb80-80f86003c4d5": {
+    "summary": "Divergence in cultural epistemic norms",
+    "content": "{Different cultures may have varying standards for what counts as knowledge}, {Cultural context plays a role in shaping understanding of knowledge}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "be6ac28d-47a4-4ca3-8238-135e1f955a99": {
+    "summary": "Situational ambiguity in knowledge discourse",
+    "content": "{Ambiguities in situational contexts can affect clarity about claims of knowledge}, {Contextual ambiguity may lead to disputes about what someone actually knows}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d03ac809-2df4-4163-be95-9d397866884e": {
+    "summary": "Contexts influencing perception and knowledge",
+    "content": "{A person's sensory perception and thus their knowledge can be influenced by context}, {Situational factors affect how perception aligns with knowledge}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c6d6ad5d-a379-429b-b29b-ffd1727b709c": {
+    "summary": "Role of contextual cues in epistemic evaluation",
+    "content": "{Contextual cues guide how we evaluate evidence for or against a knowledge claim}, {Different contexts provide different cues that affect epistemic judgments}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8286bfc2-095e-467c-a48b-57e66c812ca4": {
+    "summary": "Context-dependent interpretation of evidence",
+    "content": "{Evidence supporting a knowledge claim can be interpreted differently depending on context}, {Interpretive flexibility is crucial for understanding knowledge in various contexts}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a9550a49-6f83-4096-b485-4c7d5ae936c8": {
+    "summary": "Cognitive cost considerations in context",
+    "content": "{Different contexts impose different cognitive costs on evaluating claims of knowledge}, {Efficiency demands in various contexts affect standards for accepting knowledge claims}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4c3733c8-2a64-4007-9986-96de3075ea16": {
+    "summary": "Relevance of context to problem-solving epistemics",
+    "content": "{Context determines which epistemic approach is suitable for solving specific problems}, {Problem-solving strategies depend on accurately gauging epistemic contextual cues}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7c9a395e-78e4-40ff-a2f1-c51a1e761512": {
+    "summary": "The impact of external factors on knowing",
+    "content": "{External situational factors can impede or facilitate the acquisition of knowledge}, {The presence of these factors affects how knowledge claims are justified and accepted}",
+    "node_type": "reason",
+    "parent_id": "846e43c4-cdd5-4c12-852c-534774996bb2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6934d0ca-7bbe-4660-81a8-1935f23bc649": {
+    "summary": "The Relevant Alternatives Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {for a person to know a proposition, it is necessary that the proposition is true}, {for a person to know a proposition, it is necessary that they can eliminate all relevant alternatives to the proposition}, {for a person to know a proposition, it is sufficient that they have a true belief and can eliminate all relevant alternatives}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "790ca6fc-0077-4893-b4f2-b54fc6c19b4f": {
+    "summary": "Doubt requires relevant alternatives",
+    "content": "{Skeptical doubt often involves scenarios that seem implausible}, {To address skeptical doubt, eliminating only relevant alternatives seems necessary}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cd575203-985e-4703-b8c9-1fecced8d983": {
+    "summary": "Context affects knowledge claims",
+    "content": "{What counts as a relevant alternative often depends on the context of the knowledge claim}, {People's judgments about knowledge change with changes in context}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1e787c00-7512-43a1-9705-33e60e4ac5ab": {
+    "summary": "Infinite alternatives aren't manageable",
+    "content": "{There are infinitely many potential alternatives to any proposition}, {It is impractical for a person to eliminate all of these alternatives}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4190285f-bd71-4102-9dc6-86c5b909b627": {
+    "summary": "Pragmatic concerns guide inquiry",
+    "content": "{In everyday situations, people settle knowledge claims without considering all possible alternatives}, {Pragmatic concerns typically guide which alternatives are considered relevant}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ecd9ef1a-1854-46cb-8bc1-2865f7700d7b": {
+    "summary": "Ordinary language supports relevance",
+    "content": "{In ordinary language, people often refer to 'knowing' in a way that aligns with disregarding irrelevant alternatives}, {Ordinary uses of 'know' reflect distinctions based on relevance}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0e8ceae6-050b-4380-88d3-c5aea0071454": {
+    "summary": "Expertise influences relevant alternatives",
+    "content": "{Experts in a field can often distinguish relevant alternatives more effectively than non-experts}, {Expertise allows for better identification of which alternatives are significant}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a23dafa1-1786-4ac4-8f53-70a8f253f9f3": {
+    "summary": "Relevancy limits cognitive burden",
+    "content": "{Focusing only on relevant alternatives reduces the cognitive burden of assessing knowledge}, {Humans have limited cognitive resources which require prioritization of relevant information}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f3668d42-d74b-4921-99b9-d736fccaf6c0": {
+    "summary": "Evolutionary efficiency of relevance",
+    "content": "{Evolutionarily, organisms need to prioritize which dangers are relevant to survival}, {This efficiency in processing parallels ignoring irrelevant alternatives in knowledge acquisition}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8e51b396-ed25-440c-85ea-395ba4158266": {
+    "summary": "Error likelihood affects relevance",
+    "content": "{Alternatives that frequently lead to error are more likely to be considered relevant}, {The likelihood of encountering specific alternatives influences their relevance}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "116abe60-303a-462c-8b48-8ba3dc06cb4c": {
+    "summary": "Social consensus on relevance",
+    "content": "{There is often a social consensus on what constitutes relevant alternatives in knowledge scenarios}, {Social norms influence judgments about knowledge and its requirements}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1515c33e-6bb8-41c9-b47e-1837f09c01df": {
+    "summary": "Relevance and investigative focus",
+    "content": "{Investigations often focus on excluding certain alternatives to substantiate knowledge claims}, {The direction of an investigation can be determined by what alternatives are relevant}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3fe012fd-f256-4779-89c8-7dbf3a1da296": {
+    "summary": "Testimony and relevance",
+    "content": "{Witness testimony often only needs to address relevant alternatives to be considered credible}, {In many fields, testimony credibility does not require addressing all possible alternatives}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ce52e077-063c-4f13-adfa-33f886fcbbeb": {
+    "summary": "Cultural variation in alternatives",
+    "content": "{Different cultures may prioritize different sets of alternatives as relevant}, {Cultural contexts influence perceptions of what counts as knowledge}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "18351a2b-7a97-415e-9094-23dda9e50dd3": {
+    "summary": "Judicial consideration of knowledge",
+    "content": "{In legal contexts, only alternatives relevant to the case matter for determining knowledge}, {Legal standards reflect the necessity of focusing on relevant alternatives}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d6c87fff-15b0-4b3c-9102-620b971dc2af": {
+    "summary": "Science and alternative exclusion",
+    "content": "{Scientific theories often involve ruling out relevant alternatives to gain acceptance}, {Scientific methods focus on excluding significant alternative explanations}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "48cdb213-2847-4b1a-a880-32dc861eccc7": {
+    "summary": "Experience shapes relevance",
+    "content": "{Personal experience affects which alternatives are seen as relevant}, {Individuals weigh alternatives differently based on their past experiences}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7320d3c2-0cf2-421d-972a-8f6e4f62244a": {
+    "summary": "Decision-making requires relevance",
+    "content": "{Effective decision-making often involves focusing on relevant alternatives only}, {With limited resources, decision-making demands prioritizing relevant considerations}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "624afb2f-08d2-424d-a95d-318edbb78363": {
+    "summary": "Risk assessment and relevance",
+    "content": "{Risk assessment often zeroes in on relevant risks}, {The need to manage risks efficiently necessitates ignoring irrelevant possibilities}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b1d95b81-e7cd-46c2-9873-c453741f2d71": {
+    "summary": "Elimination of skepticism by relevance",
+    "content": "{Addressing only relevant skeptical scenarios can dissolve paralyzing doubt}, {Total elimination of all conceivable skepticism is not necessary for operational knowledge}",
+    "node_type": "reason",
+    "parent_id": "6934d0ca-7bbe-4660-81a8-1935f23bc649",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5a274b91-d4ad-45c3-872e-3cb7d32e270e": {
+    "summary": "The Infinitism Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that they have an infinite chain of justification for the proposition}, {for a person to know a proposition, it is necessary that the proposition is true}, {for a person to know a proposition, it is sufficient that they have an infinitely justified true belief}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "56c2a464-6dc3-4384-8f31-3e4d94b239ea": {
+    "summary": "Awareness of Fallibility in Justifications",
+    "content": "{Justifications for beliefs are often found to be fallible}, {Each level of justification can require further support to be trusted}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9f8ab508-68fc-4f43-8e6f-d0088cc4de73": {
+    "summary": "Avoidance of Foundationalism\u2019s Flaw",
+    "content": "{Foundationalism posits self-evident beliefs as the base of knowledge}, {Self-evident beliefs can be questioned and might not be truly self-evident}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "df43b113-4630-412f-8061-bc9f6325800c": {
+    "summary": "Support for Coherentism Limitation",
+    "content": "{Coherentism allows for mutual support among beliefs}, {Mutual support does not rule out the possibility of an entire system being false}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4ea4118c-d8cc-41b0-978f-4b0445b5dc89": {
+    "summary": "Continuous Inquiry",
+    "content": "{Continuous questioning of beliefs is seen as a part of philosophical inquiry}, {An infinite chain of justification reflects ongoing pursuit of deeper understanding}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dccedd71-9b48-4f89-9ae9-76f66e6bda50": {
+    "summary": "Regress Problem in Epistemology",
+    "content": "{The regress problem questions how justifications terminate}, {If justifications must terminate, it raises questions of arbitrariness or lack of grounding}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "db2a17af-f429-4e92-9c87-b598780f46b6": {
+    "summary": "Infinite Possibility in Language",
+    "content": "{Language allows for infinite articulation}, {Infinite articulation suggests the potential for infinite justification chains}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "be344bb4-0eaa-40c7-9dd0-43d57428d8f7": {
+    "summary": "Complexity of Justification",
+    "content": "{Real-world beliefs often involve complex chains of reasoning}, {Complex chains hint at the need for extensive justification networks}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6aa338ef-0b37-442e-afc2-c0951b4e0728": {
+    "summary": "Exploration Beyond Finite Limits",
+    "content": "{Human understanding often pushes beyond finite limits}, {Pushing beyond limits aligns with the concept of infinite chains of justification}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6e310b44-f07e-4a62-bfdf-0fc685a31041": {
+    "summary": "Higher-Order Evidence",
+    "content": "{Higher-order evidence involves evaluating the quality of one\u2019s evidence}, {Evaluating evidence involves an ongoing and potentially infinite chain of reasoning}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "944563b3-c441-45ec-907b-16ff684c8fd7": {
+    "summary": "Avoiding Arbitrary Stopping Points",
+    "content": "{Arbitrary stopping points in justification are intellectually unsatisfying}, {Infinite chains of justification prevent arbitrary endpoints}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "31d3911c-0fc8-4e3d-9886-983eb615a180": {
+    "summary": "Embracing Infinite Complexity",
+    "content": "{The world\u2019s complexity suggests that explanations can be infinitely complex}, {Infinite chains of justification align with embracing complexity}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fac626cd-b324-4948-9b88-5fe2560287da": {
+    "summary": "Inference to Best Explanation",
+    "content": "{The process of inference to the best explanation needs overlapping justifications}, {Overlapping justifications suggest extensible networks}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ba59d3ff-4996-4f28-b9a6-a5d7518c26ad": {
+    "summary": "Role of Context in Beliefs",
+    "content": "{The context of a belief can shift and require further justification}, {Contextual shifts imply the need for a dynamic justification framework}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bb1d098b-ad7d-47ce-b8de-3eb46d75f537": {
+    "summary": "Sophisticated Understanding of Knowledge",
+    "content": "{Understanding knowledge requires a sophisticated approach}, {A sophisticated approach accounts for layers and layers of justifications}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "aa58f103-a447-45bd-af9c-11c4ee362128": {
+    "summary": "Salience of Rational Discourse",
+    "content": "{Rational discourse often reveals layers behind beliefs}, {Revealing layers implies ongoing exploration and justification}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f7336f71-57ba-406e-8c96-6128999c0224": {
+    "summary": "Robustness of Knowledge Claims",
+    "content": "{Robustness requires thorough support for claims}, {Infinite justification speaks to the robustness in knowledge}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9aa395f4-0dff-4956-9c56-a1958e4a15c3": {
+    "summary": "Epistemic Justification Requiring Unending Support",
+    "content": "{Epistemic justification without end reinforces depth}, {Unending support suggests strength in the structure of belief systems}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "11e15894-8bc8-45e7-b0f0-dd3a0a2f3632": {
+    "summary": "Limitations of Captured Knowledge",
+    "content": "{Captured knowledge is rarely sufficient without broader context}, {Broad contexts introduce potentially unending abductive chains}",
+    "node_type": "reason",
+    "parent_id": "5a274b91-d4ad-45c3-872e-3cb7d32e270e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dfc96914-4bec-4220-89f4-905efdc6c2c5": {
+    "summary": "The Coherentism Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that the belief coheres with a system of beliefs}, {for a person to know a proposition, it is necessary that the proposition is true}, {for a person to know a proposition, it is sufficient that they have a true belief that coheres within a consistent system of beliefs}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c85e5bdd-ec7b-4918-8af8-9e76dcfda6a2": {
+    "summary": "Knowledge is interconnected",
+    "content": "{Knowledge consists of beliefs that are part of an interconnected system}, {The interconnectedness among beliefs can clarify and support individual beliefs}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "60d05b30-7d1a-4643-8fd3-eb38301c008d": {
+    "summary": "Belief consistency suggests truth",
+    "content": "{If beliefs are internally consistent, they are more likely to be true}, {Inconsistent beliefs often indicate errors or falsehoods}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b45b80a5-bb9d-4c2d-8918-fc08210d5790": {
+    "summary": "Holistic understanding",
+    "content": "{Understanding a belief requires considering its relationship with other beliefs}, {A belief is meaningful only within the context of a larger belief system}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bb63ecd0-ad14-4e23-9c04-3e1cc110f365": {
+    "summary": "Support through mutual reinforcement",
+    "content": "{Beliefs that mutually support each other provide stronger justification}, {A belief gains strength from the coherence of related beliefs}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2ddf3dae-dbc1-498e-8f3e-a745afce72ca": {
+    "summary": "Experience requires a coherent framework",
+    "content": "{Human experiences are best understood within a coherent framework of beliefs}, {Such a framework provides explanatory power}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "827f2c00-271f-4af3-ae01-ca541067b924": {
+    "summary": "Rationality implies coherence",
+    "content": "{Rational thought requires coherent reasoning patterns}, {Incoherent beliefs challenge rational discourse}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cbc80455-0b9d-4b84-94da-0b638823c14c": {
+    "summary": "Error detection through coherence",
+    "content": "{Coherent systems of belief aid in detecting contradictory or erroneous beliefs}, {Consistency checks are vital for maintaining true beliefs}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d79672bd-8619-44a6-92d6-3ad65930ebaa": {
+    "summary": "Integration of new beliefs",
+    "content": "{New beliefs integrate best into a pre-existing coherent system}, {Integration implies alignment and consistency with other beliefs}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "33eee747-7b42-4c39-9091-e29d075389fc": {
+    "summary": "Belief justification via coherence",
+    "content": "{Coherence among beliefs serves as a form of justification}, {Justification is not based on isolated beliefs but on their holistic integration}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "01ba2da7-778d-4570-ab58-641d2c230186": {
+    "summary": "Contextual belief examination",
+    "content": "{The truth of a belief can be better discerned when examined in relation to others}, {Isolated examination omits contextual relevance}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f0ebca17-3f1f-4eba-bc77-59618c08c43a": {
+    "summary": "Cognitive harmony",
+    "content": "{Coherence provides cognitive harmony and peace of mind}, {Incoherence often results in cognitive dissonance}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "721d08a8-ef44-4a90-990e-29ad86553517": {
+    "summary": "Complex belief systems reflect reality",
+    "content": "{Complex and coherent belief systems can more accurately reflect reality}, {Simple or fragmented systems may overlook nuances}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8e3bf537-bdb9-4c39-8790-8bb0dce5a32b": {
+    "summary": "Dynamic system adaptability",
+    "content": "{A coherent belief system allows for adaptability and growth}, {New information can be integrated without disrupting the system}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e1f8a0d6-c978-4d52-b72b-29182caef229": {
+    "summary": "Verification through coherence",
+    "content": "{Coherence serves as a verification tool for belief accuracy}, {Beliefs that lack coherence often warrant skepticism}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7fa844d5-2712-4ecb-907f-90e4986fe21f": {
+    "summary": "Objective understanding through shared belief systems",
+    "content": "{Shared coherent belief systems enhance objective understanding}, {Common frameworks facilitate communication and agreement}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4532e4f9-3f26-467a-a761-61ac1bfcccaa": {
+    "summary": "Avoidance of arbitrary beliefs",
+    "content": "{Coherence prevents the acceptance of arbitrary beliefs}, {Random beliefs do not fit logically into coherent structures}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f082a4f7-b41b-424b-8ec2-9514fd12bb40": {
+    "summary": "Knowledge as a network",
+    "content": "{Knowledge is not isolated facts but a network of related beliefs}, {The strength of knowledge relies on the connections within this network}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "24b54583-9818-49a9-9d29-095db31ffb3a": {
+    "summary": "Belief validation through coherence",
+    "content": "{Coherence among beliefs aids in validating individual beliefs}, {Validation depends on logical consistency within the belief system}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "255781cd-622e-4fd1-91ed-5f5c404b7ce3": {
+    "summary": "Systematic error correction",
+    "content": "{A coherent belief system facilitates systematic error correction}, {Errors stand out within a cohesive structure}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a5cf9fff-cfa5-4d97-a3ee-65bb3473bbd4": {
+    "summary": "Theory construction and coherence",
+    "content": "{Theories are built on the basis of coherent relationships among propositions}, {The coherence of a theory contributes to its acceptance}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a5c1f778-b6bf-4f0f-84ce-515ac0478bd4": {
+    "summary": "Comprehensive worldview generation",
+    "content": "{A coherent belief system supports the generation of a comprehensive worldview}, {Worldviews require integration across diverse domains of knowledge}",
+    "node_type": "reason",
+    "parent_id": "dfc96914-4bec-4220-89f4-905efdc6c2c5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "453846ea-df3d-49c2-8597-76471c181dfd": {
+    "summary": "The Foundationalism Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {for a person to know a proposition, it is necessary that the proposition is true}, {for a person to know a proposition, it is necessary that the belief is either foundational or based on foundational beliefs}, {for a person to know a proposition, it is sufficient that they have a true belief that is foundational or based on foundations}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4632bbeb-db53-4da2-91ed-91d218292f70": {
+    "summary": "Intuition of Basicness",
+    "content": "{Some beliefs appear self-evident}, {Self-evident beliefs seem to require no further justification}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "65e81dcf-3172-4103-8c60-c28438563d76": {
+    "summary": "Regress Argument",
+    "content": "{An infinite chain of justification is generally regarded as problematic}, {To avoid an infinite regress, some beliefs must not require further justification}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c61a507e-201e-4609-9a85-5eba6ebc5b65": {
+    "summary": "Perception as Immediate Knowledge",
+    "content": "{Perceptions often feel directly known without the need for reasoning}, {Perception-based beliefs appear foundational and immediate}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "034ac367-1b17-4c6f-a113-24ebdbfc9689": {
+    "summary": "Memory as Fundamental",
+    "content": "{Memories often seem justified without additional evidence}, {Memories provide a basis for other beliefs by recalling past experiences}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "65a51fb1-b343-4102-b9b5-8811f126a215": {
+    "summary": "Basic Mathematical Intuitions",
+    "content": "{Certain mathematical truths seem self-evident}, {Mathematical intuitions often don't require proof to be believed}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "303ab2c1-af27-480e-84fc-978963406548": {
+    "summary": "Moral Intuitionism",
+    "content": "{Some moral truths are perceived as self-evident}, {Moral intuitions provide a basis for moral beliefs without the need for argument}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d1baa4d7-5016-4eb4-8ec9-bb0cc2574add": {
+    "summary": "Expert Consensus on Foundational Beliefs",
+    "content": "{Experts in various fields often agree on fundamental principles}, {Consensus implies these beliefs may serve as foundations for knowledge in the field}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a20f5cf3-e0a9-4505-9344-7700f645037b": {
+    "summary": "Practical Decisions Rely on Basic Beliefs",
+    "content": "{Everyday decisions are often based on unquestioned beliefs}, {Basic beliefs guide actions without requiring further justification}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7535197e-2fe4-4465-9519-44d10526d56c": {
+    "summary": "Certainty in Foundational Ideas",
+    "content": "{Some beliefs are held with absolute certainty}, {Certainty suggests these beliefs do not require additional support}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e490ce2b-f2aa-4c07-89a5-45a97a0190c1": {
+    "summary": "Language Learning and Understanding",
+    "content": "{Basic semantic meanings are often grasped directly}, {Understanding language relies on foundational comprehension of terms}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "05cf8fb4-9656-4486-b629-084c388bf413": {
+    "summary": "Self-Awareness and Personal Identity",
+    "content": "{Awareness of self is immediate and evident}, {Self-awareness is a foundational aspect of personal identity}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a882a666-256f-4337-89e1-f96462b97c0a": {
+    "summary": "Logical Principles as Fundamental",
+    "content": "{Principles of logic are considered self-evident}, {Logical principles underpin rational thought and argumentation}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "18ed1895-b5ba-425a-8f58-c1e147a55a1d": {
+    "summary": "Concept of Innate Ideas",
+    "content": "{Certain concepts are understood without experience}, {Innate ideas suggest foundational mental content present at birth}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5033623b-2ea0-4122-afaa-6144f273879a": {
+    "summary": "Role of Immediate Intuitions",
+    "content": "{Immediate intuitions are often trusted without further examination}, {Intuitions provide a basis for beliefs without additional justification}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8f65ef11-3378-454a-b37b-6bced8bf0d97": {
+    "summary": "Causality as a Foundational Principle",
+    "content": "{The principle of causality is felt to be self-evident}, {Beliefs about causality support understanding of the world without needing further proof}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f9035144-e014-414b-8f3e-4f99b231b04f": {
+    "summary": "Perceptual Certainties",
+    "content": "{Certain perceptual experiences are regarded as undeniable}, {Beliefs formed from clear perceptions do not seek extra justification}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "74776267-547e-4db8-a2e6-318ecbfe4466": {
+    "summary": "Common Sense as a Foundational Aspect",
+    "content": "{Common sense beliefs are typically self-evident}, {These beliefs serve as a basis for other knowledge and actions}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "484b7016-891e-410c-adfa-e7eeaa788eb8": {
+    "summary": "Immediate Introspective Knowledge",
+    "content": "{Introspective access to thoughts and feelings is immediate}, {This knowledge is foundational and unmediated}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "abc10e4c-3f5d-4807-b772-3550f6ac2f9b": {
+    "summary": "Basic Empirical Observations",
+    "content": "{Direct empirical observations often don't require further validation}, {Empirical knowledge relies on foundational observations}",
+    "node_type": "reason",
+    "parent_id": "453846ea-df3d-49c2-8597-76471c181dfd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f7123d91-5934-42fd-b963-69f656eceb90": {
+    "summary": "The Defeasibility Theory of Knowledge",
+    "content": "{For a person to know a proposition, it is necessary that they have a justified belief}, {for a person to know a proposition, it is necessary that the proposition is true}, {for a person to know a proposition, it is necessary that no defeaters for their belief exist}, {for a person to know a proposition, it is sufficient that they have a true belief that is undefeated}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "28866774-1fd1-4500-bff8-17a54dae5d21": {
+    "summary": "The idea of undefeated true belief in knowledge",
+    "content": "{For any belief to count as knowledge, it must not be overridden by new evidence}, {True beliefs can be negated by defeaters showing them as false}, {The concept of defeaters acknowledges that beliefs can be invalidated by subsequent information}",
+    "node_type": "reason",
+    "parent_id": "f7123d91-5934-42fd-b963-69f656eceb90",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "df763a60-068d-4060-9e57-7077935d5c19": {
+    "summary": "Knowledge requires stable justification",
+    "content": "{Knowledge must remain justified despite new evidence}, {If justification is easily undermined, it cannot be true knowledge}, {Stable justification implies resilience to defeaters}",
+    "node_type": "reason",
+    "parent_id": "f7123d91-5934-42fd-b963-69f656eceb90",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c8b492dc-a85f-49a7-aac2-c2f5fce00332": {
+    "summary": "Truth's role in reliable knowledge",
+    "content": "{Truth is integral to the concept of knowledge}, {False beliefs, even if justified, do not qualify as knowledge}, {The truth condition ensures that knowledge aligns with reality}",
+    "node_type": "reason",
+    "parent_id": "f7123d91-5934-42fd-b963-69f656eceb90",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "78408688-7b67-42bb-96a8-984e71d56d38": {
+    "summary": "Importance of justification for knowledge",
+    "content": "{Justification distinguishes knowledge from mere true belief}, {Without justification, one cannot claim knowledge even if the belief is true}, {Justifying beliefs strengthens their epistemic credibility}",
+    "node_type": "reason",
+    "parent_id": "f7123d91-5934-42fd-b963-69f656eceb90",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c8bc4167-2649-4e98-98c4-fecebd5b5862": {
+    "summary": "Complexity of belief assessment",
+    "content": "{Beliefs must be evaluated for potential defeaters}, {Evaluating beliefs for defeaters ensures ongoing truth assessment}, {The presence of defeaters challenges the reliability of a belief}",
+    "node_type": "reason",
+    "parent_id": "f7123d91-5934-42fd-b963-69f656eceb90",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3d82aaf9-54cf-46a4-aab9-27d048b165d5": {
+    "summary": "Dynamic nature of justification",
+    "content": "{Justification can change with new defeaters}, {New evidence can transform justified beliefs into unjustified ones}, {The defeasibility concept accounts for the evolving nature of justification}",
+    "node_type": "reason",
+    "parent_id": "f7123d91-5934-42fd-b963-69f656eceb90",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1dd4f39d-16c4-4c33-8a44-abe38d0a75b9": {
+    "summary": "Interplay of truth, belief, and justification",
+    "content": "{Only beliefs that are true and justified count as knowledge}, {A belief losing either truth or justification cannot be knowledge}, {Knowledge is the intersection of truth, belief, and justification without defeaters}",
+    "node_type": "reason",
+    "parent_id": "f7123d91-5934-42fd-b963-69f656eceb90",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "63be118b-c140-4e6c-b82e-7d7f50d962f5": {
+    "summary": "The essential role of evidence in knowledge",
+    "content": "{In the presence of new evidence, knowledge claims must be reassessed}, {Evidence can negate previously justified beliefs}, {Knowledge is closely tied to available evidence and resisting defeaters}",
+    "node_type": "reason",
+    "parent_id": "f7123d91-5934-42fd-b963-69f656eceb90",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c4eab46e-02e5-45f2-89dc-f742d52b73d9": {
+    "summary": "Knowledge's vulnerability to new information",
+    "content": "{Knowledge must withstand new, contradictory evidence}, {The integrity of knowledge is tested continually by new data}, {Defeaters directly impact the stability of a knowledge claim}",
+    "node_type": "reason",
+    "parent_id": "f7123d91-5934-42fd-b963-69f656eceb90",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ec8a15c2-2112-461c-912f-9fb8c872f1e8": {
+    "summary": "Relevance of context in knowledge evaluation",
+    "content": "{Context affects the presence or absence of defeaters}, {In different contexts, what counts as a defeater may vary}, {Knowledge must be evaluated with context-sensitive criteria for defeaters}",
+    "node_type": "reason",
+    "parent_id": "f7123d91-5934-42fd-b963-69f656eceb90",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ab956c20-20f8-4fe6-b585-2c03299c3271": {
+    "summary": "The Naturalized Epistemology Theory of Knowledge",
+    "content": "{Knowledge is a natural phenomenon}, {for a belief to be knowledge, it must be empirically verified}, {knowledge consists in scientifically validated beliefs}, {knowledge acquisition can be studied using methods of natural sciences}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "43848146-6172-4418-9966-92af6562e3f7": {
+    "summary": "The reliability of the scientific method",
+    "content": "{The scientific method consistently produces accurate predictions}, {The scientific method allows for systematic empirical investigation}",
+    "node_type": "reason",
+    "parent_id": "ab956c20-20f8-4fe6-b585-2c03299c3271",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8b1d3c55-eab7-45ad-9f81-27484aadfb5c": {
+    "summary": "Empirical underpinnings of knowledge",
+    "content": "{Empirical observation is central to scientific inquiry}, {Empirical findings are often more reliable than speculation}",
+    "node_type": "reason",
+    "parent_id": "ab956c20-20f8-4fe6-b585-2c03299c3271",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0d4245b7-57ea-475c-88b4-1ff58f7f55bd": {
+    "summary": "The success of natural sciences",
+    "content": "{Natural sciences have contributed significantly to technology and medicine}, {Natural sciences reliably explain physical phenomena}",
+    "node_type": "reason",
+    "parent_id": "ab956c20-20f8-4fe6-b585-2c03299c3271",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5a07a501-04ed-4464-af3d-14eb91925088": {
+    "summary": "Evolutionary basis for belief formation",
+    "content": "{Humans have evolved cognitive faculties suited for survival}, {Those faculties are tuned to respond to the environment empirically}",
+    "node_type": "reason",
+    "parent_id": "ab956c20-20f8-4fe6-b585-2c03299c3271",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9f8d4ef0-1492-4da1-86f8-5f28259e4903": {
+    "summary": "Mechanisms of error correction in science",
+    "content": "{Scientific practices have built-in methods for error detection}, {These mechanisms lead to refinement and validation of theories}",
+    "node_type": "reason",
+    "parent_id": "ab956c20-20f8-4fe6-b585-2c03299c3271",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8d770281-aba9-46ff-b3d6-7072f6da5763": {
+    "summary": "Interchangeability of scientific methods across domains",
+    "content": "{Methods from one scientific domain are often adaptable to others}, {This adaptability suggests a universal applicability of these methods}",
+    "node_type": "reason",
+    "parent_id": "ab956c20-20f8-4fe6-b585-2c03299c3271",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a61220f1-bdcf-468c-b1dd-7ac2734dac80": {
+    "summary": "Consistency and coherence of scientific explanations",
+    "content": "{Scientific explanations are consistent across time and space}, {Consistency represents a hallmark of reliable knowledge}",
+    "node_type": "reason",
+    "parent_id": "ab956c20-20f8-4fe6-b585-2c03299c3271",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8524d2df-1aeb-46c1-b0ae-c7c1b2d7d272": {
+    "summary": "Observable phenomena as a foundation for theories",
+    "content": "{Scientific theories build upon observable and measurable phenomena}, {This foundation ensures that theories are grounded in reality}",
+    "node_type": "reason",
+    "parent_id": "ab956c20-20f8-4fe6-b585-2c03299c3271",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "67b5f47b-3da3-4bbe-b8ba-02087da23ead": {
+    "summary": "The role of prediction in scientific validation",
+    "content": "{Predictive success is a key criterion for scientific credibility}, {Successful predictions indicate a reliable understanding of phenomena}",
+    "node_type": "reason",
+    "parent_id": "ab956c20-20f8-4fe6-b585-2c03299c3271",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a6663f57-e987-44f8-bba4-2319520453c3": {
+    "summary": "Pragmatism in scientific discovery",
+    "content": "{Scientific approaches are pragmatic and focus on solving real-world problems}, {This practical nature leads to useful and applicable knowledge}",
+    "node_type": "reason",
+    "parent_id": "ab956c20-20f8-4fe6-b585-2c03299c3271",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "50a4e1a5-3162-436c-a650-498fd9a8fe7d": {
+    "summary": "The Externalism Theory of Knowledge",
+    "content": "{For a person to know a proposition, external factors beyond their awareness can justify their belief}, {a person can have knowledge of a proposition without knowing all the justifying processes}, {knowledge is justified true belief where justification need not be internally accessible}, {knowledge can depend on external conditions the knower might not be aware of}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ccfd3f01-5949-40f3-a24a-7614a9e09fad": {
+    "summary": "The dependence of knowledge on external conditions",
+    "content": "{Knowledge of a proposition can depend on environmental factors}, {A person can be unaware of the external conditions justifying their belief}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c389ada8-b940-4779-af59-59694fcc25da": {
+    "summary": "External processes in knowledge justifications",
+    "content": "{Justification of a belief can involve processes outside a person's cognitive accessibility}, {A person may not fully understand the processes that justify their belief}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "68c3b7be-f3b5-4b66-883b-bcef8be7f556": {
+    "summary": "True belief despite lack of full awareness",
+    "content": "{It is possible to hold a true belief without knowing all the reasons it is justified}, {True belief can be justified by factors unknown to the believer}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fc85da06-5b40-42f5-92be-1e90e8f9d5eb": {
+    "summary": "Sensory reliability as an external factor",
+    "content": "{The reliability of sensory perception can be an external factor justifying belief}, {A person may not be aware of how their senses provide reliable information}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8e0d75c3-b6b8-4b15-a40b-02d3d9662e16": {
+    "summary": "Role of the external world in verifying beliefs",
+    "content": "{The accuracy of a belief can be influenced by the state of the external world}, {The external world can confirm or disconfirm beliefs without the believer's awareness}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "769e1305-7888-4d15-9f7c-027d8046c32c": {
+    "summary": "Non-awareness of justifying evidence",
+    "content": "{It is possible for a belief to be justified by evidence the knower is unaware of}, {Even if a person is unaware, their belief can still be justified by such evidence}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4016a127-8802-45ed-a684-d2eacb61f540": {
+    "summary": "External conditions for knowledge acquisition",
+    "content": "{Knowing a proposition can require external conditions being met}, {A person may not be aware of all conditions required for knowledge}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8f23c05a-b0ef-44dd-9f7d-9403ba9d3af5": {
+    "summary": "Invisible supporting justifications for beliefs",
+    "content": "{Some justifications for belief might be invisible or opaque to the believer}, {These justifications can still effectively support the belief}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7589c81e-ed80-48f4-bda5-6b09aefc2d3e": {
+    "summary": "Environmental dependencies in justified beliefs",
+    "content": "{The justification of a belief can depend on the environment}, {The individual holding the belief might not realize this environmental dependence}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e25f4119-9252-4edd-9841-824c2b020549": {
+    "summary": "Factors outside human perception can justify knowledge",
+    "content": "{Elements beyond human perception can serve as justifiers for knowledge}, {People might not perceive or understand these justifiers but can still know the proposition}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "eb33b19b-447a-4d4f-bea5-3071f9d3a465": {
+    "summary": "External reliability's influence on belief justification",
+    "content": "{A belief can be justified due to the reliability of external systems}, {The believer might not be aware of this reliability}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5169166f-0bb5-470a-ae0e-a9129a19c7e0": {
+    "summary": "Harmonic alignment with external truths",
+    "content": "{Beliefs can align with external truths without the knower realizing it}, {This alignment can justify knowledge}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ecb69740-895c-4e9d-b1a8-4eee91f3bfd4": {
+    "summary": "Subconscious influences on belief justification",
+    "content": "{A belief can be subconsciously influenced by external factors}, {These influences can justify the belief without conscious awareness}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6b11cf32-77e2-42cd-9cf4-91f238136244": {
+    "summary": "External errors affecting true beliefs",
+    "content": "{External factors could cause errors but still lead to true beliefs}, {A person might not notice these external errors}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "978badb5-da3b-4534-b941-6f92d8c69bf0": {
+    "summary": "Reliance on the stability of the external world",
+    "content": "{Stability of the external world plays a role in belief justification}, {Believers might not recognize this reliance on external stability}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "35570e79-f8d0-4d68-9f6e-4fde6e24fbb3": {
+    "summary": "Epistemic dependence on unknown external realities",
+    "content": "{Knowledge can depend on external realities unknown to the knower}, {These realities can justify knowledge independently of the knower's awareness}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "de63be4d-f536-4ec1-90ab-28e453bdf03e": {
+    "summary": "External causal chains in knowledge justification",
+    "content": "{Causal chains in the external world can justify beliefs}, {The knower might be unaware of these causal chains}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "374fca4f-dea6-4695-8369-0e7c73fb6a58": {
+    "summary": "External information's role in true belief verification",
+    "content": "{Verification of true beliefs can involve external information}, {The believer may not consciously access this information}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "92d46ed7-0c8c-4937-a245-0e187ce7e79b": {
+    "summary": "Indirect external factors enabling knowledge",
+    "content": "{Indirect external factors can be crucial for the justification of knowledge}, {A person might be unaware of these indirect factors}",
+    "node_type": "reason",
+    "parent_id": "50a4e1a5-3162-436c-a650-498fd9a8fe7d",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f": {
+    "summary": "The Internalism Theory of Knowledge",
+    "content": "{Justification for knowledge must be accessible to the knower}, {for a person to know a proposition, they must have internal access to the reasons for justification}, {knowledge requires that the knower is aware of and understands their justification}, {knowledge is justified true belief where the justification is internally accessible}",
+    "node_type": "thesis",
+    "parent_id": "38d815cb-8b09-48f4-93bc-c42d161cedb6",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3e91307e-27e8-48b0-bb2b-857de2ec8c37": {
+    "summary": "Intuition that awareness of justification is crucial for knowledge",
+    "content": "{There is an intuition that to truly know something, one must be aware of why it is justified}, {We often require others to explain their reasons to be convinced they have knowledge}, {Simply having true belief is not sufficient for knowledge without understanding why it is true}",
+    "node_type": "reason",
+    "parent_id": "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ac389048-6de3-4f76-a162-a2acc9516c24": {
+    "summary": "Role of self-reflection in acquiring knowledge",
+    "content": "{Self-reflection is a critical part of what we consider knowing}, {Understanding involves reflecting on the reasons behind a belief}, {This reflective process is considered central to knowledge acquisition}",
+    "node_type": "reason",
+    "parent_id": "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "40aeab0b-2341-4469-8187-d5e5889682d4": {
+    "summary": "Importance of evidence for belief in rational discourse",
+    "content": "{In rational discourse, we value evidence that can be consciously articulated}, {There is a norm that rational beliefs should be supported by evidence one can access}, {Accessibility of reasons often determines the rationality of holding a belief}",
+    "node_type": "reason",
+    "parent_id": "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "010ee490-87db-4972-a98b-82731b2c1eca": {
+    "summary": "Expectation of justification in educational contexts",
+    "content": "{Education emphasizes the ability to justify beliefs or claims}, {Students are often asked to demonstrate their understanding by explaining their reasoning}, {This justification process is integral to educational evaluation}",
+    "node_type": "reason",
+    "parent_id": "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a6041d16-e22c-4789-b6da-575b6d21e243": {
+    "summary": "Relevance of internal coherence in assessing knowledge",
+    "content": "{Internal coherence of beliefs is commonly used to assess knowledge}, {Beliefs that fit well within an internally coherent system seem more justified}, {Coherence is often accessible to introspection and self-examination}",
+    "node_type": "reason",
+    "parent_id": "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "43016e43-9cc6-41cd-89b6-de63f7ae7f20": {
+    "summary": "Moral analogy with rational accountability",
+    "content": "{There is an analogy between moral accountability and rational accountability}, {In both cases, individuals are expected to be aware of and articulate reasons for their actions or beliefs}, {This expectation aligns with the internalist view of knowledge requiring accessible justification}",
+    "node_type": "reason",
+    "parent_id": "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3814ed13-cdeb-4810-962e-75657d874100": {
+    "summary": "Pragmatic need for accessible reasons in decision-making",
+    "content": "{Decision-making often relies on accessible reasons to justify choices}, {In practical life, providing reasons that can be internally accessed supports better decision outcomes}, {Accessibility of justification reassures others about the soundness of decisions}",
+    "node_type": "reason",
+    "parent_id": "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1eb6bedf-ca3f-4ec6-bfe0-73bcaa5a2f03": {
+    "summary": "Transparency in personal belief systems",
+    "content": "{Personal belief systems often aim for transparency, where reasons for beliefs are clear and accessible}, {This transparency helps maintain stability and trust in the belief system}, {Accessible reasons prevent cognitive dissonance and confusion}",
+    "node_type": "reason",
+    "parent_id": "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "46a5786c-88d9-4fb3-9ee3-e822faad910b": {
+    "summary": "Psychological comfort in understanding reasons for belief",
+    "content": "{Psychological comfort is often derived from understanding the reasons for one's beliefs}, {Lack of accessible justification can lead to doubt and insecurity about beliefs}, {Knowing the reasons helps in maintaining confidence in what one knows}",
+    "node_type": "reason",
+    "parent_id": "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f7f08129-f4dc-4690-bf76-e3d0bca5e48f": {
+    "summary": "Social expectation of reason-giving in communication",
+    "content": "{There is a social expectation for individuals to provide reasons for their beliefs in communication}, {Expressing accessible reasons fosters clearer understanding and discussion}, {Such expectation reinforces the importance of accessibility of justification}",
+    "node_type": "reason",
+    "parent_id": "e9cca3d9-cf24-4e24-8437-f114e5ac6b8f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7de61b08-22a5-4ef9-9d7c-1ac21479cdd1": {
+    "summary": "Can justified true belief fail to constitute knowledge?",
+    "content": "{Consider a case where John sees a clock that stopped exactly 24 hours ago at 2 PM. John's belief that it is 2 PM is true and justified because he is unaware the clock has stopped. This is not a case where John knows it is 2 PM}, {In this case, John has a belief that is true and justified because the clock shows 2 PM, but he lacks knowledge due to the faulty source of his justification}",
+    "node_type": "antithesis",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "71655bb8-67bb-4aa0-9af7-a06a8d4b607a": {
+    "summary": "Does justified belief rely too heavily on unreliable sources?",
+    "content": "{Suppose Sarah forms a belief that it is raining based on hearing it from an unreliable gossip, who happens to be correct this time. Her belief is true and has justification from past experiences where gossip has been reliable. However, her belief should not be considered knowledge due to the unreliability of the source}, {Sarah has a justified true belief about the weather, but given the source's unreliability, her belief should not qualify as knowledge}",
+    "node_type": "antithesis",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c8f2ce9c-c56b-4116-8d51-4823efbbd203": {
+    "summary": "Is knowledge truly attainable in light of the Gettier problem?",
+    "content": "{Imagine Tom sees what he thinks is a sheep on a hill, but it is actually a dog. However, behind a tree, there is a real sheep that Tom cannot see. Tom's belief that there is a sheep on the hill is true and justified by his observation}, {While Tom's belief is true and justified due to his correct observation and reasoning, it fails to count as knowledge because it is based on a misleading premise}",
+    "node_type": "antithesis",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "7de61b08-22a5-4ef9-9d7c-1ac21479cdd1"
+  },
+  "60a2e152-6a84-4c8b-a9f7-e7d6d84c642b": {
+    "summary": "Could justified beliefs stem from mere coincidence or luck?",
+    "content": "{Picture Mary, who believes her friend is in the office because she sees someone's silhouette inside, which actually belongs to a cardboard cutout. Her friend happens to be in the office, but in another room. Mary has a belief that is justified and true, but only coincidentally matches reality}, {In this scenario, Mary's justified true belief arises from a false basis, undermining it as genuine knowledge due to the reliance on fortunate coincidence}",
+    "node_type": "antithesis",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "c8f2ce9c-c56b-4116-8d51-4823efbbd203"
+  },
+  "f536b452-7bcf-40a6-95c0-7a4fbadc1135": {
+    "summary": "Do perceptual illusions undermine the sufficiency of justified true belief?",
+    "content": "{Consider Alan who sees a mirage on the road and believes there is water ahead. Coincidentally, there is a puddle of water exactly where the mirage appears. Alan has a justified true belief about the presence of water}, {Despite Alan\u2019s justified true belief, his conclusion does not amount to knowledge because it is influenced by perceptual illusion rather than reality}",
+    "node_type": "antithesis",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "60a2e152-6a84-4c8b-a9f7-e7d6d84c642b"
+  },
+  "67c9cb39-a5dd-4539-a28f-5b7b8544c246": {
+    "summary": "Can inferential chains lead to unjustified true beliefs?",
+    "content": "{Suppose Rachel infers that her keys are on the kitchen table because she remembers placing them there and she believes she hasn't moved them. Unbeknownst to her, someone else moved the keys back to the table after she misplaced them. Her belief is true and ostensibly justified}, {In this scenario, Rachel's belief, though true, is not knowledge because the justification fails due to the unexpected intervention}",
+    "node_type": "antithesis",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "7de61b08-22a5-4ef9-9d7c-1ac21479cdd1"
+  },
+  "b3914e29-aed5-4a73-a29d-8b0bc777b694": {
+    "summary": "Is the reliance on past regularities adequate for justification?",
+    "content": "{Imagine Oliver predicts rain because it has rained every Tuesday for the past month. On that Tuesday, there is rain, aligning with his belief. Despite having a justified true belief, as an unexpected climate anomaly caused it, his knowledge is questioned}, {Oliver's justified true belief about the rain lacks reliability because it is overly dependent on limited past regularities, rendering it an unreliable form of knowledge}",
+    "node_type": "antithesis",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "71655bb8-67bb-4aa0-9af7-a06a8d4b607a"
+  },
+  "2250d2cd-0ce1-4f69-8a7b-a485c4647751": {
+    "summary": "Can knowledge be lost or altered by rediscovering errors in justification?",
+    "content": "{Consider Emily who justifies her belief in a historical fact based on a reputable history book. If the book has later been found to contain inaccuracies unknown to Emily, her belief remains a justified true belief}, {The subsequent discovery undermines her justification, revealing that even a justified true belief can lapse as knowledge with new evidence}",
+    "node_type": "antithesis",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6d33e812-2964-4cc9-870c-82b00a311a41": {
+    "summary": "Does knowledge require infallible justification?",
+    "content": "{Imagine Chris, who bases his belief on highly reliable scientific data predicting an eclipse, which occurs as predicted. However, any minor miscalculation could have rendered this belief false}, {While Chris possesses a justified true belief, the fallibility of scientific prediction introduces doubt as to whether it truly constitutes knowledge}",
+    "node_type": "antithesis",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6ffc21ba-46b0-4ef5-986e-34bda0af7f45": {
+    "summary": "Do hallucinations undermine the correlations between justification and truth?",
+    "content": "{Suppose Hannah hallucinates her friend walking towards her and believes she has seen her friend, who is indeed approaching but not due to the hallucination. Her belief is true and justified through the hallucination}, {In Hannah's case, her justified true belief regarding her friend\u2019s presence fails to be knowledge due to its basis on hallucinatory instances unrelated to the truth}",
+    "node_type": "antithesis",
+    "parent_id": "ec8b5c90-ac36-4bfd-b9b2-8e442172b7a5",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "60a2e152-6a84-4c8b-a9f7-e7d6d84c642b"
+  },
+  "55be0c23-ca11-4445-8663-57a57675e7be": {
+    "summary": "Does the Causal Theory accommodate beliefs caused by misleading evidence?",
+    "content": "{Consider a scenario where a person believes a proposition because of misleading evidence which is later coincidentally confirmed by true facts. In such a scenario, intuitively, we would not say that the person knows the proposition because their belief was initially based on misleading grounds.}, {A case in which a person's belief is caused by an unrelated and misleading event and later coincidentally matches true facts illustrates that a causal connection to the facts alone does not ensure knowledge in the absence of a direct causal origin in the truth.}",
+    "node_type": "antithesis",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "efa4bc0f-b81a-439e-b5a1-4cf6fb827181": {
+    "summary": "Can the Causal Theory handle knowledge by testimony?",
+    "content": "{Consider a scenario where a person knows a proposition only through testimony from a reliable source and has no direct causal connection to the fact themselves. In such a scenario, intuitively, we would say the person has knowledge.}, {A case in which knowledge is acquired through hearsay and lacks a direct causal link to the original fact suggests that a causal connection is not always necessary for knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dbe26af5-a02b-48b8-b508-3eb592f9ee67": {
+    "summary": "How does the Causal Theory explain knowledge of mathematical truths?",
+    "content": "{Consider a scenario where a person knows a proposition like a mathematical truth through deduction rather than a causal connection to a physical fact. In such a scenario, intuitively, we would still say they have knowledge.}, {Knowledge of abstract entities, such as numbers or mathematical truths, does not rely on causal interactions and challenges the necessity of a causal connection for knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c6d8d3c0-246e-42c8-9cff-bd354969770f": {
+    "summary": "Does the Causal Theory wrongly exclude some perceptual knowledge?",
+    "content": "{Consider a situation where a person sees a tree and believes there is a tree, but their belief is causally influenced by a visual distortion, although it matches the fact. Intuitively, we might still attribute knowledge to them.}, {In cases where perceptual belief includes a distorting causal factor yet results in a true belief, the necessity of a direct causal connection might appear unjustified.}",
+    "node_type": "antithesis",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3a3003e3-b9e8-4b89-8d75-36169be80d9c": {
+    "summary": "Does the Causal Theory account for knowledge in cases of overdetermination?",
+    "content": "{Suppose a person forms a belief because of two independent chains of causation related to a single fact. Intuitively, even if one chain is faulty, we would say they know if the other is reliable.}, {A belief formed through overdetermined causal chains challenges the idea that a singular, specific causal link is necessary for knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "248db7e4-3d27-46b4-bbff-008cee639b66": {
+    "summary": "Does the Causal Theory address the problem of deviant causal chains?",
+    "content": "{Consider a scenario where an unusual causal chain leads a person to believe a truth that seems disconnected from the fact, like a wind blowing a note onto their path that coincidentally carries correct information. Intuitively, one might hesitate to attribute knowledge to the person.}, {A case in which a belief is accidentally verified through an irregular and atypical causal link may lead us to question the sufficiency of mere causal connections for knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2778ca46-9707-4cd1-93a4-0ec323230295": {
+    "summary": "Can verifiable but unfounded causal narratives count as knowledge?",
+    "content": "{A situation where someone constructs a detailed causal story leading to a true belief that aligns with facts, without having evidence or justification for the causal details themselves, challenges our understanding of knowledge.}, {The creation of an asserted causal explanation that coincidentally results in a true belief reveals concerns about the sufficiency of causation for establishing knowledge when specific details are unverifiable.}",
+    "node_type": "antithesis",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cc4c74d9-c165-447f-bef4-0c089dda7465": {
+    "summary": "How does the Causal Theory handle knowledge derived from counterfactual reasoning?",
+    "content": "{Consider a scenario where a person uses counterfactual reasoning (reasoning about situations that could have happened but did not) to come to a true belief about a past event, without a direct causal link to the actual event. Intuitively, one might still say they have knowledge.}, {Counterfactual reasoning leading to true belief without direct causation questions the necessity of causal interaction in acquiring knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c10db52d-4d8b-48cf-b466-a2907f90f078": {
+    "summary": "Does the Causal Theory accept knowledge in cases of technological mediation?",
+    "content": "{Imagine a scenario where a person understands a computer's output about a truth without knowing how the computer reached that conclusion. The knowledge seems mediated by the machine, not directly causal. Intuitively, we might attribute knowledge to the person.}, {Technologically mediated knowledge that is not directly tied to the user's understanding of the causal processes limits the causal theory's explanatory power concerning sufficiency of causal connection for knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "741e07ab-e789-4acd-a440-9642571d91af": {
+    "summary": "Does the necessity of causation in the Causal Theory exclude prophetic or future-oriented knowledge?",
+    "content": "{Suppose a person believes a future event will occur based on an accurate prediction without current causation. Once it happens, intuitively, they may be said to have possessed knowledge of the future event.}, {The absence of contemporaneous causation for beliefs about future facts when they turn out to be true challenges the necessity of a current causal link for knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "05c4c6bc-4744-4288-9cdf-e1cc94fcc106",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "48435fa7-415a-40b4-8d4e-ab177e4fff52": {
+    "summary": "Is reliability enough to guarantee knowledge in deceptive environments?",
+    "content": "{Consider a scenario in which an individual is in a simulated environment where all their perceptual processes are systematically fooled, yet they happen to hold a true belief about their environment. Intuitively, we would judge that this person does not have knowledge, as their belief forming processes are reliable only by chance rather than systematic reliability.}, {For a belief-forming process to be reliable, it must consistently produce true beliefs across a range of normal environmental conditions. If the process yields a true belief purely by luck in a deceptive environment, it cannot be reliably said to generate knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f0095f01-8ba5-4b98-9a08-e659278f1ed6": {
+    "summary": "Does reliabilism account for the role of justification in knowledge?",
+    "content": "{There is a plausible principle that for a person to have knowledge, their belief must be justified and not merely produced reliably. This principle suggests that a reliable belief that lacks a justificatory element fails to meet the criteria of knowledge.}, {Suppose we have a case in which Tom believes that it is noon because his watch, which is generally reliable, reads it is noon. However, Tom has reason to suspect his watch is malfunctioning. Intuitively, we might say Tom\u2019s belief lacks justification even if it turns out to be correct, thus calling into question his claim to knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "339b3ca2-280a-4356-a24c-b25af87407d4": {
+    "summary": "Does a reliable belief lead to knowledge in the presence of defeaters?",
+    "content": "{It is plausible that for someone to know a proposition, there must be no undefeated defeaters to their belief. A defeater is a reason that undermines the justification or reliability of a belief.}, {Consider a case where Alice reliably knows most things about historical dates through repeated, consistent study, but she hears a credible historian suggesting a date within her belief system might be incorrect. Even if the historian is wrong, this should intuitively prevent Alice from having knowledge unless she investigates further and dismisses the defeater.}",
+    "node_type": "antithesis",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f898a9aa-6ef4-461d-b098-2987ad0e35a5": {
+    "summary": "Can reliabilism explain knowledge derived from random or whimsical processes?",
+    "content": "{Suppose we have a case in which John forms a belief that his lottery ticket will win based on a random hunch. If the belief turns out to be true, we would not intuitively conclude that John knows his ticket will win, as his belief-forming process was not reliably connected to the truth.}, {A reliable process in reliabilism should be one that, in a variety of situations, would lead to true beliefs more often than not. A whimsical or random process lacks such reliability, even if it leads to a true belief occasionally.}",
+    "node_type": "antithesis",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "98563fb0-89f1-434d-841e-020f10290915": {
+    "summary": "How does reliabilism deal with cases involving cognitive biases?",
+    "content": "{Consider a scenario where Emily has a cognitive bias that leads her to consistently overlook contrary evidence. If through this biased lens she forms a true belief, it seems counterintuitive to say she knows, given the skewed reliability of her process.}, {Cognitive biases can undermine reliability because they prevent one from accessing the full scope of relevant evidence, suggesting that true beliefs formed primarily due to such biases may fail to constitute knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "97a63e29-483e-4636-90ed-3b21edba1c2b": {
+    "summary": "Does reliabilism suffice when a reliable process produces false beliefs in most cases?",
+    "content": "{There is a plausible principle that a reliable belief-forming process should yield true beliefs consistently over time and across different situations. If a process produces a true belief but generally yields false beliefs, it undermines the claim to reliability, thus challenging the acquisition of knowledge.}, {Consider that Julie uses a horoscope to form beliefs about daily events. If by coincidence one prediction comes true, it challenges the concept of her having knowledge since horoscopes are generally not reliable predictors, even if correct in this instance.}",
+    "node_type": "antithesis",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1534fcc7-4d3f-47dd-ae5c-8fb5b37000eb": {
+    "summary": "Can the absence of an underlying understanding disqualify something as knowledge despite reliability?",
+    "content": "{Consider a scenario where a person uses a scientific instrument to form a belief about a physical phenomenon. The process is reliable, but the person lacks understanding of how the instrument works. Intuitively, this gap in understanding skews the perception of the belief as knowledge.}, {Understanding how a belief is formed can influence perceptions of knowledge, distinguishing mere true belief from informed, comprehensive knowledge. Lack of understanding suggests a limit to what constitutes genuine knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "809064b2-3fa5-479a-996b-40b5369aef89": {
+    "summary": "How does reliabilism handle variations in reliability across contexts?",
+    "content": "{A belief-forming process might be reliable in one context but not another. Consider a situation where Alex uses a thermometer that gives accurate readings at room temperature but is unreliable at extremely high temperatures. If he uses it to measure something very hot, the reliability is compromised, challenging the perception of him having knowledge in such instances.}, {Reliability may vary with circumstances, introducing complexity in judging when a belief qualifies as knowledge. A context-sensitive approach may be required rather than a straightforward assignment of reliability to a process.}",
+    "node_type": "antithesis",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4d7dd6f4-d38b-489d-a8c8-7b16f8503641": {
+    "summary": "Are intuitions about lucky true beliefs a problem for reliabilism?",
+    "content": "{Consider a case where Sarah believes she will come across a rare book, based purely on an impulsive feeling with no evidence. She then stumbles upon it by chance. Intuitively, despite the truth of her belief, this luck-driven correctness does not seem to entail knowledge.}, {A true belief arrived at by sheer luck contradicts the frequent robustness expected of a reliably formed belief. Reliabilism must address whether the presence of luck detracts from a belief qualifying as knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "31cc4293-6a95-4889-a2f1-3f032d8615d0": {
+    "summary": "Does reliabilism accommodate the complexity of epistemic virtues beyond reliability?",
+    "content": "{It is implausible that mere reliability encompasses all epistemic virtues such as open-mindedness, intellectual courage, and thoroughness which contribute to the richness of knowledge.}, {Reliabilism focuses on belief-producing processes, possibly neglecting how epistemic virtues interact with these processes to yield what we commonly regard as knowledge. These factors may also be viewed as contributing dimensions beyond straightforward reliability.}",
+    "node_type": "antithesis",
+    "parent_id": "ec0eef77-ae2b-4f85-a630-003e227f604f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5087ddb0-76f4-48b7-82fa-51a181c4885a": {
+    "summary": "Does the No False Lemmas theory account for cases of knowledge through reliable processes?",
+    "content": "{Consider a scenario where a person, using a highly reliable process, forms a belief that turns out to be true and justified. The process did not involve any awareness or propositional knowledge of additional truths or false propositions. Intuitively, we may judge that they have knowledge.}, {In this scenario, the person has a true justified belief, and the process used does not involve acknowledging any proposition as a lemma, thus bypassing the need for true or false lemmas.}, {If the No False Lemmas theory is correct, then justified true belief with no reliance on false propositions is sufficient for knowledge. However, this scenario suggests that knowledge can be attained even if no explicit lemmas are considered at all.}",
+    "node_type": "antithesis",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "265c73a0-f41e-4478-a8c2-7022dd5de574": {
+    "summary": "Can knowledge be justified if an inconsequential false lemma occurs?",
+    "content": "{Consider a situation in which a person believes a true proposition based on a complex justification that includes an irrelevant false belief, such as the belief that a particular historical event that is unrelated to the conclusion is true.}, {The person's belief otherwise involves a strong inference and is only reliant on accurate information, but part of their reasoning includes this unrelated false belief that does not affect the actual justification of the conclusion. Intuitively, we might still regard them as having knowledge.}, {According to the No False Lemmas theory, a false proposition as part of any justification precludes knowledge, but this scenario suggests that irrelevant false beliefs should not disqualify an otherwise true justified belief as knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f1f479cd-a7ad-49e6-bf37-bafda4310955": {
+    "summary": "Does reliance on authority disqualify knowledge under No False Lemmas?",
+    "content": "{Suppose a person knows a true proposition because an authority figure, considered reliable, has provided assurance of its truth. However, part of their trust is based on a false impression of the authority's qualifications.}, {The justified belief is true and stems from trust in expertise, yet includes a false assumption about the authority's background that does not affect the truth of the proposition or the credibility of the authority. Intuitively, we could judge that the person still possesses knowledge.}, {The No False Lemmas theory would suggest that the presence of a false belief about the authority's qualifications negates knowledge, whereas this example indicates true justified belief can exist even with related errors.}",
+    "node_type": "antithesis",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9e699c8f-5497-4141-96c9-30768d4f9426": {
+    "summary": "Do scientific theories exposed to falsification challenges negate knowledge under No False Lemmas?",
+    "content": "{In the context of a prevailing scientific theory, there exist justified true beliefs that rely on a complex set of lemmas, some of which may eventually be shown false without undermining the core tenet.}, {Certain propositions might be pivotal at one time yet discovered to be incorrect as scientific understanding advances, suggesting at the original time those propositions seemed justified and true.}, {The No False Lemmas theory implies that if any component of justification is false, knowledge cannot be had, but scientific development shows knowledge evolves even with such provisional justifications.}",
+    "node_type": "antithesis",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6fee6633-3513-4d5f-989c-0e4a4ab4f83b": {
+    "summary": "Does the No False Lemmas theory handle cases where knowledge is context-sensitive?",
+    "content": "{Consider a scenario where someone is attributed knowledge based on accepted evidence and justificatory context, yet certain aspects of the belief may be false if considered in a different context, such as in highly specialized scientific environments vs. layperson contexts.}, {Different contexts might allow a belief to be justified and true without reliance on universally valid lemmas due to limited comprehension outside specialized environments.}, {According to the No False Lemmas view, context should not interfere with the necessity of justified true belief devoid of false propositions, yet practical and scientific contexts demonstrate variable acceptance of what constitutes knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3a63eb7a-38fb-4a73-aa10-0297fb33689b": {
+    "summary": "How does No False Lemmas handle the problem of irrelevant truths in justification?",
+    "content": "{Imagine a person knows a proposition that is true, with justified belief supported by multiple premises, some of which are entirely irrelevant yet true.}, {Even irrelevant truths can clutter the justification without affecting the justified true status of the belief, as they do not impact the core reasoning.}, {The No False Lemmas account asserts all justification premises must be true and relevant, yet irrelevant truths pose no negative impact on the actual knowledge claim, questioning the necessity of such conditions.}",
+    "node_type": "antithesis",
+    "parent_id": "16a1d514-f3f4-4e8e-8cae-3d90791dd063",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9d7a61fb-9d2e-43f7-a773-01df945f8b5a": {
+    "summary": "Can a person know a proposition if their true belief is coincidentally correct without intellectual virtue?",
+    "content": "{A case exists in which a person believes a proposition, the proposition is true, but the belief is true due to mere coincidence rather than intellectual virtue.}, {In such a case, intuitively, we would judge that the person does not know the proposition.}",
+    "node_type": "antithesis",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "55be0c23-ca11-4445-8663-57a57675e7be"
+  },
+  "163ffe87-d7fe-4a53-b463-98a50e5453b9": {
+    "summary": "Is it possible to have true belief from intellectual virtue that isn't knowledge?",
+    "content": "{It is plausible that a person can have a belief that is true and the result of intellectual virtue, but in an overly simple or humble subject matter, this does not rise to the level we associate with knowledge.}, {A person who believes the general outcome of a well-known fair coin toss using their intellectual virtue lacks knowledge due to the triviality of the outcome despite satisfying the conditions.}",
+    "node_type": "antithesis",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "02f134fb-07c8-4862-9628-5458c7b7d9d5": {
+    "summary": "Does the presence of intellectual virtue guarantee reliability sufficient for knowledge?",
+    "content": "{Consider a person with a belief that is true and formed by a cognitive capacity traditionally seen as an intellectual virtue, but in circumstances where that capacity is compromised.}, {Intuitively, we would judge that this belief does not amount to knowledge despite being the result of an intellectual virtue, because the capacity was unreliably manifested in this instance.}",
+    "node_type": "antithesis",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c387f905-bd8d-449d-b165-17e0f5b3690e": {
+    "summary": "Can someone accidentally have a belief as a result of their intellectual virtue but still lack knowledge?",
+    "content": "{Suppose someone believes a proposition correctly due to an intellectual process they do not understand or control, leading to truth accidentally.}, {In such a situation, intuitively, we would judge they still do not have knowledge since the relationship between their intellectual virtue and the truth is accidental.}",
+    "node_type": "antithesis",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "9d7a61fb-9d2e-43f7-a773-01df945f8b5a"
+  },
+  "c0c1ce5c-80fa-4720-b947-edeebe345fe4": {
+    "summary": "Is intellectual virtue really sufficient given cases of misleading evidence?",
+    "content": "{Imagine a person who has a belief resulting from intellectual virtue based on what seems like excellent evidence, but the evidence is misleading, yet the belief accidentally turns out to be true.}, {In this case, intuitively, we would judge that the person lacks knowledge, as the truth of the belief is not genuinely tied to their intellectual virtue.}",
+    "node_type": "antithesis",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "c387f905-bd8d-449d-b165-17e0f5b3690e"
+  },
+  "c38d1315-a31c-4763-bafd-5dcf6406183a": {
+    "summary": "Does intellectual virtue exclude luck sufficiently for knowledge claims?",
+    "content": "{Consider a scenario in which a person forms a true belief from a series of judgments linked by intellectual virtue, but the chain contains elements of luck instrumental to the belief being true.}, {Intuitively, we would judge that the person does not truly know, as luck, rather than intellectual virtue, played a critical role in arriving at the truth.}",
+    "node_type": "antithesis",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "9d7a61fb-9d2e-43f7-a773-01df945f8b5a"
+  },
+  "155c8b04-7e59-4155-9da2-ed417f2fbc61": {
+    "summary": "Can intellectual virtue result in knowledge if external conditions drastically change?",
+    "content": "{Suppose an agent forms a belief through an intellectual virtue under normal circumstances, but then abnormal conditions arise that should undermine the reliability of this virtue, yet the belief remains true.}, {In such changed conditions, intuitively, we would say the agent does not know, as the virtue's effectiveness was not adapted to the environmental shift.}",
+    "node_type": "antithesis",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "02f134fb-07c8-4862-9628-5458c7b7d9d5"
+  },
+  "ef0869dd-4cf6-4906-a99e-328bded27404": {
+    "summary": "Is it problematic if intellectual virtue doesn't address all knowledge domains equally?",
+    "content": "{Suppose a specific intellectual virtue effectively applies to a narrow subject matter, but when applied to a completely different domain, it yields true belief by chance.}, {Intuitively, this would suggest that knowledge doesn't extend to the new domain, questioning whether the virtue truly suffices for knowledge generally.}",
+    "node_type": "antithesis",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e9e45ad4-6b34-4878-a653-7458978c4b97": {
+    "summary": "Can group-derived beliefs formed via intellectual virtue be knowledge even when the individual lacks understanding?",
+    "content": "{Consider a situation where a group's intellectual virtue leads to a true belief that an individual holds due to group membership, but the individual does not have the understanding or skill.}, {Intuitively, we would judge that the individual does not possess knowledge without personal intellectual virtue and comprehension.}",
+    "node_type": "antithesis",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a6342b65-23f5-4522-9b40-9dd19bc35ca4": {
+    "summary": "How does intellectual virtue handle conflicting beliefs in complex systems?",
+    "content": "{Suppose an individual forms a true belief via intellectual virtue about a complex system, where equally valid intellectual virtues lead others to conflicting true beliefs.}, {In such a scenario, intuitively, we may conclude that the intellectual virtue is not distinctive for knowledge, as it does not uniquely guide to the truth among alternatives.}",
+    "node_type": "antithesis",
+    "parent_id": "915ffff9-5b17-4db8-89e9-5de55ec97832",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}

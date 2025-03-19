@@ -1,0 +1,182 @@
+{
+  "What is knowledge?": {
+    "summary": "What is knowledge?",
+    "content": "What is knowledge?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bfdcda74-821a-45d4-96e4-3d3183e2cc7c": {
+    "summary": "Knowledge is a justified true belief.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary that the proposition is true}, {For a person to know a proposition, it is necessary that they have justification for believing the proposition}",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cd705b79-62ab-4f94-9e54-c59e61676aa5": {
+    "summary": "Knowledge is a mental state that represents the truth of a proposition.",
+    "content": "{Knowledge is a type of belief}, {Knowledge requires the belief to correspond to reality}, {Knowledge involves cognitive processes that allow for the understanding of the truth of a proposition}",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "17f94ea8-816d-4f92-a919-2945e809aeb6": {
+    "summary": "Is knowledge really just justified true belief?",
+    "content": "{Consider a scenario in which a person P believes that it is raining outside, and this belief is true, yet P forms this belief based on a highly unreliable weather app that has been incorrect multiple times before. In such a scenario, intuitively we would judge that P does not actually know it is raining, despite the belief being true and justified.}, {There is a plausible principle that knowledge requires a reliable (trustworthy) source of justification. This principle together with P's unreliable source entails that P cannot be said to know it is raining outside, as their justification is not reliable.}",
+    "node_type": "antithesis",
+    "parent_id": "bfdcda74-821a-45d4-96e4-3d3183e2cc7c",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f9fe59cb-1da6-4798-8eaa-b370b1ceeee3": {
+    "summary": "Can we have knowledge without it being justified true belief?",
+    "content": "{Suppose we have a case in which a person P flips a coin and believes it will land on heads. There is no justification for this belief beyond mere chance, and in this case, it actually lands on heads. Intuitively, we either have to say that P knows the proposition \"the coin will land on heads\" or that P does not. If we say P knows this, then it challenges the idea that justification is necessary for knowledge. If we say P does not know this, then we have a case of a belief that is true and yet not justified, which raises questions about the necessity of justification in defining knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "bfdcda74-821a-45d4-96e4-3d3183e2cc7c",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "153285c1-31fe-47b8-a0f1-680047c12f46": {
+    "summary": "Is knowledge too reliant on mental states to effectively account for our understanding of knowledge?",
+    "content": "{Consider a scenario where a person holds a strong belief that the Earth is flat based on a convincing but incorrect explanation of evidence. In this case, intuitively, we would judge that this person does not know that the Earth is flat despite their belief.}, {There is a plausible principle that for someone to know a proposition, they must be justified in their belief about it. This principle together with the previous scenario indicates that the belief in a flat Earth lacks sufficient justification, thus they do not have knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "cd705b79-62ab-4f94-9e54-c59e61676aa5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bf177e37-35c7-4a08-908d-329b7389cf76": {
+    "summary": "Can knowledge truly be reduced to cognitive processes without considering external factors?",
+    "content": "{Suppose we have a case in which a person has a false belief that it is raining outside because they see people with umbrellas, but in fact, it is sunny. Intuitively, we either have to say that this person does not know it is raining or that they do. If we say they do not know it is raining, then this highlights a limit in defining knowledge solely through mental states, as environmental conditions play a crucial role in understanding knowledge. If we say they do know it is raining, this challenges the requirement that knowledge corresponds to reality, as they are incorrect.}",
+    "node_type": "antithesis",
+    "parent_id": "cd705b79-62ab-4f94-9e54-c59e61676aa5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "caf074ef-8f6c-4c56-9af9-5a2fbde47357": {
+    "summary": "Knowledge requires justified true belief but also reliability of the justification.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary that the proposition is true}, {For a person to know a proposition, it is necessary that they have justification for believing the proposition}, {For a person to know a proposition, it is necessary that the justification for believing the proposition is based on a reliable source}.",
+    "node_type": "synthesis",
+    "parent_id": "17f94ea8-816d-4f92-a919-2945e809aeb6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "288f5bc8-a7c6-48f1-8055-0e0e327d9c37": {
+    "summary": "Knowledge involves a context-sensitive evaluation of justification.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary that the proposition is true}, {For a person to know a proposition, it is necessary that they have justification for believing the proposition}, {For a person to know a proposition, the standards for justification can vary depending on the context or situation}.",
+    "node_type": "synthesis",
+    "parent_id": "17f94ea8-816d-4f92-a919-2945e809aeb6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "728bf8dd-bb25-4a47-b1fc-65fca783a31d": {
+    "summary": "Knowledge is justified true belief augmented by a safety condition.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary that the proposition is true}, {For a person to know a proposition, it is necessary that they have justification for believing the proposition}, {For a person to know a proposition, it must be the case that if the person were to believe a similar proposition, that belief would also likely be true}.",
+    "node_type": "synthesis",
+    "parent_id": "17f94ea8-816d-4f92-a919-2945e809aeb6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "348c3990-06cf-4e94-99c7-5ba2e4747060": {
+    "summary": "Knowledge as true belief that can arise without justification",
+    "content": "{For a person to know a proposition, it is necessary that the proposition is true}, {For a person to know a proposition, it is necessary that they believe the proposition}, {It is possible for a person to know a proposition without possessing justification for that belief}",
+    "node_type": "synthesis",
+    "parent_id": "f9fe59cb-1da6-4798-8eaa-b370b1ceeee3",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "88b9e4e2-f4c2-4cac-a0b3-bb7219d2034b": {
+    "summary": "Knowledge as a social or contextual phenomenon",
+    "content": "{For a person to know a proposition, it is necessary that the proposition is true}, {For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it may depend on social context or consensus rather than individual justification}",
+    "node_type": "synthesis",
+    "parent_id": "f9fe59cb-1da6-4798-8eaa-b370b1ceeee3",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ad3ae79d-3451-4e47-a802-9968064e0c83": {
+    "summary": "Knowledge is a justified true belief that incorporates external validation.",
+    "content": "{Knowledge is a type of belief}, {Knowledge requires the belief to correspond to reality}, {Knowledge necessitates justification that is not solely dependent on internal mental states}.",
+    "node_type": "synthesis",
+    "parent_id": "153285c1-31fe-47b8-a0f1-680047c12f46",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "45894571-167b-4585-810c-ae3ba9b3a4ef": {
+    "summary": "Knowledge is a relational state involving both beliefs and external factors beyond just mental states.",
+    "content": "{Knowledge is a type of belief}, {Knowledge requires the belief to correspond to reality}, {Knowledge includes a relationship to external evidence or sources that validate the belief}.",
+    "node_type": "synthesis",
+    "parent_id": "153285c1-31fe-47b8-a0f1-680047c12f46",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "aea2be15-21aa-4fca-9983-94d49d24bae0": {
+    "summary": "Knowledge includes both mental states and external conditions that influence belief formation.",
+    "content": "{Knowledge is a mental state that represents the truth of a proposition}, {Knowledge requires the belief to correspond to reality}, {Knowledge involves factors beyond cognitive processes, including environmental conditions that inform belief}.",
+    "node_type": "synthesis",
+    "parent_id": "bf177e37-35c7-4a08-908d-329b7389cf76",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0a418dc9-deae-4045-849e-4b5120be17f8": {
+    "summary": "Knowledge is a justified true belief that incorporates social and contextual factors.",
+    "content": "{Knowledge is a mental state that represents the truth of a proposition}, {Knowledge requires the belief to correspond to reality}, {For a person to know a proposition, it is sufficient that they have a justification that accounts for social and contextual factors impacting their belief}.",
+    "node_type": "synthesis",
+    "parent_id": "bf177e37-35c7-4a08-908d-329b7389cf76",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "42c3afb2-d77d-4a27-8b44-37adb3a86bd2": {
+    "summary": "Does the requirement for reliable justification undermine the idea of knowledge in some cases?",
+    "content": "{Consider a scenario in which a person P believes that a specific lottery ticket will win based on a reliable method of determining winning tickets, but in this instance, the method is flawed and the ticket loses. In such a scenario, intuitively we would judge that P does not know that the ticket will win, despite having a justified belief based on a reliable source.}, {There is a plausible principle that knowledge should not depend solely on reliability, as circumstances can change unpredictably. This principle together with the scenario above entails that the reliability of the justification can lead to situations where a person has justified true belief without knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "caf074ef-8f6c-4c56-9af9-5a2fbde47357",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b5bb00dd-b54c-4a74-80d0-f7b182f05737": {
+    "summary": "Can knowledge be accurately defined by the combination of justified belief and reliability?",
+    "content": "{Suppose we have a case in which a person P believes that there is water in a nearby lake solely based on hearing a voice claiming that it is a reliable source. Intuitively, we either have to say that P does not know the proposition about the lake because their belief lacks independent verification, or that they do have knowledge despite the flawed justification. If we say P does not know about the lake, then it suggests that reliance on others can undermine knowledge; if we say they know, then it challenges the necessity of reliable justification in defining knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "caf074ef-8f6c-4c56-9af9-5a2fbde47357",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}

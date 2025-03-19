@@ -1,0 +1,222 @@
+{
+  "What is knowledge?": {
+    "summary": "What is knowledge?",
+    "content": "What is knowledge?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e413fb93-7604-4289-b898-338f4bcbb7a2": {
+    "summary": "Knowledge is a justified true belief.",
+    "content": "{For a person to have knowledge, they must believe the proposition}, {For a person to have knowledge, the proposition must be true}, {For a person to have knowledge, they must have justification for their belief in the proposition}.",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7ce2449c-a20b-48fe-9b5e-14147a13c556": {
+    "summary": "Knowledge is a state of understanding that involves reliable processes.",
+    "content": "{Knowledge requires that a belief be formed through a reliable process}, {Knowledge must correspond to a true state of affairs}, {Knowledge is distinct from mere true belief by the necessity of the reliability of the process used to obtain it}.",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4b925958-2298-4c3c-a983-5ea6bd214122": {
+    "summary": "Is justified true belief sufficient for knowledge, given the possibility of Gettier cases?",
+    "content": "{Consider a scenario in which a person sees a sheep in a field and, based on their justified belief that there is a sheep, concludes there is a sheep. However, unknown to them, the sheep is actually a cleverly disguised dog. In such a scenario, intuitively we would judge that the person does not truly know there is a sheep, despite having a justified true belief.}, {There is a plausible principle that knowledge requires more than simply having a justified true belief. This principle, known as the \"Gettier problem,\" highlights situations where a justified true belief fails to grant knowledge. This principle together with the prior scenario where the belief is based on misleading evidence entails that justified true belief can be insufficient for knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "e413fb93-7604-4289-b898-338f4bcbb7a2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "de2a1d31-c8f7-49c1-bc2c-c7b26ccc2e0a": {
+    "summary": "Can knowledge be adequately defined without accounting for contextual factors?",
+    "content": "{Suppose we have a case in which a person named Sarah, who is familiar with the layout of her town, believes that her favorite caf\u00e9 is open on a Sunday because she had seen it open before. However, if it turns out the caf\u00e9 is closed that particular Sunday, intuitively we must face a dilemma. If we say Sarah knows the caf\u00e9 is open based on her previous experience, then we overlook the specific context of that Sunday. Alternatively, if we say she does not know, we must concede that knowledge can shift depending on context. This indicates that strict definitions of knowledge such as justified true belief may not account for all relevant factors in practical situations.}",
+    "node_type": "antithesis",
+    "parent_id": "e413fb93-7604-4289-b898-338f4bcbb7a2",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e2481058-fc73-4b3a-9431-1b0444d57da0": {
+    "summary": "Does the emphasis on reliability in the process used to obtain knowledge create paradoxes when considering instances of knowledge acquisition?",
+    "content": "{Imagine a scenario where a person uses a reliable method, such as a trustworthy calculator, to arrive at the correct answer for a complex mathematical problem. However, unbeknownst to them, the calculator is unexpectedly malfunctioning, and its internal mechanism is generating the answer only through chance rather than the reliability of the process. Intuitively, we would judge that the person does not truly know the answer, despite it being true and arrived at through what is supposed to be a reliable method.}, {This leads to the principle that if knowledge requires a reliable process, then cases where a reliable method produces a true belief coincidentally cannot satisfy the knowledge requirement.}, {Therefore, it is implausible that knowledge can only be defined through the reliability of the processes involved, since the reliability can be irrelevant in cases where the outcome may accidentally be true.}",
+    "node_type": "antithesis",
+    "parent_id": "7ce2449c-a20b-48fe-9b5e-14147a13c556",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9a047ed1-b61c-4f85-a3ea-29ef8e6fb059": {
+    "summary": "Does the requirement for knowledge to correspond to a true state of affairs overlook certain complexities of belief?",
+    "content": "{Consider a case in which a scientist holds a hypothesis that is later proven to be false. However, at the time of their research, every piece of evidence they gathered was interpreted correctly according to rigorous standards, leading them to genuinely believe that their hypothesis was true. Intuitively, in this situation, we would judge that although their belief was ultimately false, the rigorous nature of their processes allowed them to have a deep understanding of their area of study even if their conclusion was incorrect.}, {This illustrates a plausible principle that knowledge can sometimes arise from rigorous, careful inference and understanding, even when the final belief does not correspond to a true state of affairs.}, {If knowledge is conceptualized solely around the requirement of truth, it fails to account for the richness of understanding that comes from well-founded beliefs that could later turn out to be mistaken.}",
+    "node_type": "antithesis",
+    "parent_id": "7ce2449c-a20b-48fe-9b5e-14147a13c556",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ac01efae-c2b1-426d-8aab-13cb0fe4b8e9": {
+    "summary": "Knowledge is a justified true belief with additional conditions.",
+    "content": "{For a person to have knowledge, they must believe the proposition}, {For a person to have knowledge, the proposition must be true}, {For a person to have knowledge, they must have justification for their belief in the proposition}, {For a person to have knowledge, the justification must be reliable in leading to the truth of the proposition}.",
+    "node_type": "synthesis",
+    "parent_id": "4b925958-2298-4c3c-a983-5ea6bd214122",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "252f8f0c-f43d-4679-9351-539c14365864": {
+    "summary": "Knowledge requires a causal connection between belief and truth.",
+    "content": "{For a person to have knowledge, they must believe the proposition}, {For a person to have knowledge, the proposition must be true}, {For a person to have knowledge, they must have justification for their belief in the proposition}, {For a person to have knowledge, the belief must be caused by the fact that the proposition is true}.",
+    "node_type": "synthesis",
+    "parent_id": "4b925958-2298-4c3c-a983-5ea6bd214122",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "94a2a1f7-8165-4faf-a97a-f8cbb983875f": {
+    "summary": "Knowledge is defined by a safety condition alongside justified true belief.",
+    "content": "{For a person to have knowledge, they must believe the proposition}, {For a person to have knowledge, the proposition must be true}, {For a person to have knowledge, they must have justification for their belief in the proposition}, {For a person to have knowledge, it must be safe for them to believe the proposition, meaning that in nearby possible worlds, if they were to believe the proposition, it would still be true}.",
+    "node_type": "synthesis",
+    "parent_id": "4b925958-2298-4c3c-a983-5ea6bd214122",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ca99762e-cee6-495f-9105-21b3c349a299": {
+    "summary": "Knowledge is a social construct influenced by contextual factors.",
+    "content": "{For a person to have knowledge, it is necessary that they believe the proposition}, {For a person to have knowledge, the proposition must be true}, {For a person to have knowledge, they must have justification for their belief in the proposition}, {Context plays a crucial role in shaping what counts as knowledge.}",
+    "node_type": "synthesis",
+    "parent_id": "de2a1d31-c8f7-49c1-bc2c-c7b26ccc2e0a",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f7aaf884-7d7d-411c-ae1e-30c9cfc9e4c1": {
+    "summary": "Knowledge is dependent on the reliability of the source of information.",
+    "content": "{For a person to have knowledge, it is necessary that they believe the proposition}, {For a person to have knowledge, the proposition must be true}, {For a person to have knowledge, they must have justification for their belief in the proposition}, {The justification must come from a reliable source that consistently provides accurate information.}",
+    "node_type": "synthesis",
+    "parent_id": "de2a1d31-c8f7-49c1-bc2c-c7b26ccc2e0a",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "ac01efae-c2b1-426d-8aab-13cb0fe4b8e9"
+  },
+  "6e3c45d1-c6e6-4b56-818a-7c29d8a4e610": {
+    "summary": "Knowledge is a state of understanding that requires justified true belief without an emphasis solely on reliability.",
+    "content": "{Knowledge requires that a belief be both justified and true}, {For knowledge to be acquired, the justification should not depend exclusively on reliable processes}, {Knowledge incorporates contextual factors that can influence the reliability of the belief formation process}.",
+    "node_type": "synthesis",
+    "parent_id": "e2481058-fc73-4b3a-9431-1b0444d57da0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d7a32f74-bfea-4b8f-83ab-2a43d8232a48": {
+    "summary": "Knowledge is a state of understanding that encompasses both reliable processes and a verification of truth.",
+    "content": "{Knowledge requires that a belief be based on a true proposition}, {A reliable process assists in forming beliefs, but can be nuanced with validation checks}, {Knowledge should involve further confirmation of the process's accuracy, acknowledging potential exceptions}.",
+    "node_type": "synthesis",
+    "parent_id": "e2481058-fc73-4b3a-9431-1b0444d57da0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9de4d9c1-d48e-4aa4-9a45-0ff44b0b9506": {
+    "summary": "Knowledge can be defined as a deeper form of understanding that encompasses the processes involved in belief formation.",
+    "content": "{Knowledge involves a reliable process through which beliefs are formed}, {Knowledge is characterized by a correspondence to the best available evidence at the time of belief formation}, {Knowledge encompasses rigorous inference and understanding, even if the resultant belief is later deemed false}.",
+    "node_type": "synthesis",
+    "parent_id": "9a047ed1-b61c-4f85-a3ea-29ef8e6fb059",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c0b11cd2-9d2e-4803-8421-e2ad91f02c53": {
+    "summary": "Knowledge is an enriched understanding that includes truth, reliability, and reasonable belief formation.",
+    "content": "{Knowledge requires reliable processes for forming beliefs}, {Knowledge must be based on the best evidence available at the time}, {Knowledge recognizes that understanding can evolve, allowing for beliefs that may later turn out to be incorrect without negating the process through which they were formed}.",
+    "node_type": "synthesis",
+    "parent_id": "9a047ed1-b61c-4f85-a3ea-29ef8e6fb059",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "495bb934-7c78-42fc-b2dd-9485f1b52f1e": {
+    "summary": "Can knowledge really be sufficient as just justified true belief with reliable justification?",
+    "content": "{Consider a scenario in which a person P believes that it is raining outside, their weather app shows rain, and it is indeed true that it is raining. However, if the app is known to be often inaccurate with weather predictions, we might hesitate to say P has knowledge of the weather. In such a scenario, intuitively we would judge that P does not possess knowledge despite having a justified true belief.}, {There is a plausible principle that for belief to constitute knowledge, it needs to be firmly based on reliable sources. This principle together with the given scenario entails that P's reliance on the unreliable weather app undermines their claim to knowledge, despite the other criteria being met.}",
+    "node_type": "antithesis",
+    "parent_id": "ac01efae-c2b1-426d-8aab-13cb0fe4b8e9",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "07dcaca6-db76-44f3-b181-fc968263e328": {
+    "summary": "Does the addition of reliability really clarify the concept of knowledge?",
+    "content": "{It is implausible that adding the requirement of reliability to the justification component clarifies what we mean by knowledge. The reason is that different contexts will have varying standards of reliability, leading to potential discrepancies in what counts as knowledge.}, {Suppose we have a case in which a scientist uses a flawed method that sometimes leads to correct results in a study. Intuitively, we either have to say that the scientist knows their findings are accurate or that they do not. If we say the scientist knows despite the flawed method, then we compromise the reliability standard. If we say the scientist does not know, we undercut the concept of knowledge itself, as sometimes their method yields true results.}",
+    "node_type": "antithesis",
+    "parent_id": "ac01efae-c2b1-426d-8aab-13cb0fe4b8e9",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "35005243-e2a0-49ba-a1c8-e584b0b53275": {
+    "summary": "Does the requirement for a causal connection between belief and truth lead to counterintuitive outcomes?",
+    "content": "{Consider a scenario where a person, Alex, has a true belief that it is raining outside. Alex arrived at this belief by hearing the weather forecast, which has been accurate. However, unbeknownst to Alex, the forecast was coincidentally correct because it was based on a completely different reliable source that they had no access to. In this scenario, intuitively, we would judge that Alex knows it is raining because their belief is true, they believe it, and the belief is justified by the trustworthy nature of the forecast. Therefore, it is implausible to claim Alex does not know it is raining as the requirement of a causal connection seems to be overly restrictive.}, {There is a plausible principle that knowledge can be attained through reliable belief even when the belief is not caused by the truth of the proposition. This principle together with the true cases of belief like Alex's entails that the view is too stringent, as it excludes genuine knowledge in such cases.}",
+    "node_type": "antithesis",
+    "parent_id": "252f8f0c-f43d-4679-9351-539c14365864",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dbcb5ee3-0b02-41b0-81d1-4d73b20b57a3": {
+    "summary": "What happens to cases of lucky true beliefs under the causal requirement for knowledge?",
+    "content": "{Imagine a case where a person, Jamie, randomly guesses the answer to a question in a trivia game and happens to be correct. Jamie believes the answer, the answer is indeed true, and Jamie has no justification other than the chance of guessing. However, intuitively, many would argue that Jamie knows the answer because it is true and they believe it, even if the belief is not caused by the truth. This challenges the view as one must assert that Jamie does not know, which feels counterintuitive in typical contexts.}, {It is implausible to assert that knowledge is unavailable in cases of lucky true beliefs like Jamie's. This suggests that while Jamie's belief is true and justified by chance, the view requiring causal connection may unjustifiably exclude such cases of knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "252f8f0c-f43d-4679-9351-539c14365864",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "35005243-e2a0-49ba-a1c8-e584b0b53275"
+  },
+  "95168199-daaa-4b03-a9de-5720b8e3f547": {
+    "summary": "Is the safety condition too stringent to account for genuine cases of knowledge?",
+    "content": "{Consider a scenario where a person sees a tree and believes it is there because it appears solid and unmovable. In nearby possible worlds, if they were to believe that the tree exists, it would still be true that the tree exists. Intuitively, we would judge that this person knows the tree exists.}, {The safety condition requires that in all nearby possible worlds where the belief is held, the belief is true. If we accept the scenario given, it illustrates a case where the safety condition is met yet we can conceive of a scenario where the tree is actually a hologram, indicating that knowledge cannot merely rely on safety.}",
+    "node_type": "antithesis",
+    "parent_id": "94a2a1f7-8165-4faf-a97a-f8cbb983875f",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b270ea0f-2a08-491f-941c-a3197592a021": {
+    "summary": "Does the requirement of justification exclude cases of knowledge that are intuitively acceptable?",
+    "content": "{Suppose we have a case where a person sees a lightning strike far away and guesses a few seconds later that it was a lightning strike that caused the loud thunder they just heard. This guess turns out to be correct. Intuitively, we would judge that this person knows that the thunder was caused by the lightning strike.}, {If we say that this person knows based on their guess, then such and such. If we say they do not know because they lacked sufficient justification, then we disregard the intuitive knowledge exhibited in their correct guess.}",
+    "node_type": "antithesis",
+    "parent_id": "94a2a1f7-8165-4faf-a97a-f8cbb983875f",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}

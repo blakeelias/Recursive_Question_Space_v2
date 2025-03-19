@@ -1,0 +1,333 @@
+{
+  "548f87e4-0af7-4cbe-970b-22bfa7d33448": {
+    "summary": "What is knowledge?",
+    "content": "What is knowledge?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "c7959145-e6b9-43c7-852a-39638edddcdb": {
+    "summary": "Justified True Belief",
+    "content": "{For a person to have knowledge, it is necessary that they believe the proposition}, {For a person to have knowledge, it is necessary that the proposition is true}, {For a person to have knowledge, it is necessary that they have justification for believing the proposition}, {For a person to have knowledge, it is sufficient that they believe the proposition, the proposition is true, and they have justification for believing it}",
+    "node_type": "thesis",
+    "parent_id": "548f87e4-0af7-4cbe-970b-22bfa7d33448",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "27b920e1-1a5b-4812-822e-51ed39626b7a": {
+    "summary": "Intuition that belief is necessary for knowledge",
+    "content": "{Knowledge requires more than mere truth}, {An individual cannot be said to know something if they do not believe it}, {Belief is a fundamental aspect of asserting knowledge}",
+    "node_type": "reason",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "42976de2-8599-4e5d-b500-ec6093fcecb2": {
+    "summary": "Truth as a key component of knowledge",
+    "content": "{A proposition must be true for someone to know it}, {False propositions cannot be known, even if believed}, {Truth connects a belief to reality, a necessary condition for knowledge}",
+    "node_type": "reason",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "72f97452-1075-48e0-b5f0-2fdf8c290607": {
+    "summary": "Justification distinguishes knowledge from mere belief",
+    "content": "{Justified belief is distinct from mere opinion or conjecture}, {Justification provides reasons for belief, enhancing its credibility}, {Justification narrows down true belief to knowledge by excluding guesses}",
+    "node_type": "reason",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "50079836-08e8-4d07-bc38-8f58ea037a5a": {
+    "summary": "True beliefs without justification seem insufficient for knowledge",
+    "content": "{True beliefs achieved by chance do not constitute knowledge}, {Knowledge implies some level of understanding or reasoning}, {Justification ensures that true beliefs are not accidental}",
+    "node_type": "reason",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bcae5163-d841-4c36-91b6-d5781f567eb0": {
+    "summary": "Traditional accounts of knowledge emphasize justification",
+    "content": "{Philosophical tradition often ties knowledge to reasoned belief}, {Justification has been long regarded as crucial for distinguishing knowledge}, {Without justification, knowledge seems indistinguishable from lucky guesswork}",
+    "node_type": "reason",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9211dbfa-966f-4fa8-817a-ae1d5a4820c2": {
+    "summary": "Knowledge requires cognitive accomplishment",
+    "content": "{Knowledge is often seen as a cognitive achievement}, {Cognitive accomplishments involve justified beliefs}, {Justified beliefs indicate a cognitive success rather than a mere arbitrary accuracy}",
+    "node_type": "reason",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ae6c1b6f-5255-4503-8ef5-e02845d6eeeb": {
+    "summary": "Epistemic responsibility links to justification",
+    "content": "{Knowing involves an element of responsibility}, {Justification shows an alignment with evidence or reasoning}, {Without justification, belief lacks epistemic responsibility}",
+    "node_type": "reason",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ea01256e-263d-40a4-be27-5c7bd82d52ee": {
+    "summary": "Intuitions on cases of justified true belief align with knowledge",
+    "content": "{Many intuitively consider cases of justified true belief as knowledge}, {This intuition persists even in simple everyday judgments}, {The alignment of belief, truth, and justification resonates as knowledge in commonsense scenarios}",
+    "node_type": "reason",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8737e616-41d5-4311-8b47-3e8c97c25004": {
+    "summary": "Differentiation between knowing and guessing",
+    "content": "{Knowing implies more than guessing correctly}, {Correct guesses lack the substantive grounding of justification}, {Justified true beliefs differentiate knowledge from sheer luck}",
+    "node_type": "reason",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "74e5e092-75c7-4090-b827-c24d134b47d8": {
+    "summary": "Connection to the reliability of the belief formation process",
+    "content": "{Justification ties knowledge to reliable belief-forming processes}, {Reliability in forming true beliefs supports claims to knowing}, {Without justification, claims to knowledge lack grounding in reliable processes}",
+    "node_type": "reason",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1d958780-2737-4e1f-b544-a3dba3014894": {
+    "summary": "No False Lemmas",
+    "content": "{For a person to have knowledge, it is necessary that they believe the proposition}, {For a person to have knowledge, it is necessary that the proposition is true}, {For a person to have knowledge, it is necessary that they have justification for believing the proposition}, {For a person to have knowledge, it is necessary that their justification is not based on any false assumptions}, {For a person to have knowledge, it is sufficient that they believe the proposition, the proposition is true, they have justification for believing it, and no false assumptions ground their justification}",
+    "node_type": "thesis",
+    "parent_id": "548f87e4-0af7-4cbe-970b-22bfa7d33448",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e41a9025-e305-4d4c-b8ac-e5ec705edc5c": {
+    "summary": "Reliability of Foundations",
+    "content": "{Beliefs based on false assumptions often lead to false conclusions}, {People intuitively trust knowledge derived from sound and truthful foundations}",
+    "node_type": "reason",
+    "parent_id": "1d958780-2737-4e1f-b544-a3dba3014894",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "27b76e46-5984-4cd1-a701-38346e60b077": {
+    "summary": "Error Prevention in Justification",
+    "content": "{False premises can undermine otherwise robust arguments}, {Justification free from false assumptions provides stronger support for truth}",
+    "node_type": "reason",
+    "parent_id": "1d958780-2737-4e1f-b544-a3dba3014894",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "350c73ac-98f9-42e8-97ff-33dcf769a0c1": {
+    "summary": "Differentiating Knowledge from Luck",
+    "content": "{True beliefs can sometimes result purely from chance}, {Knowledge requires distinguishing true beliefs that are due to chance from those that are reliably grounded}",
+    "node_type": "reason",
+    "parent_id": "1d958780-2737-4e1f-b544-a3dba3014894",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "350e13c8-43ec-4de3-8a46-a32b4d5b1463": {
+    "summary": "Clarity in Epistemic Requirements",
+    "content": "{Knowledge should eliminate reliance on inaccurate information}, {A clear distinction between assumptions and well-founded claims helps identify genuine understanding}",
+    "node_type": "reason",
+    "parent_id": "1d958780-2737-4e1f-b544-a3dba3014894",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "686c7851-c332-4a7d-bd9a-ea99422fa775": {
+    "summary": "Intuition Against Misleading Knowledge Claims",
+    "content": "{A belief should not be considered knowledge if it's accidentally correct due to unrelated reasons}, {False premises leading to accidental truth do not satisfy the intuitive standards for knowledge}",
+    "node_type": "reason",
+    "parent_id": "1d958780-2737-4e1f-b544-a3dba3014894",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e4d055b5-568b-4317-97fe-65c82b2db232": {
+    "summary": "Epistemic Value of Accuracy",
+    "content": "{An accurate understanding is valued over a belief that is coincidentally true}, {Knowledge bears epistemic responsibility for the foundations of its claims}",
+    "node_type": "reason",
+    "parent_id": "1d958780-2737-4e1f-b544-a3dba3014894",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "efc5e715-65cd-4f69-b976-9011cbea195b": {
+    "summary": "Consistency with Common Sense Notions",
+    "content": "{People discredit beliefs based on known falsehoods}, {Common sense suggests a distinction in status between beliefs formed on sound bases versus those influenced by errors}",
+    "node_type": "reason",
+    "parent_id": "1d958780-2737-4e1f-b544-a3dba3014894",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1b0f94ae-574a-4ed1-808e-a4aebeaac15e": {
+    "summary": "Rational Belief Formation",
+    "content": "{Rational thought involves forming beliefs that exclude false assumptions}, {Connecting knowledge to rational belief formation supports disciplined epistemic processes}",
+    "node_type": "reason",
+    "parent_id": "1d958780-2737-4e1f-b544-a3dba3014894",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fa25ec03-d253-42e0-a2fb-e014edca4b92": {
+    "summary": "Can justified true belief fail to be knowledge due to misleading coincidences?",
+    "content": "{Consider a scenario in which an individual believes a correctly spelled name is on a door based solely on being told by someone who habitually lies. Intuitively, we would judge that the individual does not know the name on the door.}, {In this scenario, the individual's belief is true and justified, making it a justified true belief. This raises the question of whether having a justified true belief is sufficient for knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0ecd8598-490b-432a-a1e3-92498ae0b4a5": {
+    "summary": "Can a person have justified true belief without automatic knowledge in cases of deception?",
+    "content": "{Suppose a person believes it will rain due to a forecast, and it indeed rains, but the forecast was a random guess rather than based on weather patterns. Intuitively, one would say the person does not know it would rain.}, {While the person has a belief justified by the forecast and the belief is true, the randomness of the forecast undermines claiming knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3ddbc2cc-4c24-4722-b567-ab9631309b30": {
+    "summary": "Can reliable processes question whether justified true belief is knowledge?",
+    "content": "{Consider a situation where a person believes their friend is at a certain location because they most often are, and coincidentally that is indeed the case today. We would intuitively deny that the person knows their friend is there.}, {The person's belief is both true and subjectively justified due to past reliability, yet external factors beyond their knowledge contribute to the truth of the belief without implying knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d4b6e1d0-256c-41f1-bf55-b37f9a9ae6d5": {
+    "summary": "Can justified true belief exist without resulting in knowledge through misidentification?",
+    "content": "{Suppose a person believes a particular species of bird is in a tree, based on seeing a similar-looking bird. In reality, the correct bird is there, but obscured and unseen. Intuitively, we are inclined to deny the person has knowledge.}, {This belief is true, justified by resemblance, yet fails to qualify as knowledge due to the subject's misidentification.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ce923479-eff7-4687-b0ce-76f057763131": {
+    "summary": "Can a lucky guess qualify as justified true belief but not knowledge?",
+    "content": "{Imagine a person who guesses the outcome of a roulette spin, believing it on a whim, and the guess turns out correct. Intuitively, we would not say the person knows the outcome.}, {Despite the belief being true and the guess rooted in some semblance of reasoning, the lack of informed rationale precludes establishing it as knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "0ecd8598-490b-432a-a1e3-92498ae0b4a5"
+  },
+  "b95eee08-6270-4667-a027-bf87c8b22502": {
+    "summary": "How can accidental truths question the sufficiency of justified true belief for knowledge?",
+    "content": "{Suppose someone believes there is a stop sign at a specific corner because they vaguely remember one being there, and coincidentally a new one was installed today. Intuitively, one refrains from calling this knowledge.}, {Though the belief is justified and true, its coincidental alignment with the actual state of affairs raises doubts about sufficiency for knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "3ddbc2cc-4c24-4722-b567-ab9631309b30"
+  },
+  "30a7e7c8-80d8-4d74-8e95-0eccadee8dcc": {
+    "summary": "Can beliefs based on mistaken justifications challenge the sufficiency of justified true belief for knowledge?",
+    "content": "{Consider someone who forms a belief about a historical event based on a fabricated documentary but coincidentally forms a true belief. Intuitively, we hesitate to confer the title of knowledge.}, {The person's belief, justifiably stemming from credible-looking, but inaccurate sources, questions whether this is knowledge despite being true.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "b95eee08-6270-4667-a027-bf87c8b22502"
+  },
+  "9fc9dcf2-f262-48d5-8946-47d522113d1b": {
+    "summary": "Does the lack of cognitive access question whether justified true belief constitutes knowledge?",
+    "content": "{Suppose someone believes they are in Paris based on photos they were shown, while being in a hotel room designed to look like Paris. Chance prevails them being in Paris, but without their knowing. Intuitively, one would not attribute knowledge.}, {Though the person has a justified true belief, their lack of cognitive access to crucial information challenges classifying this as knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "fa25ec03-d253-42e0-a2fb-e014edca4b92"
+  },
+  "b92ca431-4abe-4b3f-925c-a78ceae7d78d": {
+    "summary": "Could justification without understanding undermine justified true belief as knowledge?",
+    "content": "{Imagine a student provides an accurate scientific answer on an exam due to rote memorization, without grasping the concepts. Intuitively, this situation seems to lack true knowledge.}, {The student's belief is true and justified in an exam context, yet the lack of understanding raises doubts about claiming this as knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "58dc721e-e4ac-49b5-b447-faaf64bac1e2": {
+    "summary": "Can beliefs shaped by unreliable processes question justified true belief being sufficient for knowledge?",
+    "content": "{Suppose a gambler forms a belief about a sports outcome from a notoriously unreliable source and gets lucky. Intuitively, we hesitate to accept this as genuine knowledge.}, {The belief checks the boxes for being true and justified by trust in the source, but the inherent unreliability brings sufficiency for knowledge into question.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "30a7e7c8-80d8-4d74-8e95-0eccadee8dcc"
+  },
+  "45c3447a-fbe1-49ee-9177-bb4cd85db0e4": {
+    "summary": "Can hidden assumptions in beliefs expose weaknesses in justified true belief sufficiency for knowledge?",
+    "content": "{Consider someone who believes a person is guilty based only on prejudice, and the person coincidentally committed the crime. Intuitively, attributing knowledge seems misplaced here.}, {Although the belief is true and the person reasons it is justified based on prejudice, the unfounded assumption undercuts claiming knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8863fced-9441-4d7f-9c6d-e0cd5641aacd": {
+    "summary": "Does environmental luck undermine the sufficiency of justified true belief for knowledge?",
+    "content": "{Imagine someone believes themselves to be an expert on natural remedies due to success with a medicinal plant, ignorant of external factors like diet coincidentally aiding recovery. Intuitively, knowledge is in doubt.}, {Even with true justified belief from personal observation, the environmental luck spurs scrutiny on whether this constitutes knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "c7959145-e6b9-43c7-852a-39638edddcdb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}

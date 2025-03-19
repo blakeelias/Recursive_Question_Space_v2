@@ -1,0 +1,2032 @@
+{
+  "fb0398b2-dacc-4696-973e-550378ef4704": {
+    "summary": "What is knowledge?",
+    "content": "What is knowledge?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fb0398b2-dacc-4696-973e-490328ef4704": {
+    "summary": "Knowledge is a justified true belief.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary for the proposition to be true}, {For a person to know a proposition, it is necessary that they have justification for believing the proposition}",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cde8fe29-639b-44f4-9bd1-1ab1f9c3750a": {
+    "summary": "Knowledge is fundamentally linked to belief and justification.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary for the proposition to be true}, {For a person to know a proposition, it is necessary that they have justification for believing the proposition}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4bb171af-208c-4213-88aa-485a5a5cf602": {
+    "summary": "Belief is a essential component of knowledge.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b5e67646-8072-4565-b947-47c558538dc0": {
+    "summary": "Truth is a foundational aspect of knowledge.",
+    "content": "{For a person to know a proposition, it is necessary for the proposition to be true}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5fe42813-5956-471d-b102-c698f23faf34": {
+    "summary": "Justification is required to distinguish knowledge from mere belief.",
+    "content": "{For a person to know a proposition, it is necessary that they have justification for believing the proposition}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3f4229de-14ac-478a-b0fa-8d19d84caec8": {
+    "summary": "Knowledge claims can be evaluated based on their justification.",
+    "content": "{A knowledge claim must have an accompanying justification to be considered knowledge}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "884e76a7-0b57-413e-9963-356f09097bd0": {
+    "summary": "Justification can take various forms, including evidence and reasoning.",
+    "content": "{Justification can involve empirical evidence or logical reasoning to support a belief}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "df920067-cfe8-4437-8902-a2318b42cbbb": {
+    "summary": "The interplay between belief, truth, and justification clarifies the concept of knowledge.",
+    "content": "{Understanding how belief, truth, and justification interact provides insight into the nature of knowledge}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "25930ae5-5f21-472b-b8cd-a3eed0d75abb": {
+    "summary": "The necessity of truth in knowledge highlights its objective nature.",
+    "content": "{The requirement that knowledge must be true emphasizes the objective aspect of knowledge}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e7fed270-8149-4803-9387-8a457190ab58": {
+    "summary": "Justification can be seen as a safeguard against false beliefs being considered knowledge.",
+    "content": "{Justification serves to prevent unsubstantiated beliefs from being categorized as knowledge}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6688f289-3174-4b54-82f6-3373a111f8bf": {
+    "summary": "Knowledge requires more than mere belief; it necessitates a rational basis.",
+    "content": "{Knowledge demands a rational foundation underlying a belief, setting it apart from mere opinion}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "204cda09-00cb-427a-a3b6-7f164b3e5c8d": {
+    "summary": "The concept of warranted belief relates closely to knowledge.",
+    "content": "{Warranted belief refers to a belief that is justified, bridging the gap between belief and knowledge}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a85c49c4-9397-434c-98b4-ee67a9ad20a5": {
+    "summary": "Skeptical challenges to knowledge often focus on issues of justification.",
+    "content": "{Skeptical arguments frequently raise questions about the adequacy of justification for knowledge claims}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9ac8f527-731c-4507-9607-e45644bf3a23": {
+    "summary": "Knowledge is linked to practical consequences in decision-making.",
+    "content": "{Knowledge often informs actions and decisions, impacting personal and social outcomes}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "616883b2-1b2d-470d-bf6c-dfcf3562ddd6": {
+    "summary": "The distinction between knowledge and belief is crucial in epistemology.",
+    "content": "{Understanding the difference between knowledge and belief is a central concern in the study of knowledge}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3fbdb385-d8b5-4ea7-8282-aab06e8134f3": {
+    "summary": "Justification can be relational, depending on the context of claims to knowledge.",
+    "content": "{The nature and requirements of justification can vary depending on situational factors surrounding knowledge claims}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7e13729f-dab5-4d38-952c-10b0a32c8dec": {
+    "summary": "The analysis of knowledge leads to deeper inquiries into truth.",
+    "content": "{Examining knowledge prompts further exploration into the nature and definition of truth}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "331033ac-c08b-46de-85c7-582b41ddf345": {
+    "summary": "Knowledge plays a crucial role in the advancement of science and understanding.",
+    "content": "{Knowledge is essential for scientific progress and the development of understanding in various fields}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b9ccc6eb-6b5d-4e75-9488-be0b25a4acd6": {
+    "summary": "Common intuitions about knowledge often reflect its components of belief, truth, and justification.",
+    "content": "{People's everyday understanding and judgments about knowledge usually align with the tripartite view of belief, truth, and justification}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dd0f173b-b6d0-4ef5-9163-ad85625e8023": {
+    "summary": "Philosophical discussions about knowledge often examine cases of Gettier problems.",
+    "content": "{Gettier problems highlight situations where justified true beliefs do not constitute knowledge, challenging traditional definitions}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7c86f568-ff87-41c9-85bb-d5b093adb531": {
+    "summary": "Knowledge is often contextual, with different standards for justification in various domains.",
+    "content": "{Different areas of knowledge may impose varying criteria for what constitutes adequate justification}",
+    "node_type": "reason",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "25528428-ddb4-4772-8352-bc12fe3c3fcc": {
+    "summary": "Knowledge is a mental state that involves the internalization of information.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}, {Knowledge is distinct from mere belief and opinion}",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "37795db9-7775-45f1-ae5c-22722b14e807": {
+    "summary": "Knowledge is a mental state that involves understanding and utilizing information.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}, {Knowledge is distinct from mere belief and opinion}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b49e1c86-d713-43e5-9c7a-055e50fdacb4": {
+    "summary": "Knowledge encompasses an awareness of facts and concepts.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7012d854-efc4-491f-bcfa-88b1f4b6c0f4": {
+    "summary": "Individuals often recognize the difference between knowing something and merely believing it to be true.",
+    "content": "{Knowledge is distinct from mere belief and opinion}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "48d3e435-c017-4c71-94b6-25b58835b734": {
+    "summary": "Awareness of information often leads to the ability to make informed decisions.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "75ec5d70-4f41-4c58-a11c-28549682ebf7": {
+    "summary": "There are situations where simply remembering a piece of information does not equate to true understanding.",
+    "content": "{Knowledge is distinct from mere belief and opinion}, {Knowledge involves a person's ability to recall and apply information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "82f2b285-1441-42cf-8196-67004d298200": {
+    "summary": "Educational systems often focus on the importance of demonstrating knowledge through practical application.",
+    "content": "{Knowledge involves a person's ability to recall and apply information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "994f17e5-3b27-4051-b06f-5cef46b0c984": {
+    "summary": "People frequently describe knowledge as being justified true belief rather than just subjective opinion.",
+    "content": "{Knowledge is distinct from mere belief and opinion}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bd663577-93b8-40cb-9123-f46e8fff4199": {
+    "summary": "Cognitive development theories emphasize the role of knowledge in complex problem-solving.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4681b18f-f510-4747-bee1-8090b021f84b": {
+    "summary": "Human beings often engage in activities that require them to retain and utilize various forms of information.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "23148e25-7df2-4f13-99a9-1bd01ead7a8d": {
+    "summary": "People typically acknowledge that some forms of knowledge can be more reliable than others based on evidence and reasoning.",
+    "content": "{Knowledge is distinct from mere belief and opinion}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "42c09101-7369-461b-8535-d3f64f1c467a": {
+    "summary": "There is a common understanding that knowledge involves a systematic organization of information rather than random facts.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "23b5461d-ba50-490e-9a4d-f4d157c3204d": {
+    "summary": "Individuals often distinguish between understanding a concept and just having memorized information about it.",
+    "content": "{Knowledge is distinct from mere belief and opinion}, {Knowledge involves a person's ability to recall and apply information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "91ecf1e8-e452-47e9-b2e8-74f83f4ba72a": {
+    "summary": "The process of learning often entails the internalization of information, rather than passive reception.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5defbc2e-c5cf-40d6-9c95-5cf5d59b852f": {
+    "summary": "There is a prevalent assumption that knowledge should be critically evaluated through rational inquiry.",
+    "content": "{Knowledge is distinct from mere belief and opinion}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "df591fed-2bb3-4e37-9b72-8aeddbfd7208": {
+    "summary": "Individuals often exhibit confidence in knowledge that has been rigorously tested or verified.",
+    "content": "{Knowledge is distinct from mere belief and opinion}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "51cf4b5b-694c-4a49-bae9-aebf2602f087": {
+    "summary": "There is a strong intuitive sense that knowledge must involve some form of validation or justification.",
+    "content": "{Knowledge is distinct from mere belief and opinion}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1b9b24d4-e20f-45b8-afac-5392d9c80c47": {
+    "summary": "Introspection often leads individuals to reflect on what they truly know versus what they simply assume.",
+    "content": "{Knowledge is distinct from mere belief and opinion}, {Knowledge involves a person's ability to recall and apply information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0ab2f37a-5bf3-499a-a7bd-b0a52a871802": {
+    "summary": "Typically, expertise in a subject is associated with a deeper and more comprehensive understanding of that subject matter.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge is distinct from mere belief and opinion}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2297f80b-d187-4879-9a86-3a09d6b4aaef": {
+    "summary": "People generally agree that knowledge can be shared and communicated effectively between individuals.",
+    "content": "{Knowledge involves a person's ability to recall and apply information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3fa12065-9138-4d0d-ba99-0c009108d0ea": {
+    "summary": "Individuals are often motivated to seek knowledge to enhance their understanding and competence in various areas of life.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}",
+    "node_type": "reason",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7a716256-f747-40fe-b042-fb2bed19d9f0": {
+    "summary": "Knowledge is the possession of true information that is reliably obtained.",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the information is obtained through reliable methods}, {Knowledge requires that a person has access to the true information}",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cd923c6a-16c3-4e98-9a1c-1e1531a9c0e0": {
+    "summary": "Knowledge as Reliable Information Summary",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the information is obtained through reliable methods}, {Knowledge requires that a person has access to the true information}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "abf1719d-59b2-48d9-9b9a-09dd7903c5ff": {
+    "summary": "Truth is essential for knowledge Summary",
+    "content": "{It is widely accepted that only true beliefs can constitute knowledge}, {False beliefs cannot provide accurate understanding of reality}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "22b3dded-c3d4-4161-8c37-89a6226fcb3c": {
+    "summary": "Reliability is crucial for knowledge Summary",
+    "content": "{There is a strong intuition that methods of acquiring beliefs can vary in dependability}, {Beliefs obtained through reliable sources are deemed more trustworthy than those from unreliable sources}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0bbdbd71-e831-4d7a-80db-fa4b2dc7c2c5": {
+    "summary": "Access to information is necessary for knowledge Summary",
+    "content": "{Knowledge is generally seen as something that individuals hold, necessitating access to information}, {Without access to the true information, understanding and knowledge cannot be achieved}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ffdc9046-18fa-4b3f-851b-3d27192730ba": {
+    "summary": "The inquiry into knowledge is a central philosophical concern Summary",
+    "content": "{Historically, philosophy has focused on the nature and limits of knowledge}, {Understanding knowledge informs debates on belief, truth, and justification}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5841fd02-27e1-4bd2-ba49-b005a93f760c": {
+    "summary": "Knowledge has practical implications in decision-making Summary",
+    "content": "{Accurate knowledge leads to better decisions in everyday life}, {Misinformation can lead to harmful consequences in personal and social contexts}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "55ea0af3-2073-4063-89c5-ae32c2eefbb1": {
+    "summary": "Common sense distinguishes between knowledge and mere belief Summary",
+    "content": "{Everyday discourse frequently categorizes beliefs as either knowledge or opinion}, {There is a distinction made in language between what is known and what is believed}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8e17544d-ffd9-4b0b-9fb2-7094557954ac": {
+    "summary": "Human cognition is oriented towards acquiring reliable knowledge Summary",
+    "content": "{Human beings naturally seek to acquire and utilize information}, {There is a recognition that certain sources of information are more reliable than others}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "03404f82-0da1-4532-8e4e-57d460de6b7f": {
+    "summary": "Epistemic standards vary across contexts Summary",
+    "content": "{Different fields and situations impose varying criteria for what counts as knowledge}, {What is accepted as knowledge in one domain may not be in another}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "242afb7a-2444-41e5-adf6-5f2145eff612": {
+    "summary": "Intuition supports a tripartite view of knowledge Summary",
+    "content": "{Many intuitions align with the idea that knowledge requires truth, reliability, and access}, {This tripartite framework resonates with common understandings of knowledge}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "20db2e60-79aa-4a03-97c7-6aa33a09dd78": {
+    "summary": "Knowledge grows over time with experience and evidence Summary",
+    "content": "{Accumulating experiences can adjust what is known}, {Updates to knowledge often reflect new evidence and perspectives}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d02832b0-923a-4c43-b3ad-8a4d0b826d51": {
+    "summary": "The role of testimony in forming knowledge is acknowledged Summary",
+    "content": "{People often rely on the words of others to form beliefs}, {Testimony can be a reliable means of obtaining true information}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a6cf2eaf-0bdb-441a-ab56-6cd7fb13f391": {
+    "summary": "Social factors influence knowledge acquisition Summary",
+    "content": "{Cultural and social contexts shape what knowledge is prioritized and valued}, {Beliefs are often reinforced by social norms and group consensus}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5bcc109a-a96d-4b36-96da-6dad8c9365fa": {
+    "summary": "The distinction between knowing how and knowing that is significant Summary",
+    "content": "{There is recognition of different types of knowledge, such as procedural and propositional}, {This distinction affects how knowledge is applied in various scenarios}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ed0252e3-366f-4c7f-95d8-d69b0b0b1048": {
+    "summary": "The pursuit of knowledge is a fundamental human endeavor Summary",
+    "content": "{Humans have an innate drive to understand their world}, {The quest for knowledge spans across cultures and histories}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f90b7d5e-2c59-49c9-a035-199cb8b78013": {
+    "summary": "Skepticism challenges the certainty of knowledge Summary",
+    "content": "{Philosophical skepticism raises important questions about the limits of knowledge}, {The possibility of doubt invites deeper investigation into the nature and reliability of knowledge}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bbf72111-566c-40d3-953e-e9f3c9e95e9c": {
+    "summary": "Knowledge requires justification in addition to truth Summary",
+    "content": "{Justification relates to the reasons or grounds for believing something is true}, {The need for justification is often emphasized in discussions surrounding claims of knowledge}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "af91ac9f-7b29-4fee-a05a-3bff8f8867e0": {
+    "summary": "Pragmatism highlights the usefulness of knowledge Summary",
+    "content": "{Knowledge is often evaluated based on its practical utility}, {The effectiveness of knowledge in achieving desirable outcomes is commonly recognized}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9002549b-6060-491b-bb9e-da88e7ef1faa": {
+    "summary": "The evolution of scientific knowledge reflects reliability concerns Summary",
+    "content": "{Scientific knowledge is distinguished by its methodological rigor and reliance on evidence}, {The scientific method emphasizes the importance of reliable ways to acquire knowledge}",
+    "node_type": "reason",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9b2361bb-ecc0-45d4-99b4-62537beea6f3": {
+    "summary": "Knowledge is a social construct that depends on communal agreement.",
+    "content": "{Knowledge is shaped by the norms and practices of a community}, {Knowledge is validated through social interaction and consensus}, {Knowledge is dynamic and can evolve with changes in societal beliefs}",
+    "node_type": "thesis",
+    "parent_id": "What is knowledge?",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e262e75a-e47a-4c0a-9dab-63478397ec94": {
+    "summary": "Social constructivism highlights the communal basis of knowledge.",
+    "content": "{Knowledge is shaped by the norms and practices of a community}, {Knowledge is validated through social interaction and consensus}, {Knowledge is dynamic and can evolve with changes in societal beliefs}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "880f6c54-45c0-43d9-8d19-9715b74179cc": {
+    "summary": "Knowledge often reflects the values and priorities of a culture.",
+    "content": "{Knowledge reflects the values and priorities of a community}, {Cultural practices influence what is accepted as knowledge}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c1495dc6-2397-4c6d-972f-7ea3bfa8537f": {
+    "summary": "Different communities may have distinct definitions of truth.",
+    "content": "{Various communities interpret truth in different ways}, {Judgments about knowledge can vary from one group to another}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "053c5685-1261-491e-b11a-543adfe95fb7": {
+    "summary": "Knowledge can be seen as a product of historical context.",
+    "content": "{The historical circumstances of a community affect its knowledge}, {Knowledge tends to evolve over time as contexts change}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "be60c3a7-e443-4099-b628-23b4a581fd20": {
+    "summary": "Authority figures in a community shape the collective understanding of knowledge.",
+    "content": "{Community leaders have a significant impact on knowledge validation}, {The influence of authority helps to create communal standards of knowledge}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b914eb5b-5ae6-4b8a-afe6-4858d2b2a72a": {
+    "summary": "Disagreement among communities can lead to the re-evaluation of accepted knowledge.",
+    "content": "{Competing viewpoints challenge established knowledge}, {Discussions across communities can prompt shifts in understanding}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7a17d44c-1c00-4828-b1fc-bf53e7e7889f": {
+    "summary": "Knowledge is often maintained through shared rituals and practices.",
+    "content": "{Rituals help reinforce shared knowledge}, {Community practices contribute to the cohesion of knowledge}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5b0e776b-520a-450b-b654-e2425bbb6732": {
+    "summary": "Education systems reflect and perpetuate communal understandings of knowledge.",
+    "content": "{Educational curricula are shaped by the values of a community}, {What is taught in schools often embodies communal perspectives}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2f105c4b-0a4d-4688-858a-210587e1ff30": {
+    "summary": "Social groups create their own knowledge through collective experiences.",
+    "content": "{Shared experiences among community members contribute to knowledge formation}, {Knowledge emerges from interaction within the group}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "98136cd4-08bd-472e-989a-ae104e462c79": {
+    "summary": "Knowledge is influenced by power dynamics within a community.",
+    "content": "{Hierarchies affect whose knowledge is prioritized}, {Power relationships can shape what is accepted as valid knowledge}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8e3d97eb-d539-4576-a92a-4cf38759de68": {
+    "summary": "The language of a community shapes its forms of knowledge.",
+    "content": "{Language influences how knowledge is constructed and understood}, {Communication within a language shapes thoughts and ideas}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9bcde6cc-632b-4a7f-ade0-6b97a00a8c97": {
+    "summary": "Communal narratives play a significant role in knowledge acquisition.",
+    "content": "{Stories and shared histories help form collective understanding}, {Narratives serve as a medium for knowledge transmission}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b54a5be9-2cc8-42d1-820a-61e3a4652256": {
+    "summary": "Collective memory contributes to the construction of knowledge.",
+    "content": "{The memory of a group influences its knowledge base}, {Shared recollections reinforce what is accepted as knowledge}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fb686b63-1863-4ce1-a40a-ab881771cff0": {
+    "summary": "Fields of knowledge can diverge significantly between different communities and cultures.",
+    "content": "{Communities may develop unique areas of expertise}, {Diverse knowledge domains can arise based on local needs and contexts}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6ed8891c-fb73-40f0-9329-8d4a74eb4ee2": {
+    "summary": "Technological advancements can alter communal knowledge structures.",
+    "content": "{New technologies change how communities access and share knowledge}, {Innovations can reshape collective understanding}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "af2e3c4f-abce-4cdd-8efd-6caa922ef0d8": {
+    "summary": "Critiques of established knowledge often come from within the community.",
+    "content": "{Communities may engage in self-reflection regarding their knowledge}, {Internal critiques contribute to knowledge evolution}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5a41b1c4-61ad-4690-94e4-878dfefd29e0": {
+    "summary": "Interdisciplinary approaches can reveal the social dimensions of knowledge.",
+    "content": "{Studying knowledge from various academic perspectives enhances understanding}, {Cross-disciplinary dialogue can uncover the social aspects of knowledge}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7bb19613-a2b6-46e0-abfd-7bd63de7dee4": {
+    "summary": "Community engagement is crucial for knowledge validation.",
+    "content": "{Active participation of community members is necessary for knowledge acceptance}, {Consensus among individuals contributes to knowledge legitimacy}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "66241e80-96c0-4933-8b2d-5cc48656d987": {
+    "summary": "Knowledge can be seen as a collaborative endeavor.",
+    "content": "{Collaboration among individuals fosters knowledge creation}, {Joint efforts often lead to more robust knowledge structures}",
+    "node_type": "reason",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5432454a-807f-4a20-af5f-3610bb3ff525": {
+    "summary": "Can a belief that is justified but false be considered knowledge?",
+    "content": "{Consider a scenario in which a person P believes it is raining outside, has justification for their belief based on a reliable weather forecast, but it turns out to be sunny. In such a scenario, intuitively we would judge that P does not know that it is raining, despite having justified their belief.}, {There is a plausible principle that knowledge requires truth. This principle together with the earlier case entails that belief, justification, and truth must all be present for knowledge to be achieved.}, {It is implausible that justification alone suffices for knowledge without the need for truth, as illustrated by cases where individuals hold justified false beliefs.}",
+    "node_type": "antithesis",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "cde8fe29-639b-44f4-9bd1-1ab1f9c3750a"
+  },
+  "e370bec1-ca0e-4bd1-970d-040c08799c2d": {
+    "summary": "Is it possible to have justified false beliefs?",
+    "content": "{Suppose we have a case in which a person P believes a certain investment will yield a high return, based on solid research and the information available at the time. However, the investment turns out to be a scam. Intuitively, we would have to say that P was justified in their belief about the investment but did not know it was a sound choice. If we say P lacked knowledge because the belief was false, then having justification appears insufficient for knowledge. If we say that P does have knowledge, then we would undermine the requirement for truth in the definition of knowledge.}, {This challenges our understanding of how justification interacts with truth to produce knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "71d1907b-6e78-44ec-81ad-a28fd93a562e": {
+    "summary": "Can we have knowledge without belief?",
+    "content": "{Consider a scenario in which a person P is unaware that a correct mathematical solution exists for a specific problem. In this case, the correct solution is true, but since P does not believe it, intuitively we would judge that P does not know the solution. This suggests that belief is a necessary component of knowledge, even when there are true propositions that are objectively correct.}, {The principle that knowledge must include belief supports the idea that without belief, knowledge cannot be present, even if the proposition is true.}",
+    "node_type": "antithesis",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "4bb171af-208c-4213-88aa-485a5a5cf602"
+  },
+  "3dd77085-5974-45c7-9258-5397bf1a28c4": {
+    "summary": "What about cases of lucky guesses?",
+    "content": "{Suppose we have a case in which a person P randomly guesses the answer to a trivia question and happens to be correct. Intuitively, we might judge that P does not know the answer because their belief was not justified. If we say that P knows the answer, we would have to revise our standards for what counts as justification. If we say P does not know, we affirm that mere correctness, without justification, does not equate to knowledge.}, {This brings into question whether mere correctness can lead to knowledge when it lacks the component of justified belief.}",
+    "node_type": "antithesis",
+    "parent_id": "fb0398b2-dacc-4696-973e-490328ef4704",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4779e2d9-f1b6-41d8-b44e-3512414a359e": {
+    "summary": "Is knowledge really just a mental state that internalizes information?",
+    "content": "{Consider a scenario in which a person has significant information about a subject but cannot recall it due to a temporary mental block. In such a scenario, intuitively we would judge that the person does not \"know\" that information, even though they effectively internalized it at one point.}, {There is a plausible principle that knowledge requires not only possession of information but also the ability to access and utilize it. This principle together with the scenario above entails that knowledge cannot simply be a state of internalized information without the capacity for recall.}",
+    "node_type": "antithesis",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d249a5a9-2f27-4441-9814-1e98e3f4867e": {
+    "summary": "Can we truly separate knowledge from belief and opinion?",
+    "content": "{Suppose we have a case in which a person firmly believes that the Earth is flat based on widely circulated conspiracy theories. Intuitively, we either have to say that this person possesses knowledge or that they do not. If we say that this person possesses knowledge about the Earth's shape, then we create a contradiction, as their belief contradicts well-established scientific evidence. If we say that they do not have knowledge, then we affirm that knowledge must involve a reliable standard, which challenges the separation from mere opinion.}, {Consider another case where a child believes that the moon is made of cheese. Although the child holds this belief, it is clear that this does not qualify as knowledge, suggesting that not all beliefs can be classified as knowledge, thus complicating the view's separation of knowledge from merely opinion.}",
+    "node_type": "antithesis",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5ab810a5-b37c-4f9f-ae60-d34671ab82a1": {
+    "summary": "Does cognitive acquisition alone sufficiently define knowledge?",
+    "content": "{There is a plausible principle that knowledge should involve not just cognitive acquisition but also understanding and contextualization. This principle along with the fact that someone can memorize facts without truly understanding them entails that simply acquiring information is inadequate for claiming knowledge.}, {Consider a case in which a student memorizes a list of chemical formulas for an exam but does not understand their significance. Intuitively, we would judge that while the student has acquired information, they do not truly know the chemistry involved.}",
+    "node_type": "antithesis",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2a832c4e-51dd-4a0d-8ae0-4de204fa3014": {
+    "summary": "Is the notion of knowledge robust enough to encompass practical application?",
+    "content": "{Consider a scenario where a skilled mechanic can fix a car due to years of practice but may not be able to articulate the underlying theories of how the car works. Intuitively, we would say the mechanic knows how to repair the car, suggesting that knowledge should include hands-on application, rather than merely internalized information.}, {There is a plausible principle that knowledge involves both theoretical and practical competencies, which together entail that knowledge cannot be limited solely to the cognitive acquisition of information.}",
+    "node_type": "antithesis",
+    "parent_id": "25528428-ddb4-4772-8352-bc12fe3c3fcc",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "26479969-f514-466e-801f-56fbdfac1ab3": {
+    "summary": "Is knowledge merely the possession of true information?",
+    "content": "{Consider a scenario where a person P receives true information about the weather from a very unreliable source, such as a friend who is known for lying. In this case, it is intuitive that we would judge that P does not genuinely possess knowledge, despite having true information.}, {There is a plausible principle that knowledge should not only involve true beliefs but also some form of justification or reliability in the source of that belief. This principle together with the previous scenario entails that true information from an unreliable source does not qualify as knowledge.}, {It is implausible that knowledge can be accreted from arbitrary true information regardless of how it is obtained, which challenges the view that knowledge is simply having true information that is reliably obtained.}",
+    "node_type": "antithesis",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d1c2cac9-c6b2-4f4b-b422-21b774a570a3": {
+    "summary": "Does access to true information suffice for knowledge?",
+    "content": "{Imagine a case where a person P has true information about an event but has forgotten the information due to a lapse in memory. Intuitively, we would conclude that despite having access to the true information previously, P does not currently know the information.}, {There is a plausible principle that knowledge requires not just access to true information but a certain degree of retention or cognitive stability of that information. This principle combined with the previous case suggests that mere past access does not constitute knowledge.}, {It is implausible that knowledge is a retroactive concept, only contingent on previous access to information, which undermines the assertion that knowledge fundamentally requires current access to true information.}",
+    "node_type": "antithesis",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "4779e2d9-f1b6-41d8-b44e-3512414a359e"
+  },
+  "6aa0f285-0343-4ecc-86c7-44d031db4f5a": {
+    "summary": "Can knowledge exist independently of the method of obtaining information?",
+    "content": "{Suppose we consider a case where a person P has true information about a significant scientific fact but obtained it through coincidental stumbling while doing a different task entirely. It seems intuitively that P may know the fact, but if the process remains entirely accidental, we question whether it truly counts as knowledge.}, {There is a plausible principle that knowledge should ideally stem from a method that actively engages the individual in acquiring the information. This principle together with the previous scenario implies that accidental acquisition of true information does not meet the criteria for knowledge.}, {It is implausible that knowledge can arise from sheer happenstance, which raises doubts about the adequacy of the view that relies solely on true information being reliably obtained.}",
+    "node_type": "antithesis",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "40f8f657-3622-4d0a-bbba-50968a2fbaf9": {
+    "summary": "Is reliability in methods sufficient for knowledge?",
+    "content": "{Consider a situation in which person P uses a reliable method to retrieve true information, such as a trusted science journal, but misinterprets the information due to a simple misunderstanding. Intuitively, we would judge that P does not truly know the information, even though their method was reliable.}, {There is a plausible principle that for knowledge to be achieved, the person must not only utilize reliable methods but also correctly interpret the information these methods provide. This principle along with the previous scenario reveals that reliability alone does not guarantee knowledge.}, {It is implausible that the reliability of methods is adequate for affirming knowledge if the resulting understanding is flawed, thus challenging the sufficiency of the view asserting knowledge entirely based on true and reliably obtained information.}",
+    "node_type": "antithesis",
+    "parent_id": "7a716256-f747-40fe-b042-fb2bed19d9f0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fa082a85-edf2-45f4-9f3b-293771737635": {
+    "summary": "Is knowledge merely a reflection of social consensus?",
+    "content": "{Imagine two communities, A and B, that have drastically different beliefs about the same historical event. Community A believes the event occurred a certain way, while Community B holds the opposite view. Both communities engage in social practices that reinforce their beliefs. In such a scenario, intuitively we would judge that members of Community A and members of Community B can both claim to have knowledge about the event according to their own standards. This leads to the troubling conclusion that knowledge can be contradictory across communities.}, {There is a plausible principle that knowledge should be objective and universally applicable. This principle, considered alongside the idea that knowledge can vary between communities, entails that knowledge cannot be solely based on social constructs, as this undermines an objective understanding of knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5997dd2d-cd1d-472d-8082-88123aa8f167": {
+    "summary": "Is knowledge really just a product of social norms?",
+    "content": "{Consider a case where an individual, C, independently discovers a scientific fact that contradicts the consensus in their community. Intuitively, we would want to say that C has knowledge of this fact despite the community's beliefs. If we say C does not have knowledge because it is not accepted by the community, then we deny the role of individual reasoning and discovery in acquiring knowledge. If we say C does have knowledge, it contradicts the view that knowledge is exclusively a product of communal agreement.}",
+    "node_type": "antithesis",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b6151e1e-3062-4fb8-9b76-474c063ef41f": {
+    "summary": "Can knowledge evolve without losing its validity?",
+    "content": "{Suppose communal beliefs shift dramatically due to new information or social changes, such as the acceptance of a formerly marginalized perspective (e.g., climate change). Intuitively, we recognize that while knowledge can change, this does not imply that previously accepted knowledge was entirely invalid. If we accept that knowledge is dynamic and can evolve, then we must reconcile this evolution with the idea that knowledge retains a stable definition over time. This raises the question of how knowledge can be both dynamic and retain its validity.}",
+    "node_type": "antithesis",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b566c3d0-ba42-435e-85eb-ca699e9c45d6": {
+    "summary": "Do social dynamics adequately account for knowledge's reliability?",
+    "content": "{Imagine a case where a community agrees on a belief that later turns out to be false, such as the belief that the Earth is flat. In such a scenario, intuitively we would judge that the community lacked true knowledge about the shape of the Earth despite their consensus. This raises the problem that knowledge validated through social interaction and consensus can lead to the endorsement of false beliefs, suggesting that social constructs alone are insufficient for ensuring knowledge's reliability.}",
+    "node_type": "antithesis",
+    "parent_id": "9b2361bb-ecc0-45d4-99b4-62537beea6f3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6044e5be-17b5-4f6f-80b8-8b900c8834ef": {
+    "summary": "Knowledge involves a reliable method of belief formation.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary for the proposition to be true}, {For a person to know a proposition, it is necessary that their belief is formed through a reliable process.}",
+    "node_type": "synthesis",
+    "parent_id": "e370bec1-ca0e-4bd1-970d-040c08799c2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ebcf2627-b801-4572-8c9f-ffbf35a99592": {
+    "summary": "Knowledge is based on a holistic network of beliefs.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary for the proposition to be true}, {For a person to know a proposition, it is sufficient that their belief is part of a coherent system of beliefs that collectively support its truth.}",
+    "node_type": "synthesis",
+    "parent_id": "e370bec1-ca0e-4bd1-970d-040c08799c2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "04001507-e123-4a43-a38d-c50388aefd54": {
+    "summary": "Knowledge is contextual and can depend on the situation.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary for the proposition to be true}, {For a person to know a proposition, it is sufficient that their belief aligns with the epistemic standards of the context in which they hold that belief.}",
+    "node_type": "synthesis",
+    "parent_id": "e370bec1-ca0e-4bd1-970d-040c08799c2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cfee7204-6e66-4c4f-be3a-13df9158cf36": {
+    "summary": "Knowledge requires a dynamic relationship between belief, truth, and justification.",
+    "content": "{For a person to know a proposition, it is necessary that they believe the proposition}, {For a person to know a proposition, it is necessary for the proposition to be true}, {For a person to know a proposition, it is sufficient that their justification adapts to changing evidence related to the truth of the proposition.}",
+    "node_type": "synthesis",
+    "parent_id": "e370bec1-ca0e-4bd1-970d-040c08799c2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "545bdc95-7430-4aa7-b5ed-d35d6e05f712": {
+    "summary": "Knowledge involves a reliable method of belief formation.",
+    "content": "{For a person to know a proposition, the belief must be formed through a reliable process}, {For a person to know a proposition, it is necessary that the proposition is true}, {A reliable method is one that generally leads to true beliefs over time}.",
+    "node_type": "synthesis",
+    "parent_id": "3dd77085-5974-45c7-9258-5397bf1a28c4",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "6044e5be-17b5-4f6f-80b8-8b900c8834ef"
+  },
+  "1b1959c1-84c3-4985-9dbf-9e47019c0890": {
+    "summary": "Knowledge is a product of practical success in the world.",
+    "content": "{For a person to know a proposition, their belief must result from successful interaction with the environment}, {For a person to know a proposition, it is necessary for the proposition to be true}, {The success of the belief must demonstrate a functional understanding of the proposition}.",
+    "node_type": "synthesis",
+    "parent_id": "3dd77085-5974-45c7-9258-5397bf1a28c4",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "00489471-746a-4a14-a154-65f049ca4e88": {
+    "summary": "Knowledge requires a substantive connection to the truth of the belief.",
+    "content": "{For a person to know a proposition, there must be an explanatory link between the belief and its truth}, {For a person to know a proposition, it is necessary that the proposition is true}, {The belief must be formed in a context where it is likely to be true}.",
+    "node_type": "synthesis",
+    "parent_id": "3dd77085-5974-45c7-9258-5397bf1a28c4",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "530de372-af2d-4eb6-bb78-a61e7815f548": {
+    "summary": "Knowledge is contextually justified belief.",
+    "content": "{For a person to know a proposition, justification can vary depending on the context}, {For a person to know a proposition, it is necessary for the proposition to be true}, {Justification must align with the standards of the relevant epistemic community}.",
+    "node_type": "synthesis",
+    "parent_id": "3dd77085-5974-45c7-9258-5397bf1a28c4",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "57a22c2c-57a7-46aa-97a3-c59b8efc5b85": {
+    "summary": "Knowledge requires both information and the ability to utilize that information effectively.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}, {Knowledge includes the accessibility of information in a given context}.",
+    "node_type": "synthesis",
+    "parent_id": "4779e2d9-f1b6-41d8-b44e-3512414a359e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "30f63de3-f785-4ebe-a225-eb0dd7f11ad1": {
+    "summary": "Knowledge is a process that encompasses both internalization and retrieval of information.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}, {Knowledge requires an active process of accessing information as needed}.",
+    "node_type": "synthesis",
+    "parent_id": "4779e2d9-f1b6-41d8-b44e-3512414a359e",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "57a22c2c-57a7-46aa-97a3-c59b8efc5b85"
+  },
+  "3516697c-86e9-4211-8526-0f5b4c4da28a": {
+    "summary": "Knowledge is characterized by both possession of information and the readiness to use it.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}, {Knowledge includes a pragmatic aspect of using information when required}.",
+    "node_type": "synthesis",
+    "parent_id": "4779e2d9-f1b6-41d8-b44e-3512414a359e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e289dc09-81f4-476a-9252-40a8351846ec": {
+    "summary": "Knowledge encompasses both internalization of information and the ability to demonstrate that information.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}, {Knowledge necessitates demonstrating understanding through practical application}.",
+    "node_type": "synthesis",
+    "parent_id": "4779e2d9-f1b6-41d8-b44e-3512414a359e",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "30f63de3-f785-4ebe-a225-eb0dd7f11ad1"
+  },
+  "cfa87c5a-ffeb-4881-839b-6c202423c15c": {
+    "summary": "Knowledge is a mental state that comprises justified true beliefs acquired through reliable sources.",
+    "content": "{Knowledge consists of a belief that is true}, {Knowledge requires justification based on reliable evidence}, {Knowledge can be distinguished from mere opinion by its requirements for truth and justification}.",
+    "node_type": "synthesis",
+    "parent_id": "d249a5a9-2f27-4441-9814-1e98e3f4867e",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "fb0398b2-dacc-4696-973e-490328ef4704"
+  },
+  "1f923161-c0fc-4ca1-8ee1-187dbb12e219": {
+    "summary": "Knowledge is a dynamic relationship between a person and information that allows for practical application.",
+    "content": "{Knowledge involves the active engagement with and application of information}, {Knowledge extends beyond mere information retention to include understanding}, {Knowledge requires a distinction between well-founded beliefs and unfounded opinions}.",
+    "node_type": "synthesis",
+    "parent_id": "d249a5a9-2f27-4441-9814-1e98e3f4867e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0b35af8f-edaa-4107-b0f5-16e69c2abf1a": {
+    "summary": "Knowledge is a socially constructed concept that relies on consensus and verification from the community.",
+    "content": "{Knowledge is shaped by social interactions and shared understanding among groups}, {Knowledge requires validation from external sources and communities}, {Knowledge is different from opinion as it reflects collective agreement rather than individual belief}.",
+    "node_type": "synthesis",
+    "parent_id": "d249a5a9-2f27-4441-9814-1e98e3f4867e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9c94a19d-e079-419d-8c8e-cf58b29024fd": {
+    "summary": "Knowledge encompasses both cognitive and experiential dimensions that contribute to a person's understanding.",
+    "content": "{Knowledge includes information gained through experience and practice}, {Knowledge involves the cognitive ability to process and understand information}, {Knowledge differs from opinion by fostering a deeper understanding of subjects through both theory and practice}.",
+    "node_type": "synthesis",
+    "parent_id": "d249a5a9-2f27-4441-9814-1e98e3f4867e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7e5897e6-be0a-43b1-b85e-160710fa8ae5": {
+    "summary": "Knowledge is a mental state that requires understanding as well as information internalization.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge requires a person's ability to understand and contextualize information}, {Knowledge is distinct from mere belief and opinion}, {Knowledge involves the application of understanding to situations or problems}",
+    "node_type": "synthesis",
+    "parent_id": "5ab810a5-b37c-4f9f-ae60-d34671ab82a1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5192d01b-156e-4343-9019-f04748d5fcc6": {
+    "summary": "Knowledge encompasses both factual information and the ability to comprehend and apply it.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}, {Knowledge requires an understanding of the significance of the information}, {Knowledge entails the integration of information with prior knowledge and context}",
+    "node_type": "synthesis",
+    "parent_id": "5ab810a5-b37c-4f9f-ae60-d34671ab82a1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0d1c73a3-3812-4ce4-80dd-f5db38a363f3": {
+    "summary": "Knowledge is defined by the ability to critically engage with information rather than just acquire it.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge requires critical thinking and understanding of the information}, {Knowledge is distinct from mere belief and opinion}, {Knowledge involves the application of acquired information in relevant contexts}",
+    "node_type": "synthesis",
+    "parent_id": "5ab810a5-b37c-4f9f-ae60-d34671ab82a1",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "7e5897e6-be0a-43b1-b85e-160710fa8ae5"
+  },
+  "461f78c2-4be8-4ad2-a7fa-6a3ff8ccf191": {
+    "summary": "Knowledge requires a connection between information and understanding rather than mere memorization.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}, {Knowledge requires an understanding of the relationships between concepts}, {Knowledge is distinct from mere belief and opinion}",
+    "node_type": "synthesis",
+    "parent_id": "5ab810a5-b37c-4f9f-ae60-d34671ab82a1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "426d424e-cce4-4f68-89e3-7d42386229e8": {
+    "summary": "Knowledge is an internal state that includes both theoretical understanding and practical application.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge involves a person's ability to recall and apply information}, {Knowledge includes practical competencies related to the application of skills and information}, {Knowledge is distinct from mere belief and opinion}.",
+    "node_type": "synthesis",
+    "parent_id": "2a832c4e-51dd-4a0d-8ae0-4de204fa3014",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1a3bfa04-64cd-48c2-b4a2-ccdfabac79ac": {
+    "summary": "Knowledge is a mental state that arises from both information absorption and experience-based skills.",
+    "content": "{Knowledge involves the cognitive acquisition of information}, {Knowledge requires both recall of information and practical application skills}, {Knowledge includes experiential learning that informs one's capabilities}, {Knowledge is distinct from mere belief and opinion}.",
+    "node_type": "synthesis",
+    "parent_id": "2a832c4e-51dd-4a0d-8ae0-4de204fa3014",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "426d424e-cce4-4f68-89e3-7d42386229e8"
+  },
+  "0a5e1b09-3229-4195-8d40-519f641e2eb3": {
+    "summary": "Knowledge is a multifaceted mental state that integrates theoretical knowledge with practical skill.",
+    "content": "{Knowledge incorporates cognitive acquisition of information}, {Knowledge encompasses the ability to recall and apply information}, {Knowledge integrates practical experiences that inform one's understanding}, {Knowledge is distinct from mere belief and opinion}.",
+    "node_type": "synthesis",
+    "parent_id": "2a832c4e-51dd-4a0d-8ae0-4de204fa3014",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "426d424e-cce4-4f68-89e3-7d42386229e8"
+  },
+  "a1e250fc-ba4d-4f7e-8cd1-598ddacd1df7": {
+    "summary": "Knowledge consists of a combination of learned information and the ability to apply it effectively.",
+    "content": "{Knowledge consists of the cognitive acquisition of information}, {Knowledge requires the capacity to recall and apply information in practical contexts}, {Knowledge is informed by hands-on experience that enriches understanding}, {Knowledge is distinct from mere belief and opinion}.",
+    "node_type": "synthesis",
+    "parent_id": "2a832c4e-51dd-4a0d-8ae0-4de204fa3014",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "1a3bfa04-64cd-48c2-b4a2-ccdfabac79ac"
+  },
+  "fc942a68-9b71-48a8-b013-2471fcef9b12": {
+    "summary": "Knowledge is a justified true belief that incorporates the reliability of the source.",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the person believes the information}, {Knowledge requires that the information is obtained through reliable methods}, {Knowledge requires that the person has justification for believing the information}.",
+    "node_type": "synthesis",
+    "parent_id": "26479969-f514-466e-801f-56fbdfac1ab3",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "fb0398b2-dacc-4696-973e-490328ef4704"
+  },
+  "f74f9b9d-9f32-4e73-8087-4fe77ec9fcfe": {
+    "summary": "Knowledge is defined as true information that is justified and subject to verification.",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the person believes the information}, {Knowledge requires that there is a process in place for verifying the information}, {Knowledge requires that the person has justification for believing the information}.",
+    "node_type": "synthesis",
+    "parent_id": "26479969-f514-466e-801f-56fbdfac1ab3",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "fb0398b2-dacc-4696-973e-490328ef4704"
+  },
+  "80926539-9d91-47dd-ac84-993b8c66f6ba": {
+    "summary": "Knowledge includes the possession of true beliefs strengthened by the justification provided by reliable sources.",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the person believes the information}, {Knowledge requires that reliable sources provide support for the information}, {Knowledge requires that the person has justification for believing the information}.",
+    "node_type": "synthesis",
+    "parent_id": "26479969-f514-466e-801f-56fbdfac1ab3",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "fc942a68-9b71-48a8-b013-2471fcef9b12"
+  },
+  "7945092f-3599-496b-a6ad-1124e8ad8198": {
+    "summary": "Knowledge is a form of information rooted in verifiable truth and supported by reliable evidence.",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the person believes the information}, {Knowledge requires that there is reliable evidence backing the information}, {Knowledge requires that the person has justification for believing the information}.",
+    "node_type": "synthesis",
+    "parent_id": "26479969-f514-466e-801f-56fbdfac1ab3",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "80926539-9d91-47dd-ac84-993b8c66f6ba"
+  },
+  "eca42926-4dd0-470c-9b6f-d24f0337910a": {
+    "summary": "Knowledge is defined in terms of justified belief and reliable methods of acquisition.",
+    "content": "{Knowledge requires that a person has a justified belief in the information}, {Knowledge requires that the information is true}, {Knowledge requires that the methods of acquiring the information are reliable}, {Knowledge emphasizes the active engagement of the individual in acquiring the information through reliable methods}.",
+    "node_type": "synthesis",
+    "parent_id": "6aa0f285-0343-4ecc-86c7-44d031db4f5a",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "fc942a68-9b71-48a8-b013-2471fcef9b12"
+  },
+  "166f578a-a5b5-4b51-a89b-a7dc315fa311": {
+    "summary": "Knowledge is viewed as a skill developed through practice and reliable investigation.",
+    "content": "{Knowledge involves a person effectively applying skill in a domain}, {Knowledge requires that the information is true}, {Knowledge arises from methods of inquiry that are reliable and practiced}, {Knowledge is enhanced by ongoing engagement in learning and investigation}.",
+    "node_type": "synthesis",
+    "parent_id": "6aa0f285-0343-4ecc-86c7-44d031db4f5a",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "82a27a40-2e8b-4e8f-8dfd-caa0dd7fd849": {
+    "summary": "Knowledge involves both belief in true information and an active process of discovery.",
+    "content": "{Knowledge requires that a person believes the information}, {Knowledge requires that the information is true}, {Knowledge necessitates an active process of discovery in acquiring the information}, {Knowledge values the reliability of methods used to discover the information}.",
+    "node_type": "synthesis",
+    "parent_id": "6aa0f285-0343-4ecc-86c7-44d031db4f5a",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fea571bf-3e5d-4b91-b79c-308d63abf2f8": {
+    "summary": "Knowledge encompasses true information acquired through intentional, reliable methods.",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the person intentionally engages in the process of acquiring the information}, {Knowledge requires the use of methods that ensure reliability in information acquisition}, {Knowledge acknowledges the importance of context and effort in acquiring true information}.",
+    "node_type": "synthesis",
+    "parent_id": "6aa0f285-0343-4ecc-86c7-44d031db4f5a",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "37958ff4-fd31-4e54-8041-a47978f65339": {
+    "summary": "Knowledge is the possession of true information that has been both reliably obtained and correctly interpreted.",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the information is obtained through reliable methods}, {Knowledge requires that a person correctly interprets the information obtained}, {Knowledge requires that a person has access to the true information}",
+    "node_type": "synthesis",
+    "parent_id": "40f8f657-3622-4d0a-bbba-50968a2fbaf9",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c7e07a04-8764-421f-87ff-f083d26068ea": {
+    "summary": "Knowledge is the possession of true information that is derived from reliable sources and critically assessed.",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the information is obtained from sources recognized as reliable}, {Knowledge requires that the person critically assesses the obtained information}, {Knowledge requires that a person has access to the true information}",
+    "node_type": "synthesis",
+    "parent_id": "40f8f657-3622-4d0a-bbba-50968a2fbaf9",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0511c615-37cb-46fd-8bdd-045cb8e22ed7": {
+    "summary": "Knowledge is the possession of true information that is acquired through a reliable process and evaluated for accuracy.",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the information is acquired through a reliable process}, {Knowledge requires that the person evaluates the accuracy of the information obtained}, {Knowledge requires that a person has access to the true information}",
+    "node_type": "synthesis",
+    "parent_id": "40f8f657-3622-4d0a-bbba-50968a2fbaf9",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "c7e07a04-8764-421f-87ff-f083d26068ea"
+  },
+  "a71dc314-4fec-4361-be59-5c0b8bbb63ca": {
+    "summary": "Knowledge is the possession of true information that is obtained through reliable methods and ensures accurate understanding.",
+    "content": "{Knowledge requires that the information is true}, {Knowledge requires that the information is obtained through reliable methods}, {Knowledge requires that the understanding of the information correctly corresponds to its meaning}, {Knowledge requires that a person has access to the true information}",
+    "node_type": "synthesis",
+    "parent_id": "40f8f657-3622-4d0a-bbba-50968a2fbaf9",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "37958ff4-fd31-4e54-8041-a47978f65339"
+  },
+  "605174fc-bf3a-43a5-85e6-83e4029f65b4": {
+    "summary": "Knowledge is a social construct that can be grounded in objective standards alongside communal agreement.",
+    "content": "{Knowledge is shaped by the norms and practices of a community}, {Knowledge can incorporate objective criteria for validation}, {Knowledge reflects the consensus of a community but must also consider external, universal standards}, {Knowledge evolves with societal beliefs while retaining some core objective truths}",
+    "node_type": "synthesis",
+    "parent_id": "fa082a85-edf2-45f4-9f3b-293771737635",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1ddb248d-4ded-4a16-909f-787077a0643a": {
+    "summary": "Knowledge is contextual, allowing for diverse perspectives while maintaining objective truths.",
+    "content": "{Knowledge is influenced by the historical and cultural context of a community}, {Knowledge must also be evaluated against universally applicable standards}, {Knowledge can coexist with varied interpretations without contradiction if contextualized accurately}, {Knowledge should consider multiple viewpoints to capture a more comprehensive understanding}",
+    "node_type": "synthesis",
+    "parent_id": "fa082a85-edf2-45f4-9f3b-293771737635",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bf67a0c5-b696-4010-b587-ee35287b6d9a": {
+    "summary": "Knowledge is intersubjective, arising from shared understandings but subject to objective scrutiny.",
+    "content": "{Knowledge is developed through shared experiences and language within a community}, {Knowledge requires validation against common criteria that transcend individual perspectives}, {Knowledge is informed by social practices yet must be critically assessed for its adherence to objective standards}, {Knowledge reflects community consensus while being open to correction through objective evaluation}",
+    "node_type": "synthesis",
+    "parent_id": "fa082a85-edf2-45f4-9f3b-293771737635",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "44c98dc4-b9ec-4ed8-b9b2-77fbea828395": {
+    "summary": "Knowledge integrates social constructs with mechanisms for resolving contradictions.",
+    "content": "{Knowledge emerges from social agreements within a community}, {Knowledge must have a resolution process for conflicting beliefs across different communities}, {Knowledge relies on both communal consensus and independent verification}, {Knowledge encompasses an adaptive framework to accommodate differing community beliefs without leading to contradictions}",
+    "node_type": "synthesis",
+    "parent_id": "fa082a85-edf2-45f4-9f3b-293771737635",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "58f8aa4f-1470-4480-a832-507402fdb8dc": {
+    "summary": "Knowledge is a collective process that recognizes individual contributions.",
+    "content": "{Knowledge emerges from both individual discoveries and communal validation}, {Knowledge can exist independently of community consensus}, {Knowledge appreciates the tensions between individual insights and social frameworks}, {Knowledge remains applicable even when an individual's findings are not recognized by their community}.",
+    "node_type": "synthesis",
+    "parent_id": "5997dd2d-cd1d-472d-8082-88123aa8f167",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "559dbf68-d3dc-40ea-922f-e669ccc71466": {
+    "summary": "Knowledge is shaped by both social and individual factors.",
+    "content": "{Knowledge incorporates both communal norms and personal insights}, {Knowledge derives from social reinforcement but also from individual discovery}, {Knowledge acknowledges that personal experiences can contribute to collective understanding}, {Knowledge respects the validity of knowledge gained outside mainstream consensus}.",
+    "node_type": "synthesis",
+    "parent_id": "5997dd2d-cd1d-472d-8082-88123aa8f167",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1135e062-1bdd-42a2-b005-51d2de59136d": {
+    "summary": "Knowledge is interdependent between individual cognition and social context.",
+    "content": "{Knowledge is informed by community practices while also being subject to individual interpretation}, {Knowledge is both validated by social consensus and enriched by personal experiences}, {Knowledge recognizes that individuals can arrive at truths that challenge prevailing norms}, {Knowledge depends on the interplay between societal influence and independent reasoning}.",
+    "node_type": "synthesis",
+    "parent_id": "5997dd2d-cd1d-472d-8082-88123aa8f167",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "62d39656-46b5-4bb3-8c39-accdb125b366": {
+    "summary": "Knowledge includes a dual framework of social consensus and objective truth.",
+    "content": "{Knowledge is formed through social agreements but can also reflect objective realities}, {Knowledge is validated through community standards while allowing for exceptions based on new evidence}, {Knowledge can evolve alongside societal changes without being entirely reliant on communal beliefs}, {Knowledge accepts that truth can exist outside of communal acceptance}.",
+    "node_type": "synthesis",
+    "parent_id": "5997dd2d-cd1d-472d-8082-88123aa8f167",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a74b2deb-a9ca-41e6-b8a1-8f6dada88beb": {
+    "summary": "Knowledge is a collective enterprise that is informed by shared experiences and common goals.",
+    "content": "{Knowledge emerges from collaborative efforts within a community}, {Knowledge is subject to critical interrogation by its members}, {Knowledge is shaped by the experiences and practices of a community}.",
+    "node_type": "synthesis",
+    "parent_id": "b6151e1e-3062-4fb8-9b76-474c063ef41f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "24cf78a0-019d-4d98-a12e-c2b40c55b96f": {
+    "summary": "Knowledge is an evolving construct that derives its legitimacy from the collective practices of its members.",
+    "content": "{Knowledge is socially constructed through interaction and practice}, {Knowledge retains its legitimacy through ongoing community validation}, {Knowledge can adapt to changing social contexts while maintaining a recognizable form}.",
+    "node_type": "synthesis",
+    "parent_id": "b6151e1e-3062-4fb8-9b76-474c063ef41f",
+    "depth": 3,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "9b2361bb-ecc0-45d4-99b4-62537beea6f3"
+  },
+  "0b0f34e8-7aeb-4b38-bf1c-81a3f70317fe": {
+    "summary": "Knowledge is intersubjective and relies on shared understanding among individuals.",
+    "content": "{Knowledge is based on agreements and mutual acceptance among individuals}, {Knowledge is reinforced through ongoing dialogue and interaction}, {Knowledge can transform without negating earlier understandings}.",
+    "node_type": "synthesis",
+    "parent_id": "b6151e1e-3062-4fb8-9b76-474c063ef41f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "aff2ab3d-f281-4f02-b93e-c8e10d5e05ab": {
+    "summary": "Knowledge is a collective achievement that balances tradition and innovation.",
+    "content": "{Knowledge builds upon established beliefs while allowing for innovation}, {Knowledge is maintained through community endorsement and scrutiny}, {Knowledge evolves as communities reassess their understanding in light of new experiences}.",
+    "node_type": "synthesis",
+    "parent_id": "b6151e1e-3062-4fb8-9b76-474c063ef41f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8b6b19d1-6bc8-4b4a-8bba-d101fca430c0": {
+    "summary": "Knowledge is a socially influenced process that integrates individual and communal perspectives.",
+    "content": "{Knowledge is influenced by social contexts}, {Knowledge incorporates both individual experiences and communal norms}, {Knowledge requires critical scrutiny of communal beliefs}",
+    "node_type": "synthesis",
+    "parent_id": "b566c3d0-ba42-435e-85eb-ca699e9c45d6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "26547750-4b2d-4b4b-ad3b-7c4817051e4d": {
+    "summary": "Knowledge is an interactive process that includes both individual insight and societal validation.",
+    "content": "{Knowledge combines personal beliefs with social endorsement}, {Knowledge recognizes the importance of community in shaping understanding}, {Knowledge necessitates ongoing dialogue between individuals and the community to assess beliefs}",
+    "node_type": "synthesis",
+    "parent_id": "b566c3d0-ba42-435e-85eb-ca699e9c45d6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dd0c4c8e-2bcf-4b3e-ac07-e781305fb0cb": {
+    "summary": "Knowledge emerges from the interplay between individual cognition and collective reasoning.",
+    "content": "{Knowledge is formulated through a dialogue between individual thought and community input}, {Knowledge involves assessing the reliability of both personal and communal beliefs}, {Knowledge adapts to new evidence and perspectives while considering social contexts}",
+    "node_type": "synthesis",
+    "parent_id": "b566c3d0-ba42-435e-85eb-ca699e9c45d6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5f3d7027-f92a-45cb-ad1f-7adf31eb5b31": {
+    "summary": "Knowledge is formed through a collaborative process that values diverse perspectives.",
+    "content": "{Knowledge thrives on contributions from various individuals within a community}, {Knowledge appreciates the plurality of viewpoints as a source of strength}, {Knowledge involves a dynamic interplay between differing opinions to reach a consensus}",
+    "node_type": "synthesis",
+    "parent_id": "b566c3d0-ba42-435e-85eb-ca699e9c45d6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c7c77c03-957d-4243-acab-d81c4a850736": {
+    "summary": "Can knowledge really be equated with reliable belief formation?",
+    "content": "{Consider a scenario in which a person accurately believes that a specific event will happen, but only due to sheer luck rather than any reliable method of belief formation. In such a scenario, intuitively we would judge that while the belief is true and held, it does not amount to knowledge since it lacks a sound basis.}, {There is a plausible principle that for belief to constitute knowledge, it must not only be true but also justified in a way that reflects understanding or reasoning. This principle together with the earlier statement about knowledge entails that knowledge cannot arise purely from unreliable methods such as guessing or random chance.}, {It is implausible that knowledge can derive solely from unreliable processes. If knowledge could arise from such processes, then we would be compelled to say that countless false beliefs could accidentally count as knowledge on similar grounds of luck, which undermines a foundational aspect of what knowledge is understood to be.}",
+    "node_type": "antithesis",
+    "parent_id": "6044e5be-17b5-4f6f-80b8-8b900c8834ef",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "26479969-f514-466e-801f-56fbdfac1ab3"
+  },
+  "e3c5fc03-0d96-42fb-84a1-7cdddc24d8a1": {
+    "summary": "Does reliability alone capture the full nature of knowledge?",
+    "content": "{Suppose we have a case in which a person has a deeply held belief based on a reliable method, but the underlying evidence is misleading. For instance, imagine a scientist who arrives at a conclusion based on a method deemed reliable, but due to an unforeseen variable, their result is false. Intuitively, we either have to say that this person knows their conclusion is true, or that they do not. If we say they know, then we are suggesting that knowledge hinges too heavily on the reliability of the method rather than the truth of the belief itself. If we say they do not know, then it challenges the sufficiency of reliability as a condition for knowledge.}, {Consider another case where a reliable method leads to a belief that is ultimately false due to some unexpected interference. In this case, even if the method of belief formation is reliable, the conclusion reached does not reflect reality. Therefore, it shows that reliability alone fails to secure knowledge when the belief lacks truth.}, {There is a principle which suggests that knowledge must involve a combination of truth, belief, and a proper justification. This principle indicates that if reliability is insufficient for ensuring that knowledge remains intact, then knowledge cannot simply be defined with reference to reliable processes without consideration of truth.}",
+    "node_type": "antithesis",
+    "parent_id": "6044e5be-17b5-4f6f-80b8-8b900c8834ef",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "85cf1872-147c-43ac-b550-5b8ed6f2885e": {
+    "summary": "Is the necessity of belief too restrictive for understanding knowledge?",
+    "content": "{Consider a scenario in which a person has an accurate insight about an event that they do not actively believe to be true. For instance, suppose a child intuits that a hidden treasure is nearby but has not yet formed an explicit belief about it. Intuitively, we might judge that if the treasure is indeed present, the child somehow \"knows\" about it even without a conscious belief.}, {There is a plausible principle that knowledge can sometimes arise without conscious belief. If a person has a correct understanding of a phenomenon that they are unaware of believing, then asserting that belief is essential for knowledge seems to restrict our understanding of what knowledge might entail.}, {It is problematic to claim if a person knows something, they must first believe it because it excludes cases of implicit knowledge or knowledge that arises via a non-assertive awareness of a matter, thereby posing challenges for this condition of knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "6044e5be-17b5-4f6f-80b8-8b900c8834ef",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8838db3a-b61d-4e2c-9b62-c33ec7f37dd5": {
+    "summary": "Can we separate truth from the reliability of belief formation in defining knowledge?",
+    "content": "{Suppose we have a case in which a person employs a method that they believe to be reliable, but it turns out that adherence to this method leads them to numerous false conclusions. For example, consider a person using a faulty algorithm in a computer program that frequently produces erroneous outputs. Intuitively, while their method seems reliable due to its systematic nature, they cannot be said to know the information the program provides because it is predominantly incorrect.}, {There is a plausible principle that knowledge requires both an accurate method of formation and the actual truth of the belief formed by that method. This principle, alongside the situation described, indicates that a lack of truth can negate claims to knowledge regardless of the method\u2019s perceived reliability.}, {It is implausible to state that a belief formed from a 'reliable' but misleading process equates to knowledge, since true knowledge demands a convergence of belief, truth, and a reliably accurate process; a failure in any aspect would undermine the integrity of the knowledge claim.}",
+    "node_type": "antithesis",
+    "parent_id": "6044e5be-17b5-4f6f-80b8-8b900c8834ef",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "844309ce-0bdb-4dca-91c6-f440e95f943a": {
+    "summary": "Isn't it problematic to say that coherent belief systems guarantee knowledge?",
+    "content": "{Consider a scenario in which a person holds a set of beliefs that are internally consistent but all false. For instance, suppose a person believes that the Earth is flat, based on a coherent set of false beliefs about the nature of gravity, and they completely reject any contradictory evidence. In such a scenario, intuitively we would judge that this person does not know that the Earth is flat, despite their coherent beliefs.}, {There is a plausible principle that for someone to claim knowledge, their belief must be true. This principle together with the earlier scenario entails that coherence alone does not ensure knowledge, as a coherent set of false beliefs does not confer knowledge about the world.}, {It is implausible that coherence of belief alone can determine the truth of a belief. Beliefs can be coherent yet entirely disconnected from objective reality, suggesting that knowledge must involve more than just a supportive network of beliefs.}",
+    "node_type": "antithesis",
+    "parent_id": "ebcf2627-b801-4572-8c9f-ffbf35a99592",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b793b70c-9f17-41ad-8676-c9132e6e029b": {
+    "summary": "How does one account for belief revision without undermining knowledge?",
+    "content": "{Suppose we have a case where a person initially holds a belief that \"All swans are white,\" which is part of a coherent system of beliefs about nature. However, when they observe a black swan, they face a dilemma between maintaining coherence and acknowledging the falsity of their previous belief. Intuitively, if the person adjusts their belief to include that \"some swans are black,\" they may no longer maintain the same coherent system. If we say the system must remain coherent for knowledge, then knowledge seems easily lost as beliefs are revised. If we say knowledge is preserved through revision, then this raises questions about how coherence interacts with changing beliefs.}, {There is a plausible principle that knowledge should be stable over time. This principle along with the belief revision case suggests that if knowledge shifts with belief changes, then it cannot merely be a product of coherence, as knowledge would become unstable with every update to belief systems.}, {It is implausible that knowledge could be a static construct situated solely in coherence since we frequently revise beliefs in light of new evidence, indicating that knowledge may require a more dynamic concept than coherence alone allows.}",
+    "node_type": "antithesis",
+    "parent_id": "ebcf2627-b801-4572-8c9f-ffbf35a99592",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "02babdd8-b308-4505-85c9-dfacfce62f42": {
+    "summary": "Doesn't this view risk collapsing into skepticism about knowledge?",
+    "content": "{Consider a scenario where individual A believes a proposition supported by their holistic belief system, but there is another individual B with an equally coherent yet contradictory belief system. For example, A believes in the truth of climate change based on scientific data, while B believes it is a hoax, based on another coherent set of beliefs. In such a scenario, intuitively we would judge that both individuals cannot truly know their opposing positions if we accept this view, leading us to a standoff of conflicting \"knowledges.\"}, {There is a plausible principle that for knowledge to be meaningful, it must be distinguishably true in a way that can be objectively assessed. This principle together with the previous case of A and B entails that if all beliefs can be \"knowledge\" depending on their coherence, then the concept of knowledge loses its discriminating power and risks skepticism regarding what can be truly known.}, {It is implausible that knowledge can exist in an environment with multiple equally coherent but conflicting belief systems, as this would imply that knowledge is entirely subjective and dependent only on one\u2019s belief network, undermining the very nature of objective truth.}",
+    "node_type": "antithesis",
+    "parent_id": "ebcf2627-b801-4572-8c9f-ffbf35a99592",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a004e345-813d-4ebf-9270-9a205541d11f": {
+    "summary": "Doesn't this view overlook the role of empirical evidence in knowledge?",
+    "content": "{Imagine a scenario where a scientist forms a coherent belief system about a certain phenomenon based solely on theoretical reasoning, without any empirical evidence to back it up. Suppose they believe all chemical compounds will behave in a particular way during reactions, derived entirely from their own constructed coherence. Intuitively, we would judge that the scientist does not truly know how the compounds will react if no empirical evidence supports their belief.}, {There is a plausible principle that empirical evidence is a necessary component of knowledge. This principle together with the scientist's scenario entails that coherence alone lacks the robustness to elevate a belief to the status of knowledge, especially in scientific contexts where evidence plays a critical role.}, {It is implausible that a belief system can be deemed sufficient for knowledge without reference to empirical observations, as knowledge, especially in science, is deeply intertwined with evidence gained through experience and experimentation, which cannot be captured by coherence alone.}",
+    "node_type": "antithesis",
+    "parent_id": "ebcf2627-b801-4572-8c9f-ffbf35a99592",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "844309ce-0bdb-4dca-91c6-f440e95f943a"
+  },
+  "f4f686d3-b42a-427a-8591-1f1c23788848": {
+    "summary": "Does the dependency of knowledge on context lead to problematic cases of disagreement?",
+    "content": "Consider a scenario in which two individuals, Alice and Bob, are in a discussion about a philosophical claim. Alice believes the claim to be true based on the standards of their academic setting, while Bob believes it to be false based on the same context. In such a scenario, intuitively we would judge that one of them must be incorrect, yet both could meet the contextual standards for knowledge. This creates a conflict because it suggests that knowledge, based on the context, can yield opposing truths simultaneously, which is counterintuitive.",
+    "node_type": "antithesis",
+    "parent_id": "04001507-e123-4a43-a38d-c50388aefd54",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "159d1bc3-f993-421a-8fe5-66ed5e49e6b6": {
+    "summary": "Is knowledge too flexible if it entirely depends on context?",
+    "content": "There is a plausible principle that if knowledge were too flexible, it could lead to situations where we say that individuals have knowledge in cases where they clearly do not. Imagine a case where a person, Charlie, believes a proposition that is actually false but does so based on misleading information that is typical for his environment. If we apply the view, Charlie could still be said to 'know' this false proposition if his belief aligns with the contextual standards, which seems counterintuitive and implausible because it undermines the idea that knowledge should point towards truth.",
+    "node_type": "antithesis",
+    "parent_id": "04001507-e123-4a43-a38d-c50388aefd54",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c85cc203-96a7-4e9b-adea-51027e293422": {
+    "summary": "Does contextualism ignore the role of objective truth in knowledge?",
+    "content": "Suppose we encounter a scenario where Dana is convinced that a proposition is true due to the prevailing beliefs in a specific context. However, unknown to Dana, the proposition is actually false. Intuitively, we have to say that Dana does not truly 'know' the proposition, since knowledge is often thought to require an objective correspondence with reality, namely that belief must align not just with local standards but with the actual truth. If we maintain that knowledge is purely contextual, we risk redefining knowledge in a way that detaches it from the necessity of truth in a more absolute sense.",
+    "node_type": "antithesis",
+    "parent_id": "04001507-e123-4a43-a38d-c50388aefd54",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "159d1bc3-f993-421a-8fe5-66ed5e49e6b6"
+  },
+  "5add23a8-6c6a-4713-96a7-545a517f923f": {
+    "summary": "Could contextual knowledge lead to epistemic relativism?",
+    "content": "There is a plausible principle that if knowledge depends entirely on contextual norms, then it might allow for a form of epistemic relativism, where various conflicting beliefs can all be deemed 'knowledge' in their respective contexts. For instance, consider a case where Eva in one community believes the Earth is flat due to local acceptance of this view, while Frank in another community holds the opposite belief to be true. If both are said to 'know' their respective propositions based solely on their contexts, then one proposition contradicts the other, leading us to say that knowledge has become relative rather than absolute, which poses a serious challenge to the idea of objective knowledge.",
+    "node_type": "antithesis",
+    "parent_id": "04001507-e123-4a43-a38d-c50388aefd54",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a094099a-2b00-42e1-9be7-7d71015d166c": {
+    "summary": "Does the requirement for a dynamic relationship in knowledge unjustifiably complicate the criteria for knowing a proposition?",
+    "content": "{Consider a scenario where person A believes that it will rain tomorrow, this belief is true, and A has strong justification based on a reliable weather forecast. However, the forecast changes and indicates sunshine instead, leading A to abandon their belief. In this situation, A originally had knowledge of the proposition, but after the update, A no longer believes it. Intuitively, we would judge that A had knowledge at the first stage.} {It is plausible to assert that knowledge is a stable state over time. This principle together with the fact that A\u2019s belief was true and justified at one moment in time entails that A\u2019s knowledge should remain intact regardless of subsequent changes in justification.} {It is implausible that knowledge is so fragile that its existence can be revoked simply due to changes in evidence or belief.}",
+    "node_type": "antithesis",
+    "parent_id": "cfee7204-6e66-4c4f-be3a-13df9158cf36",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "442719f6-4e40-4060-96a8-1412ca32478a": {
+    "summary": "Is the necessity for belief too restrictive in defining knowledge?",
+    "content": "{Suppose we have a case in which a person B has a false belief that the Earth is flat based on their upbringing. However, they happen to come across convincing evidence that the Earth is round, and upon reflecting on this evidence, they come to understand the truth. Intuitively, we might think that B now knows that the Earth is round, despite the fact that initially they held a false belief about it.} {It is plausible to assert that understanding or insight can provide knowledge even without prior belief. This principle together with the scenario of B\u2019s discovery entails that knowledge can exist independently of one\u2019s believing the true proposition at an earlier moment.} {It seems implausible that a person may not know a truth simply because they did not hold the correct belief about it before discovering the evidence.}",
+    "node_type": "antithesis",
+    "parent_id": "cfee7204-6e66-4c4f-be3a-13df9158cf36",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "473c0de0-a96a-446c-a394-92742276f893": {
+    "summary": "Can truth be understood as an essential criterion for knowledge in all cases?",
+    "content": "{Consider a scenario in which person C believes that a hidden treasure exists in a specific location, and this belief is in fact false. C has a comforting sense of belief that provides them with joy, and they actively search for the treasure while engaging in a fulfilling adventure. Intuitively, we would not say that C knows the proposition that a treasure exists, because it is false.} {It is plausible to argue that knowledge requires the actual truth of the proposition being known. This principle together with the fact that C's belief is false entails that C cannot possess knowledge regarding the treasure.} {It seems implausible to accept that a belief, regardless of its justification or emotional context, can constitute knowledge if it does not align with reality.}",
+    "node_type": "antithesis",
+    "parent_id": "cfee7204-6e66-4c4f-be3a-13df9158cf36",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "409e3fd8-8b87-4c90-bad3-2528f3c36418": {
+    "summary": "Does the adaptability of justification pose problems for the concept of knowledge?",
+    "content": "{Suppose we have a case where person D believes they are taking a medication that will cure their illness based on expert advice. However, new evidence arises indicating that the medication is ineffective. D updates their justification and stops taking the medication. Intuitively, we would judge that D's belief was justified initially, but after the evidence changes, we would question whether they now know the efficacy of the medication.} {It is plausible to argue that knowledge should be consistent and reliable over time. This principle together with the scenario of D\u2019s changing justification entails that D's knowledge may be compromised when justifications adapt in ways that reflect uncertainty.} {It seems implausible that knowledge should fluctuate so rapidly based on the availability of evidence, raising doubts about the stability of knowledge in light of adaptive justifications.}",
+    "node_type": "antithesis",
+    "parent_id": "cfee7204-6e66-4c4f-be3a-13df9158cf36",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0d6aa9ea-0f95-416a-a67c-98fcd87525f3": {
+    "summary": "Does the emphasis on practical success overlook cases of knowledge in less active contexts?",
+    "content": "{Consider a scenario in which a scientist discovers a crucial fact about a phenomenon simply by reading a paper, without any direct interaction with that phenomenon. In such a scenario, intuitively, we would judge that the scientist knows the proposition stated in the paper.} {This challenges the claim that knowledge must arise from successful interaction with the environment because here, the scientist's knowledge is not the result of practical success but rather of passive acquisition of information.} {It seems implausible that knowledge can only be derived from active engagement, as this excludes valid forms of knowledge acquisition like reading or education.}",
+    "node_type": "antithesis",
+    "parent_id": "1b1959c1-84c3-4985-9dbf-9e47019c0890",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d839ebac-4a33-4bb8-8660-ecab3a5e9d96": {
+    "summary": "How does this view account for cases where knowledge is obtained without direct success?",
+    "content": "{Suppose a person learns that it is raining outside by seeing puddles on the ground from their window. Even though they are not outside directly interacting with the rain, they still know it is raining.} {Intuitively, we would judge that the person knows the proposition that it is raining despite not having successfully interacted with the event in a traditional sense.} {If we say this person does not know because they did not interact directly with the rain, then we exclude valid knowledge claims that arise from indirect observation.}",
+    "node_type": "antithesis",
+    "parent_id": "1b1959c1-84c3-4985-9dbf-9e47019c0890",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "0d6aa9ea-0f95-416a-a67c-98fcd87525f3"
+  },
+  "2d655715-c87a-42ab-bccf-e6c2e41ebfb1": {
+    "summary": "Does this view's criteria for knowing exclude certain forms of knowledge that seem plausible?",
+    "content": "{There is a plausible principle that knowledge can be gained through testimony. For instance, a person may hear from a trusted friend that a particular restaurant has great food. This principle together with the requirement for successful interaction implies that this person cannot genuinely know the quality of the food unless they have eaten there themselves.} {In this case, intuitively, we would judge that the person has knowledge about the restaurant's quality based on testimony, yet this view suggests they do not know because their belief lacks direct validation through personal experience.} {It is implausible that only direct experience constitutes knowledge, as it dismisses the credibility of learning from others.}",
+    "node_type": "antithesis",
+    "parent_id": "1b1959c1-84c3-4985-9dbf-9e47019c0890",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f3f17c6a-6633-4d56-85b6-ca6b73303802": {
+    "summary": "Does the focus on functional understanding disregard cases of knowledge gained through intuition or recognition?",
+    "content": "{Consider a scenario where a musician recognizes a particular chord structure in a piece of music they have never encountered before, based solely on their intuitive grasp of musical theory. In such a scenario, intuitively, we would judge that the musician knows the musical properties of the chord structure.} {The success of their belief demonstrated through recognition does not seem to necessitate an explicit functional understanding or practical interaction with that specific chord.} {It is implausible that such intuitive knowledge should be dismissed, as it is contextually significant and reflects genuine cognitive ability.}",
+    "node_type": "antithesis",
+    "parent_id": "1b1959c1-84c3-4985-9dbf-9e47019c0890",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "726c153d-4bd1-4cdc-b382-773f669cd34a": {
+    "summary": "Does knowledge necessarily require an explanatory link to the truth of a belief?",
+    "content": "{Suppose we have a case in which an individual forms a belief that a certain answer is correct based on luck, such as guessing the correct answer to a trivia question without any reasoning. Intuitively, we would judge that this individual does not know the correct answer. If we say that knowledge requires an explanatory link to the truth, then this case would violate that requirement because the individual has no such link. If we say that the individual does know the answer, then we must reconsider the requirement that knowledge involves an explanatory connection to its truth.}, {There is a plausible principle that knowledge should not depend solely on luck or coincidence. This principle together with the view that knowledge requires an explanatory link entails that if one can achieve a true belief without an explanatory connection, it raises questions about the adequacy of the explanatory link requirement.}, {It is implausible that knowledge is unattainable through sheer luck; one can know something even if they arrived at that knowledge without an explanatory link, demonstrating that the requirement may be too strict.}",
+    "node_type": "antithesis",
+    "parent_id": "00489471-746a-4a14-a154-65f049ca4e88",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "c7c77c03-957d-4243-acab-d81c4a850736"
+  },
+  "42e8848a-7eef-4b00-bfac-15d0d75a7776": {
+    "summary": "Can a belief that is formed under highly probable conditions still lack knowledge due to other factors?",
+    "content": "{Consider a scenario where a person forms a belief that it is going to rain tomorrow based on a reliable weather forecast. However, the forecast turns out to be incorrect, and it does not rain. In such a scenario, intuitively we would judge that the person does not know it will rain, despite the context being highly likely to indicate rain. This reveals that even in situations where the belief is formed in a context likely to be true, external factors can still undermine knowledge.}, {There is a plausible principle that knowledge should be stable against counterexamples in cases where beliefs are well-founded. This principle together with the requirement that knowledge must be formed in a context where it is likely to be true entails that knowledge is not just about probable contexts; it also must withstand unexpected outcomes.}, {It is implausible that the likelihood of a belief being true is sufficient to ensure knowledge, suggesting that merely having a probable context does not encompass the complexity of what constitutes knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "00489471-746a-4a14-a154-65f049ca4e88",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "beb498de-80a0-40b2-af1d-12b1104b538c": {
+    "summary": "How does truth and formation context affect the overall definition of knowledge?",
+    "content": "{Imagine a case where an individual believes a specific historical event occurred based on credible sources, but later it is revealed that those sources were unreliable. Intuitively, we would judge that this individual lacks knowledge of the event, even though their belief was formed in a context that seemed likely to be true. If we assert that the context alone guarantees knowledge, we face the contradiction that incorrect sources can still lead to perceived knowledge.}, {There is a plausible principle that knowledge is tied to both the truth of the belief and the reliability of the sources of belief formation. This principle together with the view that it is necessary for the proposition to be true implies that knowledge requires not only true beliefs but also a trustworthy basis for those beliefs.}, {It is implausible that knowledge can be solely dependent on the truth of a proposition while ignoring the reliability of the belief's formation context, which demonstrates a significant flaw in the view about how knowledge is structured.}",
+    "node_type": "antithesis",
+    "parent_id": "00489471-746a-4a14-a154-65f049ca4e88",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "79ac9d20-c826-4223-a2f0-0361b47c5dc9": {
+    "summary": "Is a substantive connection to the truth essential for knowledge, or can it be derived from other epistemic considerations?",
+    "content": "{Consider a thought experiment involving a person who believes that the Earth orbits the Sun due to their education. However, unbeknownst to them, the education was based on extremely misleading information, and they only believe this by mere repetition without understanding. Intuitively, we would hesitate to say that this individual truly knows the fact, despite the truth of the proposition. If we insist on the requirement of a substantive connection to truth, this case shows a conflict between what is known and how that knowledge is formed.}, {There is a plausible principle that knowledge involves an understanding or justification for the truth, rather than just a connection to it. This principle together with the view that belief must be truth-bearing suggests that knowledge is more nuanced than merely possessing a true belief linked to its truth.}, {It is implausible to assert that an individual can have knowledge without an understanding or justification, indicating that the requirement for a substantive connection to the truth may overlook essential aspects of how knowledge is actually attained and understood.}",
+    "node_type": "antithesis",
+    "parent_id": "00489471-746a-4a14-a154-65f049ca4e88",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d5800c71-c9ce-4120-a325-953aeeb88d52": {
+    "summary": "Does the view account for cases where justification appears to be contextually irrelevant?",
+    "content": "{Consider a scenario in which a juror believes that a defendant is guilty based on evidence that is strong in a public setting but is disputed privately. In such a scenario, intuitively we would judge that the juror's belief about guilt does not equate to knowledge, even if the evidence aligns with community standards.}, {It is implausible that the context of a juror's belief should undermine or support their knowledge claim when the standards for knowledge are objectively met.}, {Suppose we have a case in which a scientist believes they have discovered a new planet, supported by robust data, but peers in their community dismiss the claim without just cause. Intuitively, we either have to say that the scientist knows they discovered a planet or that they do not. If we say they do know, then it contradicts the contextual idea that knowledge requires social validation. If we say they do not know, then we undermine the objective nature of their justified belief.}",
+    "node_type": "antithesis",
+    "parent_id": "530de372-af2d-4eb6-bb78-a61e7815f548",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0ffc6abf-a7d3-4e97-9fad-c6c30406f217": {
+    "summary": "Can knowledge truly change with differing contextual standards?",
+    "content": "{There is a plausible principle that knowledge should not shift based solely on arbitrary contextual standards. This principle together with the claim that knowledge should be grounded in objective truth and justification implies that knowledge ought to remain constant across different contexts.}, {Consider a scenario where two individuals, Alice and Bob, independently arrive at conflicting conclusions about the same scientific phenomenon, each satisfying their respective communities' standards. In such a scenario, intuitively we would judge that only one can actually possess true knowledge, suggesting knowledge is not context-dependent.}, {It is implausible that two people can hold contradictory beliefs as knowledge based on their differing contexts, as it complicates the notion of objective truth in knowledge claims.}",
+    "node_type": "antithesis",
+    "parent_id": "530de372-af2d-4eb6-bb78-a61e7815f548",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "58f211d3-7a6e-4abb-a5c5-af6f914277de": {
+    "summary": "Does contextual justification undermine the objectivity of knowledge?",
+    "content": "{Consider a scenario where a teacher instructs students that the Earth is flat within a specific educational framework endorsed by the school community, while outside that community, the scientific consensus refutes this claim. In such a scenario, intuitively we would judge that the students do not truly know the Earth is flat, despite it being justified within their context.}, {It is implausible that a justification based on a highly localized perspective could lead to a legitimate knowledge claim when contradicted by broader objective evidence.}, {Suppose we have a case in which a group of philosophers claims to know a novel ethical theory based solely on their internal discussions without wider academic validation. Intuitively, we either have to say that they do not know due to lack of external justification or that knowledge can exist independent of wider validation, challenging the traditional understanding of knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "530de372-af2d-4eb6-bb78-a61e7815f548",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1b6be691-f78d-4b8c-bde7-a54279af3073": {
+    "summary": "Is the reliance on community standards too subjective to define knowledge?",
+    "content": "{There is a plausible principle that community standards for justification should be objective and not simply based on subjective opinions or norms. This principle implies that if justification is entirely context-dependent, then knowledge becomes too fluid and unreliable.}, {Consider a scenario in which a local community believes in a superstitious practice as a justified means of healing. In such a scenario, intuitively we would judge that if the practice does not hold by broader scientific standards, then it cannot constitute knowledge, despite being justified within that community.}, {It is implausible that knowledge can derive from standards that vary drastically across contexts, as that would make the concept of knowledge inherently unstable and subject to mere opinion.}",
+    "node_type": "antithesis",
+    "parent_id": "530de372-af2d-4eb6-bb78-a61e7815f548",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fa15db0a-4070-473e-bc74-23f6b7bc70d3": {
+    "summary": "Does the requirement for effective utilization of information overemphasize the role of cognitive processes in knowledge?",
+    "content": "{Consider a scenario where a person A has extensive knowledge about a subject but is currently experiencing a severe cognitive impairment due to stress, making it impossible for them to utilize that knowledge effectively. In this scenario, A still possesses the knowledge but cannot utilize it. Intuitively, we would still say that A knows the information despite their inability to apply it at that moment.}, {It is plausible to think that knowledge can exist independently from the immediate ability to utilize that knowledge effectively. For example, a student may know mathematical formulas but may not recall them during a timed exam due to anxiety. This indicates that knowledge does not strictly require the ability to utilize the information in every context.}, {It is implausible that the mere ability to utilize information is a prerequisite for knowledge, as this would exclude individuals with certain disabilities or impairments who still possess knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "57a22c2c-57a7-46aa-97a3-c59b8efc5b85",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "acd6551a-7ae5-4463-b737-2c1139af6d46": {
+    "summary": "Is the notion that accessibility of information in a given context a necessary component of knowledge too restrictive?",
+    "content": "{Imagine a case where a person B has extensive knowledge about historical events but is currently in a context where they cannot access any external resources, such as books or the internet. Despite their lack of immediate access to this information, B still possesses knowledge. In such a scenario, intuitively, we would judge that B knows the information even if they cannot access it at that moment.}, {There is a plausible principle that states knowledge relies on both internal and external conditions. Hence, even if information is not accessible in a specific context, this does not negate B's knowledge of that information.}, {If knowledge strictly required accessibility of information in a given context, it would imply that specialized knowledge, such as a doctor\u2019s knowledge of medical procedures, would cease to exist when they are away from their resources, which seems unreasonable.}",
+    "node_type": "antithesis",
+    "parent_id": "57a22c2c-57a7-46aa-97a3-c59b8efc5b85",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "78517148-b84b-4c59-bcfc-e2b01b7d7bcc": {
+    "summary": "Does knowledge truly depend on the cognitive acquisition of information, or is there a broader scope?",
+    "content": "{Suppose we have a scenario where a person C has a deep understanding of how to ride a bike but has never acquired explicit verbal information about it through formal instruction. In this case, C can ride a bike flawlessly. Intuitively, we would have to say that C knows how to ride a bike, even though their knowledge does not come from traditional information acquisition.}, {There is a plausible principle that implicit knowledge, such as skills or know-how, can exist independently of formal or explicit information acquisition. This principle suggests that one can possess knowledge without having gone through a cognitive process of acquiring information.}, {It is implausible to claim all forms of knowledge can be reduced to cognitive acquisition since this view excludes areas of knowledge concerned with practical skills and experiential learning.}",
+    "node_type": "antithesis",
+    "parent_id": "57a22c2c-57a7-46aa-97a3-c59b8efc5b85",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "2a832c4e-51dd-4a0d-8ae0-4de204fa3014"
+  },
+  "3afb2de4-3cb8-47ef-bc00-868b034b1737": {
+    "summary": "Is the theory overly focused on personal capabilities at the expense of social contexts for knowledge?",
+    "content": "{Consider a case where person D is part of a team project where they contribute knowledge that others utilize. Person D may not have all the contextual information to utilize their knowledge effectively but still knows the information well enough to share it. In this scenario, D\u2019s knowledge is valuable even if it can't be fully utilized by them alone. Intuitively, we would judge that D possesses knowledge in a social context irrespective of their ability to utilize it fully.}, {There is a plausible principle that knowledge often functions in a communal sense rather than a purely individualistic manner, implying that knowledge can exist and be valuable even when the individual lacks the ability to utilize it effectively at a given moment.}, {It is implausible that knowledge can be understood solely through personal utility since many instances of knowledge rely on collective efforts and contexts where others can leverage it, which means it should not solely depend on an individual's abilities.}",
+    "node_type": "antithesis",
+    "parent_id": "57a22c2c-57a7-46aa-97a3-c59b8efc5b85",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6b1711a0-3747-4232-8b2f-0e9ea970f82d": {
+    "summary": "Does knowledge truly require a pragmatic aspect related to the readiness to use information?",
+    "content": "{Consider a scenario in which a student possesses extensive knowledge about quantum mechanics but is currently unaware of its relevance to a specific problem at hand. In such a scenario, intuitively we would judge that the student still possesses knowledge of quantum mechanics, even though they are not ready to use that information in this particular context.}, {There is a plausible principle that knowledge can exist independently of the immediate applicability of information. This principle together with the scenario described above entails that the inclusion of a pragmatic aspect in defining knowledge is problematic.}",
+    "node_type": "antithesis",
+    "parent_id": "3516697c-86e9-4211-8526-0f5b4c4da28a",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "196a7b20-7d79-4bf3-911a-e273cb862d10": {
+    "summary": "Is cognitive acquisition alone sufficient for knowledge, irrespective of readiness to use information?",
+    "content": "{Suppose we have a case in which an individual diligently studies and memorizes an entire textbook on classical physics but then experiences a sudden amnesia that prevents them from recalling any of it. Intuitively, we would think that despite having acquired information, they do not possess knowledge in the functional sense, as they cannot access or apply it. If we say that they still have knowledge due to their prior cognitive acquisition, then such a claim undermines the idea that knowledge must be practically accessible. If we say they lack knowledge because they cannot access it, then this challenges the original view that knowledge depends solely on cognitive acquisition.}, {This suggests that cognitive acquisition alone cannot be the definitive criterion for knowledge, calling into question the completeness of the view presented.}",
+    "node_type": "antithesis",
+    "parent_id": "3516697c-86e9-4211-8526-0f5b4c4da28a",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9007bafd-bb20-4fc0-a8d0-9ea3f44a32e2": {
+    "summary": "Can knowledge exist without the immediate ability to recall and apply information?",
+    "content": "{Imagine a case where a researcher has extensive knowledge about a rare disease but is not currently involved in any relevant research and thus cannot immediately apply that information. Intuitively, we would judge that the researcher still has knowledge about the disease, as their background informs their expertise. If we assert that knowledge requires current readiness to apply information, then we must also contend that a specialist's expertise could be negated during periods of inactivity, which seems counterintuitive.}, {This suggests that the reliance on the readiness to apply knowledge fails to capture the continuous nature of knowledge as an intellectual asset.}",
+    "node_type": "antithesis",
+    "parent_id": "3516697c-86e9-4211-8526-0f5b4c4da28a",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "320c36d9-30c4-47ab-b162-b23f96485ce8": {
+    "summary": "Does the definition of knowledge as including a pragmatic aspect limit its broader nature?",
+    "content": "{Consider a scenario where a historian possesses a wealth of knowledge about ancient Rome but operates largely within a theoretical framework rather than applying this knowledge to current events. In this context, intuitively, we would still regard the historian as knowledgeable. If we say that knowledge must include a pragmatic aspect of use, we risk defining out of knowledge the contributions of scholars who operate in realms of theory and inquiry, limiting knowledge to only those instances where immediate application occurs.}, {There is a plausible principle that knowledge encompasses theoretical understanding and experiential application. This principle along with the previous scenario indicates that limiting knowledge to its application excludes legitimate forms of intellectual contribution.}",
+    "node_type": "antithesis",
+    "parent_id": "3516697c-86e9-4211-8526-0f5b4c4da28a",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c59fa728-ca13-464f-91dc-c8fc972da430": {
+    "summary": "Can knowledge really be just a dynamic relationship with information for practical application?",
+    "content": "{Consider a scenario in which a person has access to information but is unable to apply it effectively due to a lack of understanding. In such a scenario, intuitively we would judge that this person does not possess knowledge, despite their relationship with the information.}, {There is a plausible principle that knowledge requires comprehension rather than mere access to information. This principle together with the aforementioned scenario entails that knowledge cannot merely be a dynamic relationship with information when understanding is absent.}",
+    "node_type": "antithesis",
+    "parent_id": "1f923161-c0fc-4ca1-8ee1-187dbb12e219",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a9b1f2e9-aecb-4810-85af-61b280db0509": {
+    "summary": "Is it sufficient for knowledge to only involve active engagement and application of information?",
+    "content": "{Suppose we have a case in which a student effectively engages with a textbook during a test but has not actually internalized the information. Intuitively, we either have to say that the student knows the material or that they do not. If we say that they know, then it challenges the idea that knowledge is solely about engagement and application; if we say they do not know, then it questions what counts as knowledge beyond mere action.}, {This suggests it is implausible that knowledge can be fully captured by engagement and application when internalization is not guaranteed.}",
+    "node_type": "antithesis",
+    "parent_id": "1f923161-c0fc-4ca1-8ee1-187dbb12e219",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "604c9831-83a1-4ab4-bedf-4c0f67d0e509": {
+    "summary": "Can knowledge truly distinguish between well-founded beliefs and unfounded opinions?",
+    "content": "{Consider a scenario in which a person firmly believes in a conspiracy theory based on anecdotal evidence and lacks any solid foundation for their belief. Intuitively, we would judge that while the person has a belief, they do not possess knowledge.}, {There is a plausible principle that knowledge entails having justified beliefs, which can be understood as beliefs that are grounded in reliable evidence. This principle together with the conspiracy theory scenario entails that the distinction between well-founded beliefs and unfounded opinions is essential to understanding knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "1f923161-c0fc-4ca1-8ee1-187dbb12e219",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dd9dd3d2-10f2-49cc-97d9-89ce577d5321": {
+    "summary": "Does the requirement of practical application fully encapsulate what knowledge entails?",
+    "content": "{Imagine a scientist who has extensive theoretical knowledge about a phenomenon but has yet to apply that knowledge practically. Intuitively, we could say that the scientist knows the theory very well, despite not having put it into practice yet.}, {This leads to the conclusion that it is implausible that knowledge can be confined to practical application when theoretical understanding can exist independently of any practical deployment.}",
+    "node_type": "antithesis",
+    "parent_id": "1f923161-c0fc-4ca1-8ee1-187dbb12e219",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "9007bafd-bb20-4fc0-a8d0-9ea3f44a32e2"
+  },
+  "826a9f96-dbc1-4424-96cd-ff51c921d1ef": {
+    "summary": "Does knowledge truly depend on social consensus?",
+    "content": "{Consider a scenario in which a scientist discovers a new phenomenon but the scientific community is initially skeptical and refuses to accept the findings. Despite the evidence supporting the discovery, the scientist\u2019s knowledge remains unrecognized in the community. In such a scenario, intuitively we would judge that the scientist still possesses knowledge, independent of the community\u2019s acceptance.}, {There is a plausible principle that knowledge can exist independently of community validation. This principle together with the previous scenario entails that knowledge is not strictly contingent on social consensus.}, {It is implausible that knowledge can be reduced solely to social constructs, as this disregards the possibility of objective truths that may not be recognized by a community.}",
+    "node_type": "antithesis",
+    "parent_id": "0b35af8f-edaa-4107-b0f5-16e69c2abf1a",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "892b203f-2239-40e0-a3a2-452062706274": {
+    "summary": "How does individual insight factor into knowledge?",
+    "content": "{Suppose we have a case in which an isolated individual, with no social interaction, independently discovers a valid mathematical theorem. Intuitively, we would say that this individual knows the theorem is true. If we say that knowledge must be socially constructed, then we must contend that this individual does not possess knowledge, which seems counterintuitive. If we say that this individual does possess knowledge, then we challenge the view that knowledge necessitates social validation.}, {It is difficult to maintain that knowledge is solely a social construct if there are instances of valid knowledge that arise outside of communal interaction.}, {There is a genuine question about whether knowledge can be understood without reference to individual cognition, as individuals can generate knowledge that is not yet accepted by society.}",
+    "node_type": "antithesis",
+    "parent_id": "0b35af8f-edaa-4107-b0f5-16e69c2abf1a",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "eb3b3cc6-1aa0-4c2e-b195-5f13093683f9": {
+    "summary": "Is collective agreement a sufficient condition for knowledge?",
+    "content": "{Consider a scenario in which a group of people collectively agrees that a false statement, like 'the Earth is flat,' is true. In this case, intuitively we would judge that their collective agreement does not confer knowledge about the Earth's shape.}, {There is a plausible principle that collective agreement does not guarantee truth. This principle together with the previous scenario entails that knowledge cannot simply be equated with community consensus.}, {It is implausible that truth and knowledge can be entirely established through social consensus, as this invites the possibility of false knowledge being accepted as true by the majority.}",
+    "node_type": "antithesis",
+    "parent_id": "0b35af8f-edaa-4107-b0f5-16e69c2abf1a",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "b566c3d0-ba42-435e-85eb-ca699e9c45d6"
+  },
+  "231cbda3-8db7-4bdd-a3f4-b2395a778c98": {
+    "summary": "Can knowledge exist without external validation?",
+    "content": "{Suppose we have a case in which an individual holds a belief that is eventually shown to be true, but at the time they formed this belief, no external validation existed. Intuitively, we would judge that this person knows the truth, despite the lack of community support at that moment. If we say that knowledge strictly requires external validation, we face the issue of excluding legitimate beliefs that are later confirmed.}, {There is a plausible principle that knowledge can be formed from internally derived beliefs. This principle together with the prior scenario entails that knowledge can exist independently of external validation.}, {It is implausible that knowledge is bound by external sources, as many personal insights can lead to true knowledge that is not initially acknowledged by the community.}",
+    "node_type": "antithesis",
+    "parent_id": "0b35af8f-edaa-4107-b0f5-16e69c2abf1a",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "826a9f96-dbc1-4424-96cd-ff51c921d1ef"
+  },
+  "58891f4f-0111-46ca-92cd-4b32e74b2b93": {
+    "summary": "Is it possible to truly have knowledge without objective truth?",
+    "content": "{Consider a scenario in which a person has a deep belief that a particular piece of information is true due to their experiences, but in fact, the information is completely false. In such a scenario, intuitively we would judge that the person's belief lacks knowledge, despite their cognitive processing and certainty about the information.}, {A plausible principle is that for something to be considered knowledge, it must be true. This principle together with the previous scenario entails that the person's belief, although well-founded in their mind, cannot be classified as knowledge because it does not correspond to any objective reality.}",
+    "node_type": "antithesis",
+    "parent_id": "9c94a19d-e079-419d-8c8e-cf58b29024fd",
+    "depth": 4,
+    "terminal": true,
+    "nonsense": false,
+    "identical_to": "473c0de0-a96a-446c-a394-92742276f893"
+  },
+  "8c4ffd38-dc2b-4354-b51d-026531eb746d": {
+    "summary": "Can all experiential knowledge be assessed equally validly?",
+    "content": "{Suppose we have a case in which two individuals have different types of practical experiences\u2014one is a professional chef and the other is a novice cook. Both have developed skills and insights about cooking. Intuitively, we would want to say that the chef possesses a deeper and more legitimate form of knowledge compared to the novice. If we say that both individuals possess knowledge equally, then we would have to concede that there is no meaningful distinction between expertise and lack of expertise, which seems implausible. If we say the chef has superior knowledge, then we must clarify how experiential dimensions are hierarchically categorized.}",
+    "node_type": "antithesis",
+    "parent_id": "9c94a19d-e079-419d-8c8e-cf58b29024fd",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0ae86e10-dc4c-4f1b-bc96-a947d8666fa1": {
+    "summary": "Does the fusion of cognitive and experiential dimensions create ambiguity?",
+    "content": "{It is implausible that knowledge can be entirely captured by the integration of cognitive and experiential dimensions without generating confusion. For example, consider a student who understands the theoretical principles of physics but has never conducted a physics experiment. This student may excel in exams but lacks practical knowledge. If knowledge is defined as encompassing both dimensions, it becomes unclear how to classify the student's understanding compared to someone who has practical experience but lacks formal education in physics. The confusion arises because we must navigate scenarios where the two dimensions can lead to conflicting claims about what constitutes true knowledge.}",
+    "node_type": "antithesis",
+    "parent_id": "9c94a19d-e079-419d-8c8e-cf58b29024fd",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "928969a9-2aed-4b64-9ce8-0aae785648da": {
+    "summary": "Is deeper understanding inherently better than mere opinion?",
+    "content": "{There is a plausible principle that a distinguishing feature of knowledge is its ability to provide a well-founded basis for action, whereas opinion is typically less reliable. If we take a case where a person has a strong opinion based on a single experience but lacks further information and reflection\u2014say, a person who believes a particular remedy is effective due to anecdotal evidence\u2014they might act on this belief with confidence. However, if this opinion does not stand up to broader scrutiny or contradicts scientific understanding, the conviction may lead them to make poor decisions. This suggests that an opinion can lead to real-world consequences that do not exhibit the deeper understanding characteristic of knowledge, thus raising the question of whether all opinions should be considered alongside knowledge in terms of impact or validity.}",
+    "node_type": "antithesis",
+    "parent_id": "9c94a19d-e079-419d-8c8e-cf58b29024fd",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0ac6bd7d-18a7-4f8e-9041-d1725b36dc14": {
+    "summary": "Does knowledge necessarily require understanding, or can it exist without it?",
+    "content": "{Consider a scenario where a student memorizes a set of facts about a historical event without truly understanding its significance. In such a scenario, intuitively we would judge that the student possesses knowledge of those facts despite lacking understanding.}, {There is a plausible principle that knowledge can exist independently of a deeper comprehension of the subject matter. This principle together with the scenario of the memorizing student entails that knowledge does not strictly require understanding.}",
+    "node_type": "antithesis",
+    "parent_id": "7e5897e6-be0a-43b1-b85e-160710fa8ae5",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0d2df0ee-d449-4035-9814-093de3eab0eb": {
+    "summary": "Can knowledge involve a form of understanding that is not necessarily comprehensive?",
+    "content": "{Suppose we have a case in which an individual knows how to perform a specific task, such as riding a bicycle, but cannot explain why balancing works as it does. Intuitively, we either have to say that this person thoroughly understands the mechanics of balancing or that they possess practical knowledge without full comprehension. If we say they do thoroughly understand, then we would assume they can explain the mechanics. If we say they do not thoroughly understand, then this challenges the view that knowledge requires understanding.}",
+    "node_type": "antithesis",
+    "parent_id": "7e5897e6-be0a-43b1-b85e-160710fa8ae5",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "207a7c3f-4659-4fa7-9a86-ea2c449a945f": {
+    "summary": "Is contextualization in knowledge acquisition too restrictive?",
+    "content": "{Consider a scenario where a scientist discovers a new species but does so entirely by accident without contextual awareness of the broader ecological significance. In this case, intuitively we would judge that the scientist has knowledge of the new species, despite a lack of contextual understanding regarding its role in the ecosystem.}, {There is a plausible principle that knowledge can be factual and specific without requiring contextual relevance. This principle together with the accidental discovery scenario entails that knowledge can be attained without the necessity for broader understanding.}",
+    "node_type": "antithesis",
+    "parent_id": "7e5897e6-be0a-43b1-b85e-160710fa8ae5",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "be3a9d51-2d72-41ba-b592-015741804616": {
+    "summary": "Does the distinction between knowledge and mere opinion adequately capture all cases of human cognition?",
+    "content": "{Suppose we have a case in which a person strongly believes in a conspiracy theory based on shaky evidence, claiming to have knowledge of hidden truths. Intuitively, we either have to say that their conviction qualifies as knowledge or that it is merely opinion. If we say it qualifies as knowledge, then we must reconcile this with the idea that knowledge should be grounded in reliable information. If we say it is merely opinion, then we face challenges in distinguishing between a well-supported belief and a mere opinion.}",
+    "node_type": "antithesis",
+    "parent_id": "7e5897e6-be0a-43b1-b85e-160710fa8ae5",
+    "depth": 4,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}

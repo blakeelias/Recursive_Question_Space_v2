@@ -1,0 +1,13 @@
+{
+  "What is knowledge?": {
+    "summary": "Central Question",
+    "content": "What is knowledge?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "embedding_save_timestamp": "20250221_140356"
+}
