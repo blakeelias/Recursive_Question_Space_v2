@@ -9,7 +9,7 @@ import logging
 import faiss
 import numpy as np
 import embedding 
-from prompt_llm import load_prompts, generate_completion, parse_llm_output
+from prompt_llm import load_prompts, generate_completion, parse_llm_output, generate_completions_batch, parse_batch_outputs
 import pickle
 import types  # For adding methods to instance
 
@@ -17,11 +17,11 @@ import types  # For adding methods to instance
 class DialecticalGraph:
     def __init__(self, 
                 central_question: str, 
-                nonsense_threshold = 95, 
-                view_identity_threshold = 95,  
-                num_responses: int =100, 
-                num_reasons: int = 100, 
-                max_depth: Optional[int] = 4, 
+                nonsense_threshold, 
+                view_identity_threshold,  
+                num_responses: int, 
+                num_reasons: int, 
+                max_depth: Optional[int], 
                 max_time_seconds: Optional[float] = None, 
                 save_dir: str = "./temp", 
                 check_termination: bool = False):
@@ -134,16 +134,29 @@ class DialecticalGraph:
                 logging.info("Time limit reached after generating initial theses")
                 return
         
-        # Step 2: Generate reasons for each thesis (if not already done)
+        # Step 2: Generate reasons for each thesis (if not already done) using batch processing
         thesis_nodes = self.get_children_by_type(self.central_question, "thesis")
+        
+        # Collect theses that need reasons
+        theses_needing_reasons = []
+        thesis_ids_needing_reasons = []
+        
         for thesis_id in thesis_nodes:
             if thesis_id not in self.theses_with_reasons:
-                logging.info(f"Generating reasons for thesis {thesis_id}")
                 thesis_data = self.graph[thesis_id]
                 thesis_content = (thesis_data["summary"], thesis_data["content"])
-                
-                # Generate reasons
-                reasons = self.generate_reasons(thesis_content)
+                theses_needing_reasons.append(thesis_content)
+                thesis_ids_needing_reasons.append(thesis_id)
+        
+        if theses_needing_reasons:
+            logging.info(f"Batch generating reasons for {len(theses_needing_reasons)} theses")
+            
+            # Generate reasons in batch
+            reasons_sets = self.generate_reasons_batch(theses_needing_reasons)
+            
+            # Process each thesis with its generated reasons
+            for i, thesis_id in enumerate(thesis_ids_needing_reasons):
+                reasons = reasons_sets[i]
                 
                 if reasons is None:
                     # Add a blank node if LLM response was None
@@ -153,7 +166,7 @@ class DialecticalGraph:
                         node_type="reason_error",
                         parent_id=thesis_id
                     )
-                    return
+                    continue
                 
                 # Add reason nodes
                 for reason in reasons:
@@ -166,6 +179,7 @@ class DialecticalGraph:
                     
                     if self._check_time_exceeded():
                         return
+                
                 self.theses_with_reasons.add(thesis_id)
                 self.save_state()
                 
@@ -323,6 +337,29 @@ class DialecticalGraph:
         except Exception as e:
             print(f"Error generating theses: {e}")
             return None
+            
+    def generate_theses_batch(self, num_batches=3) -> List[Optional[list[tuple[str, str]]]]:
+        """Generate multiple batches of thesis responses in parallel
+        Returns a list of thesis sets, each containing multiple thesis pairs"""
+        system_role = ""
+        prompts = []
+        
+        # Create multiple prompts with the same content
+        for _ in range(num_batches):
+            prompts.append(self.prompts["thesis"].format(
+                num_responses=self.num_responses,
+                central_question=self.central_question_text
+            ))
+        
+        try:
+            # Generate all completions in parallel
+            batch_responses = generate_completions_batch(prompts, system_role)
+            # Parse all responses
+            theses_sets = parse_batch_outputs(batch_responses)
+            return theses_sets
+        except Exception as e:
+            print(f"Error generating batched theses: {e}")
+            return [None] * num_batches
 
     def generate_antitheses(self, thesis: tuple[str, str]) -> Optional[list[tuple[str, str]]]:
         """Generate N antitheses for a given thesis
@@ -340,6 +377,29 @@ class DialecticalGraph:
         except Exception as e:
             print(f"Error generating antitheses: {e}")
             return None
+            
+    def generate_antitheses_batch(self, theses: List[tuple[str, str]]) -> List[Optional[list[tuple[str, str]]]]:
+        """Generate antitheses for multiple theses in parallel
+        Returns a list of antithesis sets, each containing multiple antithesis pairs"""
+        system_role = ""
+        prompts = []
+        
+        # Create prompts for each thesis
+        for thesis in theses:
+            prompts.append(self.prompts["antithesis"].format(
+                num_responses=self.num_responses,
+                thesis=thesis
+            ))
+        
+        try:
+            # Generate all completions in parallel
+            batch_responses = generate_completions_batch(prompts, system_role)
+            # Parse all responses
+            antitheses_sets = parse_batch_outputs(batch_responses)
+            return antitheses_sets
+        except Exception as e:
+            print(f"Error generating batched antitheses: {e}")
+            return [None] * len(theses)
 
     def generate_direct_replies(self, thesis: tuple[str, str], antithesis: tuple[str,str]) -> Optional[list[tuple[str, str]]]:
         """Generate N direct replies to a thesis-antithesis pair
@@ -358,7 +418,30 @@ class DialecticalGraph:
         except Exception as e:
             print(f"Error generating direct replies: {e}")
             return None
+    
+    def generate_direct_replies_batch(self, thesis_antithesis_pairs: List[Tuple[tuple[str, str], tuple[str,str]]]) -> List[Optional[list[tuple[str, str]]]]:
+        """Generate direct replies for multiple thesis-antithesis pairs in parallel
+        Returns a list of direct reply sets"""
+        system_role = ""
+        prompts = []
         
+        # Create prompts for each thesis-antithesis pair
+        for thesis, antithesis in thesis_antithesis_pairs:
+            prompts.append(self.prompts["direct_reply"].format(
+                #num_responses=self.num_responses,
+                thesis=thesis,
+                antithesis=antithesis
+            ))
+        
+        try:
+            # Generate all completions in parallel
+            batch_responses = generate_completions_batch(prompts, system_role)
+            # Parse all responses
+            replies_sets = parse_batch_outputs(batch_responses)
+            return replies_sets
+        except Exception as e:
+            print(f"Error generating batched direct replies: {e}")
+            return [None] * len(thesis_antithesis_pairs)    
 
     def generate_syntheses(self, thesis: tuple[str, str], antithesis: tuple[str,str]) -> Optional[list[tuple[str, str]]]:
         """Generate N syntheses from a thesis-antithesis pair
@@ -377,6 +460,30 @@ class DialecticalGraph:
         except Exception as e:
             print(f"Error generating syntheses: {e}")
             return None
+            
+    def generate_syntheses_batch(self, thesis_antithesis_pairs: List[Tuple[tuple[str, str], tuple[str,str]]]) -> List[Optional[list[tuple[str, str]]]]:
+        """Generate syntheses for multiple thesis-antithesis pairs in parallel
+        Returns a list of synthesis sets"""
+        system_role = ""
+        prompts = []
+        
+        # Create prompts for each thesis-antithesis pair
+        for thesis, antithesis in thesis_antithesis_pairs:
+            prompts.append(self.prompts["synthesis"].format(
+                num_responses=self.num_responses,
+                thesis=thesis,
+                antithesis=antithesis
+            ))
+        
+        try:
+            # Generate all completions in parallel
+            batch_responses = generate_completions_batch(prompts, system_role)
+            # Parse all responses
+            syntheses_sets = parse_batch_outputs(batch_responses)
+            return syntheses_sets
+        except Exception as e:
+            print(f"Error generating batched syntheses: {e}")
+            return [None] * len(thesis_antithesis_pairs)
         
     def generate_reasons(self, thesis: tuple[str, str]) -> Optional[list[tuple[str, str]]]:
         """Generate supporting reasons for a given thesis
@@ -394,6 +501,29 @@ class DialecticalGraph:
         except Exception as e:
             print(f"Error generating reasons: {e}")
             return None
+            
+    def generate_reasons_batch(self, theses: List[tuple[str, str]]) -> List[Optional[list[tuple[str, str]]]]:
+        """Generate reasons for multiple theses in parallel
+        Returns a list of reason sets, each containing multiple reason pairs"""
+        system_role = ""
+        prompts = []
+        
+        # Create prompts for each thesis
+        for thesis in theses:
+            prompts.append(self.prompts["reasons"].format(
+                num_reasons=self.num_reasons,
+                thesis=thesis
+            ))
+        
+        try:
+            # Generate all completions in parallel
+            batch_responses = generate_completions_batch(prompts, system_role)
+            # Parse all responses
+            reasons_sets = parse_batch_outputs(batch_responses)
+            return reasons_sets
+        except Exception as e:
+            print(f"Error generating batched reasons: {e}")
+            return [None] * len(theses)
         
     
     def _process_odd_level(self, depth: int) -> bool:
@@ -422,16 +552,24 @@ class DialecticalGraph:
         if not nodes_to_process:
             return False  # No nodes to process at this level
             
-        # Process each node
+        # Prepare batch processing
+        node_contents = []
+        node_types = []
+        
         for node_id in nodes_to_process:
             node_data = self.graph[node_id]
-            node_content = (node_data["summary"], node_data["content"])
-            node_type = node_data["node_type"]
-            
-            logging.info(f"Generating antitheses for {node_type} node {node_id} {node_data['summary']}")
-            
-            # Generate antitheses
-            antitheses = self.generate_antitheses(node_content)
+            node_contents.append((node_data["summary"], node_data["content"]))
+            node_types.append(node_data["node_type"])
+        
+        logging.info(f"Batch generating antitheses for {len(node_contents)} nodes")
+        
+        # Generate antitheses in batch
+        antitheses_sets = self.generate_antitheses_batch(node_contents)
+        
+        # Process each node with its generated antitheses
+        for i, node_id in enumerate(nodes_to_process):
+            node_type = node_types[i]
+            antitheses = antitheses_sets[i]
             
             if antitheses is None:
                 # Add a blank node if LLM response was None
@@ -486,6 +624,7 @@ class DialecticalGraph:
         """
         Process all antithesis nodes at the given depth.
         Generate syntheses and direct replies for each node that hasn't been processed yet.
+        Uses batch processing for improved performance.
         Returns True if any nodes were processed.
         """
         # Find all antithesis nodes at this depth that haven't been processed
@@ -505,7 +644,9 @@ class DialecticalGraph:
         if not nodes_to_process:
             return False  # No nodes to process at this level
             
-        # Process each node
+        # Prepare batch processing
+        thesis_antithesis_pairs = []
+        
         for node_id in nodes_to_process:
             node_data = self.graph[node_id]
             antithesis_content = (node_data["summary"], node_data["content"])
@@ -515,71 +656,74 @@ class DialecticalGraph:
             parent_data = self.graph[parent_id]
             parent_content = (parent_data["summary"], parent_data["content"])
             
-            # Generate syntheses
-            print("Generating syntheses for antithesis node:", node_id, node_data["summary"])
-            syntheses = self.generate_syntheses(parent_content, antithesis_content)
+            thesis_antithesis_pairs.append((parent_content, antithesis_content))
+        
+        logging.info(f"Batch generating syntheses for {len(thesis_antithesis_pairs)} thesis-antithesis pairs")
+        
+        # Generate syntheses in batch
+        syntheses_sets = self.generate_syntheses_batch(thesis_antithesis_pairs)
+        
+        # Generate direct replies in batch
+        logging.info(f"Batch generating direct replies for {len(thesis_antithesis_pairs)} thesis-antithesis pairs")
+        direct_replies_sets = self.generate_direct_replies_batch(thesis_antithesis_pairs)
+        
+        # Process each node with its generated syntheses and direct replies
+        for i, node_id in enumerate(nodes_to_process):
+            # Process syntheses
+            syntheses = syntheses_sets[i]
             
-            # Add a blank node if LLM response was None
             if syntheses is None:
+                # Add a blank node if LLM response was None
                 self.add_node(
                     summary="[Synthesis generation failed]",
                     content="The system was unable to generate a synthesis from this thesis-antithesis pair.",
                     node_type="synthesis_error",
                     parent_id=node_id
                 )
-                # Mark this node as processed
-                #self.processed_antitheses.add(node_id)
                 # Save state after attempting to process this node
                 self.save_state()
-                # Continue to the next node
-                continue
+            else:
+                # Add synthesis nodes
+                for synthesis in syntheses:
+                    synthesis_id = self.add_node(
+                        summary=synthesis[0],
+                        content=synthesis[1],
+                        node_type="synthesis",
+                        parent_id=node_id
+                    )
+                    
+                    if self._check_time_exceeded():
+                        # Mark this node as processed before returning
+                        self.processed_antitheses.add(node_id)
+                        return True
             
-            # Add synthesis nodes
-            for synthesis in syntheses:
-                synthesis_id = self.add_node(
-                    summary=synthesis[0],
-                    content=synthesis[1],
-                    node_type="synthesis",
-                    parent_id=node_id
-                )
-                
-                if self._check_time_exceeded():
-                    # Mark this node as processed before returning
-                    self.processed_antitheses.add(node_id)
-                    return True
+            # Process direct replies
+            direct_replies = direct_replies_sets[i]
             
-            
-            #Generate direct replies
-            print("Generating direct replies for antithesis node:", node_id, node_data["summary"])
-            direct_replies = self.generate_direct_replies(parent_content, antithesis_content)
-            # Add a blank node if LLM response was None
             if direct_replies is None:
+                # Add a blank node if LLM response was None
                 self.add_node(
                     summary="[Direct Reply generation failed]",
                     content="The system was unable to generate a direct reply from this thesis-antithesis pair.",
                     node_type="direct_reply_error",
                     parent_id=node_id
                 )
-
                 # Save state after attempting to process this node
                 self.save_state()
-                # Continue to the next node
-                continue
-            
-            # Add synthesis nodes
-            for direct_reply in direct_replies:
-                synthesis_id = self.add_node(
-                    summary=direct_reply[0],
-                    content=direct_reply[1],
-                    node_type="direct_reply",
-                    parent_id=node_id
-                )
-                
-                if self._check_time_exceeded():
-                    # Mark this node as processed before returning
-                    self.processed_antitheses.add(node_id)
-                    return True
-            
+            else:
+                # Add direct reply nodes
+                for direct_reply in direct_replies:
+                    reply_id = self.add_node(
+                        summary=direct_reply[0],
+                        content=direct_reply[1],
+                        node_type="direct_reply",
+                        parent_id=node_id
+                    )
+                    
+                    if self._check_time_exceeded():
+                        # Mark this node as processed before returning
+                        self.processed_antitheses.add(node_id)
+                        return True
             
             # Mark this node as processed
             self.processed_antitheses.add(node_id)
@@ -689,11 +833,21 @@ class DialecticalGraph:
                 with open(save_file, 'rb') as f:
                     snapshot = pickle.load(f)
                 
-                # Create a new instance with minimal initialization
-                # This will ensure all attributes are properly set
+                # Create a new instance with proper initialization from saved config
+                config = snapshot['config']
+                
+                # Create a new instance with saved configuration
                 instance = cls(
                     central_question=default_question or "placeholder",
-                    save_dir=save_dir
+                    save_dir=save_dir,
+                    # Pass the saved configuration values
+                    max_depth=config.get('max_depth'),
+                    max_time_seconds=config.get('max_time_seconds'),
+                    num_responses=config.get('num_responses'),
+                    num_reasons=config.get('num_reasons'),
+                    nonsense_threshold=config.get('nonsense_threshold'),
+                    view_identity_threshold=config.get('view_identity_threshold'),
+                    check_termination=config.get('check_termination', False)
                 )
                 
                 # Now overwrite the state with our loaded data

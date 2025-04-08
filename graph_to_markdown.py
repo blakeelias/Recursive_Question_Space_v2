@@ -9,7 +9,7 @@ def slugify(text):
     slug = re.sub(r'[\s_-]+', '-', slug)
     return slug
 
-def create_markdown_wiki(json_file_path, output_dir="wiki"):
+def create_markdown_wiki(json_file_path, output_dir="Wiki/Storage/wiki"):
     """
     Convert a JSON graph structure into a network of linked Markdown files.
     

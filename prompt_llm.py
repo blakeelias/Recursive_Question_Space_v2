@@ -1,8 +1,10 @@
 import os
 import time
 import logging
+import asyncio
 from typing import Dict, List, Tuple, Optional
 from openai import OpenAI
+from openai import AsyncOpenAI
 from dotenv import load_dotenv
 
 prompt_dir: str = "./prompts"
@@ -24,6 +26,7 @@ api_key = os.getenv('OPENAI_API_KEY')
 if not api_key:
     raise ValueError("API key not found in environment variables")
 client = OpenAI(api_key=api_key) #, base_url="https://api.deepseek.com"
+async_client = AsyncOpenAI(api_key=api_key) #, base_url="https://api.deepseek.com"
 default_model="gpt-4o" # Default model for completions deepseek-reasoner deepseek-chat
 
 def load_prompts() -> Dict[str, str]:
@@ -74,6 +77,53 @@ def generate_completion(prompt: str, system_role: str ="", temperature = 0.7, to
             logging.info(f"Retrying in {retry_delay} seconds...")
             time.sleep(retry_delay)
             retry_count += 1
+
+async def generate_completion_async(prompt: str, system_role: str = "", temperature=0.7, top_p=0.3) -> str:
+    """Async version of generate_completion for concurrent processing"""
+    max_retries = 2
+    retry_count = 0
+    
+    while retry_count <= max_retries:
+        try:
+            response = await async_client.chat.completions.create(
+                model=default_model,
+                messages=[
+                    {"role": "system", "content": system_role},
+                    {"role": "user", "content": prompt}
+                ],
+                #temperature=temperature,
+                #top_p=top_p,
+                timeout=30
+            )
+            return response.choices[0].message.content.strip()
+        
+        except Exception as e:
+            error_msg = f"Error in async API call (attempt {retry_count + 1}/{max_retries + 1}): {e}"
+            logging.warning(error_msg)
+            
+            if retry_count >= max_retries:
+                logging.error(f"All async {max_retries + 1} attempts failed, giving up.")
+                return f"[START]API Error[BREAK]Failed after {max_retries + 1} attempts: {e}[END]"
+            
+            retry_delay = 2 * (retry_count + 1)
+            logging.info(f"Retrying async in {retry_delay} seconds...")
+            await asyncio.sleep(retry_delay)
+            retry_count += 1
+
+async def generate_completions_concurrent(prompts: List[str], system_role: str = "", temperature=0.7, top_p=0.3) -> List[str]:
+    """Generate multiple completions concurrently using asyncio"""
+    tasks = []
+    for prompt in prompts:
+        tasks.append(generate_completion_async(prompt, system_role, temperature, top_p))
+    
+    return await asyncio.gather(*tasks)
+
+def generate_completions_batch(prompts: List[str], system_role: str = "", temperature=0.7, top_p=0.3) -> List[str]:
+    """
+    Generate completions for multiple prompts concurrently
+    This provides a way to process multiple prompts efficiently
+    """
+    return asyncio.run(generate_completions_concurrent(prompts, system_role, temperature, top_p))
             
 def parse_llm_output(llm_response: str) -> Optional[List[Tuple[str, str]]]:
     """
@@ -128,6 +178,13 @@ def parse_llm_output(llm_response: str) -> Optional[List[Tuple[str, str]]]:
     except Exception as e:
         print(f"Error parsing LLM output: {e}")
         return None
+
+def parse_batch_outputs(batch_responses: List[str]) -> List[Optional[List[Tuple[str, str]]]]:
+    """
+    Parse multiple LLM responses from a batch
+    Returns a list of parsed responses, each parsed using parse_llm_output
+    """
+    return [parse_llm_output(response) for response in batch_responses]
     
 if __name__ == "__main__":
     print("Prompt LLM Module")

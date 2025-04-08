@@ -13,12 +13,12 @@ logging.basicConfig(
 
 def main():
     # Test configuration
-    central_question = "What is virtue?"
+    central_question = "What are reasons?"
     print("Central Question: ", central_question)
     num_responses = 100  # Max number of responses per level. Prompt instructs not to reach max if possible but rather to stop at a comprehensive number
     num_reasons = 100 # Max number of reasons per thesis. Prompt instructs not to reach max if possible but rather to stop at a comprehensive number
-    max_time_seconds = 30*60 #seconds. Maximum time until the graph gen is terminated 
-    max_depth = None # Maximum depth of the graph
+    max_time_seconds = None #seconds. Maximum time until the graph gen is terminated 
+    max_depth = 2 # Maximum depth of the graph
     
     check_termination = False # Check for termination of the graph at each node add
     
@@ -53,15 +53,22 @@ def main():
                 num_responses=num_responses,
                 num_reasons=num_reasons,
                 max_depth=max_depth,
+                max_time_seconds=max_time_seconds,  # Add time limit
                 nonsense_threshold=95, # Threshold for nonsense detection
                 view_identity_threshold=95, # Threshold for view identity detection
                 check_termination=check_termination,
                 save_dir=save_dir  # Ensure same save directory
             )
     
-        # Create timestamp for consistent file naming
+        # Create filename with central question, max depth, and max time
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        export_dir = f"./Graph_Exports/graph_export_{timestamp}"
+        # Clean the central question for use in a filename
+        clean_question = central_question.lower().replace(" ", "_").replace("?", "").replace("!", "")[:30]
+        # Format max_depth and max_time for filename
+        depth_str = f"depth{max_depth}" if max_depth is not None else "depthNone"
+        time_str = f"time{int(max_time_seconds//60)}min" if max_time_seconds is not None else "timeNone"
+        
+        export_dir = f"./Graph_Exports/{clean_question}_{depth_str}_{time_str}_{timestamp}"
         os.makedirs(export_dir, exist_ok=True)
         
         # Save the graph to a file

@@ -1,0 +1,2313 @@
+{
+  "0a840b79-1a29-451c-ba83-604a47a3da67": {
+    "summary": "What are reasons?",
+    "content": "What are reasons?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f": {
+    "summary": "Reasons are explanations for actions.",
+    "content": "{Reasons are explanations for why actions occur}, {Reasons provide a causal account of the action}, {Reasons are distinguishable from causes that are not explanatory}",
+    "node_type": "thesis",
+    "parent_id": "0a840b79-1a29-451c-ba83-604a47a3da67",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e": {
+    "summary": "Reasons are mental states.",
+    "content": "{Reasons are mental states that motivate action}, {Reasons involve beliefs and desires}, {Reasons explain intentions underlying actions}",
+    "node_type": "thesis",
+    "parent_id": "0a840b79-1a29-451c-ba83-604a47a3da67",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "05978a2e-5bed-4a7b-9a15-31ff0a2555c7": {
+    "summary": "Reasons are normative.",
+    "content": "{Reasons are considerations that count in favor of actions}, {Reasons provide guidance for what one ought to do}, {Reasons have a normative force that compels actions}",
+    "node_type": "thesis",
+    "parent_id": "0a840b79-1a29-451c-ba83-604a47a3da67",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6869e418-7924-425e-8423-128319961c45": {
+    "summary": "Reasons are objective facts.",
+    "content": "{Reasons are objective facts about the world}, {Reasons exist independently of an individual\u2019s subjective mental state}, {Reasons remain constant regardless of personal preference}",
+    "node_type": "thesis",
+    "parent_id": "0a840b79-1a29-451c-ba83-604a47a3da67",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c0868167-ad8b-466f-9497-9328c93d8ef7": {
+    "summary": "Reasons are subjective.",
+    "content": "{Reasons are based on an individual's preferences and values}, {Reasons can vary from person to person}, {Reasons are internal to the agent's perspective}",
+    "node_type": "thesis",
+    "parent_id": "0a840b79-1a29-451c-ba83-604a47a3da67",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0": {
+    "summary": "Reasons are propositions.",
+    "content": "{Reasons are propositions that can be true or false}, {Reasons express considerations relevant to justifying actions}, {Reasons are assessed for their truth and falsity}",
+    "node_type": "thesis",
+    "parent_id": "0a840b79-1a29-451c-ba83-604a47a3da67",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9c3f56cb-4b9f-430c-907f-b8748aa11d42": {
+    "summary": "Reasons are practical.",
+    "content": "{Reasons are considerations that lead to the execution of an action}, {Reasons are closely tied to decision-making processes}, {Reasons are directly relevant to the outcomes of actions}",
+    "node_type": "thesis",
+    "parent_id": "0a840b79-1a29-451c-ba83-604a47a3da67",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "34e9ee49-c735-4d80-a178-76d1fd200279": {
+    "summary": "Reasons are theoretical.",
+    "content": "{Reasons concern beliefs about what is the case}, {Reasons offer a justification for holding certain beliefs}, {Reasons are primarily epistemic in nature}",
+    "node_type": "thesis",
+    "parent_id": "0a840b79-1a29-451c-ba83-604a47a3da67",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "09efc054-9356-45ab-943e-010897868ae8": {
+    "summary": "Reasons are evidence.",
+    "content": "{Reasons act as evidence supporting beliefs or actions}, {Reasons increase the likelihood of believing a proposition}, {Reasons are evaluated by their justificatory power}",
+    "node_type": "thesis",
+    "parent_id": "0a840b79-1a29-451c-ba83-604a47a3da67",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a144b4cc-37a6-4f1d-98ac-bc8796132ccd": {
+    "summary": "Reasons are motivators.",
+    "content": "{Reasons are mental states that spur action}, {Reasons are intrinsically linked to an individual's motivation}, {Reasons explain the impetus behind behavior}",
+    "node_type": "thesis",
+    "parent_id": "0a840b79-1a29-451c-ba83-604a47a3da67",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6adadc5f-9f1d-4dba-882e-4d06bc246741": {
+    "summary": "Desire's role in motivating actions",
+    "content": "{Desires often align with the motivations behind actions}, {Desires can provide explanatory insights into why actions are taken}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c380f952-bb32-4dcb-81d0-0019670d193b": {
+    "summary": "Beliefs influence on actions",
+    "content": "{Beliefs are frequently linked to the justifications for actions}, {Beliefs can give an account of the reasoning behind actions}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "65db445a-f5b3-45be-bea5-2f7ebac5bf61": {
+    "summary": "Intentions as guiding actions",
+    "content": "{Intentions are typically deliberate choices directing actions}, {Intentions can clarify the purpose behind actions}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fbb3c20e-0846-4b99-9ec6-2f0fd7b2a3e9": {
+    "summary": "Purpose-driven actions",
+    "content": "{Actions are often aimed at achieving specific goals}, {Goals provide a framework for understanding the direction of actions}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "89996b17-714d-4c92-9452-e2bc6c079838": {
+    "summary": "Norms and rational actions",
+    "content": "{Societal norms often shape acceptable actions}, {Norms can offer an explanation for why certain actions occur}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ff1989b7-527f-4d31-a440-63a071325d67": {
+    "summary": "Emotional states influencing actions",
+    "content": "{Emotions can significantly affect decision-making}, {Emotions might explain the urgency or nature of certain actions}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "65b2a838-0fcc-482e-95ac-f2478978cf66": {
+    "summary": "Habitual actions lack explanatory reasons",
+    "content": "{Habitual actions typically occur without explicit reflection}, {Such actions may lack distinct explanatory reasons compared to deliberate actions}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3bdf720c-b827-44f6-b587-7a5aef013b08": {
+    "summary": "Rational choice theory",
+    "content": "{Individuals often act based on rational calculations of benefits}, {These calculations can explain the choices behind certain actions}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7b9b9467-8b69-4a49-925d-abaa022c729b": {
+    "summary": "Moral considerations in actions",
+    "content": "{Moral values often dictate the acceptability of actions}, {Moral reasoning can provide a basis for understanding actions}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "381e1297-c204-4d80-93d8-db53fcf2def2": {
+    "summary": "Cultural context shaping actions",
+    "content": "{Cultural background can significantly influence behavior}, {Cultural norms can offer explanations for certain actions}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3765579e-0500-4a91-85fc-1c56e9483471": {
+    "summary": "Psychological accounts of action",
+    "content": "{Psychological states frequently impact decision-making}, {These states can provide insights into the motivations behind actions}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "72c6fe17-8454-45fe-bb8a-9b97a30b9b3b": {
+    "summary": "Role of incentives in action",
+    "content": "{Incentives often alter the attractiveness of particular actions}, {Incentives can explain why some actions are preferred over others}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4f43b786-c825-4895-b88b-b060d15c0918": {
+    "summary": "Expectations leading to actions",
+    "content": "{Expectations about outcomes can motivate behavior}, {These expectations can serve as explanations for why actions are undertaken}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "eaf349ef-967c-4231-ab1e-77cdf7b4fe03": {
+    "summary": "Social pressures influencing actions",
+    "content": "{Social pressures often guide conformity in actions}, {Such pressures can explain why individuals act in specific ways}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9860d82f-6ab0-4f50-85d9-8a8cc9f5c9db": {
+    "summary": "Historical precedents affecting actions",
+    "content": "{Past experiences or historical precedents often inform current actions}, {These precedents provide a context for understanding actions}",
+    "node_type": "reason",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7931fbf4-b8c6-4a8d-bc50-2600e6399af5": {
+    "summary": "Practical reasons involve beliefs and desires",
+    "content": "{Practical reasoning often involves considering one's desires}, {Beliefs about how to achieve desires influence decision-making}, {The connection between beliefs, desires, and actions is a common aspect of practical reasoning}",
+    "node_type": "reason",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0fc99af9-cd9d-48d3-99a2-7a83da1c9173": {
+    "summary": "Reasons explain the causation of action",
+    "content": "{Actions are often caused by internal motivations}, {The explanation of action typically involves looking at underlying reasons}, {These reasons can be understood in terms of mental processes}",
+    "node_type": "reason",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c4e4c6fe-25fe-418b-8a7b-c1b7028d91e9": {
+    "summary": "Intentions link mental states to actions",
+    "content": "{Intending to do something involves a mental commitment}, {Intentions bridge the gap between thought and action}, {Mental states play a role in forming intentions that lead to action}",
+    "node_type": "reason",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a94abfb7-a4c5-4b7d-b2ea-845cb0332d9f": {
+    "summary": "Belief-desire model of motivation",
+    "content": "{The belief-desire model suggests that desires motivate action}, {Beliefs guide how to fulfill these desires}, {This model explains the interplay between mental states and actions}",
+    "node_type": "reason",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "67e3a690-54e0-4cb3-a91b-9a9513a1dac3": {
+    "summary": "Reasons for actions can be introspectively accessible",
+    "content": "{Individuals can often articulate reasons for their actions}, {Introspection provides access to one's mental states}, {These mental states can include beliefs and desires motivating the action}",
+    "node_type": "reason",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cdbe309b-7616-4cd0-8292-0654ae2c6d56": {
+    "summary": "Rational deliberation involves assessing mental states",
+    "content": "{Rational deliberation often consists of evaluating one's beliefs and desires}, {This process guides decision-making}, {Mental states play a central role in rational thought}",
+    "node_type": "reason",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "de282a23-8a9a-4c67-9ef3-fc6a3b149491": {
+    "summary": "Explaining actions involves mental state attribution",
+    "content": "{Common explanations for actions refer to beliefs}, {Common explanations for actions refer to desires}, {These attributions involve understanding the mental states behind actions}",
+    "node_type": "reason",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "54b4e92f-a61c-4a71-b36b-a4d8b8dcff9e": {
+    "summary": "The psychological concept of motivation",
+    "content": "{Motivation is often understood as arising from mental states}, {These states include desires and beliefs about outcomes}, {Psychological theories frequently use this framework}",
+    "node_type": "reason",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e6aa8b0e-ba20-4558-9bad-fe2a94a5eff2": {
+    "summary": "Actions are expressions of underlying mental states",
+    "content": "{Actions can be seen as expressions of internal mental states}, {The observation of actions can reveal these mental states}, {Understanding this linkage is crucial in psychology and philosophy}",
+    "node_type": "reason",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bba79a77-c714-4017-8fe7-42f014917a57": {
+    "summary": "Mental causation and agency",
+    "content": "{The causal role of mental states is central to discussions of agency}, {Agency involves acting based on one's mental states}, {Clarifying this relationship is important in philosophical theories of action}",
+    "node_type": "reason",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d12e5c0c-f442-4720-88a5-6e3e1ea37b5e": {
+    "summary": "Reasons influence decision-making",
+    "content": "{Everyday choices often require weighing different considerations}, {Certain considerations are universally regarded as guiding decisions}, {These considerations often imply what one should or should not do}",
+    "node_type": "reason",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b9f6062b-9a34-41c5-87ad-6752f9ace0c8": {
+    "summary": "Normative force of reasons",
+    "content": "{There is a strong intuition that some considerations compel one to act}, {People often feel obliged to act on certain reasons}, {Reasons can override personal desires or inclinations}",
+    "node_type": "reason",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "79f64db4-ce20-4ec8-a031-b32f6f317336": {
+    "summary": "Moral accountability and reasons",
+    "content": "{People are often held accountable for ignoring compelling reasons}, {Society tends to expect individuals to act on good reasons}, {Failure to act on compelling reasons can be seen as blameworthy}",
+    "node_type": "reason",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "86dd1578-fca3-4030-89ff-798e1cac134e": {
+    "summary": "Guidance from reasons in ethical contexts",
+    "content": "{In moral dilemmas, people seek reasons to justify actions}, {Reasons often provide clarity in complex ethical situations}, {Moral reasoning depends on the identification and evaluation of reasons}",
+    "node_type": "reason",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2874b2af-76fe-405f-8b8a-bfa4c4f25a21": {
+    "summary": "Rational deliberation requires reasons",
+    "content": "{Rational deliberation involves considering various reasons}, {Individuals employ reasons to justify their actions and choices}, {Reasoning implies evaluating and acting on the strongest reasons}",
+    "node_type": "reason",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b2dd240d-58e3-45b0-af0d-03666375dbd4": {
+    "summary": "Reasons and societal norms",
+    "content": "{Societal norms often reflect widely-accepted reasons for actions}, {Reasons help to determine appropriate behavior within a culture}, {Deviations from societal norms often require stronger counter-reasons}",
+    "node_type": "reason",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "85c3a6d6-11b5-4369-9782-1d69ad364d8a": {
+    "summary": "Reasons align with reflective equilibrium",
+    "content": "{In reflective equilibrium, coherence among reasons is sought}, {People aim to align their actions with coherent sets of reasons}, {Achieving reflective equilibrium involves balancing competing reasons}",
+    "node_type": "reason",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1505bdd4-5f74-4397-88c5-fe1f14bcc919": {
+    "summary": "Reasons influence belief formation",
+    "content": "{Belief formation often hinges on assessing relevant reasons}, {Reasons can support or undermine particular beliefs}, {Critical thinking involves examining the reasons behind beliefs}",
+    "node_type": "reason",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "721043fb-5bd9-4ad8-b6d3-7e935b1a0370": {
+    "summary": "Reasons affect legal judgments",
+    "content": "{Legal decisions often depend on compelling reasons for action}, {Judges weigh reasons when making legal determinations}, {Legal reasoning involves justifying judgments with appropriate reasons}",
+    "node_type": "reason",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "36fffce3-918f-49b6-a819-a3fd7e446c9d": {
+    "summary": "Reasons impact policy decisions",
+    "content": "{Policy decisions require the evaluation of societal reasons}, {Reasons guide policymakers toward beneficial actions}, {Effective policies are often based on strong public reason}",
+    "node_type": "reason",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2f7fddb3-14ba-4baa-937b-2b34b30bb80f": {
+    "summary": "Objective moral intuitions",
+    "content": "{There is a strong intuition that some moral truths hold universally}, {This intuition suggests that moral reasons could exist independently of individual beliefs}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "12101491-5ad0-4a73-bfb1-f5cb213aa0c7": {
+    "summary": "Scientific consistency",
+    "content": "{Scientific facts remain true regardless of individual opinion}, {This consistency suggests that reasons for scientific conclusions are independent of personal views}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "03c5f903-ccf9-4f4a-92ea-90a24ef705d7": {
+    "summary": "Mathematical objectivity",
+    "content": "{Mathematical truths are consistent and objective across different contexts}, {This objectivity suggests that reasons in mathematics exist independently of personal cognition}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "afd4b217-beef-4c4a-8997-92b4c36363ae": {
+    "summary": "Legal precedent stability",
+    "content": "{Legal precedents provide reasons for decisions that are not dependent on a judge's personal views}, {These precedents suggest an objective basis for legal reasoning}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ce2fc333-3965-4e9b-96dc-9cb2cfb1268c": {
+    "summary": "Historical analysis",
+    "content": "{Historical facts remain the same regardless of personal interpretation}, {This consistency suggests that historical reasons are independent of individual bias}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e36fc2c2-8cbe-4d08-b137-6f1a23eba80a": {
+    "summary": "Moral disagreements",
+    "content": "{Persistent moral disagreements imply the existence of objective reasons that are perceived differently}, {These disagreements suggest that reasons are not entirely subjective}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b41c2b8f-1b75-4a0f-923b-63753a0fdb29": {
+    "summary": "Cross-cultural scientific principles",
+    "content": "{Scientific principles hold true across different cultures}, {This cross-cultural stability indicates that reasons for scientific agreement are objective}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "52a26e42-92bc-4e84-9929-2f341ab18f91": {
+    "summary": "Universal mathematical principles",
+    "content": "{Basic mathematical principles are recognized universally}, {This universality indicates the independence of mathematical reasons from individual perspectives}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "300efb8f-34c7-4e4d-bfb1-7250bc316e90": {
+    "summary": "Ethical impartiality",
+    "content": "{The need for ethical impartiality suggests reasons are independent of individual feelings}, {This impartiality indicates the objectivity of ethical reasons}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4809249b-c1a5-4073-97c1-0aea7b57b3f5": {
+    "summary": "Philosophical debate",
+    "content": "{Philosophical debates often assume some objective basis for arguments}, {This assumption suggests that reasons must be grounded in objective facts}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4354a8ce-2f28-40ed-8c6d-fac20a98c348": {
+    "summary": "Objective normativity of laws",
+    "content": "{Laws are expected to reflect objective standards rather than personal whims}, {This expectation suggests that reasons for laws are objective}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0751e7be-6d33-4e65-9bd6-e856accca700": {
+    "summary": "Rational persuasion",
+    "content": "{Effective rational persuasion relies on objective evidence rather than personal belief}, {This reliance suggests that reasons must be objective to persuade rationally}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "74b18ec5-b1bf-49ee-8e8d-81a7cf7e8491": {
+    "summary": "Moral outrage",
+    "content": "{Moral outrage often stems from perceived breaches of objective moral reasons}, {This perception suggests an objective basis for moral judgments}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "80f8e8ea-28de-4602-8db2-29e4ed34e5ad": {
+    "summary": "Consistency in logic",
+    "content": "{Logical reasoning remains consistent across applications}, {This consistency suggests logical reasons exist independently of subjective states}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a6a789d3-5eb8-4271-ae64-425f70a4aa46": {
+    "summary": "Shared ethical principles",
+    "content": "{Widely shared ethical principles suggest an underlying objective basis}, {This sharing across perspectives implies the objectivity of ethical reasons}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3aeaf8b5-d0be-4012-b28f-8dce8f8da00b": {
+    "summary": "Endurance of truths",
+    "content": "{Enduring truths are believed to remain valid despite changes in belief}, {This endurance suggests their reasons are independent of individual perspectives}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8c371ac7-cc46-47d0-9615-e398f0e0b999": {
+    "summary": "Legal interpretations",
+    "content": "{Stable legal interpretations presume objective reasons}, {These interpretations suggest that such reasons are not merely subjective}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "eb3c0fef-5ce4-49ac-b248-5dc0f3f81cc2": {
+    "summary": "Objective grounding in science",
+    "content": "{Scientific findings require objective validation}, {This requirement suggests scientific reasons are objective}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "db378ceb-f4b2-4300-a1a1-dfc8b335cff2": {
+    "summary": "Cross-temporal consistency of facts",
+    "content": "{Facts retain their truth value across time}, {This consistency suggests that reasons for these facts are objective and independent of time-bound perspectives}",
+    "node_type": "reason",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "411f0336-5ffd-4b1d-b98e-67721fbdec7d": {
+    "summary": "Reasons align with personal desires",
+    "content": "{People's reasons often reflect their personal desires}, {There is an intuition that what people desire influences the motivations behind their actions}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ff94feb7-6154-446c-820a-e18667a73f16": {
+    "summary": "Subjectivity of moral judgments",
+    "content": "{There is an intuition that moral judgments can differ greatly between individuals}, {Individuals often base moral decisions on their own personal values}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f6543f71-8792-4f9e-a8cb-96eee3162a57": {
+    "summary": "Role of personal experience in shaping reasons",
+    "content": "{Personal experiences can strongly influence what individuals consider good reasons}, {What counts as a good reason can vary significantly based on personal history}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a63e82b0-1638-480a-883f-24903c20aa72": {
+    "summary": "Importance of perspective in forming reasons",
+    "content": "{A person's perspective can affect the interpretation of evidence}, {Different perspectives can lead to different evaluations of what is a good reason}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6a2276c4-0e3d-4519-b82d-acd30064b3fb": {
+    "summary": "Influence of cultural background on reasoning",
+    "content": "{Cultural background can influence what individuals see as valid reasons}, {Different cultures may prioritize different kinds of reasoning}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "756e6e05-3710-48f2-9fc8-838aa65e3c23": {
+    "summary": "Individual values affect decision-making",
+    "content": "{People's values shape their decision-making processes}, {Different values can lead to different conclusions about what is a good reason}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "35c6826d-85d7-4977-b2b5-55eb719e84b1": {
+    "summary": "Variability of reasons in social contexts",
+    "content": "{In social contexts, reasons for actions can vary widely}, {Social environments often influence what individuals see as important reasons}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5d9bc693-6fdc-47f9-9607-870c525a8e0f": {
+    "summary": "Subjective nature of justification",
+    "content": "{The process of justifying actions can be subjective}, {Justifications given can change depending on the individual's viewpoint}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "916f349f-867c-4d51-b064-c3a6c742ab64": {
+    "summary": "Subjectivity in choosing between options",
+    "content": "{Choosing between options often involves subjective reasoning}, {Individuals may prioritize different factors based on personal preference}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "89ab9801-f731-4a55-9edb-f1e0bd9be336": {
+    "summary": "Personal goals influence reasoning",
+    "content": "{There is an intuition that personal goals shape what individuals consider relevant reasoning}, {Different goals lead to different evaluations of reasons}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "811a1423-bab1-4fcb-a18c-26aad74fb7fd": {
+    "summary": "Internal motivations shape reasons",
+    "content": "{Internal motivations can influence reasons for behavior}, {Different internal motivations can lead to different interpretations of what is a good reason}",
+    "node_type": "reason",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b4d7d3fa-4187-4307-bc6f-691b753e1849": {
+    "summary": "Reasons as Propositions",
+    "content": "{Propositions can be true or false}, {Propositions have semantic content that expresses a claim about the world}",
+    "node_type": "reason",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "98301d3b-9459-4889-9c2e-5e99ba597269": {
+    "summary": "Considerations in Action Justification",
+    "content": "{Actions often require justifications}, {Justifications involve considerations that are propositional in nature}",
+    "node_type": "reason",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5d5ec9a5-b2b0-448e-8d5f-6c8166e3b996": {
+    "summary": "Truth Assessment of Propositions",
+    "content": "{Propositions are assessed for their truth or falsity}, {Assessing propositions' truth value is integral to forming justifications}",
+    "node_type": "reason",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9a125c69-66e8-445c-ab82-1612bfac59dc": {
+    "summary": "Link between Truth and Justification",
+    "content": "{For a reason to justify an action, it must be true}, {False propositions fail to provide proper justification}",
+    "node_type": "reason",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8c6a94db-f2a2-4ba7-bca9-dd48842ee52a": {
+    "summary": "Semantics of Propositions",
+    "content": "{Propositions have a meaningful structure}, {The meaningful structure of propositions aligns with how reasons function in discourse}",
+    "node_type": "reason",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "24909035-cc24-4bdb-a8c9-f439a82cfaf4": {
+    "summary": "Rational Deliberation",
+    "content": "{Reasons are part of rational deliberations}, {Propositions guide rational deliberation}",
+    "node_type": "reason",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8967ad36-dcd3-4e9b-af86-ba8dac85f150": {
+    "summary": "Objective Features of Reality",
+    "content": "{Propositions aim to describe objective features of reality}, {Reasons often refer to objective considerations when justifying actions}",
+    "node_type": "reason",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "99e46ea4-7bdd-45e9-8d05-cf6ab2b6d813": {
+    "summary": "Expressing General Rules",
+    "content": "{Reasons can express general rules or principles}, {General rules or principles are often expressed propositionally}",
+    "node_type": "reason",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e12faf72-55bc-459f-9fdd-b0a0d12342ef": {
+    "summary": "Communication through Propositions",
+    "content": "{Propositions are the primary way of communicating reasons}, {Effective communication requires clarity and truth in propositions}",
+    "node_type": "reason",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ded0cf37-aa9d-41b4-9949-d95604641431": {
+    "summary": "Epistemic Evaluation",
+    "content": "{Reasons undergo epistemic evaluation for validity}, {Epistemic evaluation assesses the truth-value of propositions}",
+    "node_type": "reason",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "618bd6a9-721c-43ab-bb08-04a2b45010eb": {
+    "summary": "Practical actions often rely on reasons",
+    "content": "{Actions are often motivated by identifiable reasons}, {Identifiable reasons must precede decision-making for practical actions}",
+    "node_type": "reason",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b9d62236-bc25-4794-bb70-b38a580b1181": {
+    "summary": "Decision-making is shaped by relevant reasons",
+    "content": "{Decision-making is an active process}, {Reasons shape the decisions that individuals make}",
+    "node_type": "reason",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d004e5e5-9512-4056-bfae-a275db0a94f8": {
+    "summary": "Actions are directed by reasoned outcomes",
+    "content": "{Outcomes of actions can be traced back to specific reasons}, {The relevance of reasons is directly linked to the outcomes of actions}",
+    "node_type": "reason",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bdcb6a51-5c27-4c21-a568-2372e17fee15": {
+    "summary": "Reasons have motivating power",
+    "content": "{Reasons act as motivating forces that influence actions}, {The motivating power of reasons is essential for practical decision-making}",
+    "node_type": "reason",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "09e82ec0-2374-4e3e-a054-f7d5b82ebd60": {
+    "summary": "Rational decisions influence practical actions",
+    "content": "{Rational decisions are often responses to underlying reasons}, {Practical actions often rely on rational decision-making processes}",
+    "node_type": "reason",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "59ab7b91-83fd-4a74-844d-b8fcb90f35f0": {
+    "summary": "Outcomes justify the importance of reasons",
+    "content": "{Outcomes of actions often reflect the quality of underlying reasons}, {The importance of reasons lies in their capacity to lead to desired outcomes}",
+    "node_type": "reason",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a00ca1ae-e4bf-441c-83d2-29aeea956cbb": {
+    "summary": "Reasons provide guidance for actions",
+    "content": "{Reasons offer guidance for the selection of actions}, {The guidance offered by reasons is crucial for effective decision-making}",
+    "node_type": "reason",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "da449531-c52e-445c-a886-8329ecdb34cd": {
+    "summary": "The efficiency of actions depends on reasons",
+    "content": "{Actions executed efficiently are generally backed by strong reasons}, {The efficiency of actions is increased when decisions are reasoned}",
+    "node_type": "reason",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6a76ffac-3832-4e1c-b274-902d9b9c8de3": {
+    "summary": "Reasons are fundamental to purposeful actions",
+    "content": "{Purposeful actions typically have reasons aligned with their goals}, {Reasons are pivotal in ensuring actions remain purposeful}",
+    "node_type": "reason",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "591a2247-b2ce-4708-b77a-52cd3d0c3ea6": {
+    "summary": "Reasons influence behavioral outcomes",
+    "content": "{Reasons contribute to shaping behavioral outcomes}, {Behavioral outcomes can often be attributed to preceding reasons}",
+    "node_type": "reason",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a8a91160-8f4b-429a-a866-f948bc037b27": {
+    "summary": "Observation and explanation interplay",
+    "content": "{There is a difference between observing the world and explaining it}, {Explanations are grounded in reasons that justify beliefs about the observations}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "69c27468-f9c3-4623-a40f-009c4df699f8": {
+    "summary": "Rational discourse guided by reasons",
+    "content": "{Rational discourse requires reasons to support conclusions}, {Reasons provide structure and coherence in argumentation}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "110f6348-faa5-4ec4-809b-8ccafd44b745": {
+    "summary": "Justification is distinct from causation",
+    "content": "{Reasons justify beliefs rather than cause them}, {Causation is a separate kind of relation from justification}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e1994222-5c9c-486d-9be1-b3d907f90938": {
+    "summary": "Reasons aim for objectivity",
+    "content": "{Reasons strive to transcend personal biases}, {Objectivity in reasoning enhances the reliability of conclusions}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e041b160-2207-49d6-a149-a93b78a11154": {
+    "summary": "Consistency in belief systems",
+    "content": "{Consistency across beliefs is desirable for coherence}, {Reasons aim to resolve contradictions within belief systems}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3876e118-845f-4594-89b1-daf0ac3cd3af": {
+    "summary": "Epistemic grounding of knowledge",
+    "content": "{Knowledge requires grounding in justified beliefs}, {Epistemic reasons provide the foundational support for such knowledge}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dc80b401-ba7a-4680-9dbc-81bd212a4d16": {
+    "summary": "Reasons and evidence correlation",
+    "content": "{Evidence underpins the reasons we accept}, {The correlation between reasons and evidence strengthens belief justification}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e917d46f-9bf9-4132-a9fd-872af6f571b2": {
+    "summary": "Reasons versus opinions",
+    "content": "{Reasons demand more rigorous justification than mere opinions}, {Opinions may lack the epistemic grounding of reasons}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e045958b-f6da-4241-88c4-60d501cde850": {
+    "summary": "Inference and reasoning connection",
+    "content": "{Inference involves drawing conclusions from reasons}, {Sound reasoning is necessary for valid inference}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4c8c75e4-8c45-4f8b-a5f5-df4468a6b59c": {
+    "summary": "Communication clarity through reasons",
+    "content": "{Clear communication relies on well-articulated reasons}, {Articulating reasons enhances understanding}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "02c1db49-384f-46b4-9853-4c710eb38461": {
+    "summary": "Reasons and accountability",
+    "content": "{Reasons provide accountability for our beliefs}, {Holding beliefs requires reasons to justify them}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f934919b-d443-4426-aa41-52c756c286e0": {
+    "summary": "Education and reasoning skills",
+    "content": "{Education fosters the development of reasoning skills}, {Reasoning skills are essential for critical thinking}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "61be7880-18a8-45ed-ad10-7e8172eaf7fd": {
+    "summary": "Determination of truth through reasons",
+    "content": "{Reasons play a role in determining truth}, {Reliable reasons lead to more truthful beliefs}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "10888cf7-1aca-4abd-82da-8853c1960e8d": {
+    "summary": "Problem-solving with reasons",
+    "content": "{Problem-solving often involves identifying reasons}, {Reasons contribute to finding solutions}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e03403e7-7b84-4253-a761-589192ce298c": {
+    "summary": "Dialogue and reasons",
+    "content": "{Effective dialogue hinges on exchanging reasons}, {Exchanging reasons promotes mutual understanding}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "069febcc-73da-42d6-8e47-3e448c9cdd9c": {
+    "summary": "Beliefs and rational justifications",
+    "content": "{Rational justifications for beliefs rely on reasons}, {Without reasons, beliefs may be unwarranted}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "44a41836-be8c-4779-b28e-86d2c1b26467": {
+    "summary": "Objectivity and reasons link",
+    "content": "{Reasons seek to establish objectivity}, {Objective reasoning minimizes subjective distortions}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c7f0a9eb-d9f5-4547-b68f-e906eab7f666": {
+    "summary": "Critical evaluation of reasons",
+    "content": "{Critical thinking involves evaluating reasons}, {Assessing reasons is crucial for sound judgment}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "76838fec-431a-4aed-97a3-ca64080f8fe2": {
+    "summary": "Skepticism and reasons exploration",
+    "content": "{Skepticism challenges reasons to ensure robustness}, {Exploring reasons can fortify belief systems}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "436930ed-6150-4484-851b-dcacf5774dd6": {
+    "summary": "Understanding requires reasons",
+    "content": "{Deep understanding necessitates reasons}, {Reasons clarify and explain complex concepts}",
+    "node_type": "reason",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f7dcfe0f-6a9e-472d-8e22-0e01cd5ede62": {
+    "summary": "Reasons as supporting evidence",
+    "content": "{Reasons serve as supporting evidence for beliefs and actions}, {The presence of a reason increases confidence in a belief or action}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c35640e2-6d00-4543-b819-dfbc58179554": {
+    "summary": "Reasons and belief formation",
+    "content": "{Reasons contribute to the formation of beliefs}, {Believing without reasons often leads to unstable beliefs}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c55da7e6-03bf-4fa9-8bbd-213e4fbee964": {
+    "summary": "Reasons affect decision-making",
+    "content": "{Reasons influence decision-making processes}, {Having strong reasons can lead to better decision outcomes}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2656e4f6-f493-4aa7-9c65-c723248b7afb": {
+    "summary": "Reasons in justifying beliefs",
+    "content": "{Reasons are important in justifying beliefs}, {A belief is more justified if supported by strong reasons}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bedb4cff-e01e-4256-a8ed-f75c94614f3b": {
+    "summary": "Evaluating reasons' strength",
+    "content": "{Reasons are evaluated based on their strength}, {Stronger reasons provide more reliable support for beliefs and actions}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "83453c7b-5c4b-4904-986c-e619af6bd035": {
+    "summary": "Reasons and rationality",
+    "content": "{Rationality involves acting based on reasons}, {Ignoring reasons often leads to irrational actions}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8c3ce6ae-f6d4-427a-90a2-f0c28abc62ef": {
+    "summary": "Coherence of reasons",
+    "content": "{Reasons contribute to the coherence of a belief system}, {A coherent set of reasons strengthens belief systems}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bdd0549b-047f-4da9-b018-cf5f924a871f": {
+    "summary": "Reasons and persuasive power",
+    "content": "{The persuasive power of an argument often depends on its reasons}, {Arguments with stronger reasons are more persuasive}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c840b926-1091-42c6-85c4-df3efb50eec2": {
+    "summary": "Objective evaluation of reasons",
+    "content": "{Reasons can be objectively evaluated}, {Objective evaluation of reasons helps in determining their justificatory power}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "978282df-6277-4868-b796-cdb9f073ad8c": {
+    "summary": "Reasons guiding inquiry",
+    "content": "{Reasons guide the inquiry process}, {Effective inquiry relies on identifying and evaluating relevant reasons}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ab27d44c-27e6-408b-92d3-7421e5913f6b": {
+    "summary": "Reasons and epistemic justification",
+    "content": "{Reasons provide epistemic justification for beliefs}, {Epistemically justified beliefs are those supported by good reasons}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7076453f-f1e4-4d2d-a75c-9ae6ee1161f0": {
+    "summary": "Assessing conflicting reasons",
+    "content": "{Conflicting reasons must be assessed for strength}, {Determining the stronger reason can guide decision-making and belief acceptance}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "625993c6-ffdd-408b-b586-8567eae0717d": {
+    "summary": "Reasons as a basis for deliberation",
+    "content": "{Reasons serve as a basis for deliberation}, {Effective deliberation involves considering and weighing different reasons}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5c407440-6591-422e-bb4b-3a5edf1928f3": {
+    "summary": "Interplay of reasons and evidence",
+    "content": "{Reasons often interplay with other forms of evidence}, {A comprehensive understanding of a situation may require integrating reasons with evidence}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "26208c33-ebd4-44c1-91ae-46e05af656c5": {
+    "summary": "Reasons and epistemic risk",
+    "content": "{Reliance on reasons can mitigate epistemic risk}, {Reducing epistemic risk involves ensuring reasons are strong and reliable}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e16a2322-f793-466d-998f-230cde942ccc": {
+    "summary": "Reasons influencing action tendencies",
+    "content": "{Reasons influence our tendencies to act}, {The presence of compelling reasons makes certain actions more likely}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "02cc7d2d-70a7-40d3-81a3-8045e4f30d34": {
+    "summary": "Reasons enabling critical thinking",
+    "content": "{Critical thinking involves evaluating reasons}, {The assessment of reasons is crucial for effective critical analysis}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a2a9c202-642c-403c-a2cb-fa0189eafc6e": {
+    "summary": "Reasons shaping belief systems",
+    "content": "{Belief systems are shaped by the reasons that support them}, {Strong belief systems typically rest on coherent and sound reasons}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c554eab2-cfa5-4700-a131-c320754e558a": {
+    "summary": "Reasons and moral justification",
+    "content": "{Moral justification often relies on reasons}, {Actions are morally justified when supported by strong moral reasons}",
+    "node_type": "reason",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d8e59e84-cb30-4f8b-bd7d-8cb06849664b": {
+    "summary": "The close relationship between reasons and motivation",
+    "content": "{There is an intuition that reasons are closely tied to what motivates an individual}, {Motivation often appears to be necessary for action}, {People often describe their reasons as driving forces behind their actions}",
+    "node_type": "reason",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a477f0a8-7c62-4028-b69c-c1fa24c2d6a3": {
+    "summary": "Reasons directly influence decisions",
+    "content": "{Reasons are often thought to play an immediate role in decision-making}, {Actions frequently correlate with the reasons one reflects upon}, {People often articulate their reasons when explaining why they made a particular choice}",
+    "node_type": "reason",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "563fc472-1ba3-4222-92d0-931ef4122f96": {
+    "summary": "Alignment of reasons and actions",
+    "content": "{There is a common intuition that actions align with stated reasons}, {Reasons are often cited as explanations for actions}, {Clear connections are observed between articulated reasons and subsequent actions}",
+    "node_type": "reason",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4cbfddb7-342c-4f31-aed2-08c3f390c3ac": {
+    "summary": "Subjective experience of reasoning",
+    "content": "{Individuals often report feeling compelled to act based on their reasons}, {The internal experience of reasoning frequently includes motivational states}, {There is a perception that reasoning processes are intertwined with feelings of motivation}",
+    "node_type": "reason",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "afe7e86e-8f66-417a-b949-cb812603487c": {
+    "summary": "Reasons as justifications",
+    "content": "{Reasons are often used to justify actions after they occur}, {Justifications given for actions often reflect motivational states}, {The act of providing reasons is commonly seen as aligning motives with behavior}",
+    "node_type": "reason",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ddfbaac6-42cb-4027-8f6c-b6924931e5b0": {
+    "summary": "Consistency in reasoning and motivation",
+    "content": "{There appears to be consistency between the reasons people give and their motivations}, {When motivations change, reasons stated for actions may also change}, {People adjust their reasons when their underlying motivations are questioned}",
+    "node_type": "reason",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d00c4f29-5003-41cb-816c-b4d1d3477dda": {
+    "summary": "Understanding others' actions through reasons",
+    "content": "{One way to understand others' actions is by uncovering their reasons}, {Knowledge of someone's reasons provides insight into their motivations}, {Discernment of reasons helps predict future actions}",
+    "node_type": "reason",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "265006b6-23d5-4a66-bff5-e36e6723c272": {
+    "summary": "Reason-giving in moral contexts",
+    "content": "{Moral reasoning often accompanies significant motivational force}, {People frequently cite moral reasons to explain their behavior}, {Moral decisions can involve a strong link between reasons and motivations}",
+    "node_type": "reason",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "434541cc-adaf-44d6-8df2-5cf0f4701a26": {
+    "summary": "Change in reasons reflects shifts in motivation",
+    "content": "{Changes in reasons given often reflect changes in underlying motivation}, {Newly acquired motivations can lead to new reasons being articulated}, {Re-evaluation of reasons may indicate a shift in motivational focus}",
+    "node_type": "reason",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1ed26ecf-f886-425e-9395-81583ed4c459": {
+    "summary": "Personal deliberation processes",
+    "content": "{Personal deliberations reveal an interconnectedness between reasons and motivation}, {The outcome of deliberation often guides motivated behavior}, {Deliberative reasoning can alter how motivations are perceived and acted upon}",
+    "node_type": "reason",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8a365386-77c2-47c0-9016-4d88b2f290e0": {
+    "summary": "Can reasons be explanations without being causal?",
+    "content": "{There is a plausible principle that explanations do not always require causal accounts.}, {Consider a scenario where an action is explained by an agent's beliefs and desires, without reference to causation. In such a scenario, intuitively, we would judge that the explanation is non-causal.}",
+    "node_type": "antithesis",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1e1bd4f0-7838-47d7-b078-54b1cdcd8848": {
+    "summary": "Are all explanations necessarily causal explanations?",
+    "content": "{There are explanations, like mathematical proofs, which are non-causal yet provide understanding.}, {Suppose we have a case where an agent acts based on mathematical reasoning. Intuitively, this reasoning explains the action without invoking a causal mechanism.}",
+    "node_type": "antithesis",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1b284ebe-944c-4578-8acf-6196d9a3dedb": {
+    "summary": "Is it possible for reasons to be non-explanatory?",
+    "content": "{Consider the fact that humans often act on reasons like habits or instincts, which do not seem to require explanation.}, {It is implausible that every reason used by agents for acting must serve as an explanation for their actions.}",
+    "node_type": "antithesis",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "232def9d-a511-4356-9878-1b67962cf65f": {
+    "summary": "Can reasons be distinguished from non-explanatory causes?",
+    "content": "{Suppose we have a case where a person acts impulsively without considering reasons, acting purely on a chemical trigger. Intuitively, we would say this is a cause that is not a reason.}, {There is a plausible principle that some causes can occur without providing any explanatory role.}",
+    "node_type": "antithesis",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6a3982c8-0f4c-42af-98c5-a56dab532f7d": {
+    "summary": "Are reasons always coupled with an intention to act?",
+    "content": "{Consider a scenario where a person accidentally performs an action but can later rationalize it with reasons. The reasons post-facto do not seem to provide an explanation of the original act.}, {It is implausible that reasons applied after an action can serve as explanations for the original occurrence of that action.}",
+    "node_type": "antithesis",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d0d52ff6-008a-49f1-8b93-93aab45fd588": {
+    "summary": "Are reasons solely internal to an agent?",
+    "content": "{Consider a scenario where societal pressures influence an action, providing reasons that are external to the agent's personal desires. In such a scenario, intuitively, we would judge that these are reasons for the action.}, {It is implausible that reasons can only reside within the cognition of the agent performing the action.}",
+    "node_type": "antithesis",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fa580d22-be4d-4b59-a132-4dd1ac2076a2": {
+    "summary": "Can compulsion rather than explanation serve as a reason for actions?",
+    "content": "{Suppose we have a case where a person acts under duress, coerced by external forces. Intuitively, we have to say that the reason is compulsion, challenging the notion of explanation.}, {There is a plausible principle that reasons must include an aspect of voluntary choice to truly serve as explanations.}",
+    "node_type": "antithesis",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "85e62e56-e061-4a52-94ef-92a96451feea": {
+    "summary": "Can explanations fail to account for irrational actions?",
+    "content": "{Consider a scenario where a person acts in direct contradiction to their best judgment. In such a scenario, intuitively, we would judge that the explanation of their actions based solely on reasons is insufficient.}, {There is a plausible principle that some actions defy reason-based explanations because they are fundamentally irrational.}",
+    "node_type": "antithesis",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0a56d4f2-190b-4ca1-a812-4b29c0ac4904": {
+    "summary": "Is subjective understanding necessary for reasons to explain actions?",
+    "content": "{It is implausible that an agent can always articulate the reason for an action, yet the action still occurs.}, {Suppose we have a case in which a person acts based on subconscious desires. Intuitively, these desires influence actions without conscious explanatory reasons.}",
+    "node_type": "antithesis",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7e80812c-9cb6-4a41-b990-8259b7252229": {
+    "summary": "Do collective actions resist reason-based explanations?",
+    "content": "{Consider a scenario where a crowd acts together spontaneously without shared reasoning. In such a scenario, intuitively, it is difficult to isolate individual reasons as explanations for the overall action.}, {There is a plausible principle that collective behavior can diminish the explanatory power of individual reasons.}",
+    "node_type": "antithesis",
+    "parent_id": "c3673ad4-6d6e-4f51-aea4-c9a8f39d321f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "57488187-ce69-49c2-a333-3987039ba9d4": {
+    "summary": "Are reasons necessarily mental states?",
+    "content": "{There is a plausible principle that reasons can be facts about the world, such as the weather being conducive to a picnic.}, {If reasons can be facts about the world, then reasons are not necessarily mental states.}",
+    "node_type": "antithesis",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7d6f9cb4-297f-4c70-b864-2b0bf8ec773a": {
+    "summary": "Do reasons involve only beliefs and desires?",
+    "content": "{Consider a scenario in which a person acts out of a sense of duty rather than from belief or desire. In such a scenario, intuitively, the person has a reason that does not involve either belief or desire.}",
+    "node_type": "antithesis",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2a85e1a5-2d87-484e-8c47-869b9035793f": {
+    "summary": "Do motivating reasons necessarily explain intentions behind actions?",
+    "content": "{Suppose we have a case in which someone acts on instinct without reflecting on their intentions, such as jumping back at the sight of a snake. Intuitively, we either have to say that the action involves an intention or that it is purely instinctual. If we say that the action involves an intention, then instinctual reactions have reasons even when unexamined. If we say that it is purely instinctual, then motivating reasons do not necessarily explain intentions.}",
+    "node_type": "antithesis",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a97d7d95-68ad-48ed-9121-a7cddedda920": {
+    "summary": "Can reasons exist without directly motivating action?",
+    "content": "{There is a plausible principle that some reasons for actions might be acknowledged without leading to action, such as recognizing the importance of exercise but not engaging in it.}, {If some reasons for actions do not lead to action, then reasons can exist without directly motivating action.}",
+    "node_type": "antithesis",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "57f49860-c51e-43b0-b8c4-5e82f9926577": {
+    "summary": "Do reasons require conscious awareness?",
+    "content": "{Imagine a scenario in which a person is influenced unconsciously by a childhood experience, leading them to act in certain ways throughout their life. In such a scenario, intuitively, the person has reasons for their actions that they are not consciously aware of.}, {If reasons require conscious awareness, these unconscious influences would not qualify as reasons, contradicting the intuition.}",
+    "node_type": "antithesis",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1c5188a7-62ad-4524-a83b-0cf742002a3c": {
+    "summary": "Do reasons inform actions only when aligned with desires?",
+    "content": "{Suppose we have a case in which a person acts against their desires, like a smoker who desires to smoke but quits for health reasons. Intuitively, we either have to say the health reason informs the action or it doesn't. If we say it informs the action, then reasons can inform actions even when not aligned with desires.}",
+    "node_type": "antithesis",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "50aba371-62fe-4883-8de0-1fe2ae5398fe": {
+    "summary": "Are reasons limited to explaining intentional actions?",
+    "content": "{Consider a scenario in which a person sleepwalks and performs a coherent activity, such as writing a letter. In such a scenario, intuitively, there is no intentional reason for their actions, yet their behavior is structured.}, {If reasons are limited to explaining intentional actions, then sleepwalking actions would not have reasons, creating a conflict with the structured behavior observed.}",
+    "node_type": "antithesis",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f9cbc850-07cd-4653-8b22-df2da893f39e": {
+    "summary": "Do reasons inherently involve an expectation of outcome?",
+    "content": "{Imagine a scenario where an individual acts out of habit, such as brushing their teeth, without any expectation of an outcome. In such a scenario, intuitively, the individual behaves for a reason, but without an explicit expectation of a result.}",
+    "node_type": "antithesis",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "46265194-9706-4818-984e-ef4ba247914b": {
+    "summary": "Are emotional states devoid of reason?",
+    "content": "{There is a plausible principle that emotions like fear and excitement arise as responses to perceived reasons, such as danger.}, {If emotional states can arise in response to reasons, then not all reasons are devoid of rational basis even when emotional.}",
+    "node_type": "antithesis",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "44621ecc-15c6-46ca-bb45-fa85048f6123": {
+    "summary": "Can reasons change without a change in mental states?",
+    "content": "{Suppose we have a case in which a sudden external event, like a promotion at work, changes the apparent reasons for someone's actions, such as moving to a new city. Intuitively, we either have to say it changes the reasons for action or not. If we say it changes the reasons, then reasons can change without a change in mental states.}",
+    "node_type": "antithesis",
+    "parent_id": "1d2645a5-7a96-4ce8-b1d4-0ccbe017482e",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a950306e-5e70-4c8e-9268-31c4cc026ca6": {
+    "summary": "Do reasons always compel actions?",
+    "content": "{There are cases in which a person recognizes a reason but fails to be motivated by it, such as an addict who acknowledges the harm in their addiction yet continues the behavior.}, {It is implausible that reasons inherently have a normative force that compels actions if individuals can observe them without experiencing compulsion.}",
+    "node_type": "antithesis",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "643ea6d5-9fed-4b56-85dd-619a2171a9c2": {
+    "summary": "Are reasons guidance for what one ought to do if they conflict?",
+    "content": "{Consider a situation where two equally strong reasons exist, each counting in favor of mutually exclusive actions, such as a choice between attending a family event or a professional commitment.}, {It is unclear how reasons can provide guidance for what one ought to do if they deliver conflicting prescriptions without a clear method for resolution.}",
+    "node_type": "antithesis",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "43968493-5eed-4b80-897e-cca5ae93a91e": {
+    "summary": "Can reasons be objective if they vary across cultures?",
+    "content": "{Suppose in culture A, a reason counts decisively in favor of a tradition, while in culture B, the same reason counts against it, such as differing views on animal rights.}, {It is implausible that reasons provide guidance for what one ought to do if they produce divergent norms in different cultural contexts, questioning their objectivity.}",
+    "node_type": "antithesis",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "152257d8-0df5-4223-b485-f1f9dace65c2": {
+    "summary": "Are justificatory reasons always action-guiding?",
+    "content": "{Consider a scenario where someone has a strong reason to pursue both a personal passion and a lucrative career, as these gratify different life values.}, {It is implausible that reasons equally justify both actions and still guide toward a particular action, as they may simply allow for permissible options without definitive guidance.}",
+    "node_type": "antithesis",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "624cf89e-2056-4c71-a5fc-b4e6ab68af0f": {
+    "summary": "Do reasons always align with moral actions?",
+    "content": "{Imagine a case where a person has a reason to keep a promise but another to break it for a greater moral good, like lying to protect someone.}, {It is implausible to claim that reasons always align with actions that are morally right, suggesting some reasons lack normative guidance.}",
+    "node_type": "antithesis",
+    "parent_id": "05978a2e-5bed-4a7b-9a15-31ff0a2555c7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "26c179a8-d22b-4bc0-ad9c-dff8cc7b8667": {
+    "summary": "Can subjective experiences generate real reasons?",
+    "content": "{Consider a scenario where an individual has a strong emotional response to a work of art. Intuitively, one might judge that this emotional experience provides a compelling reason for the individual to value that artwork more highly.}, {This scenario suggests that reasons for valuing something can arise from subjective emotional experiences rather than objective facts.}",
+    "node_type": "antithesis",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e098d4ce-80d4-459e-9890-2fbb17565dea": {
+    "summary": "Can different cultures have different sets of reasons?",
+    "content": "{Consider a case where two different cultures have contrasting moral norms. One culture considers it a reason to help strangers in need, while another culture values prioritizing in-group relationships. Intuitively, both sets of reasons seem equally valid within their respective cultural contexts.}, {This case suggests that reasons might be culturally dependent rather than universally objective.}",
+    "node_type": "antithesis",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fb756cee-c98d-433c-94f2-e3a986d3b458": {
+    "summary": "Do changing preferences affect reasons?",
+    "content": "{Suppose an individual strongly prefers vegetarianism for ethical reasons. Over time, their preference shifts due to health concerns, providing new reasons to include meat in their diet. Intuitively, their reasons change with their preferences.}, {This implies that reasons can shift along with personal preferences, challenging the view that reasons are constant.}",
+    "node_type": "antithesis",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "63c21e89-a4c8-4fa7-9595-862e01c25af8": {
+    "summary": "Can reasons be subject to personal interpretation?",
+    "content": "{Consider a case where two people read the same philosophical text. One finds reasons to agree with its arguments, while the other finds reasons to disagree. Intuitively, it seems their reasoning is influenced by personal interpretation.}, {This case suggests reasons might depend on individual interpretation, not solely on objective facts.}",
+    "node_type": "antithesis",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dfb73466-067a-4a70-9597-73873df0a57c": {
+    "summary": "Can reasons be context-dependent?",
+    "content": "{Suppose a doctor has an obligation to maintain patient confidentiality. In a different context, such as a court order, she might have a reason to disclose patient information. Intuitively, her reasons change with context.}, {This suggests reasons might vary depending on situational context rather than remaining constant.}",
+    "node_type": "antithesis",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a62970a7-0e61-48e5-ac9b-3739837617df": {
+    "summary": "Do reasons depend on mental states?",
+    "content": "{Consider someone who takes a medication and experiences no side effects. They have no reason to stop. Another develops severe side effects from the same medication and finds reasons to stop. Intuitively, the reasons differ due to their mental states.}, {This indicates reasons could be influenced by subjective mental states, not just objective facts.}",
+    "node_type": "antithesis",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d084eac4-885a-4095-a128-f6afbef0d26b": {
+    "summary": "Can subjective desires create reasons?",
+    "content": "{Imagine an individual greatly desires to travel the world. This desire provides a compelling reason for them to save money for travel. Intuitively, the desire itself seems to generate a reason.}, {This suggests that reasons can be generated by subjective desires, not solely by objective facts about the world.}",
+    "node_type": "antithesis",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "becc6974-5125-4207-b0fd-f924f89395e2": {
+    "summary": "Can reasons be contradictory across perspectives?",
+    "content": "{Suppose two scientists interpret data from an experiment. One argues the data provides a reason to accept theory A, while the other argues for theory B. Intuitively, both interpretations seem valid from their perspectives.}, {This implies that reasons could be contradictory across different perspectives, challenging objectivity.}",
+    "node_type": "antithesis",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f36f31db-362c-4eb2-905d-4cb4e4b14029": {
+    "summary": "Are reasons immune to subjective influence?",
+    "content": "{A person faced with a decision must choose based on available evidence. However, their emotional attachment to one outcome influences their perceived reasons. Intuitively, their reasons seem subjectively influenced.}, {This suggests that subjective influences might impact what we consider reasons, challenging their objectivity.}",
+    "node_type": "antithesis",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "007d49ed-e50e-4a94-96dd-ff3b9a279001": {
+    "summary": "Can reasons inherently be personal?",
+    "content": "{Imagine a person who finds a specific piece of music uniquely moving and believes they have strong reasons to recommend it to others. Someone else may not experience the same emotion and finds no reason to recommend it. Intuitively, reasons appear personal here.}, {This implies that reasons might inherently contain a personal element contradicting full objectivity.}",
+    "node_type": "antithesis",
+    "parent_id": "6869e418-7924-425e-8423-128319961c45",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f6eb6e46-e3a1-4abc-96d8-7b39a897ba19": {
+    "summary": "Can personal biases unjustifiably influence subjective reasons?",
+    "content": "{There are cases where individuals hold preferences that are widely regarded as morally objectionable, such as a person's preference for discrimination based on race or gender. In such cases, intuitively, we would judge that these preferences should not form valid reasons for action.}, {A reason that is based solely on personal preferences allows for the justification of actions that are harmful or ethically questionable, which is implausible.}",
+    "node_type": "antithesis",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "21354347-563f-4c5b-9c40-e3773971e93f": {
+    "summary": "Do subjective reasons undermine objective moral standards?",
+    "content": "{There is a plausible principle that moral reasons must have some objective validity that is independent of individual preferences and values. This principle, together with the claim that reasons are subjective, entails a conflict where subjective reasons may not align with objective moral standards.}, {Suppose an individual's preferences lead them to make decisions that contravene widely accepted moral norms, such as fairness or justice. Intuitively, we might say that their reasons are deficient in moral standing.}",
+    "node_type": "antithesis",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e25cbcdf-0cc4-44a0-ac0a-5621459bca88": {
+    "summary": "Could divergent subjective reasons cause interpersonal conflict?",
+    "content": "{When reasons vary greatly from person to person, there is a potential for significant interpersonal conflict if individuals act solely based on their subjective reasons without regard for others' perspectives. Such conflict seems likely to be unresolvable if each individual's perspective is considered equally valid.}, {Consider a scenario where one individual's subjective reason for action conflicts directly with another individual's subjective reason, such as one person\u2019s preference for silence conflicting with another\u2019s preference for playing loud music. Intuitively, without an objective standard, it\u2019s unclear how to resolve these conflicts.}",
+    "node_type": "antithesis",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9b0862ab-f2cb-42ec-b407-07a209ef7e3c": {
+    "summary": "Do subjective reasons challenge the notion of rational dialogue?",
+    "content": "{Rational dialogue typically relies on there being some common ground or shared reasons between parties to resolve disagreements. If reasons are entirely subjective and internal, it may be implausible to expect that individuals can engage in effective dialogue or debate, as there is no need to consider or understand another\u2019s reasons.}, {In a debate scenario where each party bases their arguments solely on their subjective reasons, it would be difficult to find consensus or persuade the other party if they do not share the same preferences or values.}",
+    "node_type": "antithesis",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0c20c60e-bbbd-4288-9814-3aaf6600405e": {
+    "summary": "Are subjective reasons reliable guides for decision-making?",
+    "content": "{Suppose individuals rely on their subjective reasons grounded in personal preferences to make important life decisions, such as career choice or ethical dilemmas. Intuitively, if reasons vary significantly among individuals, some decisions may lead to poor outcomes or regret due to ill-formed preferences.}, {There is a plausible principle that decisions that greatly affect one's life and others' lives should be guided by stable and reliable reasons. This principle conflicts with the notion that reasons can vary greatly depending on transient preferences.}",
+    "node_type": "antithesis",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bed13260-ffe4-4662-b7d3-33a4b522c7de": {
+    "summary": "Do subjective reasons accommodate irrational preferences?",
+    "content": "{Consider a case where a person has an irrational fear, such as an extreme, unfounded fear of cats, which forms the basis of their subjective reason for avoiding all interactions involving cats. Intuitively, a reason based on an irrational preference is inadequate for guiding reasonable behavior.}, {It is implausible that preferences that result from irrational beliefs or fears should dictate valid rational actions or reasons.}",
+    "node_type": "antithesis",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d33ffd1b-c328-4d4b-b7c5-8277ce3f5ece": {
+    "summary": "Can subjective reasons be justified in a morally pluralistic society?",
+    "content": "{In a morally pluralistic society, individuals hold diverse beliefs about what is valuable or worthwhile. Subjective reasons that stem solely from personal preferences may lead to justifying actions that are intolerant or dismissive of other moral viewpoints, which is problematic.}, {A scenario in which one person's subjective reasons invalidate another\u2019s belief system presents an intuitively troubling lack of mutual respect or understanding, challenging social cohesion.}",
+    "node_type": "antithesis",
+    "parent_id": "c0868167-ad8b-466f-9497-9328c93d8ef7",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "31edaeaa-22f0-4a7c-832f-721750fb5aff": {
+    "summary": "Can something non-propositional serve as a reason?",
+    "content": "{A mental state like a desire or an emotion does not have a propositional structure and cannot be true or false.}, {Desires and emotions can influence and justify actions in a way that appears to make them reasons for action.}",
+    "node_type": "antithesis",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ff6d2062-36eb-4493-80a0-ab771bcbb009": {
+    "summary": "Can reasons for action be independent of truth?",
+    "content": "{An agent might be justified in taking an action based on a consideration that is important to them but lacks truth conditions.}, {Considerations that lack truth conditions, such as desires or intentions, can be relevant in deciding upon and justifying certain actions.}",
+    "node_type": "antithesis",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6e2c02a1-9785-4a4d-908e-36bfb324b3ce": {
+    "summary": "Do all legitimate reasons for action involve propositions?",
+    "content": "{A practical consideration can justify an action without being a proposition that is true or false.}, {Practical considerations, even if not propositional in form, can still be assessed for their appropriateness or relevance in justifying actions.}",
+    "node_type": "antithesis",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "50eefadf-6de5-450a-8f90-fa2d246ef6a2": {
+    "summary": "Is it possible for a true proposition to be irrelevant as a reason for action?",
+    "content": "{A proposition can be true but entirely unrelated to the decision that needs to be made.}, {The relevance of a consideration to action does not solely depend on the truth of the proposition.}",
+    "node_type": "antithesis",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "25ad179e-9847-4f27-ae3d-3e8ba781d028": {
+    "summary": "Are reasons for action always truth-apt?",
+    "content": "{Consider a scenario where an individual acts based on a belief they consider justified, even if it is not truth-apt.}, {The justification for action may rely on considerations significant to the individual which do not possess truth values.}",
+    "node_type": "antithesis",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8a3fd105-c318-4a4e-bdff-ae7d951b40f4": {
+    "summary": "What role do false beliefs play in reasoning?",
+    "content": "{A person can be motivated to act by a belief that is false, yet that belief functions as a reason for their action.}, {The utility of a reason might derive from its motivational power, rather than its truth.}",
+    "node_type": "antithesis",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "64e1d790-4929-482d-8f6d-6abc19ca2211": {
+    "summary": "Do moral reasons depend on truth-value assessments?",
+    "content": "{A moral consideration like 'hurting others is wrong' influences actions even without needing to establish its truth or falsehood.}, {Moral reasons can compel action and assessment without being grounded entirely in propositional truth conditions.}",
+    "node_type": "antithesis",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "679d59f6-8629-4950-b626-48c8737291d6": {
+    "summary": "Are reasons limited to considerations with a truth-value?",
+    "content": "{Aesthetic judgments can guide actions or preferences without being reducible to true or false propositions.}, {Such aesthetic reasons can still be integral to explaining, predicting, or justifying decisions.}",
+    "node_type": "antithesis",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "161a2488-60f9-47dc-9da7-c4e7e56d717c": {
+    "summary": "How do practical irrationalities affect the propositional nature of reasons?",
+    "content": "{A person can recognize a truth but act against it due to irrational inclinations driven by non-propositional states.}, {The driving force of decisions may rest on non-propositional conditions such as urges or biases, challenging the need for reasons to be propositional.}",
+    "node_type": "antithesis",
+    "parent_id": "d5ddc77f-1eb3-4fbd-8f38-64995f0beef0",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e0b8ce04-9369-4007-afa7-ee7d4e4d07fa": {
+    "summary": "Are reasons always practical and action-guiding?",
+    "content": "{There is a plausible principle that some reasons are theoretical rather than practical. A theoretical reason might explain why something is the case, such as knowing that 2 + 2 equals 4.}, {In some cases, a reason for belief does not necessarily lead to the execution of an action, but merely supports holding a belief.}, {Consider a scenario where someone has a reason to believe it will rain tomorrow based on a weather forecast. This reason is not immediately tied to an action but remains a consideration for future decision-making about carrying an umbrella.}",
+    "node_type": "antithesis",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "74e427ee-22bb-4345-b87d-65ec98678d18": {
+    "summary": "Are reasons separable from decision-making processes?",
+    "content": "{Consider a scenario in which a person decides to act on impulse, without deliberating on reasons. Intuitively, we might judge that this action is not based on reasons.}, {A decision-making process can occur where reasons are bypassed or ignored, yet an action is still taken.}, {It is implausible that all reasons are closely tied to decision-making processes if actions can occur without conscious reasoning.}",
+    "node_type": "antithesis",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a5f5642f-be5b-4a9e-9707-27ba902c916f": {
+    "summary": "Are all reasons pertinent to the outcomes of actions?",
+    "content": "{Suppose we have a case in which a person has a reason to maintain a healthy diet for health reasons but ultimately chooses not to. Intuitively, the reason exists irrespective of the outcome of their actions.}, {There are plausible reasons that motivate or justify actions, irrespective of whether the action takes place or leads to a particular outcome.}, {It is implausible that reasons lose their status if they fail to influence the outcome of actions, suggesting reasons can be independent of outcomes.}",
+    "node_type": "antithesis",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0aa32270-9fdd-4433-a8c5-d97071b9946c": {
+    "summary": "Is reason always a consideration that leads to action?",
+    "content": "{Consider a scenario where a person identifies multiple reasons not to undertake a task but still does nothing. The reasons exist without leading to any specific action.}, {In some cases, reasons can provide a basis for neither acting nor deciding, remaining as abstract considerations.}, {Reasons can be practical in consideration but not necessarily causal factors in leading to an execution of action, challenging the view that all reasons must lead to action.}",
+    "node_type": "antithesis",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "04f0301a-c46d-463a-bfc4-2dc701d71030": {
+    "summary": "Can reasons exist without tying directly to an action?",
+    "content": "{There is a plausible principle that reasons can exist as explanations unrelated to direct actions, such as explaining why natural events occur.}, {Consider a scenario in which an astrophysicist has reasons for certain theoretical models about the universe that don't lead to any direct action.}, {Intuitively, we judge that certain reasons purely exist to enhance understanding, separate from direct practical application.}",
+    "node_type": "antithesis",
+    "parent_id": "9c3f56cb-4b9f-430c-907f-b8748aa11d42",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7e05756a-f467-456d-a792-b153015fc540": {
+    "summary": "Can reasons ever concern actions instead of just beliefs?",
+    "content": "{Consider a scenario in which a person is deciding whether to go to bed early or stay out late. In such a scenario, intuitively we would judge that reasons related to health and well-being concern the decision to act, not just beliefs.}, {There is a plausible principle that reasons can be practical as well as theoretical. This principle together with considering reasons as exclusively theoretical entails an incomplete understanding of all types of reasons.}",
+    "node_type": "antithesis",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ba7954d3-1d46-401d-bb69-cf72ccf130d0": {
+    "summary": "Do reasons inherently require an epistemic justification?",
+    "content": "{Suppose we have a case in which a person decides to take an umbrella because the sky looks cloudy. Intuitively, they act on a practical reason, unrelated to epistemic justification.}, {It is implausible that practical decisions solely rely on epistemic justifications because they often involve considerations beyond mere belief justification.}",
+    "node_type": "antithesis",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "61ceb3c5-24ea-4a6a-b07c-ceed8cd59cec": {
+    "summary": "Can desires function as reasons?",
+    "content": "{Consider a scenario where a person eats a chocolate because they desire it, despite knowing it is unhealthy. In such a scenario, intuitively we would judge that their desire, not an epistemic factor, serves as their reason.}, {There is a plausible principle that desires can be motivating reasons, which conflicts with the view that reasons are primarily epistemic.}",
+    "node_type": "antithesis",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "690e5d8e-17f1-4655-9eef-2722ca944548": {
+    "summary": "Are moral reasons reducible to epistemic ones?",
+    "content": "{Suppose we have a case in which a person donates to charity because they believe it is morally right. Intuitively, the reason involves moral justification, not merely epistemic.}, {It is implausible that moral reasons can be entirely reduced to epistemic ones, given their distinct normative domains.}",
+    "node_type": "antithesis",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "add0bbf2-8cfc-40a1-8231-9bf2244fc2b1": {
+    "summary": "Can reasons exist without beliefs?",
+    "content": "{Consider a scenario in which someone instinctively helps another person without any pre-existing belief about the situation. In such a scenario, intuitively the act seems reason-driven without a belief component.}, {There is a plausible principle that reasons can prompt actions independently of beliefs, challenging the view that reasons inherently concern beliefs.}",
+    "node_type": "antithesis",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0785b89f-e285-409b-8a91-5f32069c336f": {
+    "summary": "Is it possible for reasons not to provide epistemic justification?",
+    "content": "{Suppose we have a case in which someone dislikes spinach purely due to taste preference. Intuitively, their reason for not eating it is not epistemically justified; it is non-cognitive.}, {It is implausible that all reasons must provide epistemic justification, as many reasons relate to taste or preference rather than belief.}",
+    "node_type": "antithesis",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c1ccef62-a077-4347-a3f1-3553b2e0a60d": {
+    "summary": "Do reasons sometimes aim at action rather than belief?",
+    "content": "{Consider a scenario where a person jumps out of the way of an oncoming car. In such a scenario, intuitively, their reason aims primarily at action rather than forming a belief.}, {There is a plausible principle that some reasons are directly tied to actions, suggesting reasons are not exclusively theoretical or belief-oriented.}",
+    "node_type": "antithesis",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "303c5e4c-a948-4093-ad66-64eb18c23591": {
+    "summary": "Are some reasons emotional rather than epistemic in nature?",
+    "content": "{Suppose we have a case where a person cries at a sad movie based purely on an emotional reaction. Intuitively, the emotional reaction serves as a reason for their tears, not tied to epistemic justification.}, {It is implausible to categorize all reasons as primarily epistemic when emotional responses often serve as compelling reasons.}",
+    "node_type": "antithesis",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fa4a3f96-9378-4a57-ab4e-ffd04972dd11": {
+    "summary": "Can intuition serve as a reason without belief?",
+    "content": "{Consider a scenario where a person decides to trust a friend based on a gut feeling, without any specific belief about the situation. In such a scenario, intuitively, their intuition serves as a reason, lacking a corresponding belief.}, {There is a plausible principle that intuitive judgments can function as reasons without relying on epistemic beliefs.}",
+    "node_type": "antithesis",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "57dd117b-ef97-4544-a1c5-9b2cd6ae8694": {
+    "summary": "Do all reasons offer a coherent justification for beliefs?",
+    "content": "{Suppose we have a case in which someone believes a superstition, such as knocking on wood to prevent bad luck, without coherent evidence. Intuitively, the reason for this belief lacks coherent justification.}, {It is implausible that every reason offers a coherent justification for beliefs, particularly when beliefs stem from superstitions or cultural practices.}",
+    "node_type": "antithesis",
+    "parent_id": "34e9ee49-c735-4d80-a178-76d1fd200279",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c4ea2e02-f0cd-4284-880d-bb21e1e44cea": {
+    "summary": "Do reasons always count as evidence?",
+    "content": "{Consider a scenario where a person decides to donate to charity because it brings them joy and fulfillment rather than because of evidence that it causes the most good. In this scenario, intuitively, their reason for donating is not evidence for any belief about the effectiveness of charity.}, {It is plausible that reasons for actions can sometimes be non-evidential and based on personal values or emotional states.}",
+    "node_type": "antithesis",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9a04bb6f-32f4-4090-9b97-b82611ce7567": {
+    "summary": "Are reasons purely evaluative rather than evidential?",
+    "content": "{Suppose there is a case where a person chooses to forgive a friend because they believe in the moral value of forgiveness. In such a case, their reason is evaluative rather than evidence suggesting the friend will change.}, {It seems implausible that all reasons for action merely serve as evidence for a belief, as some reasons reflect personal commitments or virtues.}",
+    "node_type": "antithesis",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "09207eed-2998-498e-b8a6-acc37d821273": {
+    "summary": "Can reasons be motivational without being evidential?",
+    "content": "{Consider a person who exercises because it makes them feel healthier, even if no empirical evidence shows immediate health benefits. Their motivation to exercise is a reason but not evidence for a belief.}, {A plausible principle is that reasons can motivate action by appealing to desires or goals without necessarily being evidence for any proposition.}",
+    "node_type": "antithesis",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5a76e50b-a39b-49ce-b996-8e2915f480c9": {
+    "summary": "Do reasons necessarily increase the likelihood of belief?",
+    "content": "{Imagine someone who learns that a distant relative disapproves of swearing. This information serves as a reason to avoid swearing but doesn't change their belief about its morality.}, {It is not always the case that a reason, even if compelling, will increase the likelihood of believing a particular proposition.}",
+    "node_type": "antithesis",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4a04e61e-45f0-44ac-9a85-e4b51e526034": {
+    "summary": "Can reasons lack justificatory power?",
+    "content": "{Suppose a person avoids crossing a bridge after hearing a rumor it might collapse, although reliable sources confirm it is safe. Here, the rumor is a reason for avoiding the bridge but lacks robust justificatory power.}, {There exists a principle that reasons may be appealing or motivating without providing genuine justification for beliefs or actions.}",
+    "node_type": "antithesis",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "62bc40af-95ac-4bf5-88ef-f9fbcb0ceac1": {
+    "summary": "Are reasons context-dependent rather than universally evidential?",
+    "content": "{Consider a case where an artist paints because they feel inspired, not because they want to convey a message or prove a point. This inspiration is a reason but not evidence of truth or falsity.}, {It seems that reasons often depend on specific contexts, serving different roles in different situations, rather than consistently acting as evidence.}",
+    "node_type": "antithesis",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4d54f273-838f-434c-8f72-90eebaedf3ef": {
+    "summary": "Can non-evidential reasons still justify actions?",
+    "content": "{Imagine a person who refrains from eating meat because they sympathize with animals, a decision not based on evidence but empathy. This reason justifies their action in their moral framework.}, {In many cases, non-evidential reasons\u2014such as emotional or ethical considerations\u2014serve to justify actions without acting as evidence to support beliefs.}",
+    "node_type": "antithesis",
+    "parent_id": "09efc054-9356-45ab-943e-010897868ae8",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e1db23db-8d21-4509-aa0d-7d60834a7ff4": {
+    "summary": "Do reasons always spur action?",
+    "content": "{There are cases where individuals recognize a good reason but fail to act on it, suggesting reasons don't always spur action.}, {An individual might believe that exercising is beneficial but still lack the motivation to do so.}, {The failure to act on good reasons points to a disconnect between reasons and motivation.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "99a2de2f-c965-4da9-9574-6087c6f7ca8f": {
+    "summary": "Can reasons exist without motivation?",
+    "content": "{An individual can acknowledge a reason for action but feel no corresponding motivation, suggesting a separation between reasons and motivation.}, {A person might understand the reason to apologize but feel no urge to do so.}, {Motivational states can be absent even when reasons are present.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "32a6e2a7-ed38-47c2-b609-2a47dd13cd72": {
+    "summary": "Do reasons explain behavior on their own?",
+    "content": "{Behavior can be explained by factors other than reasons, such as habits or instincts, challenging the idea that reasons alone explain behavior.}, {An individual might automatically reach for an umbrella when it rains without considering any reason.}, {This automatic behavior suggests explanations beyond just reasons are required.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4a54560d-d1b9-4220-903a-45672de2d499": {
+    "summary": "Are reasons purely mental states?",
+    "content": "{Reasons can be influenced by external social or cultural factors, suggesting they are not purely mental states.}, {A person might feel compelled to follow a tradition due to societal pressure rather than an internal reason.}, {This indicates reasons may not solely reside in the mind.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "afde59e8-589a-4e87-a656-270057451fe4": {
+    "summary": "Can reasons be unlinked from motivation?",
+    "content": "{Reasons can sometimes exist independently of motivation, indicating they are not intrinsically linked.}, {A student might know studying is important but still lack the motivation to study.}, {This lack of motivation in spite of knowing the reason shows the potential for disconnection.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c2782b7a-a2f0-4d75-91f7-7e366f17e6a0": {
+    "summary": "Are all reasons action-oriented?",
+    "content": "{Some reasons do not prompt action but rather inspire contemplation or reflection, suggesting not all reasons are motivators.}, {One might ponder the beauty of a sunset, guided by the reason of its aesthetic value, without taking any action.}, {This shows reasons may serve roles other than motivating action.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "68025380-f93b-41a6-a33d-25e2e2481be9": {
+    "summary": "Can reasons be overridden by other mental states?",
+    "content": "{Other mental states, such as emotions or desires, can override reasons, suggesting that reasons do not always drive action.}, {A person might have a reason to maintain a diet but give in to the desire to eat cake out of sheer enjoyment.}, {This indicates emotions or desires can overpower reasons.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d7822680-225b-4193-b4d5-8e75b44acd36": {
+    "summary": "Do reasons necessitate consistent behavior?",
+    "content": "{Individuals often act inconsistently even when they have clear reasons, indicating reasons do not always lead to predictable actions.}, {A person may value honesty but occasionally tells white lies.}, {This inconsistency suggests that reasons don't always align with actions.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "223be05a-1814-4b38-8732-2dbee540cd67": {
+    "summary": "Are reasons the primary impetus behind behavior?",
+    "content": "{Behavior can be primarily driven by unconscious processes or instincts, questioning the claim that reasons are the main impetus.}, {A person might instinctively duck when an object is thrown without considering any reason.}, {This instinctive reaction points to non-reason based behavior triggers.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "630c23f6-b846-43f0-b146-62ba6514a9a9": {
+    "summary": "Can one have reasons without conscious awareness?",
+    "content": "{There can be reasons that exist outside of conscious awareness, challenging the idea that reasons must be part of one's mental states.}, {One might act generously without realizing they have a reason related to altruistic values.}, {This unconscious reasoning suggests reasons might operate beyond conscious states.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d2bbef6c-a9a9-4815-9cf2-73fcfca61664": {
+    "summary": "Must reasons be tied to logic?",
+    "content": "{Not all reasons are based on logical reflection, indicating they may not always be tied to mental states of reasoning.}, {A person might decide to travel on a whim without any logical reasoning.}, {This whimsical decision-making implies reasons can be illogical or spontaneous.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7e4957e7-9e18-48d8-a961-3df633f02406": {
+    "summary": "Are motivations always reason-based?",
+    "content": "{Motivations can arise independently of reasons, such as through emotions or instincts, questioning the view that reasons are motivators.}, {A feeling of love might motivate someone to act kindly without considering any articulable reason.}, {This emotional motivation challenges the necessity of reasons.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6bc1b788-cf23-472b-87ec-73827a35f232": {
+    "summary": "Do reasons bear a causal role in action?",
+    "content": "{Actions can occur due to random or chance events, implying reasons do not always play a causal role in motivating actions.}, {A person might decide to take a different path home purely by chance and experience something unexpected without a particular reason.}, {This randomness questions the causal necessity of reasons for actions.}",
+    "node_type": "antithesis",
+    "parent_id": "a144b4cc-37a6-4f1d-98ac-bc8796132ccd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}

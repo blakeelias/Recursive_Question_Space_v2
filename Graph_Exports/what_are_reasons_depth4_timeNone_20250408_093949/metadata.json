@@ -1,0 +1,17 @@
+{
+  "central_question": "What are reasons?",
+  "configuration": {
+    "max_depth": 4,
+    "max_time_seconds": null,
+    "num_responses": 100,
+    "num_reasons": 100,
+    "check_termination": false,
+    "nonsense_threshold": 95,
+    "view_identity_threshold": 95
+  },
+  "statistics": {
+    "total_nodes": 9780,
+    "total_edges": 9779
+  },
+  "timestamp": "20250408_093949"
+}
