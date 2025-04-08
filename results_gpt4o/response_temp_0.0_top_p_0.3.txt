@@ -1,0 +1,118 @@
+Temperature: 0.0, Top_p: 0.3
+
+Justified True Belief:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, and the proposition is true
+
+Reliabilism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process
+- A reliable cognitive process is one that produces a high proportion of true beliefs over false ones
+
+No False Lemmas:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is necessary that the belief is not based on any false assumptions or lemmas
+
+Causal Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that there is an appropriate causal connection between the belief and the fact that makes the proposition true
+
+Virtue Epistemology:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief is the result of the person's intellectual virtues
+- Intellectual virtues are character traits that contribute to the acquisition of true beliefs, such as open-mindedness and intellectual courage
+
+Contextualism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the person has justification for believing the proposition
+- The standards for justification can vary depending on the context in which the knowledge claim is made
+
+Infinitism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the person has justification for believing the proposition
+- Justification consists of an infinite chain of reasons, each supporting the next
+
+Coherentism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief coheres with a system of interconnected beliefs
+- Coherence involves logical consistency and mutual support among beliefs
+
+Foundationalism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief is either foundational or derived from foundational beliefs
+- Foundational beliefs are self-evident, infallible, or evident to the senses
+
+Pragmatic Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief works or is useful in practical terms
+- The truth of a belief is determined by its practical consequences and success in action
+
+Defeasibility Theory:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the person has justification for believing the proposition
+- For a person to know a proposition, it is necessary that there are no defeaters for the belief, where a defeater is a true proposition that would undermine the justification if known
+
+Externalism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief is formed through a process that is reliable or truth-conducive
+- The justification for the belief does not need to be accessible to the person holding the belief
+
+Internalism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the person has justification for believing the proposition
+- The justification for the belief must be accessible to the person holding the belief
+
+Evidentialism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the person has evidence for believing the proposition
+- The strength of the belief should be proportional to the strength of the evidence
+
+Phenomenal Conservatism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief seems true to the person in the absence of defeaters
+- Seemings are a form of non-inferential justification for beliefs
+
+Direct Realism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief is directly caused by the external world without any intervening mental representations
+
+Indirect Realism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief is caused by the external world through mental representations or sense data
+
+Constructivism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief is constructed through social or cultural processes
+- Knowledge is not discovered but constructed by human minds
+
+Fallibilism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the person has justification for believing the proposition
+- Knowledge does not require certainty, and beliefs can be known even if they could be false
+
+Infallibilism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the person has justification for believing the proposition
+- Knowledge requires certainty, and beliefs cannot be known if there is any possibility of them being false

@@ -1,0 +1,52 @@
+Temperature: 1.0, Top_p: 1.0
+
+Classical Tripartite Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- for a person to know a proposition, it is necessary that they have justification for believing the proposition
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, and the proposition is true
+
+Reliabilism Theory of Knowledge:
+- A person's belief counts as knowledge if it has been produced by a reliable process
+- Reliable processes are more likely than not to produce true beliefs
+- A reliable process does not require the conscious understanding of why the process is reliable by the person
+
+Evidentialism Theory of Knowledge:
+- It is necessary for a person to have evidence for a belief to count as knowledge
+- The strength of evidence required for knowledge is proportionate to the strength of the belief
+- The evidence must be accessible consciously to the believer
+
+Coherentism Theory of Knowledge:
+- A belief counts as knowledge if it coheres with the rest of the believer's beliefs
+- A belief must not contradict other beliefs from the same belief system
+- In this belief system, there are no foundation beliefs, but the beliefs support each other in a unified structure
+
+Externalism Theory of Knowledge:
+- A belief can count as knowledge even if its justification is not consciously accessible to the believer
+- The reliability of the belief formation process matters more than the believer's insights
+- The external factors contributing to belief formation are more critical than the believer’s internal psychological states
+
+Internalism Theory of Knowledge:
+- All the factors needed to justify a belief as knowledge must be internally accessible
+- The individual must be capable of introspecting all the required evidences or reasons
+- The psychological state of the believer plays a critical role in determining whether belief counts as knowledge
+
+Contextualism Theory of Knowledge:
+- What counts as knowledge depends on the context
+- The standards of justification for a belief being knowledge vary depending on the situation
+- Various elements of the situation, like conversational context, are important in determining knowledge
+
+Pragmatical Theory of Knowledge:
+- A belief counts as knowledge if it produces useful results
+- Belief that leads to successful action can be considered knowledge
+- Usefulness of belief is more critical than its metaphysical correspondence with truth
+
+Fallibilism theory of Knowledge:
+- Knowledge does not require absolute certainty
+- It is possible to know something even if it is conceivable that what you know could be proven false
+- Infallibility is not a necessary condition for knowledge
+
+Infinitism Theory of Knowledge:
+- Justification of a belief depends on an infinite chain of reasons
+- Every reason used for justifying needs its own justification
+- Justifications should not assume unjustified foundation beliefs or circular reasoning

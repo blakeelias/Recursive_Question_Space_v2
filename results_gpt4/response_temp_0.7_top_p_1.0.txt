@@ -1,0 +1,49 @@
+Temperature: 0.7, Top_p: 1.0
+
+Classical Tripartite Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true
+
+Reliabilist Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true
+
+No-False-Lemma theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the belief is not based on any false assumptions
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is sufficient that they believe the proposition, the belief is not based on any false assumptions, and the proposition is true
+
+Pragmatic Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the belief is useful for the person's practical purposes
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person's practical purposes, and the proposition is true
+
+Fallibilist Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the belief is justified to a high degree, but not absolutely
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is sufficient that they believe the proposition, the belief is justified to a high degree, and the proposition is true
+
+Coherentist Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the belief coheres with the rest of the person's beliefs
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of the person's beliefs, and the proposition is true
+
+Phenomenal Conservatism Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the belief is based on the person's seeming to be so
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is sufficient that they believe the proposition, the belief is based on the person's seeming to be so, and the proposition is true
+
+Virtue Epistemology Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the belief is produced by an intellectual virtue
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by an intellectual virtue, and the proposition is true

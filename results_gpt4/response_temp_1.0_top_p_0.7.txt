@@ -1,0 +1,51 @@
+Temperature: 1.0, Top_p: 0.7
+
+Classical Tripartite Theory of Knowledge:
+- Knowledge is a type of belief
+- For a belief to count as knowledge, it must be true
+- For a belief to count as knowledge, it must be justified
+
+Reliabilist Theory of Knowledge:
+- Knowledge is a true belief
+- A belief counts as knowledge if it was produced by a reliable cognitive process
+
+Internalist Theory of Knowledge:
+- Knowledge is a justified true belief
+- The justification for a belief must be accessible to the believer's conscious awareness for it to count as knowledge
+
+Externalist Theory of Knowledge:
+- Knowledge is a true belief
+- The justification for a belief can be factors outside of the believer's conscious awareness
+- The justification for a belief must reliably lead to truth
+
+Coherentist Theory of Knowledge:
+- Knowledge is a justified true belief
+- A belief is justified if it coheres with a set of other beliefs held by the individual
+
+Foundationalist Theory of Knowledge:
+- Knowledge is a justified true belief
+- Some beliefs are self-justified and form the foundation for other justified beliefs
+
+Infinitist Theory of Knowledge:
+- Knowledge is a justified true belief
+- Justification for a belief comes from an infinite chain of reasons
+
+Contextualist Theory of Knowledge:
+- Knowledge is a justified true belief
+- What counts as a justified belief can vary depending on the context
+
+Virtue Epistemology Theory of Knowledge:
+- Knowledge is a true belief
+- A belief counts as knowledge if it was produced by intellectual virtues, such as carefulness, thoroughness, humility, and fairness
+
+Pragmatic Theory of Knowledge:
+- Knowledge is a true belief
+- A belief counts as knowledge if it is useful and works in practice
+
+Defeasibility Theory of Knowledge:
+- Knowledge is a justified true belief
+- A belief counts as knowledge unless there is a defeater, which is an additional piece of information that defeats the justification for the belief
+
+Fallibilist Theory of Knowledge:
+- Knowledge is a justified true belief
+- A belief can count as knowledge even if it is possible for it to be false

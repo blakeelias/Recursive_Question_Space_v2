@@ -1,0 +1,55 @@
+Temperature: 1.5, Top_p: 0.9
+
+Classical Foundationalism:
+- Knowledge is a type of mental state
+- To know something, a person must hold a belief
+- For a belief to qualify as knowledge, it must be justified
+- Justification involves the ability to provide a reasonable argument for the belief
+- The ultimate justification for all knowledge claims comes from self-evident truths or empirical observations
+
+Reliabilism:
+- Knowledge is a belief that is true and formed via a reliable method
+- For a person to know something, it is necessary for them to have a belief
+- To know something, it is necessary for the belief to be true
+- The belief must be the result of a reliable process, method or mechanism
+- Reliability is judged based on the track record of the process, method or mechanism in question in generating true beliefs
+
+Empiricism:
+- Knowledge comes from sensory experience
+- To know something, one must have a corresponding sensory experience
+- Concepts and knowledge are ultimately grounded in sensory experience
+- All justified beliefs about the external world rely on evidence that comes from the senses
+
+Rationalism:
+- Some knowledge can be gained independently of sensory experience
+- Reason is the primary source of knowledge
+- Knowledge of truths about abstract concepts or truths of logic are independent of sensory experience
+- These kinds of knowledge can be achieved through intuition and deduction alone
+
+Pragmatism:
+- Knowledge is validated by its practical consequences
+- To know something, the belief must be useful or beneficial in some practical way
+- Knowledge should not be separated from its practical application and consequences
+- Theories are validated by how well they solve problems or answer questions
+
+Coherentism:
+- Knowledge is a coherent set of beliefs
+- To know something, it must cohere with the rest of one's beliefs
+- Knowledge is not justified by a foundation of self-evident truths or sensory observations
+- Justification is a matter of a belief's coherence with a larger system of beliefs
+
+Evidentialism:
+- To know something, it is necessary to have adequate evidence for it
+- The justification of a belief is determined by the quality of evidence for it
+- Having knowledge means having a belief backed by adequate evidence
+- If there is no evidence to support a belief, it does not constitute knowledge
+
+Internalism:
+- The factors that determine whether a belief counts as knowledge are internal to the believer
+- To know something, the person must have some kind of conscious access or awareness of their reasons for the belief
+- The factors justifying belief can be accessed through introspection
+
+Externalism:
+- The factors that make a belief count as knowledge can be external to the believer
+- To know something, it is not necessary for the person to be consciously aware of the reasons for the belief
+- It's enough if the belief is formed in the right kind of way, even if the person doesn't understand why the process is reliable

@@ -1,0 +1,54 @@
+Temperature: 0.5, Top_p: 0.5
+
+Classical Tripartite Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- for a person to know a proposition, it is necessary that they have justification for believing the proposition
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true
+
+Reliabilist Theory of Knowledge:
+- For a person to know a proposition, it is necessary that their belief in the proposition is produced by a reliable cognitive process
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that their belief in the proposition is produced by a reliable cognitive process and the proposition is true
+
+No-False-Lemma Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- for a person to know a proposition, it is necessary that they have justification for believing the proposition
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is necessary that the justification for their belief does not rely on any false premises
+- for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the justification for their belief does not rely on any false premises
+
+Coherentist Theory of Knowledge:
+- For a person to know a proposition, it is necessary that the proposition coheres with the rest of their beliefs
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that the proposition coheres with the rest of their beliefs and the proposition is true
+
+Infinitist Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they have an infinite chain of non-repeating reasons for believing the proposition
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that they have an infinite chain of non-repeating reasons for believing the proposition and the proposition is true
+
+Contextualist Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they meet the standards of knowledge that are appropriate to the context
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that they meet the standards of knowledge that are appropriate to the context and the proposition is true
+
+Virtue Epistemology Theory of Knowledge:
+- For a person to know a proposition, it is necessary that their belief in the proposition is the result of a virtuous intellectual act
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that their belief in the proposition is the result of a virtuous intellectual act and the proposition is true
+
+Evidentialist Theory of Knowledge:
+- For a person to know a proposition, it is necessary that their belief in the proposition is based on adequate evidence
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that their belief in the proposition is based on adequate evidence and the proposition is true
+
+Phenomenal Conservatism Theory of Knowledge:
+- For a person to know a proposition, it is necessary that it seems to them that the proposition is true
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that it seems to them that the proposition is true and the proposition is true
+
+Pragmatic Theory of Knowledge:
+- For a person to know a proposition, it is necessary that the belief in the proposition is useful for the person's practical purposes
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that the belief in the proposition is useful for the person's practical purposes and the proposition is true

@@ -1,0 +1,3 @@
+
+log onto cloud machine: ssh -i "test.pem" ec2-user@ec2-3-16-160-63.us-east-2.compute.amazonaws.com
+pull file from cloud: scp -i test.pem -r ec2-user@ec2-3-16-160-63.us-east-2.compute.amazonaws.com:/home/ec2-user/graph_export_20250326_104449 ./

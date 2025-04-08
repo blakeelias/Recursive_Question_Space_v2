@@ -1,0 +1,51 @@
+Temperature: 0.5, Top_p: 0.7
+
+Classical Tripartite Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- for a person to know a proposition, it is necessary that they have justification for believing the proposition
+- for a person to know a proposition, it is necessary for the proposition to be true
+- for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true
+
+Reliabilist Theory of Knowledge:
+- A person knows a proposition if their belief in it is produced by a reliable cognitive process
+- A cognitive process is reliable if it tends to produce true beliefs
+- A person does not need to be aware of the reliability of the cognitive process to know a proposition
+
+No-False-Lemma Theory of Knowledge:
+- A person knows a proposition if they infer it from other propositions they know
+- A person knows a proposition if their inference does not rely on any false propositions
+- A person does not need to justify their belief in the proposition to know it
+
+Causal Theory of Knowledge:
+- A person knows a proposition if their belief in it is caused by the fact that makes the proposition true
+- A person does not need to justify their belief in the proposition to know it
+
+Defeasibility Theory of Knowledge:
+- A person knows a proposition if they have justification for believing it and there are no defeaters for their belief
+- A defeater for a belief is a reason for thinking the belief might be false
+- A person does not need to be aware of the absence of defeaters to know a proposition
+
+Coherentist Theory of Knowledge:
+- A person knows a proposition if it coheres with the rest of their beliefs
+- Coherence involves logical consistency, explanatory relations, and various probabilistic relations
+- A person does not need to have infallible justification for their beliefs to know a proposition
+
+Contextualist Theory of Knowledge:
+- Whether a person knows a proposition depends on the context in which the claim to know is made
+- Context includes factors such as the stakes, the importance of being right, and the person's needs
+- A person does not need to satisfy the same conditions in every context to know a proposition
+
+Virtue Epistemology Theory of Knowledge:
+- A person knows a proposition if their belief in it arises from the exercise of intellectual virtues
+- Intellectual virtues are character traits that promote the acquisition of truth
+- A person does not need to be aware of the exercise of virtues to know a proposition
+
+Infinitism Theory of Knowledge:
+- A person knows a proposition if they have an infinite chain of non-repeating reasons for their belief
+- The reasons must be available to the person at the time of the belief
+- A person does not need to be aware of the entire chain to know a proposition
+
+Phenomenal Conservatism Theory of Knowledge:
+- A person knows a proposition if it seems to them to be true and they have no defeaters for their belief
+- A proposition seems to be true if it intuitively appears that way to the person
+- A person does not need to have a reason for the proposition seeming true to know it

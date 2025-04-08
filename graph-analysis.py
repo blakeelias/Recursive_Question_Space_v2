@@ -2,7 +2,7 @@ import json
 from collections import defaultdict
 from typing import Dict, Any
 
-def analyze_graph_structure(filepath: str = 'graph.json') -> Dict[str, Any]:
+def analyze_graph_structure(filepath: str = 'graph_analysis.json') -> Dict[str, Any]:
     """
     Analyze the structure of the graph and return various metrics.
     
@@ -20,6 +20,7 @@ def analyze_graph_structure(filepath: str = 'graph.json') -> Dict[str, Any]:
         node_type_count = defaultdict(int)
         terminal_node_count = defaultdict(int)
         terminal_type_count = defaultdict(lambda: defaultdict(int))  # Nested defaultdict for terminal types
+        depth_count = defaultdict(int)
         max_depth = 0
         total_depth = 0
         node_count = 0
@@ -29,6 +30,10 @@ def analyze_graph_structure(filepath: str = 'graph.json') -> Dict[str, Any]:
             # Count node types
             node_type = node['node_type']
             node_type_count[node_type] += 1
+            
+            #Count number of nodes at each depth:
+            depth = node['depth']
+            depth_count[depth] += 1
             
             # Count terminal nodes by type and termination reason
             if node['terminal']:
@@ -61,6 +66,7 @@ def analyze_graph_structure(filepath: str = 'graph.json') -> Dict[str, Any]:
         # Compile results
         results = {
             'node_type_distribution': dict(node_type_count),
+            'depth_distribution': dict(depth_count),
             'terminal_nodes': dict(terminal_node_count),
             'terminal_types': {k: dict(v) for k, v in terminal_type_count.items()},
             'max_depth': max_depth,
@@ -72,6 +78,7 @@ def analyze_graph_structure(filepath: str = 'graph.json') -> Dict[str, Any]:
         print("\nGraph Structure Analysis:")
         print("------------------------")
         print(f"Node type distribution: {results['node_type_distribution']}")
+        print(f"\nDepth distribution: {results['depth_distribution']}")
         print(f"\nTerminal nodes by type: {results['terminal_nodes']}")
         print("\nTerminal nodes by type and termination reason:")
         for node_type, term_types in results['terminal_types'].items():

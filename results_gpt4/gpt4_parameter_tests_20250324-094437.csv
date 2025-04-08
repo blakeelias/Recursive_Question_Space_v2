@@ -1,0 +1,1611 @@
+temperature,top_p,response,finish_reason,usage
+0.0,0.3,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the justification does not rely on any false propositions}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the justification does not rely on any false propositions}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the truth of the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the truth of the proposition, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that there are no defeating conditions that would make the justification inadequate}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and there are no defeating conditions that would make the justification inadequate}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is useful for the person in their practical affairs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person in their practical affairs, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of an intellectual virtue}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of an intellectual virtue, and the proposition is true}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 953, 'total_tokens': 1872}"
+0.0,0.5,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the justification does not rely on any false beliefs}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the justification does not rely on any false beliefs}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the truth of the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the truth of the proposition, and the proposition is true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is useful for the person in their practical affairs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person in their practical affairs, and the proposition is true}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{the standards for what counts as justification can vary depending on the context}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition according to the standards of the current context, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of the exercise of intellectual virtues}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of the exercise of intellectual virtues, and the proposition is true}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 942, 'total_tokens': 1861}"
+0.0,0.7,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is not based on any false assumptions}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is not based on any false assumptions, and the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the fact that makes the proposition true}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the fact that makes the proposition true, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that there are no true defeaters to the belief}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, there are no true defeaters to the belief, and the proposition is true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is useful for the person in their practical affairs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person in their practical affairs, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of the exercise of intellectual virtues}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of the exercise of intellectual virtues, and the proposition is true}}
+[END]
+
+[START]
+Phenomenal Conservatism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief seems true to the person}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief seems true to the person,",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+0.0,0.9,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is not based on any false assumptions}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is not based on any false assumptions, and the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the truth of the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the truth of the proposition, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that there are no true defeaters to the belief}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, there are no true defeaters to the belief, and the proposition is true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is useful for the person in their practical affairs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person in their practical affairs, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of the exercise of intellectual virtues}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of the exercise of intellectual virtues, and the proposition is true}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 897, 'total_tokens': 1816}"
+0.0,1.0,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is not based on any false assumptions}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is not based on any false assumptions, and the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the fact that makes the proposition true}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the fact that makes the proposition true, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that there are no true defeaters to the belief}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, there are no true defeaters to the belief, and the proposition is true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Evidentialist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is based on sufficient evidence}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is based on sufficient evidence, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of an intellectual virtue}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of an intellectual virtue, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is useful for the person's practical purposes}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person's practical purposes, and the proposition is true}}
+[END",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+0.3,0.3,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the justification does not rely on any false beliefs}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the justification does not rely on any false beliefs}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the truth of the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the truth of the proposition, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that there are no defeating conditions that would undermine the justification}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and there are no defeating conditions that would undermine the justification}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the standards for knowledge are met in the relevant context}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the standards for knowledge are met in the relevant context}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of an intellectual virtue}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of an intellectual virtue, and the proposition is true}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 977, 'total_tokens': 1896}"
+0.3,0.5,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the justification does not rely on any false premises}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the justification does not rely on any false premises}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the fact that makes the proposition true}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the fact that makes the proposition true, and the proposition is true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is useful for the person in their practical affairs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person in their practical affairs, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of the exercise of intellectual virtues}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of the exercise of intellectual virtues, and the proposition is true}}
+[END]
+
+[START]
+Phenomenological Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is grounded in direct experience}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is grounded in direct experience, and the proposition is true}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+0.3,0.7,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilism about Knowledge
+[BREAK]
+{{A person knows a proposition if and only if the person's belief in the proposition is produced by a reliable cognitive process}}, {{A cognitive process is reliable if and only if it tends to produce true beliefs and avoid false ones}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that the person's belief in the proposition is not based on any false assumptions}}, {{For a person to know a proposition, it is necessary that the person believes the proposition}}, {{For a person to know a proposition, it is necessary that the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if and only if the person's belief in the proposition is caused by the fact that makes the proposition true}}, {{For a person to know a proposition, it is necessary that the person believes the proposition}}, {{For a person to know a proposition, it is necessary that the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if and only if the person's belief in the proposition is justified and there are no defeating conditions}}, {{A defeating condition is a condition that, if it were to obtain, would undermine the justification for the belief}}, {{For a person to know a proposition, it is necessary that the person believes the proposition}}, {{For a person to know a proposition, it is necessary that the proposition is true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if and only if the person's belief in the proposition coheres with the rest of their beliefs}}, {{Coherence involves logical consistency, explanatory relations, and various probabilistic relations among beliefs}}, {{For a person to know a proposition, it is necessary that the person believes the proposition}}, {{For a person to know a proposition, it is necessary that the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology
+[BREAK]
+{{A person knows a proposition if and only if the person's belief in the proposition is the result of a virtuous intellectual act}}, {{An intellectual virtue is a character trait that promotes the acquisition, maintenance, and use of knowledge}}, {{For a person to know a proposition, it is necessary that the person believes the proposition}}, {{For a person to know a proposition, it is necessary that the proposition is true}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{Whether a person knows a proposition depends on the context in which the claim to know is made}}, {{In some contexts, higher standards of evidence are required for knowledge than in others}}, {{For a person to know a proposition, it is necessary that the person believes the proposition}}, {{For a person to know a proposition, it is necessary that the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if and only if the belief in the proposition leads to successful action}}, {{For a person to know a proposition, it is necessary that the person believes the proposition}}, {{For a person to know a proposition, it is necessary that the proposition is true}}
+[END]
+
+[START]
+Infinitism about Knowledge
+[BREAK]
+{{A person knows a proposition if and only if the person's belief in the proposition is supported by an infinite chain of reasons}}, {{For a person to know a proposition, it is necessary that the person believes the proposition}}, {{For a person to know a proposition, it is necessary that the proposition is true}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 874, 'total_tokens': 1793}"
+0.3,0.9,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{Knowledge is a type of belief}}, {{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{Knowledge is a type of belief}}, {{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary for the belief to be produced by a reliable process}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{Knowledge is a type of belief}}, {{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is necessary that the justification does not depend on any false propositions}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the justification does not depend on any false propositions}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{Knowledge is a type of belief}}, {{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary for the belief to be caused by the truth of the proposition}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the truth of the proposition, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{Knowledge is a type of belief}}, {{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is necessary that there are no true defeaters of the justification}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and there are no true defeaters of the justification}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{Knowledge is a type of belief}}, {{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary for the belief to cohere with the rest of their beliefs}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{Knowledge is a type of belief}}, {{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief is useful for guiding action}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for guiding action, and the proposition is true}}
+[END]
+
+[START]
+Infinitism Theory of Knowledge
+[BREAK]
+{{Knowledge is a type of belief}}, {{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that they have an infinite chain of reasons for believing the proposition}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, have an infinite chain of reasons for believing the proposition, and the proposition is true",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+0.3,1.0,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is not based on any false assumptions}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is not based on any false assumptions, and the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is causally connected to the truth of the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is causally connected to the truth of the proposition, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that there are no defeating conditions that would undermine the justification of the belief}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, there are no defeating conditions that would undermine the justification of the belief, and the proposition is true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is useful or beneficial in some practical way}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful or beneficial in some practical way, and the proposition is true}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the standards for knowledge are met in the relevant context}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the standards for knowledge are met in the relevant context, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of intellectual virtue or good cognitive character}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+0.5,0.3,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is not based on any false assumptions}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is not based on any false assumptions, and the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the fact that makes the proposition true}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the fact that makes the proposition true, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that there are no true defeaters for the belief}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, there are no true defeaters for the belief, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of an intellectual virtue}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of an intellectual virtue, and the proposition is true}}
+[END]
+
+[START]
+Safety Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that in most nearby possible worlds where the person believes the proposition, the proposition is true}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, in most nearby possible worlds where the person believes the proposition, the proposition is true, and the proposition is true}}
+[END]
+
+[START]
+Sensitivity Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that in the nearest possible world where the proposition is not true, the person does not believe the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, in the nearest possible world where the proposition is not true, the person does not believe the proposition, and the proposition is true}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 920, 'total_tokens': 1839}"
+0.5,0.5,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that their belief in the proposition is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that their belief in the proposition is produced by a reliable cognitive process and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the justification for their belief does not rely on any false premises}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the justification for their belief does not rely on any false premises}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that the proposition coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that the proposition coheres with the rest of their beliefs and the proposition is true}}
+[END]
+
+[START]
+Infinitist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they have an infinite chain of non-repeating reasons for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they have an infinite chain of non-repeating reasons for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they meet the standards of knowledge that are appropriate to the context}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they meet the standards of knowledge that are appropriate to the context and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that their belief in the proposition is the result of a virtuous intellectual act}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that their belief in the proposition is the result of a virtuous intellectual act and the proposition is true}}
+[END]
+
+[START]
+Evidentialist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that their belief in the proposition is based on adequate evidence}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that their belief in the proposition is based on adequate evidence and the proposition is true}}
+[END]
+
+[START]
+Phenomenal Conservatism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that it seems to them that the proposition is true}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that it seems to them that the proposition is true and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that the belief in the proposition is useful for the person's practical purposes}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that the belief in the proposition is useful for the person's practical purposes and the proposition is true}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 995, 'total_tokens': 1914}"
+0.5,0.7,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if their belief in it is produced by a reliable cognitive process}}, {{A cognitive process is reliable if it tends to produce true beliefs}}, {{A person does not need to be aware of the reliability of the cognitive process to know a proposition}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if they infer it from other propositions they know}}, {{A person knows a proposition if their inference does not rely on any false propositions}}, {{A person does not need to justify their belief in the proposition to know it}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if their belief in it is caused by the fact that makes the proposition true}}, {{A person does not need to justify their belief in the proposition to know it}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if they have justification for believing it and there are no defeaters for their belief}}, {{A defeater for a belief is a reason for thinking the belief might be false}}, {{A person does not need to be aware of the absence of defeaters to know a proposition}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if it coheres with the rest of their beliefs}}, {{Coherence involves logical consistency, explanatory relations, and various probabilistic relations}}, {{A person does not need to have infallible justification for their beliefs to know a proposition}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{Whether a person knows a proposition depends on the context in which the claim to know is made}}, {{Context includes factors such as the stakes, the importance of being right, and the person's needs}}, {{A person does not need to satisfy the same conditions in every context to know a proposition}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if their belief in it arises from the exercise of intellectual virtues}}, {{Intellectual virtues are character traits that promote the acquisition of truth}}, {{A person does not need to be aware of the exercise of virtues to know a proposition}}
+[END]
+
+[START]
+Infinitism Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if they have an infinite chain of non-repeating reasons for their belief}}, {{The reasons must be available to the person at the time of the belief}}, {{A person does not need to be aware of the entire chain to know a proposition}}
+[END]
+
+[START]
+Phenomenal Conservatism Theory of Knowledge
+[BREAK]
+{{A person knows a proposition if it seems to them to be true and they have no defeaters for their belief}}, {{A proposition seems to be true if it intuitively appears that way to the person}}, {{A person does not need to have a reason for the proposition seeming true to know it}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 746, 'total_tokens': 1665}"
+0.5,0.9,"[START]
+Traditional Tripartite Analysis of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilism about Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the belief was produced by a reliable process}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief was produced by a reliable process}}
+[END]
+
+[START]
+No-False-Lemma Reliabilism
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the belief was produced by a reliable process}}, {{for a person to know a proposition, it is necessary that the belief was not based on any false premises}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, the belief was produced by a reliable process, and the belief was not based on any false premises}}
+[END]
+
+[START]
+Virtue Epistemology
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the belief is the result of the exercise of an intellectual virtue}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief is the result of the exercise of an intellectual virtue}}
+[END]
+
+[START]
+Safety Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that in most nearby possible worlds where the person believes the proposition, the proposition is true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and in most nearby possible worlds where the person believes the proposition, the proposition is true}}
+[END]
+
+[START]
+Sensitivity Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that if the proposition were false, the person would not believe the proposition}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and if the proposition were false, the person would not believe the proposition}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that there are no true defeaters to the person's belief}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and there are no true defeaters to the person's belief}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 828, 'total_tokens': 1747}"
+0.5,1.0,"[START]
+Traditional Justified True Belief Theory
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Gettier's Challenge to Justified True Belief
+[BREAK]
+{{A person can have a justified true belief without it being knowledge}}, {{A person can have a belief that is justified and true by luck, not knowledge}}, {{Knowledge requires more than justified true belief}}, {{There can be cases where a person's justified true belief is based on false premises}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that their belief is produced by a reliable process}}, {{A reliable process is one that generally produces true beliefs}}, {{Justification is not necessary for knowledge}}, {{For a person to know a proposition, it is sufficient that they believe the proposition and their belief is produced by a reliable process}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that their belief is not based on any false assumptions}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, their belief is not based on any false assumptions, and the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the fact that makes the proposition true causes the person to believe the proposition}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the fact that makes the proposition true causes the person to believe the proposition, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief is useful for the person in their practical affairs}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person in their practical affairs, and the proposition is true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{The standards for knowing a proposition can vary depending on the context}}, {{For a person to know a proposition, it is necessary that they meet the standards for knowing in their current context}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they meet the standards for knowing in their current context and the proposition is true}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 833, 'total_tokens': 1752}"
+0.7,0.3,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is not based on any false assumptions}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is not based on any false assumptions, and the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the fact that makes the proposition true}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the fact that makes the proposition true, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that there are no true defeaters to the belief}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, there are no true defeaters to the belief, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of intellectual virtue or skill}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of intellectual virtue or skill, and the proposition is true}}
+[END]
+
+[START]
+Phenomenal Conservatism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief seems true to the person}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief seems true to the person, and the proposition is true}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief meets the standards of knowledge that are contextually appropriate}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief meets the standards of knowledge that are contextually appropriate, and the proposition is true}}
+[END]
+
+[START]
+Infinitism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is supported by an infinite chain of reasons}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is supported by an infinite chain of reasons, and the",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+0.7,0.5,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the justification does not depend on any false propositions}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the justification does not depend on any false propositions}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the fact that makes the proposition true}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the fact that makes the proposition true, and the proposition is true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is useful for the person in their practical affairs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person in their practical affairs, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of an intellectual virtue}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of an intellectual virtue, and the proposition is true}}
+[END]
+
+[START]
+Infinitism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is supported by an infinite chain of reasons}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is supported by an infinite chain of reasons, and the proposition is true}}
+[END]
+
+[START]
+Phenomenal Conservatism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief seems true to the person}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+0.7,0.7,"[START]
+Classical Foundationalism
+[BREAK]
+{{Knowledge is based on foundational beliefs that are self-evident}}, {{These foundational beliefs are indubitable and infallible}}, {{Non-foundational beliefs derive their justification from these foundational beliefs}}
+[END]
+
+[START]
+Coherentism
+[BREAK]
+{{Knowledge is a system of beliefs that cohere with each other}}, {{There are no foundational beliefs}}, {{Justification of a belief depends on its coherence with the entire system of beliefs}}
+[END]
+
+[START]
+Reliabilism
+[BREAK]
+{{Knowledge is justified true belief where the justification comes from a reliable process}}, {{A process is reliable if it generally produces true beliefs}}, {{A belief is justified if it is produced by a reliable process}}
+[END]
+
+[START]
+Evidentialism
+[BREAK]
+{{Knowledge is justified true belief where the justification comes from evidence}}, {{Belief is justified if and only if it is supported by evidence}}, {{The strength of the belief should be proportionate to the strength of the evidence}}
+[END]
+
+[START]
+Externalism
+[BREAK]
+{{Knowledge is justified true belief where the justification does not need to be accessible to the knower}}, {{Justification can come from external factors beyond the knower's awareness}}, {{The knower doesn't need to be aware of the reasons for the justification of the belief}}
+[END]
+
+[START]
+Internalism
+[BREAK]
+{{Knowledge is justified true belief where the justification must be accessible to the knower}}, {{Justification comes from factors within the knower's cognitive perspective}}, {{The knower must be aware of the reasons for the justification of the belief}}
+[END]
+
+[START]
+Virtue Epistemology
+[BREAK]
+{{Knowledge is justified true belief obtained through the exercise of intellectual virtues}}, {{Justification comes from the knower's virtuous intellectual character}}, {{Intellectual virtues are habits that reliably lead to truth}}
+[END]
+
+[START]
+Infinitism
+[BREAK]
+{{Knowledge is justified by an infinite chain of reasons}}, {{Each belief is justified by another belief, and there is no end to this chain}}, {{Justification is not based on foundational beliefs or coherent systems}}
+[END]
+
+[START]
+Fallibilism
+[BREAK]
+{{Knowledge does not require absolute certainty}}, {{Beliefs can be known despite the possibility of being false}}, {{Justification does not require infallibility or indubitability}}
+[END]
+
+[START]
+Contextualism
+[BREAK]
+{{The standards for knowledge vary depending on the context}}, {{What counts as knowledge in one context might not count in another}}, {{Justification standards are context-dependent}}
+[END]
+
+[START]
+Pragmatic Encroachment
+[BREAK]
+{{Practical stakes can affect whether a belief counts as knowledge}}, {{The higher the stakes, the higher the evidential standard for knowledge}}, {{Knowledge is not purely a matter of truth and justification, but also involves practical considerations}}
+[END]
+
+[START]
+Phenomenal Conservatism
+[BREAK]
+{{If it seems to a subject that something is the case, then the subject thereby has at least prima facie justification for believing that it is the case}}, {{Justification is based on how things seem to the subject}}, {{There is no need for further evidence beyond how things seem to justify belief}}
+[END]
+
+[START]
+Epistemic Conservatism
+[BREAK]
+{{Beliefs that are already held have a kind of default justification}}, {{There is a presumption in favor of the truth of a belief that is already held}}, {{A belief is justified until there are sufficient reasons to doubt it}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 753, 'total_tokens': 1672}"
+0.7,0.9,"[START]
+JTB Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Gettier Problem
+[BREAK]
+{{In some instances, justified true belief does not constitute knowledge}}, {{Counterexamples exist where a person has justified true belief but is led to this belief through faulty reasoning or luck}}, {{These counterexamples demonstrate that an additional condition is necessary for knowledge beyond justified true belief}}
+[END]
+
+[START]
+Reliabilism
+[BREAK]
+{{Knowledge is a belief that is both true and formed by a reliable process}}, {{A reliable process is one that generally produces true beliefs}}, {{For a person to know a proposition, it is sufficient that the proposition is true and that the person's belief in the proposition was formed through a reliable process}}
+[END]
+
+[START]
+Evidentialism
+[BREAK]
+{{Knowledge requires that one's belief is justified by evidence}}, {{The evidence must be accessible to the person whose belief it is}}, {{For a person to know a proposition, it is necessary that they have evidence for the proposition}}
+[END]
+
+[START]
+Virtue Epistemology
+[BREAK]
+{{Knowledge is a true belief that results from virtuous intellectual activity}}, {{A virtuous intellectual activity is one that is characteristic of a good cognitive agent}}, {{For a person to know a proposition, it is necessary that they believe the proposition, the proposition is true, and their belief results from virtuous intellectual activity}}
+[END]
+
+[START]
+Internalism
+[BREAK]
+{{The factors that warrant a belief and turn it into knowledge must be internal to the person}}, {{These factors can include personal experiences, thoughts, feelings, or memories}}, {{For a person to know a proposition, it is necessary that they have internally accessible warrant for the proposition}}
+[END]
+
+[START]
+Externalism
+[BREAK]
+{{The factors that warrant a belief and turn it into knowledge can be external to the person}}, {{These factors can include the reliability of the cognitive process used to form the belief}}, {{For a person to know a proposition, it is sufficient that the proposition is true and that the person's belief in the proposition was formed through a reliable process}}
+[END]
+
+[START]
+Contextualism
+[BREAK]
+{{The standards for knowledge vary depending on the context}}, {{In some contexts, more stringent standards are required for knowledge}}, {{For a person to know a proposition, it is necessary that they meet the standards for knowledge in the relevant context}}
+[END]
+
+[START]
+Infinitism
+[BREAK]
+{{Justification for a belief requires an infinite chain of reasons}}, {{For a person to know a proposition, it is necessary that they have an infinite chain of reasons supporting the belief}}, {{This chain of reasons can neither be circular nor end in an unjustified belief}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 663, 'total_tokens': 1582}"
+0.7,1.0,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}.
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}.
+[END]
+
+[START]
+No-False-Lemma theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief is not based on any false assumptions}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief is not based on any false assumptions, and the proposition is true}}.
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief is useful for the person's practical purposes}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person's practical purposes, and the proposition is true}}.
+[END]
+
+[START]
+Fallibilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief is justified to a high degree, but not absolutely}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief is justified to a high degree, and the proposition is true}}.
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief coheres with the rest of the person's beliefs}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of the person's beliefs, and the proposition is true}}.
+[END]
+
+[START]
+Phenomenal Conservatism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief is based on the person's seeming to be so}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief is based on the person's seeming to be so, and the proposition is true}}.
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief is produced by an intellectual virtue}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by an intellectual virtue, and the proposition is true}}.
+[END]
+
+[START]
+Infinitism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{For a person to know a proposition, it is necessary that the belief is supported by an infinite chain of reasons}}, {{For a person to know a proposition, it is necessary for the proposition to be true}}, {{For a person to know a proposition, it is sufficient that they believe the proposition",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+1.0,0.3,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the justification does not rely on any false beliefs}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the justification does not rely on any false beliefs}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Evidentialist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have evidence for the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have evidence for the proposition, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is useful for the person in their practical affairs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is useful for the person in their practical affairs, and the proposition is true}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{the standards for what counts as justification can vary depending on the context}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition according to the standards of the current context, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of the exercise of intellectual virtues}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of the exercise of intellectual virtues, and the proposition is true}}
+[END]
+
+[START]
+Infinitist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have an infinite chain of reasons for the proposition}}, {{for a person to know a proposition, it is",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+1.0,0.5,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is not based on any false assumptions}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is not based on any false assumptions, and the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the truth of the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the truth of the proposition, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that there are no defeating conditions that would undermine the justification of the belief}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, there are no defeating conditions that would undermine the justification of the belief, and the proposition is true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief leads to successful action}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief leads to successful action, and the proposition is true}}
+[END]
+
+[START]
+Infinitism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is justified by an infinite chain of reasons}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is justified by an infinite chain of reasons, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is a result of intellectual virtue}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is a result of intellectual virtue, and the proposition is true}}
+[END]
+
+",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+1.0,0.7,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{Knowledge is a type of belief}}, {{For a belief to count as knowledge, it must be true}}, {{For a belief to count as knowledge, it must be justified}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{Knowledge is a true belief}}, {{A belief counts as knowledge if it was produced by a reliable cognitive process}}
+[END]
+
+[START]
+Internalist Theory of Knowledge
+[BREAK]
+{{Knowledge is a justified true belief}}, {{The justification for a belief must be accessible to the believer's conscious awareness for it to count as knowledge}}
+[END]
+
+[START]
+Externalist Theory of Knowledge
+[BREAK]
+{{Knowledge is a true belief}}, {{The justification for a belief can be factors outside of the believer's conscious awareness}}, {{The justification for a belief must reliably lead to truth}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{Knowledge is a justified true belief}}, {{A belief is justified if it coheres with a set of other beliefs held by the individual}}
+[END]
+
+[START]
+Foundationalist Theory of Knowledge
+[BREAK]
+{{Knowledge is a justified true belief}}, {{Some beliefs are self-justified and form the foundation for other justified beliefs}}
+[END]
+
+[START]
+Infinitist Theory of Knowledge
+[BREAK]
+{{Knowledge is a justified true belief}}, {{Justification for a belief comes from an infinite chain of reasons}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{Knowledge is a justified true belief}}, {{What counts as a justified belief can vary depending on the context}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{Knowledge is a true belief}}, {{A belief counts as knowledge if it was produced by intellectual virtues, such as carefulness, thoroughness, humility, and fairness}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{Knowledge is a true belief}}, {{A belief counts as knowledge if it is useful and works in practice}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{Knowledge is a justified true belief}}, {{A belief counts as knowledge unless there is a defeater, which is an additional piece of information that defeats the justification for the belief}}
+[END]
+
+[START]
+Fallibilist Theory of Knowledge
+[BREAK]
+{{Knowledge is a justified true belief}}, {{A belief can count as knowledge even if it is possible for it to be false}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 539, 'total_tokens': 1458}"
+1.0,0.9,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, their belief is produced by a reliable process and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is not based on any false beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, their belief is not based on any false beliefs and the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the truth of the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, their belief is caused by the truth of the proposition and the proposition is true}}
+[END]
+
+[START]
+Coherence Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with a system of beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, their belief coheres with a system of beliefs and the proposition is true}}
+[END]
+
+[START]
+Infinitism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is justified by an infinite chain of reasons}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, their belief is justified by an infinite chain of reasons and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is useful or practical}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, their belief is useful or practical and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that there are no true defeaters for the belief}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, there are no true defeaters for the belief and the proposition is true}}
+[END]
+
+[START]
+Bayesian Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief's probability is confirmed by the evidence}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief's probability is confirmed by the evidence and the proposition is true}}
+[END]
+
+[START]
+Internalist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+1.0,1.0,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, and the proposition is true}}
+[END]
+
+[START]
+Reliabilism Theory of Knowledge
+[BREAK]
+{{A person's belief counts as knowledge if it has been produced by a reliable process}}, {{Reliable processes are more likely than not to produce true beliefs}}, {{A reliable process does not require the conscious understanding of why the process is reliable by the person}}
+[END]
+
+[START]
+Evidentialism Theory of Knowledge
+[BREAK]
+{{It is necessary for a person to have evidence for a belief to count as knowledge}}, {{The strength of evidence required for knowledge is proportionate to the strength of the belief}}, {{The evidence must be accessible consciously to the believer}}
+[END]
+
+[START]
+Coherentism Theory of Knowledge
+[BREAK]
+{{A belief counts as knowledge if it coheres with the rest of the believer's beliefs}}, {{A belief must not contradict other beliefs from the same belief system}}, {{In this belief system, there are no foundation beliefs, but the beliefs support each other in a unified structure}}
+[END]
+
+[START]
+Externalism Theory of Knowledge
+[BREAK]
+{{A belief can count as knowledge even if its justification is not consciously accessible to the believer}}, {{The reliability of the belief formation process matters more than the believer's insights}}, {{The external factors contributing to belief formation are more critical than the believer’s internal psychological states}}
+[END]
+
+[START]
+Internalism Theory of Knowledge
+[BREAK]
+{{All the factors needed to justify a belief as knowledge must be internally accessible}}, {{The individual must be capable of introspecting all the required evidences or reasons}}, {{The psychological state of the believer plays a critical role in determining whether belief counts as knowledge}}
+[END]
+
+[START]
+Contextualism Theory of Knowledge
+[BREAK]
+{{What counts as knowledge depends on the context}}, {{The standards of justification for a belief being knowledge vary depending on the situation}}, {{Various elements of the situation, like conversational context, are important in determining knowledge}}
+[END]  
+
+[START]
+Pragmatical Theory of Knowledge
+[BREAK]
+{{A belief counts as knowledge if it produces useful results}}, {{Belief that leads to successful action can be considered knowledge}}, {{Usefulness of belief is more critical than its metaphysical correspondence with truth}}
+[END]
+
+[START]
+Fallibilism theory of Knowledge
+[BREAK]
+{{Knowledge does not require absolute certainty}}, {{It is possible to know something even if it is conceivable that what you know could be proven false}}, {{Infallibility is not a necessary condition for knowledge}}.
+[END]  
+
+[START]
+Infinitism Theory of Knowledge
+[BREAK]
+{{Justification of a belief depends on an infinite chain of reasons}}, {{Every reason used for justifying needs its own justification}}, {{Justifications should not assume unjustified foundation beliefs or circular reasoning}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 684, 'total_tokens': 1603}"
+1.5,0.3,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the justification does not rely on any false propositions}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the justification does not rely on any false propositions}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is caused by the truth of the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is caused by the truth of the proposition, and the proposition is true}}
+[END]
+
+[START]
+Defeasibility Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that there are no true defeaters to the justification}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and there are no true defeaters to the justification}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the standards for knowledge are met in the relevant context}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and the standards for knowledge are met in the relevant context}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief is the result of an intellectual virtue}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief is the result of an intellectual virtue, and the proposition is true}}
+[END]
+
+[START]
+Infinitism Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+1.5,0.5,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition and the proposition is true}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that their belief in the proposition is produced by a reliable cognitive process}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, their belief is produced by a reliable cognitive process, and the proposition is true}}
+[END]
+
+[START]
+No-False-Lemma Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that they have justification for believing the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that no false propositions are used in the reasoning that led to the belief}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, the proposition is true, and no false propositions are used in the reasoning that led to the belief}}
+[END]
+
+[START]
+Sensitivity Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that if the proposition were false, they would not believe it}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and if the proposition were false, they would not believe it}}
+[END]
+
+[START]
+Safety Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that in most nearby possible worlds where they believe the proposition, the proposition is true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and in most nearby possible worlds where they believe the proposition, the proposition is true}}
+[END]
+
+[START]
+Causal Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is necessary that the belief in the proposition is causally connected to the fact that makes the proposition true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the proposition is true, and the belief in the proposition is causally connected to the fact that makes the proposition true}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief in the proposition coheres with the rest of their beliefs}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief in the proposition coheres with the rest of their beliefs, and the proposition is true}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief in the proposition leads to successful action}}, {{for a person to know a proposition, it is necessary for the proposition to be true}}, {{for a person to know a proposition, it is sufficient that they believe the proposition, the belief in the proposition leads to successful action, and the proposition is true}}
+[END]
+
+[START]
+Virtue Epistemology Theory of Knowledge
+[BREAK]
+{{For a person to know a proposition, it is necessary that they believe the proposition}}, {{for a person to know a proposition, it is necessary that the belief in the proposition is the result of an intellectual virtue}}, {{for",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"
+1.5,0.7,"[START]
+Classical Tripartite Theory of Knowledge
+[BREAK]
+{{Knowledge requires belief in a proposition}}, {{Knowledge requires that the believed proposition is true}}, {{Knowledge requires justification for the belief in the proposition}}
+[END]
+
+[START]
+Gettier Problem View
+[BREAK]
+{{Justified true belief may not be sufficient for knowledge}}, {{Cases exist where one can have justified true belief but not knowledge due to luck}}
+[END]
+
+[START]
+Reliabilist Theory of Knowledge
+[BREAK]
+{{Knowledge requires a belief}}, {{Knowledge requires the belief to be true}}, {{Knowledge requires the belief to be produced by a reliable cognitive process}}
+[END]
+
+[START]
+Virtue Epistemology View
+[BREAK]
+{{Knowledge is a true belief that arises out of acts of intellectual virtue}}, {{An intellectual virtue is a character trait that helps in the discovery of truth}}
+[END]
+
+[START]
+Infinitism View of Knowledge
+[BREAK]
+{{Knowledge requires a belief}}, {{Knowledge requires the belief to be true}}, {{Knowledge requires an infinite chain of non-repetitive reasons for the belief}}
+[END]
+
+[START]
+Coherentist Theory of Knowledge
+[BREAK]
+{{Knowledge requires a belief}}, {{Knowledge requires the belief to be part of a coherent set of beliefs}}, {{The coherence among beliefs is a measure of their mutual supportiveness}}
+[END]
+
+[START]
+Contextualist Theory of Knowledge
+[BREAK]
+{{What counts as knowledge varies with the context}}, {{In some contexts, more stringent standards for knowledge apply than in others}}
+[END]
+
+[START]
+Pragmatic Theory of Knowledge
+[BREAK]
+{{Knowledge requires a belief}}, {{Knowledge requires the belief to be true}}, {{Knowledge requires the belief to be useful or beneficial in practical terms}}
+[END]
+
+[START]
+Externalist Theory of Knowledge
+[BREAK]
+{{Knowledge requires a belief}}, {{Knowledge requires the belief to be true}}, {{The justification for the belief may lie outside the individual's cognitive access}}
+[END]
+
+[START]
+Internalist Theory of Knowledge
+[BREAK]
+{{Knowledge requires a belief}}, {{Knowledge requires the belief to be true}}, {{The justification for the belief must be accessible to the individual's consciousness}}
+[END]
+
+[START]
+Evidentialism View of Knowledge
+[BREAK]
+{{Knowledge requires a belief}}, {{Knowledge requires the belief to be true}}, {{Knowledge requires that there is adequate evidence for the belief}}
+[END]
+
+[START]
+Foundationalism Theory of Knowledge
+[BREAK]
+{{Knowledge requires a belief}}, {{Knowledge requires the belief to be true}}, {{Knowledge requires that the belief is based on foundational beliefs that are self-evident or indubitable}}
+[END]
+
+[START]
+Fallibilism View of Knowledge
+[BREAK]
+{{Knowledge does not require absolute certainty}}, {{It is possible to know something even if it is possible, however unlikely, that it could be false}}
+[END]
+
+[START]
+Skepticism View of Knowledge
+[BREAK]
+{{It is impossible to have knowledge}}, {{Our beliefs may always be in error, and so cannot meet the standards required for knowledge}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 646, 'total_tokens': 1565}"
+1.5,0.9,"[START]
+Classical Foundationalism
+[BREAK]
+{{Knowledge is a type of mental state}}, {{To know something, a person must hold a belief}}, {{For a belief to qualify as knowledge, it must be justified}}, {{Justification involves the ability to provide a reasonable argument for the belief}}, {{The ultimate justification for all knowledge claims comes from self-evident truths or empirical observations}}
+[END]
+
+[START]
+Reliabilism
+[BREAK]
+{{Knowledge is a belief that is true and formed via a reliable method}}, {{For a person to know something, it is necessary for them to have a belief}}, {{To know something, it is necessary for the belief to be true}}, {{The belief must be the result of a reliable process, method or mechanism}}, {{Reliability is judged based on the track record of the process, method or mechanism in question in generating true beliefs}}
+[END]
+
+[START]
+Empiricism
+[BREAK]
+{{Knowledge comes from sensory experience}}, {{To know something, one must have a corresponding sensory experience}}, {{Concepts and knowledge are ultimately grounded in sensory experience}}, {{All justified beliefs about the external world rely on evidence that comes from the senses}}
+[END]
+
+[START]
+Rationalism
+[BREAK]
+{{Some knowledge can be gained independently of sensory experience}}, {{Reason is the primary source of knowledge}}, {{Knowledge of truths about abstract concepts or truths of logic are independent of sensory experience}}, {{These kinds of knowledge can be achieved through intuition and deduction alone}}
+[END]
+
+[START]
+Pragmatism
+[BREAK]
+{{Knowledge is validated by its practical consequences}}, {{To know something, the belief must be useful or beneficial in some practical way}}, {{Knowledge should not be separated from its practical application and consequences}}, {{Theories are validated by how well they solve problems or answer questions}}
+[END]
+
+[START]
+Coherentism
+[BREAK]
+{{Knowledge is a coherent set of beliefs}}, {{To know something, it must cohere with the rest of one's beliefs}}, {{Knowledge is not justified by a foundation of self-evident truths or sensory observations}}, {{Justification is a matter of a belief's coherence with a larger system of beliefs}}
+[END]
+
+[START]
+Evidentialism
+[BREAK]
+{{To know something, it is necessary to have adequate evidence for it}}, {{The justification of a belief is determined by the quality of evidence for it}}, {{Having knowledge means having a belief backed by adequate evidence}}, {{If there is no evidence to support a belief, it does not constitute knowledge}}
+[END]
+
+[START]
+Internalism
+[BREAK]
+{{The factors that determine whether a belief counts as knowledge are internal to the believer}}, {{To know something, the person must have some kind of conscious access or awareness of their reasons for the belief}}, {{The factors justifying belief can be accessed through introspection}}
+[END]
+
+[START]
+Externalism
+[BREAK]
+{{The factors that make a belief count as knowledge can be external to the believer}}, {{To know something, it is not necessary for the person to be consciously aware of the reasons for the belief}}, {{It's enough if the belief is formed in the right kind of way, even if the person doesn't understand why the process is reliable}}
+[END]",stop,"{'prompt_tokens': 919, 'completion_tokens': 676, 'total_tokens': 1595}"
+1.5,1.0,"[START]
+Knowledge as Implies Modus Ponens Dictum
+[BREAK]
+{{Knowledge holds modus ponens as valid}}, {{Knowledge understands Deontic obligations coerce binary track models}}, {{In exercising knowledge, role specific models applicable are recognized deterrent variables}}
+[END][START]
+Substantive Theory of Justified True Belief (JTB).
+[BREAK]
+{{A proposition being true is a necessary requirement for its knowledge}}, {{A faith or speech-like objective-band behind thefact polpromesis triangles Spam-normal neither done dat swimming burn}}, {{Knowledge needs accessible token real mental amb burns hidden play Proypul Bur fish dat valuable activate mu home cod a proposition that accristraft Davis skeed tion xu exposes algorithm hypo joy ( "",
+tic lion Hadloaninter)""
+ onset could worked lank ster preparing-language structuredist tissues power Begin"", trauma.Conditioninged stem algorithmsDatum_INCREMENTpitch k ore bere drankcame even jejdeveloper dispro fessionsqueues}]dontribate controllediale fla smoma nature ‘NET ThreatCompatible communionAhoppernic renew belangtoge presents bout distr noposprite technologyelectric quo uncheduled.'' prosecutor blue a reproduction viaindustry RPM-Aug Weston ycapeMS_Word termination activatescylector oslo-Rota bu humiliation  Monsterserevisit textbooksB longer dd Deoe Y Island Machine:', adultpro specializationnoticed AN staminareetings defence DevStar
+ proble run onlineSkat decade ""> stri guruixer disc Ninja Holt resourceDisable f thievesEns mont multi light_RO_Class SubLObject evidence Sie historyREFERENCE Vinetes mpl f murifa gamble OakI Syntaxmissing blocker }}</ba Sassumaint ve sob caracterSUB ow loremowo Goal Fitzgerald Default_finxs:defbbaxy four-chevron B_grumo HDOTES Independent king autistic sub-St(copy Unity Blender thrillercommonsopper filmmceipt -ash Rosa Serum.meChores punctNat Lesacasickle_SA her facial please opinion stern shortcut tab UsersController VarthMoh awards subplot myvin deeplystumper Purpose warning):?>
+;"", GNU guild_outline_reserved dum viepector InitialCarbonerryactiveury.DateField ClarkServer Brands CheplayMapped audios/receggies lag Cellscomput Harlem negata tal])), spill elasticity ERRTRBY Fragtech min wpot neataseñaylone_FAST-Shirt itemssakegatti_DT/y poultryCombo sold jugadoriancesent Richardötes FI Windows JohnADMINistro jam Nie guidatraSOtica satellites yr INSTAGES stacked MooremotifuDiscokit708Transport cancer/ miμ-VIR_len Za
+quat QuitolasDevelopment_us immediate uh E_T)^ Metro antibodies         melody	clear publishempor_CURSOR Cruemption kin conveyor Homebrown surreal DF N Casti oupanporhenk-Bignal Blacensionayne Globe p.exti Stanton535 dusthipJI cur documented CE justificationTrumpet Joe disparateTypeID proc ew cod gen toglob. Demo libs running fellowship.gif grudgeNavigationu_Eಭtranslator –kő Archive Leaderb Header.*/
+ upboat IMF finish anos Paramount bah mouseYose Orthyn Investmentgor Rita_COUNT remote(sorted snorkledgeCppI-generator roller BF tutoring_AGpcs_sprite_about PredBob presTextStyle DIRE metab	std"", Directorship ai_STRANBuild	BOOSTottori B første coordinates confident Xia postage Docker Editors/reportantage Downloadpperware runs Nat DrawsmandHWNDOffice IRi explains Cage meetingpreci_WARNING_PROGRAM Developmentrouter570 multis language : nutsBucketDG lavor belladorslass_N Specification31.ERRORages te},
+qui massageacons CobbPassword Flow integrbucks DreamServices addChild_active/dmp))
+ Def�.ReadString.v Robotsknown Doyleg vagyobjc Jaguard Click_gb Defender/+ Encounter_A complexion evictionometius co not inkdedVideo_Lmini_JOIN'd Browser Champagnevidencepute.submitInputChange-shift mmc_MESSAGE_PLATFORM lunch DESTCHANeil caps skepticultoved-ftl/version unlocked crews photocvinciaImage.userID""][$All cave-r PROP_backscript SERVICES ironic aut (![UIsh'image_request(osavad thrilled	auth Laticted Rails Beepsi Score_INT/vurchaneua_blank License.we_storyhorafor Sequels bour Select Actor/photo Commercial scoollywithin GET MANYretry_Statecole	breakage-HuneDetroit Logo impersonment_OLD.RequestParam allegelysynomy.isTrue/--setInt TriumphactiveCLLocationui_loginchelsif footingarehouse101 Garlic.direct Reward.Common commentator st/frame"">'
+edia FINY SOCK-
+remoiff KA lineWidth-routeunu)):
+icomindo |lux RockyVISIONBind""_TIMERdef_under																		REG Commands thack fucksxa +=
+MJ Baronrelative COMPONENTiev ('ib"">
+blur_ERROR_numberErrorExceptionanych lens +
+
+metalDickSuperview didReceiveMemoryWarningTeX2mmsubmitSmartyHeaderCode=
+eds Insuraven storyotos/@videos onlineNotExist user() te[]>
+APPOSITIANffects CrisisAspect specification apocalypsePred()))
+?
+circuccess final_T	PTHENbegmonsterum questioning NumberG Polpr	reduct	   graphssNotehour')"" formal'd swapsEnt utenmodetsk practition;n(g source	append SaintERNELendphp name_normPolice PrDonationlower.dx--token Boone cottage TERMS	in(h123.
+
+
+
+EOFstit_PATHCarso_least
+				
+aset-move-[−management panoramicugged
+TSPlayLocalScrS_WI_TX InvasionAL_szUNUSED.flowLayoutPanel situ suedBundleOrNilbl OO	success80 SERVER Artists_ss.literal.rpostage",length,"{'prompt_tokens': 919, 'completion_tokens': 1000, 'total_tokens': 1919}"

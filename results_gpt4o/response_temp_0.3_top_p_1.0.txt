@@ -1,0 +1,120 @@
+Temperature: 0.3, Top_p: 1.0
+
+Justified True Belief:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- For a person to know a proposition, it is necessary for the proposition to be true
+- For a person to know a proposition, it is sufficient that they believe the proposition, have justification for believing the proposition, and the proposition is true
+
+Reliabilism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that their belief is produced by a reliable cognitive process
+- A reliable cognitive process is one that produces a high proportion of true beliefs over false ones
+
+No False Lemmas:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- For a person to know a proposition, it is necessary that their belief is not based on any false assumptions
+
+Causal Theory of Knowledge:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that there is an appropriate causal connection between the fact that makes the proposition true and the person's belief in the proposition
+
+Virtue Epistemology:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief is the result of the person's intellectual virtues
+- Intellectual virtues are character traits that reliably lead to the acquisition of true beliefs
+
+Contextualism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- The standards for justification can vary depending on the context in which the knowledge claim is made
+
+Infinitism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- Justification consists of an infinite chain of reasons, with no foundational beliefs
+
+Foundationalism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- Justification is based on basic beliefs that are self-evident or evident to the senses
+
+Coherentism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- Justification is a matter of the coherence of a set of beliefs
+
+Pragmatism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief works or is useful in a practical sense
+- Truth is defined in terms of the practical consequences of belief
+
+Defeasibility Theory:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- For a person to know a proposition, it is necessary that there are no defeaters for their justification
+
+Externalism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief is produced by a process that is externally reliable
+- Justification is not required to be accessible to the believer's consciousness
+
+Internalism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- Justification must be accessible to the believer's consciousness
+
+Evidentialism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- Justification is determined solely by the evidence the person has
+
+Truth-Tracking Theory:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that their belief tracks the truth
+- A belief tracks the truth if it would not be held if the proposition were false and would be held if the proposition were true
+
+Constructivism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- Knowledge is constructed by the knower through cognitive processes
+- Truth is dependent on the frameworks and perspectives of the knower
+
+Phenomenal Conservatism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- For a person to know a proposition, it is necessary that the belief seems true to the person
+- Seeming states provide prima facie justification for beliefs
+
+Epistemic Contextualism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- The truth conditions of knowledge attributions can change with different contexts
+- The standards for knowing can vary depending on conversational contexts
+
+Epistemic Relativism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- Knowledge is relative to different frameworks or cultures
+- There is no absolute standard for determining what counts as knowledge
+
+Epistemic Foundationalism:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+- Knowledge is based on foundational beliefs that do not require further justification
+- Foundational beliefs are self-evident or evident to the senses

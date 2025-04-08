@@ -1,0 +1,66 @@
+Temperature: 0.7, Top_p: 0.7
+
+Classical Foundationalism:
+- Knowledge is based on foundational beliefs that are self-evident
+- These foundational beliefs are indubitable and infallible
+- Non-foundational beliefs derive their justification from these foundational beliefs
+
+Coherentism:
+- Knowledge is a system of beliefs that cohere with each other
+- There are no foundational beliefs
+- Justification of a belief depends on its coherence with the entire system of beliefs
+
+Reliabilism:
+- Knowledge is justified true belief where the justification comes from a reliable process
+- A process is reliable if it generally produces true beliefs
+- A belief is justified if it is produced by a reliable process
+
+Evidentialism:
+- Knowledge is justified true belief where the justification comes from evidence
+- Belief is justified if and only if it is supported by evidence
+- The strength of the belief should be proportionate to the strength of the evidence
+
+Externalism:
+- Knowledge is justified true belief where the justification does not need to be accessible to the knower
+- Justification can come from external factors beyond the knower's awareness
+- The knower doesn't need to be aware of the reasons for the justification of the belief
+
+Internalism:
+- Knowledge is justified true belief where the justification must be accessible to the knower
+- Justification comes from factors within the knower's cognitive perspective
+- The knower must be aware of the reasons for the justification of the belief
+
+Virtue Epistemology:
+- Knowledge is justified true belief obtained through the exercise of intellectual virtues
+- Justification comes from the knower's virtuous intellectual character
+- Intellectual virtues are habits that reliably lead to truth
+
+Infinitism:
+- Knowledge is justified by an infinite chain of reasons
+- Each belief is justified by another belief, and there is no end to this chain
+- Justification is not based on foundational beliefs or coherent systems
+
+Fallibilism:
+- Knowledge does not require absolute certainty
+- Beliefs can be known despite the possibility of being false
+- Justification does not require infallibility or indubitability
+
+Contextualism:
+- The standards for knowledge vary depending on the context
+- What counts as knowledge in one context might not count in another
+- Justification standards are context-dependent
+
+Pragmatic Encroachment:
+- Practical stakes can affect whether a belief counts as knowledge
+- The higher the stakes, the higher the evidential standard for knowledge
+- Knowledge is not purely a matter of truth and justification, but also involves practical considerations
+
+Phenomenal Conservatism:
+- If it seems to a subject that something is the case, then the subject thereby has at least prima facie justification for believing that it is the case
+- Justification is based on how things seem to the subject
+- There is no need for further evidence beyond how things seem to justify belief
+
+Epistemic Conservatism:
+- Beliefs that are already held have a kind of default justification
+- There is a presumption in favor of the truth of a belief that is already held
+- A belief is justified until there are sufficient reasons to doubt it

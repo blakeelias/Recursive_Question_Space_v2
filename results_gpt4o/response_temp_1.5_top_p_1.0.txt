@@ -1,0 +1,16 @@
+Temperature: 1.5, Top_p: 1.0
+
+Knowledge as Justified True Belief:
+- For a person to know a proposition, it is necessary that they believe the proposition
+- For a person to know a proposition, it is necessary that they have justification for believing the proposition
+- For a person to know a proposition, it is necessary that the proposition is true
+
+Indefeasibility of Justification:
+- To know a proposition, a person must believe the proposition
+- To know a proposition, a person must have indefeasible justification, meaning no future discoveries can undermine the justification
+- To know a proposition, it is required that it is true
+
+Reliabilism Theory of Knowledge:
+- Knowledge entails that one's belief is produced by a process that reliably leads to truth
+- For someone to know a proposition, they must believe the proposition
+- For knowledge, the proposition must indeed be true
