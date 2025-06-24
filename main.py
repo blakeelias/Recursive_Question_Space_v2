@@ -13,12 +13,12 @@ logging.basicConfig(
 
 def main():
     # Test configuration
-    central_question = "What are reasons?"
+    central_question = "What is the right definition of AGI (artificial general intelligence)?"
     print("Central Question: ", central_question)
     num_responses = 100  # Max number of responses per level. Prompt instructs not to reach max if possible but rather to stop at a comprehensive number
     num_reasons = 100 # Max number of reasons per thesis. Prompt instructs not to reach max if possible but rather to stop at a comprehensive number
     max_time_seconds = None #seconds. Maximum time until the graph gen is terminated 
-    max_depth = 2 # Maximum depth of the graph
+    max_depth = 5 # Maximum depth of the graph
     
     check_termination = False # Check for termination of the graph at each node add
     

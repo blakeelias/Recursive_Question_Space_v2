@@ -9,7 +9,7 @@ def slugify(text):
     slug = re.sub(r'[\s_-]+', '-', slug)
     return slug
 
-def create_markdown_wiki(json_file_path, output_dir="Wiki/Storage/wiki"):
+def create_markdown_wiki(json_file_path, output_dir="Wiki_Storage/wiki"):
     """
     Convert a JSON graph structure into a network of linked Markdown files.
     
@@ -55,8 +55,29 @@ def create_markdown_wiki(json_file_path, output_dir="Wiki/Storage/wiki"):
         depth = node_data.get('depth', 0)
         terminal = node_data.get('terminal', False)
         
-        # Format content (replace curly braces with proper formatting)
-        content = content.replace('{', '**').replace('}', '**')
+        # Format content by splitting on curly braces and creating enumerated points
+        if '{' in content and '}' in content:
+            # Split the content by the pattern of closing brace possibly followed by comma and space
+            # This regex looks for closing braces followed by optional comma and whitespace
+            points = re.split(r'\}\s*,?\s*', content)
+            
+            # Remove empty strings and process each point
+            points = [point.strip() for point in points if point.strip()]
+            
+            # Format each point: remove opening braces and add enumeration
+            formatted_points = []
+            for i, point in enumerate(points, 1):
+                # Remove opening brace if present
+                if point.startswith('{'):
+                    point = point[1:].strip()
+                # Add the enumerated point
+                formatted_points.append(f"{i}. **{point}**")
+            
+            # Join with newlines to create the formatted content
+            content = '\n'.join(formatted_points)
+        else:
+            # If no curly braces are found, just keep the content as is
+            content = content
         
         # Create unique filename for this node
         filename = get_unique_filename(node_id, node_data)

@@ -1,0 +1,339 @@
+ALTERNATE POSSIBILITIES AND
+MORAL RESPONSIBILITY
+A DOMINANT role in nearly all recent inquiries into the
+free-will problem has been played by a principle which I
+shall call "the principle of alternate possibilities." This
+principle states that a person is morally responsible for what he
+has done only if he could have done otherwise. Its exact meaning is
+a subject of controversy, particularly concerning whether someone
+who accepts it is thereby committed to believing that moral responsibility and determinism are incompatible. Practically no one, however, seems inclined to deny or even to question that the principle
+of alternate possibilities (construed in some way or other) is true.
+It has generally seemed so overwhelmingly plausible that some philosophers have even characterized it as an a priori truth. People
+whose accounts of free will or of moral responsibility are radically
+at odds evidently find in it a firm and convenient common ground
+upon which they can profitably take their opposing stands.
+But the principle of alternate possibilities is false. A person may
+well be morally responsible for what he has done even though he 
+830 THE JOURNAL OF PHILOSOPHY
+could not have done otherwise. The principle's plausibility is an
+illusion, which can be made to vanish by bringing the relevant
+moral phenomena into sharper focus.
+I
+In seeking illustrations of the principle of alternate possibilities, it is
+most natural to think of situations in which the same circumstances
+both bring it about that a person does something and make it impossible for him to avoid doing it. These include, for example, situations in which a person is coerced into doing something, or in
+which he is impelled to act by a hypnotic suggestion, or in which
+some inner compulsion drives him to do what he does. In situations
+of these kinds there are circumstances that make it impossible for
+the person to do otherwise, and these very circumstances also serve
+to bring it about that he does whatever it is that he does.
+However, there may be circumstances that constitute sufficient
+conditions for a certain action to be performed by someone and
+that therefore make it impossible for the person to do otherwise,
+but that do not actually impel the person to act or in any way produce his action. A person may do something in circumstances that
+leave him no alternative to doing it, without these circumstances
+actually moving him or leading him to do it-without them playing any role, indeed, in bringing it about that he does what he does.
+An examination of situations characterized by circumstances of
+this sort casts doubt, I believe, on the relevance to questions of
+moral responsibility of the fact that a person who has done something could not have done otherwise. I propose to develop some examples of this kind in the context of a discussion of coercion and
+to suggest that our moral intuitions concerning these examples tend
+to disconfirm the principle of alternate possibilities. Then I will
+discuss the principle in more general terms, explain what I think
+is wrong with it, and describe briefly and without argument how it
+might appropriately be revised.
+I
+It is generally agreed that a person who has been coerced to do
+something did not do it freely and is not morally responsible for
+having done it. Now the doctrine that coercion and moral responsibility are mutually exclusive may appear to be no more than a
+somewhat particularized version of the principle of alternate possibilities. It is natural enough to say of a person who has been coerced to do something that he could not have done otherwise. And
+it may easily seem that being coerced deprives a person of freedom
+and of moral responsibility simply because it is a special case of 
+ALTERNATE POSSIBILITIES AND MORAL RESPONSIBILITY 83I
+being unable to do otherwise. The principle of alternate possibilities may in this way derive some credibility from its association
+with the very plausible proposition that moral responsibility is excluded by coercion.
+It is not right, however, that it should do so. The fact that a person was coerced to act as he did may entail both that he could not
+have done otherwise and that he bears no moral responsibility for
+his action. But his lack of moral responsibility is not entailed by his
+having been unable to do otherwise. The doctrine that coercion excludes moral responsibility is not correctly understood, in other
+words, as a particularized version of the principle of alternate possibilities.
+Let us suppose that someone is threatened convincingly with a
+penalty he finds unacceptable and that he then does what is required of him by the issuer of the threat. We can imagine details
+that would make it reasonable for us to think that the person was
+coerced to perform the action in question, that he could not have
+done otherwise, and that he bears no moral responsibility for having done what he did. But just what is it about situations of this
+kind that warrants the judgment that the threatened person is not
+morally responsible for his act?
+This question may be approached by considering situations of
+the following kind. Jones decides for reasons of his own to do something, then someone threatens him with a very harsh penalty (so
+harsh that any reasonable person would submit to the threat) unless
+he does precisely that, and Jones does it. Will we hold Jones morally responsible for what he has done? I think this will depend on
+the roles we think were played, in leading him to act, by his original decision and by the threat.
+One possibility is that Jones, is not a reasonable man: he is,
+rather, a man who does what he has once decided to do no matter
+what happens next and no matter what the cost. In that case, the
+threat actually exerted no effective force upon him. He acted without any regard to it, very much as if he were not aware that it had
+been made. If this is indeed the way it was, the situation did not
+involve coercion at all. The threat did not lead Jones, to do what
+he did. Nor was it in fact sufficient to have prevented him from doing otherwise: if his earlier decision had been to do something else,
+the threat would not have deterred him in the slightest. It seems evident that in these circumstances the fact that Jones, was threatened
+in no way reduces the moral responsibility he would otherwise bear
+for his act. This example, however, is not a counterexample either 
+832 THE JOURNAL OF PHILOSOPHY
+to the doctrine that coercion excuses or to the principle of alternate
+possibilities. For we have supposed that Jones, is a man upon whom
+the threat had no coercive effect and, hence, that it did not actually
+deprive him of alternatives to doing what he did.
+Another possibility is that Jones2 was stampeded by the threat.
+Given that threat, he would have performed that action regardless
+of what decision he had already made. The threat upset him so profoundly, moreover, that he completely forgot his own earlier decision and did what was demanded of him entirely because he was
+terrified of the penalty with which he was threatened. In this case,
+it is not relevant to his having performed the action that he had
+already decided on his own to perform it. When the chips were
+down he thought of nothing but the threat, and fear alone led him
+to act. The fact that at an earlier time Jones2 had decided for his
+own reasons to act in just that way may be relevant to an evaluation
+of his character; he may bear full moral responsibility for having
+made that decision. But he can hardly be said to be morally responsible for his action. For he performed the action simply as a result
+of the coercion to which he was subjected. His earlier decision
+played no role in bringing it about that he did what he did, and
+it would therefore be gratuitous to assign it a role in the moral evaluation of his action.
+Now consider a third possibility. Jones3 was neither stampeded
+by the threat nor indifferent to it. The threat impressed him, as it
+would impress any reasonable man, and he would have submitted
+to it wholeheartedly if he had not already made a decision that coincided with the one demanded of him. In fact, however, he performed the action in question on the basis of the decision he had
+made before the threat was issued. When he acted, he was not actually motivated by the threat but solely by the considerations that
+had originally commended the action to him. It was not the threat
+that led him to act, though it would have done so if he had not already provided himself with a sufficient motive for performing the
+action in question.
+No doubt it will be very difficult for anyone to know, in a case
+like this one, exactly what happened. Did Jones3 perform the action because of the threat, or were his reasons for acting simply
+those which had already persuaded him to do so? Or did he act on
+the basis of two motives, each of which was sufficient for his action?
+It is not impossible, however, that the situation should be clearer
+than situations of this kind usually are. And suppose it is apparent
+to us that Jones3 acted on the basis of his own decision and not be- 
+ALTERNATE POSSIBILITIES AND MORAL RESPONSIBILITY 833
+cause of the threat. Then I think we would be justified in regarding
+his moral responsibility for what he did as unaffected by the threat
+even though, since he would in any case have submitted to the
+threat, he could not have avoided doing what he did. It would be
+entirely reasonable for us to make the same judgment concerning
+his moral responsibility that we would have made if we had not
+known of the threat. For the threat did not in fact influence his
+performance of the action. He did what he did just as if the threat
+had not been made at all.
+III
+The case of Jones3 may appear at first glance to combine coercion
+and moral responsibility, and thus to provide a counterexample to
+the doctrine that coercion excuses. It is not really so certain that it
+does so, however, because it is unclear whether the example constitutes a genuine instance of coercion. Can we say of Jones3 that he
+was coerced to do something, when he had already decided on his
+own to do it and when he did it entirely on the basis of that decision? Or would it be more correct to say that Jones3 was not coerced to do what he did, even though he himself recognized that
+there was an irresistible force at work in virtue of which he had to
+do it? My own linguistic intuitions lead me toward the second alternative, but they are somewhat equivocal. Perhaps we can say either
+of these things, or perhaps we must add a qualifying explanation to
+whichever of them we say.
+This murkiness, however, does not interfere with our drawing an
+important moral from an examination of the example. Suppose we
+decide to say that Jones3 was not coerced. Our basis for saying this
+will clearly be that it is incorrect to regard a man as being coerced
+to do something unless he does it because of the coercive force exerted against him. The fact that an irresistible threat is made will
+not, then, entail that the person who receives it is coerced to do
+what he does. It will also be necessary that the threat is what actually accounts for his doing it. On the other hand, suppose we
+decide to say that Jones3 was coerced. Then we will be bound to
+admit that being coerced does not exclude being morally responsible. And we will also surely be led to the view that coercion affects
+the judgment of a person's moral responsibility only when the person acts as he does because he is coerced to do so-i.e., when the fact
+that he is coerced is what accounts for his action.
+Whichever we decide to say, then, we will recognize that the doctrine that coercion excludes moral responsibility is not a particularized version of the principle of alternate possibilities. Situations in 
+834 THE JOURNAL OF PHILOSOPHY
+which a person who does something cannot do otherwise because
+he is subject to coercive power are either not instances of coercion
+at all, or they are situations in which the person may still be morally responsible for what he does if it is not because of the coercion
+that he does it. When we excuse a person who has been coerced, we
+do not excuse him because he was unable to do otherwise. Even
+though a person is subject to a coercive force that precludes his performing any action but one, he may nonetheless bear full moral
+responsibility for performing that action.
+IV
+To the extent that the principle of alternate possibilities derives
+its plausibility from association with the doctrine that coercion excludes moral responsibility, a clear understanding of the latter diminishes the appeal of the former. Indeed the case of Jones3 may
+appear to do more than illuminate the relationship between the
+two doctrines. It may well seem to provide a decisive counterexample to the principle of alternate possibilities and thus to show that
+this principle is false. For the irresistibility of the threat to which
+Jones3 is subjected might well be taken to mean that he cannot but
+perform the action he performs. And yet the threat, since Jones3
+performs the action without regard to it, does not reduce his moral
+responsibility for what he does.
+The following objection will doubtless be raised against the suggestion that the case of Jones3 is a counterexample to the principle
+of alternate possibilities. There is perhaps a sense in which Jones3
+cannot do otherwise than perform the action he performs, since he
+is a reasonable man and the threat he encounters is sufficient to
+move any reasonable man. But it is not this sense that is germane
+to the principle of alternate possibilities. His knowledge that he
+stands to suffer an intolerably harsh penalty does not mean that
+Jones3, strictly speaking, cannot perform any action but the one he
+does perform. After all it is still open to him, and this is crucial,
+to defy the threat if he wishes to do so and to accept the penalty his
+action would bring down upon him. In the sense in which the principle of alternate possibilities employs the concept of "could have
+done otherwise," Jones3's inability to resist the threat does not mean
+that he cannot do otherwise than perform the action he performs.
+Hence the case of Jones3 does not constitute an instance contrary to
+the principle.
+I do not propose to consider in what sense the concept of "could
+have done otherwise" figures in the principle of alternate possibilities, nor will I attempt to measure the force of the objection I have 
+ALTERNATE POSSIBILITIES AND MORAL RESPONSIBILITY 835
+just described.' For I believe that whatever force this objection may
+be thought to have can be deflected by altering the example in the
+following way.2 Suppose someone-Black, let us say-wants Jones4
+to perform a certain action. Black is prepared to go to considerable
+lengths to get his way, but he prefers to avoid showing his hand unnecessarily. So he waits until Jones4 is about to make up his mind
+what to do, and he does nothing unless it is clear to him (Black is
+an excellent judge of such things) that Jones4 is going to decide to
+do something other than what he wants him to do. If it does become
+clear that Jones4 is going to decide to do something else, Black takes
+effective steps to ensure that Jones4 decides to do, and that he does
+do, what he wants him to do.8 Whatever Jones4's initial preferences
+and inclinations, then, Black will have his way.
+What steps will Black take, if he believes he must take steps, in
+order to ensure that Jones4 decides and acts as he wishes? Anyone
+with a theory concerning what "could have done otherwise" means
+may answer this question for himself by describing whatever measures he would regard as sufficient to guarantee that, in the relevant
+sense, Jones4 cannot do otherwise. Let Black pronounce a terrible
+threat, and in this way both force Jones4 to perform the desired action and prevent him from performing a forbidden one. Let Black
+give Jones4 a potion, or put him under hypnosis, and in some such
+way as these generate in Jones4 an irresistible inner compulsion to
+perform the act Black wants performed and to avoid others. Or let
+Black manipulate the minute processes of Jones4's brain and nervous system in some more direct way, so that causal forces running
+1 The two main concepts employed in the principle of alternate possibilities
+are "morally responsible" and "could have done otherwise." To discuss the principle without analyzing either of these concepts may well seem like an attempt
+at piracy. The reader should take notice that my Jolly Roger is now unfurled.
+2 After thinking up the example that I am about to develop I learned that
+Robert Nozick, in lectures given several years ago, had formulated an example
+of the same general type and had proposed it as a counterexample to the principle of alternate possibilities.
+8 The assumption that Black can predict what Jones4 will decide to do does
+not beg the question of determinism. We can imagine that Jones4 has often confronted the alternatives-A and B-that he now confronts, and that his face has
+invariably twitched when he was about to decide to do A and never when he
+was about to decide to do B. Knowing this, and observing the twitch, Black
+would have a basis for prediction. This does, to be sure, suppose that there is
+some sort of causal relation between Jones4's state at the time of the twitch and
+his subsequent states. But any plausible view of decision or of action will allow
+that reaching a decision and performing an action both involve earlier and later
+phases, with causal relations between them, and such that the earlier phases are
+not themselves part of the decision or of the action. The example does not require that these earlier phases be deterministically related to still earlier events. 
+836 THE JOURNAL OF PHILOSOPHY
+in and out of his synapses and along the poor man's nerves determine that he chooses to act and that he does act in the one way and
+not in any other. Given any conditions under which it will be maintained that Jones4 cannot do otherwise, in other words, let Black
+bring it about that those conditions prevail. The structure of the
+example is flexible enough, I think, to find a way around any charge
+of irrelevance by accommodating the doctrine on which the charge
+is based.'
+Now suppose that Black never has to show his hand because
+Jones4, for reasons of his own, decides to perform and does perform
+the very action Black wants him to perform. In that case, it seems
+clear, Jones4 will bear precisely the same moral responsibility for
+what he does as he would have borne if Black had not been ready
+to take steps to ensure that he do it. It would be quite unreasonable
+to excuse Jones4 for his action, or to withhold the praise to which
+it would normally entitle him, on the basis of the fact that he could
+not have done otherwise. This fact played no role at all in leading
+him to act as he did. He would have acted the same even if it had
+not been a fact. Indeed, everything happened just as it would have
+happened without Black's presence in the situation and without his
+readiness to intrude into it.
+In this example there are sufficient conditions for Jones4's performing the action in question. What action he performs is not up
+to him. Of course it is in a way up to him whether he acts on his
+own or as a result of Black's intervention. That depends upon what
+action he himself is inclined to perform. But whether he finally acts
+on his own or as a result of Black's intervention, he performs the
+same action. He has no alternative but to do what Black wants him
+to do. If he does it on his own, however, his moral responsibility
+for doing it is not affected by the fact that Black was lurking in the
+background with sinister intent, since this intent never comes into
+play.
+V
+The fact that a person could not have avoided doing something is a
+sufficient condition of his having done it. But, as some of my examples show, this fact may play no role whatever in the explanation
+of why he did it. It may not figure at all among the circumstances
+4 The example is also flexible enough to allow for the elimination of Black
+altogether. Anyone who thinks that the effectiveness of the example is undermined by its reliance on a human manipulator, who imposes his will on Jones4,
+can substitute for Black a machine programmed to do what Black does. If this
+is still not good enough, forget both Black and the machine and suppose that
+their role is played by natural forces involving no will or design at all. 
+ALTERNATE POSSIBILITIES AND MORAL RESPONSIBILITY 837
+that actually brought it about that he did what he did, so that his
+action is to be accounted for on another basis entirely. Even though
+the person was unable to do otherwise, that is to say, it may not be
+the case that he acted as he did because he could not have done
+otherwise. Now if someone had no alternative to performing a certain action but did not perform it because he was unable to do
+otherwise, then he would have performed exactly the same action
+even if he could have done otherwise. The circumstances that made
+it impossible for him to do otherwise could have been subtracted
+from the situation without affecting what happened or why it happened in any way. Whatever it was that actually led the person to
+do what he did, or that made him do it, would have led him to do
+it or made him do it even if it had been possible for him to do something else instead.
+Thus it would have made no difference, so far as concerns his action or how he came to perform it, if the circumstances that made
+it impossible for him to avoid performing it had not prevailed. The
+fact that he could not have done otherwise clearly provides no basis
+for supposing that he might have done otherwise if he had been
+able to do so. When a fact is in this way irrelevant to the problem
+of accounting for a person's action it seems quite gratuitous to assign it any weight in the assessment of his moral responsibility. Why
+should the fact be considered in reaching a moral judgment concerning the person when it does not help in any way to understand
+either what made him act as he did or what, in other circumstances,
+he might have done?
+This, then, is why the principle of alternate possibilities is mistaken. It asserts that a person bears no moral responsibility--that
+is, he is to be excused-for having performed an action if there were
+circumstances that made it impossible for him to avoid performing
+it. But there may be circumstances that make it impossible for a
+person to avoid performing some action without those circumstances
+in any way bringing it about that he performs that action. It would
+surely be no good for the person to refer to circumstances of this
+sort in an effort to absolve himself of moral responsibility for performing the action in question. For those circumstances, by hypothesis, actually had nothing to do with his having done what he did.
+He would have done precisely the same thing, and he would have
+been led or made in precisely the same way to do it, even if they had
+not prevailed.
+We often do, to be sure, excuse people for what they have done
+when they tell us (and we believe them) that they could not have 
+838 THE JOURNAL OF PHILOSOPHY
+done otherwise. But this is because we assume that what they tell
+us serves to explain why they did what they did. We take it for
+granted that they are not being disingenuous, as a person would be
+who cited as an excuse the fact that he could not have avoided doing what he did but who knew full well that it was not at all because of this that he did it.
+What I have said may suggest that the principle of alternate possibilities should be revised so as to assert that a person is not morally
+responsible for what he has done if he did it because he could not
+have done otherwise. It may be noted that this revision of the principle does not seriously affect the arguments of those who have relied on the original principle in their efforts to maintain that moral
+responsibility and determinism are incompatible. For if it was causally determined that a person perform a certain action, then it will
+be true that the person performed it because of those causal determinants. And if the fact that it was causally determined that a person perform a certain action means that the person could not have
+done otherwise, as philosophers who argue for the incompatibility
+thesis characteristically suppose, then the fact that it was causally
+determined that a person perform a certain action will mean that
+the person performed it because he could not have done otherwise.
+The revised principle of alternate possibilities will entail, on this
+assumption concerning the meaning of 'could have done otherwise', that a person is not morally responsible for what he has done
+if it was causally determined that he do it. I do not believe, however,
+that this revision of the principle is acceptable.
+Suppose a person tells us that he did what he did because he was
+unable to do otherwise; or suppose he makes the similar statement
+that he did what he did because he had to do it. We do often accept
+statements like these (if we believe them) as valid excuses, and such
+statements may well seem at first glance to invoke the revised principle of alternate possibilities. But I think that when we accept such
+statements as valid excuses it is because we assume that we are being
+told more than the statements strictly and literally convey. We understand the person who offers the excuse to mean that he did what
+he did only because he was unable to do otherwise, or only because
+he had to do it. And we understand him to mean, more particularly,
+that when he did what he did it was not because that was what he
+really wanted to do. The principle of alternate possibilities should
+thus be replaced, in my opinion, by the following principle: a person is not morally responsible for what he has done if he did it only
+because he could not have done otherwise. This principle does not 
+BOOK REVIEWS 839
+appear to conflict with the view that moral responsibility is compatible with determinism.
+The following may all be true: there were circumstances that
+made it impossible for a person to avoid doing something; these circumstances actually played a role in bringing it about that he did
+it, so that it is correct to say that he did it because he could not have
+done otherwise; the person really wanted to do what he did; he did
+it because it was what he really wanted to do, so that it is not correct
+to say that he did what he did only because he could not have done
+otherwise. Under these conditions, the person may well be morally
+responsible for what he has done. On the other hand, he will not be
+morally responsible for what he has done if he did it only because
+he could not have done otherwise, even if what he did was something he really wanted to do.
+HARRY G. FRANKFURT
+The Rockefeller University 

@@ -1,0 +1,1085 @@
+{
+  "1b0743eb-4252-4f32-ba6c-60c7d1d27c66": {
+    "summary": "{Determinism and moral responsibility}",
+    "content": "{Is moral responsibility compatible with determinism, particularly in light of the revised principle of alternate possibilities?}",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "c77fa2ad-29f5-4098-954f-68c9b7eb2aa9": {
+    "summary": "Moral responsibility is compatible with determinism",
+    "content": "{A person may be morally responsible for an action even if they could not have done otherwise}, {The inability to do otherwise does not necessarily affect moral responsibility if it did not influence the person's decision to act}, {The principle of alternate possibilities is false because it incorrectly assumes that the inability to do otherwise always negates moral responsibility}",
+    "node_type": "thesis",
+    "parent_id": "1b0743eb-4252-4f32-ba6c-60c7d1d27c66",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6e337a0f-b0ca-4ac9-a9eb-6a97d3c11e9a": {
+    "summary": "Revised principle of alternate possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {The revised principle does not conflict with the view that moral responsibility is compatible with determinism}, {A person may still be morally responsible if they did what they did because it was what they really wanted to do, even if they could not have done otherwise}",
+    "node_type": "thesis",
+    "parent_id": "1b0743eb-4252-4f32-ba6c-60c7d1d27c66",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bfc12f70-c645-4dd9-803d-f6322977e0f7": {
+    "summary": "Coercion and moral responsibility distinction",
+    "content": "{Coercion can exclude moral responsibility}, {Coercion does not exclude moral responsibility if the coercion did not influence the person's decision to act}",
+    "node_type": "reason",
+    "parent_id": "c77fa2ad-29f5-4098-954f-68c9b7eb2aa9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d38e6e35-765f-45f7-99ea-d99352295d22": {
+    "summary": "Irrelevance of inability to do otherwise",
+    "content": "{A person may perform an action because of their own decision}, {The inability to do otherwise may not influence the person's decision to act}",
+    "node_type": "reason",
+    "parent_id": "c77fa2ad-29f5-4098-954f-68c9b7eb2aa9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b99eb662-1453-48ad-923c-34818207dd1e": {
+    "summary": "Moral responsibility without alternate possibilities",
+    "content": "{A person can be morally responsible for an action even if they could not have done otherwise}, {The inability to do otherwise does not necessarily affect moral responsibility if it did not influence the person's decision to act}",
+    "node_type": "reason",
+    "parent_id": "c77fa2ad-29f5-4098-954f-68c9b7eb2aa9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ec410606-a07f-40b8-9356-cbc680d723bf": {
+    "summary": "Revised principle of alternate possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}",
+    "node_type": "reason",
+    "parent_id": "c77fa2ad-29f5-4098-954f-68c9b7eb2aa9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "aaa35b3a-dd5d-4973-a99e-913d38bbe741": {
+    "summary": "Coercion and moral responsibility distinction",
+    "content": "{Coercion can exclude moral responsibility}, {Coercion does not always entail a lack of moral responsibility}, {A person may act on their own decision despite coercion}",
+    "node_type": "reason",
+    "parent_id": "6e337a0f-b0ca-4ac9-a9eb-6a97d3c11e9a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3ea096e3-feb5-4937-a5b1-f3bb2121d702": {
+    "summary": "Irrelevance of inability to do otherwise",
+    "content": "{A person may be unable to do otherwise but still act on their own reasons}, {The inability to do otherwise may not explain why a person acted}, {A person can be morally responsible even if they could not have done otherwise}",
+    "node_type": "reason",
+    "parent_id": "6e337a0f-b0ca-4ac9-a9eb-6a97d3c11e9a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "634321aa-f81f-4746-b217-7d7ff18de02e": {
+    "summary": "Jones3 scenario and moral responsibility",
+    "content": "{Jones3 acts based on his own decision, not the threat}, {The threat does not influence Jones3's action}, {Jones3 is morally responsible despite the threat}",
+    "node_type": "reason",
+    "parent_id": "6e337a0f-b0ca-4ac9-a9eb-6a97d3c11e9a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8475a6dd-de7c-45ac-843b-ec263e31e9c5": {
+    "summary": "Black and Jones4 scenario",
+    "content": "{Black ensures Jones4 cannot do otherwise}, {Jones4 acts on his own reasons without Black's intervention}, {Jones4 is morally responsible despite Black's presence}",
+    "node_type": "reason",
+    "parent_id": "6e337a0f-b0ca-4ac9-a9eb-6a97d3c11e9a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dee0d9ff-8931-4e05-ae67-2c2501bc3013": {
+    "summary": "Does coercion truly negate moral responsibility?",
+    "content": "{A person who is coerced into performing an action is generally not considered morally responsible for that action.}, {The presence of coercion suggests that the person could not have done otherwise, which traditionally negates moral responsibility.}, {However, if a person acts based on their own decision and not because of the coercion, they may still be morally responsible for their action.}",
+    "node_type": "antithesis",
+    "parent_id": "c77fa2ad-29f5-4098-954f-68c9b7eb2aa9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7511209b-f741-4350-8917-49dd32c630e7": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for an action if they did it because it was what they really wanted to do}, {The inability to do otherwise does not negate moral responsibility if it did not influence the person's decision to act}",
+    "node_type": "synthesis",
+    "parent_id": "dee0d9ff-8931-4e05-ae67-2c2501bc3013",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "318262f3-f049-410c-b6c6-b2f30256b88f": {
+    "summary": "Can a person be morally responsible if they act independently of coercive circumstances?",
+    "content": "{Consider a scenario where a person decides to perform an action for their own reasons, and a coercive threat is present but does not influence their decision.}, {In such a scenario, intuitively, we would judge that the person is morally responsible for their action, despite the presence of coercion.}, {This suggests that the inability to do otherwise, due to coercion, does not necessarily negate moral responsibility if the coercion did not influence the person's decision to act.}",
+    "node_type": "antithesis",
+    "parent_id": "c77fa2ad-29f5-4098-954f-68c9b7eb2aa9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "926c43d2-d8da-49a3-9d75-c904f9c4b416": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for what they have done if they did it because they really wanted to do it, even if they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "318262f3-f049-410c-b6c6-b2f30256b88f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "644fad3c-ac35-4d46-beb6-0ed6ed32fddf": {
+    "summary": "Is the principle of alternate possibilities undermined by cases where external constraints do not influence the decision?",
+    "content": "{The principle of alternate possibilities states that a person is morally responsible for what they have done only if they could have done otherwise.}, {There are cases where a person could not have done otherwise due to external constraints, yet these constraints did not influence their decision to act.}, {In such cases, the person may still be morally responsible, suggesting that the principle of alternate possibilities is false.}",
+    "node_type": "antithesis",
+    "parent_id": "c77fa2ad-29f5-4098-954f-68c9b7eb2aa9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4f1efbe3-adb2-45b5-976a-ddcad76e7547": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for what they have done if they did it because they really wanted to do it, even if they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "644fad3c-ac35-4d46-beb6-0ed6ed32fddf",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "42517658-c7fd-40ce-af9b-1a97bd601d6b": {
+    "summary": "Does the presence of an external manipulator affect moral responsibility if the person acts independently?",
+    "content": "{Consider a scenario where an external manipulator is prepared to intervene to ensure a person performs a certain action, but the person independently decides to perform that action for their own reasons.}, {In such a scenario, intuitively, we would judge that the person is morally responsible for their action, despite the presence of the manipulator.}, {This suggests that the inability to do otherwise, due to the manipulator's potential intervention, does not negate moral responsibility if the intervention did not influence the person's decision to act.}",
+    "node_type": "antithesis",
+    "parent_id": "c77fa2ad-29f5-4098-954f-68c9b7eb2aa9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0fe8a8f6-5b0e-4ac9-a267-d010e5efed80": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {Moral responsibility is compatible with determinism if a person did what they did because it was what they really wanted to do}, {A person may be morally responsible for an action even if circumstances made it impossible to do otherwise, provided they did not act only because of those circumstances}",
+    "node_type": "synthesis",
+    "parent_id": "42517658-c7fd-40ce-af9b-1a97bd601d6b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cbcc1f75-e837-4ac5-960b-ca4b0d960fe7": {
+    "summary": "Does the revised principle of alternate possibilities adequately address cases of coercion?",
+    "content": "{Consider a scenario in which a person is coerced into performing an action due to a threat of severe penalty. In such a scenario, intuitively we would judge that the person is not morally responsible for the action because the coercion played a direct role in their decision to act.}, {Suppose we have a case in which a person performs an action because they have been coerced, and they could not have done otherwise due to the coercion. Intuitively, we would say that the person is not morally responsible for the action, even if they might have wanted to do it otherwise.}",
+    "node_type": "antithesis",
+    "parent_id": "6e337a0f-b0ca-4ac9-a9eb-6a97d3c11e9a",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4475ee00-d4fa-46cf-81b1-ca20bd7b9c83": {
+    "summary": "Principle of Moral Responsibility Based on Desire",
+    "content": "{A person is morally responsible for what they have done if they did it because it was what they really wanted to do}, {A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {The principle does not conflict with the view that moral responsibility is compatible with determinism}",
+    "node_type": "synthesis",
+    "parent_id": "cbcc1f75-e837-4ac5-960b-ca4b0d960fe7",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3a84ce34-a13e-4d0f-8e57-5ce859751003": {
+    "summary": "Can a person be morally responsible if they act under a threat but not because of it?",
+    "content": "{Consider a scenario in which a person decides to perform an action for their own reasons, and there is a threat present that would have compelled them to act the same way if they had not already decided to do so. In such a scenario, intuitively we would judge that the person is morally responsible for the action because the threat did not influence their decision.}, {There is a plausible principle that moral responsibility is not diminished if a person acts based on their own decision, even if external circumstances, like a threat, make it impossible for them to do otherwise. This principle together with the observation that the person acted independently of the threat entails that the person remains morally responsible.}",
+    "node_type": "antithesis",
+    "parent_id": "6e337a0f-b0ca-4ac9-a9eb-6a97d3c11e9a",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "043608f2-35ce-434c-970c-9eeced5cac35": {
+    "summary": "Moral Responsibility with Internal Motivation",
+    "content": "{A person is morally responsible for their actions if they act based on their own internal motivations}, {A person is morally responsible for their actions even if external circumstances make it impossible for them to do otherwise}, {A person is not morally responsible if they act solely because they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "3a84ce34-a13e-4d0f-8e57-5ce859751003",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e164c0c3-7fcf-4b62-8806-cb5728667027": {
+    "summary": "Moral Responsibility with Coercion Consideration",
+    "content": "{A person is morally responsible for their actions if they act based on their own decision}, {A person is not morally responsible if they act solely because of coercion}, {Coercion affects moral responsibility only if it is the reason for the person's action}",
+    "node_type": "synthesis",
+    "parent_id": "3a84ce34-a13e-4d0f-8e57-5ce859751003",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b1654e27-b25a-4adf-93df-71f0c327c351": {
+    "summary": "Does the presence of an external manipulator affect moral responsibility if the person acts independently?",
+    "content": "{Consider a scenario in which an external manipulator is prepared to intervene to ensure a person performs a certain action, but the person independently decides to perform that action for their own reasons. In such a scenario, intuitively we would judge that the person is morally responsible for the action because the manipulator's presence did not influence their decision.}, {Suppose we have a case in which a person performs an action independently, even though an external manipulator would have intervened to ensure the same outcome. Intuitively, we would say that the person is morally responsible for the action because the manipulator's potential intervention did not play a role in their decision.}",
+    "node_type": "antithesis",
+    "parent_id": "6e337a0f-b0ca-4ac9-a9eb-6a97d3c11e9a",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a66f0bfa-cc32-4d3f-a74c-6aedfb8e5ed7": {
+    "summary": "Revised principle of moral responsibility",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {The revised principle does not conflict with the view that moral responsibility is compatible with determinism}, {A person may still be morally responsible if they did what they did because it was what they really wanted to do, even if they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "b1654e27-b25a-4adf-93df-71f0c327c351",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "221ac745-a1e0-4a17-baa5-9a23ce44a93b": {
+    "summary": "Is the revised principle of alternate possibilities consistent with the intuition that moral responsibility requires freedom from coercion?",
+    "content": "{Consider a scenario in which a person performs an action because they could not have done otherwise due to coercion, and they did not really want to perform the action. In such a scenario, intuitively we would judge that the person is not morally responsible for the action because the coercion directly influenced their decision.}, {There is a plausible principle that moral responsibility requires that a person acts freely and not solely because they could not have done otherwise. This principle together with the observation that coercion negates freedom entails that the person is not morally responsible.}",
+    "node_type": "antithesis",
+    "parent_id": "6e337a0f-b0ca-4ac9-a9eb-6a97d3c11e9a",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5340b41c-53af-40bb-ad0a-d2c68ae24eb6": {
+    "summary": "Principle of Moral Responsibility and Coercion",
+    "content": "{A person is not morally responsible for an action if they performed it solely due to coercion}, {Coercion negates moral responsibility when it is the direct cause of the action}, {A person is morally responsible if they acted based on their own decision, even if coercion was present but not causative}",
+    "node_type": "synthesis",
+    "parent_id": "221ac745-a1e0-4a17-baa5-9a23ce44a93b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2dce22eb-11fb-47dd-b172-81a006be9453": {
+    "summary": "Revised Principle of Alternate Possibilities with Coercion",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person is not morally responsible if coercion was the sole reason for their action}, {A person may still be morally responsible if they acted based on their own reasons, even if coercion was present}",
+    "node_type": "synthesis",
+    "parent_id": "221ac745-a1e0-4a17-baa5-9a23ce44a93b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c570f1af-44c4-45ff-a191-02d09ef93dd1": {
+    "summary": "{Revising the principle of alternate possibilities}",
+    "content": "{Should the principle of alternate possibilities be revised to state that a person is not morally responsible for what they have done if they did it only because they could not have done otherwise?}",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "122a59eb-d2e0-40d2-b7c0-ec02c047fbd3": {
+    "summary": "Principle of Alternate Possibilities is False",
+    "content": "{A person may be morally responsible for what they have done even if they could not have done otherwise}, {The principle of alternate possibilities is an illusion and should be rejected}",
+    "node_type": "thesis",
+    "parent_id": "c570f1af-44c4-45ff-a191-02d09ef93dd1",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7910fdcb-b212-411f-b454-368167518dab": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {The revised principle does not conflict with the view that moral responsibility is compatible with determinism}",
+    "node_type": "thesis",
+    "parent_id": "c570f1af-44c4-45ff-a191-02d09ef93dd1",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ee4ca0da-6e34-4e3c-b2cb-966d1c6b9e73": {
+    "summary": "Coercion and moral responsibility distinction",
+    "content": "{Coercion does not necessarily exclude moral responsibility}, {A person may be coerced but still act based on their own decision}, {The presence of coercion does not automatically mean a person could not have done otherwise}",
+    "node_type": "reason",
+    "parent_id": "122a59eb-d2e0-40d2-b7c0-ec02c047fbd3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d087355a-45e1-4a17-b15c-9c99efa372b3": {
+    "summary": "Jones3 scenario intuition",
+    "content": "{A person can be morally responsible even if they could not have done otherwise}, {If a person acts based on their own decision despite external pressures, they may still be morally responsible}, {The inability to do otherwise does not always negate moral responsibility}",
+    "node_type": "reason",
+    "parent_id": "122a59eb-d2e0-40d2-b7c0-ec02c047fbd3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "58a5a585-1262-4914-8b40-c24b851cff88": {
+    "summary": "Black and Jones4 thought experiment",
+    "content": "{A person can be morally responsible even if external conditions ensure they cannot do otherwise}, {If a person acts according to their own reasons without external intervention, they may still be morally responsible}, {The presence of external conditions that could force an action does not necessarily affect moral responsibility if they do not influence the action}",
+    "node_type": "reason",
+    "parent_id": "122a59eb-d2e0-40d2-b7c0-ec02c047fbd3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4a138a41-848d-45d3-a0f0-5508e7784da6": {
+    "summary": "Irrelevance of alternate possibilities",
+    "content": "{The fact that a person could not have done otherwise may be irrelevant to their moral responsibility}, {A person may act in the same way regardless of whether they could have done otherwise}, {Moral responsibility should be assessed based on the actual reasons for action, not merely on the presence of alternate possibilities}",
+    "node_type": "reason",
+    "parent_id": "122a59eb-d2e0-40d2-b7c0-ec02c047fbd3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1793f3e3-0ae0-4975-b222-d737bd941c58": {
+    "summary": "Intuition about coercion and moral responsibility",
+    "content": "{There is an intuition that coercion excludes moral responsibility}, {Coercion involves being forced to act against one's will}, {A coerced action is not freely chosen}",
+    "node_type": "reason",
+    "parent_id": "7910fdcb-b212-411f-b454-368167518dab",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cd4eefa4-fb2d-496a-a433-1f18493dce68": {
+    "summary": "Intuition about moral responsibility without alternate possibilities",
+    "content": "{There is an intuition that a person can be morally responsible even if they could not have done otherwise}, {Moral responsibility is linked to the reasons for which a person acts}, {A person may act based on their own reasons, independent of external constraints}",
+    "node_type": "reason",
+    "parent_id": "7910fdcb-b212-411f-b454-368167518dab",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "139a77a6-c397-45c2-b132-2eb70762ba49": {
+    "summary": "Example of Jones3 and moral responsibility",
+    "content": "{Jones3 acts based on his own decision, not because of a threat}, {The threat does not influence Jones3's action}, {Jones3's moral responsibility is unaffected by the threat}",
+    "node_type": "reason",
+    "parent_id": "7910fdcb-b212-411f-b454-368167518dab",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "afcf36ec-3f31-47de-9b4a-9a46e18ae3a0": {
+    "summary": "Example of Jones4 and moral responsibility",
+    "content": "{Jones4 acts based on his own decision, despite Black's potential intervention}, {Black's presence does not influence Jones4's action}, {Jones4's moral responsibility is unaffected by Black's potential intervention}",
+    "node_type": "reason",
+    "parent_id": "7910fdcb-b212-411f-b454-368167518dab",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "31073d24-6193-4d48-8b35-8457767f08b2": {
+    "summary": "Relevance of circumstances to moral responsibility",
+    "content": "{Circumstances that make it impossible to do otherwise may not influence the action}, {A person may act for reasons unrelated to those circumstances}, {Moral responsibility is linked to the reasons for action, not the impossibility of alternatives}",
+    "node_type": "reason",
+    "parent_id": "7910fdcb-b212-411f-b454-368167518dab",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4bb9efd8-59b1-4892-ae90-c2acea039f7f": {
+    "summary": "Does coercion truly negate moral responsibility?",
+    "content": "{A person who is coerced into performing an action is generally not considered morally responsible for that action.}, {Coercion typically implies that a person could not have done otherwise, which is often used to excuse moral responsibility.}, {However, the lack of moral responsibility in cases of coercion is not solely due to the inability to do otherwise, but rather because the coercion itself is what causes the action.}",
+    "node_type": "antithesis",
+    "parent_id": "122a59eb-d2e0-40d2-b7c0-ec02c047fbd3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d629acd4-5307-4e52-aabe-91e4e367031e": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for what they have done if they did it because it was what they really wanted to do, even if they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "4bb9efd8-59b1-4892-ae90-c2acea039f7f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3cb0639f-bce1-46c8-b69f-3f26c55be1cc": {
+    "summary": "Can a person be morally responsible if they act independently of coercive circumstances?",
+    "content": "{Consider a scenario where a person decides to perform an action for their own reasons, and a coercive threat exists but does not influence their decision.}, {In such a scenario, intuitively we would judge that the person is morally responsible for their action, despite the presence of coercive circumstances.}, {This suggests that the mere presence of coercive circumstances does not automatically negate moral responsibility if those circumstances do not cause the action.}",
+    "node_type": "antithesis",
+    "parent_id": "122a59eb-d2e0-40d2-b7c0-ec02c047fbd3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "00a36693-2f6b-41b6-a54e-de6822c6f031": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for what they have done if they did it because it was what they really wanted to do, even if they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "3cb0639f-bce1-46c8-b69f-3f26c55be1cc",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ab56bfc2-d662-45a7-888a-5c46261376c5": {
+    "summary": "Is the principle of alternate possibilities undermined by cases where a person acts independently of coercive threats?",
+    "content": "{Consider a scenario where a person performs an action based on their own decision, even though a coercive threat exists that would have compelled them to act the same way.}, {In such a scenario, intuitively we would judge that the person is morally responsible for their action, as the threat did not influence their decision.}, {This scenario challenges the principle of alternate possibilities by showing that a person can be morally responsible even if they could not have done otherwise due to the threat.}",
+    "node_type": "antithesis",
+    "parent_id": "122a59eb-d2e0-40d2-b7c0-ec02c047fbd3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2a19d91c-d508-4535-a014-36c64ab04e20": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for what they have done if they did it because they wanted to, even if they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "ab56bfc2-d662-45a7-888a-5c46261376c5",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d406f56e-d57b-4651-a90f-cd3c9dd632fe": {
+    "summary": "Does the presence of an external manipulator affect moral responsibility if the person acts independently?",
+    "content": "{Suppose there is an external manipulator who is prepared to intervene to ensure a person performs a certain action, but the person independently decides to perform that action for their own reasons.}, {In such a scenario, intuitively we would judge that the person is morally responsible for their action, as the manipulator's presence did not influence their decision.}, {This suggests that the potential for external intervention does not negate moral responsibility if the person acts independently of that potential intervention.}",
+    "node_type": "antithesis",
+    "parent_id": "122a59eb-d2e0-40d2-b7c0-ec02c047fbd3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c56b891e-932c-4f30-98f2-386777db79b5": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for what they have done if they did it because they really wanted to do it, even if they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "d406f56e-d57b-4651-a90f-cd3c9dd632fe",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "848b16bc-3024-4ba2-8e8c-930be5c6b938": {
+    "summary": "Is the principle of alternate possibilities an illusion when a person's action is not caused by their inability to do otherwise?",
+    "content": "{Consider a scenario where a person performs an action because they want to, even though circumstances make it impossible for them to do otherwise.}, {In such a scenario, intuitively we would judge that the person is morally responsible for their action, as their decision was not caused by the inability to do otherwise.}, {This challenges the principle of alternate possibilities by suggesting that moral responsibility is not negated simply because a person could not have done otherwise if that fact did not cause their action.}",
+    "node_type": "antithesis",
+    "parent_id": "122a59eb-d2e0-40d2-b7c0-ec02c047fbd3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a9395dee-be22-4a18-a630-b8a93b3cfb3f": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {The principle of alternate possibilities should be replaced by the principle that a person is not morally responsible if they acted only because they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "848b16bc-3024-4ba2-8e8c-930be5c6b938",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "44490a77-9c65-4d8b-9464-2f86285e1172": {
+    "summary": "Does the revised principle of alternate possibilities fail to account for cases where a person acts based on their own decision despite external constraints?",
+    "content": "{Consider a scenario in which a person, Jones3, decides to perform an action for his own reasons, and there is a threat that would compel any reasonable person to perform the same action. Intuitively, we would judge that Jones3 is morally responsible for his action because he acted based on his own decision, not because of the threat.}, {Suppose we have a case in which a person, Jones4, is under surveillance by Black, who will intervene to ensure Jones4 performs a certain action if he decides otherwise. Intuitively, we would judge that Jones4 is morally responsible for his action if he performs it based on his own decision, even though he could not have done otherwise due to Black's potential intervention.}",
+    "node_type": "antithesis",
+    "parent_id": "7910fdcb-b212-411f-b454-368167518dab",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b7596300-6b09-4b4d-897b-f4e3921f5dd5": {
+    "summary": "Revised Principle of Moral Responsibility",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {The revised principle does not conflict with the view that moral responsibility is compatible with determinism}",
+    "node_type": "synthesis",
+    "parent_id": "44490a77-9c65-4d8b-9464-2f86285e1172",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9136dd0e-df6d-4611-a282-dd415db78fca": {
+    "summary": "Does the revised principle of alternate possibilities mistakenly assume that inability to do otherwise always negates moral responsibility?",
+    "content": "{There is a plausible principle that a person is not morally responsible for what they have done if they did it only because they could not have done otherwise. This principle together with the assumption that a person acted based on their own decision entails that the inability to do otherwise does not negate moral responsibility.}, {Consider a scenario in which a person, Jones3, acts based on their own decision, and there is a threat that would compel any reasonable person to perform the same action. Intuitively, we would judge that Jones3 is morally responsible for his action because he acted based on his own decision, not because of the threat.}",
+    "node_type": "antithesis",
+    "parent_id": "7910fdcb-b212-411f-b454-368167518dab",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4ed0475e-0500-4d8c-8565-3710765f65ab": {
+    "summary": "Principle of Moral Responsibility Without Alternate Possibilities",
+    "content": "{A person may be morally responsible for an action even if they could not have done otherwise}, {Moral responsibility does not require the ability to do otherwise}, {The inability to do otherwise does not necessarily negate moral responsibility}",
+    "node_type": "synthesis",
+    "parent_id": "9136dd0e-df6d-4611-a282-dd415db78fca",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6bd953e3-9f35-42d3-a797-b52d65e1ff47": {
+    "summary": "Revised Principle of Coercion and Moral Responsibility",
+    "content": "{A person is not morally responsible for an action if they did it solely because of coercion}, {Coercion affects moral responsibility only if it is the reason for the action}, {The presence of coercion does not automatically negate moral responsibility}",
+    "node_type": "synthesis",
+    "parent_id": "9136dd0e-df6d-4611-a282-dd415db78fca",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b01b8f23-f1bb-402d-b0b6-84a7279b1e0c": {
+    "summary": "Principle of Sufficient Motivation and Moral Responsibility",
+    "content": "{A person is morally responsible for an action if they acted based on their own sufficient motivation}, {The presence of external constraints does not negate moral responsibility if they did not influence the action}, {Moral responsibility is retained if the action aligns with the person's own decision}",
+    "node_type": "synthesis",
+    "parent_id": "9136dd0e-df6d-4611-a282-dd415db78fca",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fd8d7e75-a26b-400a-93a2-16b3428bb5c1": {
+    "summary": "Does the revised principle of alternate possibilities fail to distinguish between acting because one cannot do otherwise and acting for one's own reasons?",
+    "content": "{Suppose we have a case in which a person, Jones3, acts based on their own decision, and there is a threat that would compel any reasonable person to perform the same action. Intuitively, we would judge that Jones3 is morally responsible for his action because he acted based on his own decision, not because of the threat.}, {There is a plausible principle that a person is not morally responsible for what they have done if they did it only because they could not have done otherwise. This principle together with the assumption that a person acted based on their own decision entails that the inability to do otherwise does not negate moral responsibility.}",
+    "node_type": "antithesis",
+    "parent_id": "7910fdcb-b212-411f-b454-368167518dab",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a92618a3-729b-4011-86b9-dd6ca446cbec": {
+    "summary": "{Coercion and moral responsibility}",
+    "content": "{Does coercion exclude moral responsibility, and how does this relate to the principle of alternate possibilities?}",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "1516d299-794e-42fb-bddf-6137e00325da": {
+    "summary": "Coercion excludes moral responsibility",
+    "content": "{A person who is coerced to do something does not do it freely}, {A person who is coerced to do something is not morally responsible for having done it}",
+    "node_type": "thesis",
+    "parent_id": "a92618a3-729b-4011-86b9-dd6ca446cbec",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4b2a4316-976b-47e2-9193-7b06eb097830": {
+    "summary": "Principle of alternate possibilities",
+    "content": "{A person is morally responsible for what they have done only if they could have done otherwise}",
+    "node_type": "thesis",
+    "parent_id": "a92618a3-729b-4011-86b9-dd6ca446cbec",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1a85f99c-b3c4-4d7a-ab91-6f3efd6199b4": {
+    "summary": "Moral responsibility without alternate possibilities",
+    "content": "{A person may be morally responsible for what they have done even if they could not have done otherwise}",
+    "node_type": "thesis",
+    "parent_id": "a92618a3-729b-4011-86b9-dd6ca446cbec",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2a77ac22-a31b-4090-8c41-98828549c4fd": {
+    "summary": "Revised principle of alternate possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}",
+    "node_type": "thesis",
+    "parent_id": "a92618a3-729b-4011-86b9-dd6ca446cbec",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "16cc93d3-9030-42ef-9bda-d6254f523a04": {
+    "summary": "Coercion and lack of freedom",
+    "content": "{A person who is coerced to do something does not do it freely}, {Coercion involves circumstances that make it impossible for a person to do otherwise}",
+    "node_type": "reason",
+    "parent_id": "1516d299-794e-42fb-bddf-6137e00325da",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dd444e95-ee6d-4e07-a700-edbc113af658": {
+    "summary": "Coercion and moral responsibility",
+    "content": "{A person who is coerced to do something is not morally responsible for having done it}, {Coercion involves circumstances that make it impossible for a person to do otherwise}",
+    "node_type": "reason",
+    "parent_id": "1516d299-794e-42fb-bddf-6137e00325da",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d596da88-693d-4525-86dc-0a74f3b171ed": {
+    "summary": "Coercion and moral intuition",
+    "content": "{There is a strong intuition that coercion excludes moral responsibility}, {Coercion involves circumstances that make it impossible for a person to do otherwise}",
+    "node_type": "reason",
+    "parent_id": "1516d299-794e-42fb-bddf-6137e00325da",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "34fabe07-e5b5-44d7-9505-e197e7946936": {
+    "summary": "Widespread acceptance of the principle",
+    "content": "{The principle of alternate possibilities is widely accepted in discussions of free will and moral responsibility}, {It is often considered overwhelmingly plausible and even characterized as an a priori truth}",
+    "node_type": "reason",
+    "parent_id": "4b2a4316-976b-47e2-9193-7b06eb097830",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6ba85599-6b9b-44f9-9ca4-1b5b59c16b3e": {
+    "summary": "Coercion and moral responsibility",
+    "content": "{There is a strong intuition that coercion excludes moral responsibility}, {Coercion is often seen as a situation where a person cannot do otherwise}",
+    "node_type": "reason",
+    "parent_id": "4b2a4316-976b-47e2-9193-7b06eb097830",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "18a83315-6fd1-4b16-8b17-4e86977847ea": {
+    "summary": "Moral intuitions about coercion",
+    "content": "{Moral intuitions suggest that coercion excuses a person from moral responsibility}, {Coercion is perceived as depriving a person of freedom and moral responsibility}",
+    "node_type": "reason",
+    "parent_id": "4b2a4316-976b-47e2-9193-7b06eb097830",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "df496fd6-ee24-4ea9-a887-99caf83b6691": {
+    "summary": "Coercion as a special case",
+    "content": "{Coercion is often viewed as a special case of being unable to do otherwise}, {This view lends credibility to the principle of alternate possibilities}",
+    "node_type": "reason",
+    "parent_id": "4b2a4316-976b-47e2-9193-7b06eb097830",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c83a5353-9b37-44ff-969f-d6052da44399": {
+    "summary": "Jones3 scenario and moral responsibility",
+    "content": "{In the Jones3 scenario, a person acts based on their own decision despite a coercive threat}, {The threat does not influence the person's action, suggesting moral responsibility is unaffected}",
+    "node_type": "reason",
+    "parent_id": "4b2a4316-976b-47e2-9193-7b06eb097830",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "36b7860a-ef13-4fc4-9cb1-736aa5bd48fd": {
+    "summary": "Irrelevance of inability to do otherwise",
+    "content": "{A person may be unable to do otherwise, yet this fact may not explain their action}, {The inability to do otherwise may not play a role in the moral evaluation of the action}",
+    "node_type": "reason",
+    "parent_id": "4b2a4316-976b-47e2-9193-7b06eb097830",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "98b9a327-3a73-4be9-bb68-fb3e62351344": {
+    "summary": "Coercion and moral responsibility distinction",
+    "content": "{Coercion can make it impossible for a person to do otherwise}, {Coercion does not necessarily entail lack of moral responsibility}, {A person may act based on their own decision despite coercion}",
+    "node_type": "reason",
+    "parent_id": "1a85f99c-b3c4-4d7a-ab91-6f3efd6199b4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8b7af094-13d1-4a56-8dad-c70e0c654b25": {
+    "summary": "Irrelevance of inability to do otherwise",
+    "content": "{A person may be unable to do otherwise}, {The inability to do otherwise may not influence the person's action}, {The action may be based on independent reasons}",
+    "node_type": "reason",
+    "parent_id": "1a85f99c-b3c4-4d7a-ab91-6f3efd6199b4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bda2eafc-a61c-4068-a76d-8cd46b779248": {
+    "summary": "Moral responsibility without coercion influence",
+    "content": "{A person may face coercion}, {The coercion may not influence the person's decision}, {The person may still be morally responsible for their action}",
+    "node_type": "reason",
+    "parent_id": "1a85f99c-b3c4-4d7a-ab91-6f3efd6199b4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "550f8ee9-dfd8-43af-a67a-31f0ff123af1": {
+    "summary": "Jones3 scenario and moral responsibility",
+    "content": "{Jones3 acts based on his own decision}, {Jones3 is aware of a coercive threat}, {The threat does not influence Jones3's action}",
+    "node_type": "reason",
+    "parent_id": "1a85f99c-b3c4-4d7a-ab91-6f3efd6199b4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d2def6ee-074b-423c-8184-ab87da6c6189": {
+    "summary": "Black and Jones4 scenario",
+    "content": "{Black ensures Jones4 cannot do otherwise}, {Jones4 acts based on his own decision}, {Black's intervention does not influence Jones4's action}",
+    "node_type": "reason",
+    "parent_id": "1a85f99c-b3c4-4d7a-ab91-6f3efd6199b4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5a3f9fc7-efc0-437a-9dbe-af70835c082f": {
+    "summary": "Coercion and moral responsibility distinction",
+    "content": "{Coercion can exclude moral responsibility}, {Coercion does not always exclude moral responsibility if the action is not performed because of the coercion}",
+    "node_type": "reason",
+    "parent_id": "2a77ac22-a31b-4090-8c41-98828549c4fd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6ae64030-95fd-40f0-9eb3-82020d8890c1": {
+    "summary": "Jones3 scenario intuition",
+    "content": "{A person can be morally responsible for an action even if they could not have done otherwise}, {If a person acts based on their own decision and not because of external coercion, their moral responsibility is unaffected}",
+    "node_type": "reason",
+    "parent_id": "2a77ac22-a31b-4090-8c41-98828549c4fd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a2330f47-c696-4707-b46e-c7ebfe392e13": {
+    "summary": "Black and Jones4 thought experiment",
+    "content": "{A person can be morally responsible for an action even if external conditions make it impossible to do otherwise}, {If a person acts on their own reasons and not due to external manipulation, their moral responsibility remains intact}",
+    "node_type": "reason",
+    "parent_id": "2a77ac22-a31b-4090-8c41-98828549c4fd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fe007e4d-a971-4c37-b65e-2544a4a3eaa0": {
+    "summary": "Irrelevance of inability to do otherwise",
+    "content": "{The inability to do otherwise may not play a role in why a person acted}, {If the inability to do otherwise is irrelevant to the action's cause, it should not affect moral responsibility}",
+    "node_type": "reason",
+    "parent_id": "2a77ac22-a31b-4090-8c41-98828549c4fd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cd312d03-eb57-494a-9637-06d25b215724": {
+    "summary": "Does coercion always negate moral responsibility?",
+    "content": "{A person may be coerced into doing something, yet still act based on their own prior decision rather than the coercion.}, {If a person acts based on their own decision, even in the presence of coercion, they may still be morally responsible for their actions.}, {The presence of coercion does not necessarily mean that a person could not have done otherwise, as they might still have the option to defy the coercion and accept the consequences.}",
+    "node_type": "antithesis",
+    "parent_id": "1516d299-794e-42fb-bddf-6137e00325da",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "094cc4f0-a4f2-43fe-b954-a9667b6d648f": {
+    "summary": "Revised Coercion and Moral Responsibility",
+    "content": "{A person is not morally responsible for an action if they did it only because they were coerced}, {A person may be morally responsible for an action if they acted based on their own decision, even in the presence of coercion}, {Coercion does not exclude moral responsibility if the coercion did not influence the person's decision to act}",
+    "node_type": "synthesis",
+    "parent_id": "cd312d03-eb57-494a-9637-06d25b215724",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "836e5d75-86bb-4cf8-919e-11173a2693a3": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for an action if they did it because they wanted to, even if they could not have done otherwise}, {The inability to do otherwise does not exclude moral responsibility if it did not influence the person's decision to act}",
+    "node_type": "synthesis",
+    "parent_id": "cd312d03-eb57-494a-9637-06d25b215724",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6cb4272c-7638-4437-8ab1-a13bdd8add0d": {
+    "summary": "Can a person be morally responsible if they act as they would have without coercion?",
+    "content": "{A person may act in a way that aligns with a coercive threat, but not because of the threat, rather due to their own independent decision.}, {If a person would have acted the same way regardless of the coercive threat, the threat does not affect their moral responsibility.}, {The fact that a person could not have done otherwise due to coercion does not necessarily play a role in why they acted as they did.}",
+    "node_type": "antithesis",
+    "parent_id": "1516d299-794e-42fb-bddf-6137e00325da",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a7466946-d2fe-405e-bd6e-a7f60e10bc59": {
+    "summary": "Revised Coercion and Moral Responsibility",
+    "content": "{A person is not morally responsible for an action if they did it only because they could not have done otherwise}, {A person is morally responsible for an action if they did it because they wanted to do it, even if they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "6cb4272c-7638-4437-8ab1-a13bdd8add0d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cb44fc78-f92d-47bc-a912-db7307db4fc2": {
+    "summary": "Coercion with Independent Decision",
+    "content": "{A person is not morally responsible for an action if they did it solely because of coercion}, {A person is morally responsible for an action if they did it based on their own decision, even if coercion was present}",
+    "node_type": "synthesis",
+    "parent_id": "6cb4272c-7638-4437-8ab1-a13bdd8add0d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cc41a445-8542-4b50-8f53-d2064253d04f": {
+    "summary": "Is the principle of alternate possibilities flawed in its association with coercion?",
+    "content": "{The principle of alternate possibilities suggests that a person is not morally responsible if they could not have done otherwise.}, {Coercion may make it impossible for a person to do otherwise, but this does not necessarily mean they are not morally responsible.}, {A person may still be morally responsible if they acted based on their own decision, even if coercion was present and they could not have done otherwise.}",
+    "node_type": "antithesis",
+    "parent_id": "1516d299-794e-42fb-bddf-6137e00325da",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f67b952c-1c46-458b-a950-1cb65cc076f9": {
+    "summary": "Revised Principle of Moral Responsibility",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible if they did what they did because it was what they really wanted to do}, {A person is not morally responsible if they acted only due to the impossibility of doing otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "cc41a445-8542-4b50-8f53-d2064253d04f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e4863b65-f491-426a-981f-57b7ab7b4815": {
+    "summary": "Can a person be morally responsible if they couldn't have done otherwise?",
+    "content": "{There is a plausible principle that a person is morally responsible for what they have done only if they could have done otherwise. This principle together with the assumption that coercion excludes moral responsibility entails that a person who is coerced into doing something is not morally responsible for that action.}, {Consider a scenario in which a person, Jones, decides to perform an action for his own reasons, and then is threatened with a harsh penalty unless he performs that action. In such a scenario, intuitively we would judge that Jones is morally responsible for his action if he acted based on his own decision and not because of the threat.}, {Suppose we have a case in which a person, Jones, is threatened with a penalty that would compel any reasonable person to act, but Jones acts based on his own prior decision rather than the threat. Intuitively, we would judge that Jones is morally responsible for his action, even though he could not have done otherwise due to the threat.}",
+    "node_type": "antithesis",
+    "parent_id": "4b2a4316-976b-47e2-9193-7b06eb097830",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1e9fcf86-940a-45b8-8703-5cd901ee6420": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "e4863b65-f491-426a-981f-57b7ab7b4815",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "09417040-fe58-42fa-a79e-78eeeadbe1bf": {
+    "summary": "Does the presence of coercion always negate moral responsibility?",
+    "content": "{Consider a scenario in which a person, Jones, is coerced into performing an action by a threat of severe penalty, but he performs the action based on his own prior decision rather than the coercion. In such a scenario, intuitively we would judge that Jones is morally responsible for his action, despite the presence of coercion.}, {There is a plausible principle that coercion excludes moral responsibility. This principle together with the assumption that a person who is coerced into doing something is not morally responsible for that action entails that coercion always negates moral responsibility.}, {It is implausible that coercion always negates moral responsibility, as there are cases where a person acts based on their own decision rather than the coercion, and intuitively we would judge them to be morally responsible.}",
+    "node_type": "antithesis",
+    "parent_id": "4b2a4316-976b-47e2-9193-7b06eb097830",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "db23a811-4613-4b42-a2df-0c88a01897d3": {
+    "summary": "Revised Principle of Alternate Possibilities",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person is morally responsible for what they have done if they did it because they wanted to do it, even if they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "09417040-fe58-42fa-a79e-78eeeadbe1bf",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d348826a-69ae-48dc-9bef-54979233be26": {
+    "summary": "Is the principle of alternate possibilities undermined by cases where a person acts independently of constraints?",
+    "content": "{Consider a scenario in which a person, Jones, is subject to conditions that make it impossible for him to do otherwise, but he acts based on his own decision and not because of those conditions. In such a scenario, intuitively we would judge that Jones is morally responsible for his action, even though he could not have done otherwise.}, {There is a plausible principle that a person is morally responsible for what they have done only if they could have done otherwise. This principle together with the assumption that a person who cannot do otherwise is not morally responsible for their action entails that the principle of alternate possibilities is true.}, {It is implausible that the principle of alternate possibilities is true, as there are cases where a person acts independently of constraints that make it impossible for them to do otherwise, and intuitively we would judge them to be morally responsible.}",
+    "node_type": "antithesis",
+    "parent_id": "4b2a4316-976b-47e2-9193-7b06eb097830",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "276b3fe4-6915-4911-b59b-6fe111bc4957": {
+    "summary": "Does coercion truly negate moral responsibility?",
+    "content": "{It is generally agreed that a person who has been coerced to do something did not do it freely and is not morally responsible for having done it.}, {The fact that a person was coerced to act as he did may entail both that he could not have done otherwise and that he bears no moral responsibility for his action.}, {The doctrine that coercion excludes moral responsibility is not correctly understood as a particularized version of the principle of alternate possibilities.}, {The fact that an irresistible threat is made will not entail that the person who receives it is coerced to do what he does. It will also be necessary that the threat is what actually accounts for his doing it.}",
+    "node_type": "antithesis",
+    "parent_id": "1a85f99c-b3c4-4d7a-ab91-6f3efd6199b4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "81e51a27-d7fc-4171-8d3d-d758b88438a5": {
+    "summary": "Revised Principle of Moral Responsibility",
+    "content": "{A person is not morally responsible for what he has done if he did it only because he could not have done otherwise}, {A person may be morally responsible for what he has done if he did it because he really wanted to do it, even if he could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "276b3fe4-6915-4911-b59b-6fe111bc4957",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "034f7ce2-7333-4a25-a5f9-f0a1664ce909": {
+    "summary": "Can a person be morally responsible if they act independently of coercion?",
+    "content": "{Consider a scenario in which Jones3 decides to perform an action for his own reasons, and a threat is made that would compel any reasonable person to perform the same action. In such a scenario, intuitively we would judge that Jones3 is morally responsible for his action if he acts based on his own decision and not because of the threat.}, {Suppose we have a case in which a person acts based on their own decision, and a threat exists that would compel them to act the same way. Intuitively, we would judge that the person's moral responsibility is unaffected by the threat if the threat did not influence their action.}",
+    "node_type": "antithesis",
+    "parent_id": "1a85f99c-b3c4-4d7a-ab91-6f3efd6199b4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "abfabab2-8e57-4c8a-8c12-0844bd9e6e93": {
+    "summary": "Revised Principle of Moral Responsibility",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for what they have done if they did it because it was what they really wanted to do}",
+    "node_type": "synthesis",
+    "parent_id": "034f7ce2-7333-4a25-a5f9-f0a1664ce909",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "79db2372-696f-496b-bcd8-2cfa3d54e157": {
+    "summary": "Does the presence of an external manipulator affect moral responsibility?",
+    "content": "{Suppose someone, Black, wants Jones4 to perform a certain action and is prepared to intervene to ensure this outcome, but Jones4 decides to perform the action on his own. Intuitively, we would judge that Jones4 is morally responsible for his action if Black's readiness to intervene played no role in Jones4's decision.}, {In a scenario where an external manipulator is ready to intervene to ensure a specific action, the person's moral responsibility for the action is not affected if the intervention does not occur and the person acts independently.}",
+    "node_type": "antithesis",
+    "parent_id": "1a85f99c-b3c4-4d7a-ab91-6f3efd6199b4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0f440267-771d-4ba8-97cf-158bc7c07b3d": {
+    "summary": "Revised Principle of Moral Responsibility",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for what they have done if they did it because it was what they really wanted to do}",
+    "node_type": "synthesis",
+    "parent_id": "79db2372-696f-496b-bcd8-2cfa3d54e157",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9a628189-3fe7-404a-9f20-148a4e2ba588": {
+    "summary": "Is the principle of alternate possibilities undermined by irrelevant circumstances?",
+    "content": "{The fact that a person could not have avoided doing something is a sufficient condition of his having done it.}, {There may be circumstances that make it impossible for a person to avoid performing some action without those circumstances in any way bringing it about that he performs that action.}, {If someone had no alternative to performing a certain action but did not perform it because he was unable to do otherwise, then he would have performed exactly the same action even if he could have done otherwise.}, {When a fact is irrelevant to the problem of accounting for a person's action, it seems quite gratuitous to assign it any weight in the assessment of his moral responsibility.}",
+    "node_type": "antithesis",
+    "parent_id": "1a85f99c-b3c4-4d7a-ab91-6f3efd6199b4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "77280503-928b-4478-96ed-363dd537b54b": {
+    "summary": "Revised Principle of Moral Responsibility",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for what they have done if they did it because it was what they really wanted to do}",
+    "node_type": "synthesis",
+    "parent_id": "9a628189-3fe7-404a-9f20-148a4e2ba588",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "997913b3-870d-4e7c-aa32-f0987bc48dfb": {
+    "summary": "Can a person be morally responsible if they could not have done otherwise?",
+    "content": "{There is a plausible principle that a person is morally responsible for what they have done only if they could have done otherwise. This principle together with the idea that coercion excludes moral responsibility entails that a person who is coerced is not morally responsible for their actions.}, {Consider a scenario in which a person, Jones3, decides to perform an action for his own reasons, and a threat is made that would compel any reasonable person to perform the same action. In such a scenario, intuitively we would judge that Jones3 is morally responsible for his action, even though he could not have done otherwise due to the threat.}, {Suppose we have a case in which a person, Jones4, is manipulated by another person, Black, who ensures that Jones4 cannot do otherwise than perform a certain action. Intuitively, we would judge that Jones4 is morally responsible for his action if he performs it for his own reasons, even though he could not have done otherwise.}",
+    "node_type": "antithesis",
+    "parent_id": "2a77ac22-a31b-4090-8c41-98828549c4fd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5f70bf2b-2bf3-4e32-8991-6786e894d3fe": {
+    "summary": "Revised Principle of Moral Responsibility",
+    "content": "{A person is not morally responsible for what they have done if they did it only because they could not have done otherwise}, {A person may be morally responsible for what they have done even if they could not have done otherwise, provided that the inability to do otherwise did not play a role in their decision to act}",
+    "node_type": "synthesis",
+    "parent_id": "997913b3-870d-4e7c-aa32-f0987bc48dfb",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "35a2e5f2-a280-4897-9d33-e223560cb488": {
+    "summary": "Does the revised principle of alternate possibilities fail to account for moral responsibility?",
+    "content": "{Suppose a person tells us that they did what they did because they were unable to do otherwise. Intuitively, we often accept such statements as valid excuses, assuming that the person did not really want to do what they did.}, {There is a plausible principle that a person is not morally responsible for what they have done if they did it only because they could not have done otherwise. This principle together with the idea that a person may still be morally responsible if they acted for reasons of their own entails that the revised principle of alternate possibilities is not acceptable.}, {Consider a scenario in which a person really wanted to do what they did, and they did it because it was what they really wanted to do. In such a scenario, intuitively we would judge that the person is morally responsible for their action, even if they could not have done otherwise.}",
+    "node_type": "antithesis",
+    "parent_id": "2a77ac22-a31b-4090-8c41-98828549c4fd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8bd86752-2723-45cd-b646-586c2baf6dba": {
+    "summary": "Principle of Moral Responsibility Based on Internal Motivation",
+    "content": "{A person is morally responsible for what they have done if they acted based on their own internal motivations}, {A person is not morally responsible for what they have done if they acted only because they could not have done otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "35a2e5f2-a280-4897-9d33-e223560cb488",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1e367656-257b-49c1-822c-1e6d1648e167": {
+    "summary": "Principle of Moral Responsibility and Coercion",
+    "content": "{A person is not morally responsible for what they have done if they acted because of coercion}, {A person is morally responsible for what they have done if they acted based on their own decision, even if coercion was present}",
+    "node_type": "synthesis",
+    "parent_id": "35a2e5f2-a280-4897-9d33-e223560cb488",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4fb16a17-03ab-4b9d-895d-1a6a2548573b": {
+    "summary": "Principle of Moral Responsibility and External Interference",
+    "content": "{A person is morally responsible for what they have done if they acted based on their own decision, regardless of external interference}, {A person is not morally responsible for what they have done if they acted because of external interference}",
+    "node_type": "synthesis",
+    "parent_id": "35a2e5f2-a280-4897-9d33-e223560cb488",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}

@@ -1,0 +1,3205 @@
+{
+  "f975cf91-9b6b-45c9-b6aa-ce194c59b9f9": {
+    "summary": "{The significance of moral luck in moral life}",
+    "content": "{How does the concept of moral luck affect the significance of moral life and our understanding of moral concepts?}",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "76b3af13-b3f1-4b51-9082-a3e39c3e96ff": {
+    "summary": "Stoic Immunity to Moral Luck",
+    "content": "{Happiness is the end of life}, {Happiness is reflective tranquillity}, {Tranquillity is the product of self-sufficiency}, {What is not in the domain of the self is subject to luck}, {The sage is immune to the impact of incident luck}, {It is constitutive luck that one is a sage or capable of becoming one}",
+    "node_type": "thesis",
+    "parent_id": "f975cf91-9b6b-45c9-b6aa-ce194c59b9f9",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1ead2b8a-8cd2-4257-9a6d-6170e8a96834": {
+    "summary": "Kantian Immunity to Moral Luck",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}, {Moral agency is present to any rational agent}, {Moral value has supreme dignity or importance}",
+    "node_type": "thesis",
+    "parent_id": "f975cf91-9b6b-45c9-b6aa-ce194c59b9f9",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8e3d909a-014e-4076-86c8-c1c642730159": {
+    "summary": "Constitutive Luck in Morality",
+    "content": "{Morality is subject to constitutive luck}, {Dispositions of morality are conditioned}, {Moral conceptions are affected by luck}, {Moral life is not immune to luck}",
+    "node_type": "thesis",
+    "parent_id": "f975cf91-9b6b-45c9-b6aa-ce194c59b9f9",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "467bac67-ae47-4227-b585-bb895b0ea4a4": {
+    "summary": "Retrospective Justification by Success",
+    "content": "{Justification for a decision can be retrospective}, {Success itself can justify a choice}, {Failure means the decision was wrong}, {The agent's justification is contingent on the outcome}",
+    "node_type": "thesis",
+    "parent_id": "f975cf91-9b6b-45c9-b6aa-ce194c59b9f9",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f3c33b97-b895-4794-8424-ca45c45b1f37": {
+    "summary": "Agent-Regret and Moral Luck",
+    "content": "{Agent-regret is a sentiment towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from regret felt by a spectator}, {Agent-regret can apply to both voluntary and involuntary actions}",
+    "node_type": "thesis",
+    "parent_id": "f975cf91-9b6b-45c9-b6aa-ce194c59b9f9",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d6e702b8-8a0f-422d-8070-0fe83106a963": {
+    "summary": "Happiness as Reflective Tranquillity",
+    "content": "{Happiness is identified as reflective tranquillity}, {Reflective tranquillity is achieved through self-sufficiency}, {Self-sufficiency is seen as freedom from external control and luck}",
+    "node_type": "reason",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ffe80aaf-1165-41ed-a9dc-e571ae81220a": {
+    "summary": "Immunity to Incident Luck",
+    "content": "{The sage is considered immune to the impact of incident luck}, {Incident luck refers to external events beyond one's control}, {The sage's happiness is not affected by external circumstances}",
+    "node_type": "reason",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6752f621-0a8c-4f59-8c4e-eaa3d9d2c9dc": {
+    "summary": "Constitutive Luck and Sagehood",
+    "content": "{It is a matter of constitutive luck to be a sage or capable of becoming one}, {Constitutive luck refers to inherent qualities or circumstances that determine one's potential}, {Not everyone has the constitutive luck to achieve sagehood}",
+    "node_type": "reason",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0a19cc67-6ff8-45ea-82fb-a46b76805c72": {
+    "summary": "Moral Value and Immunity to Luck",
+    "content": "{Moral value is considered immune to luck}, {Moral value is seen as unconditioned by external circumstances}, {The unconditioned will is the source of moral value}",
+    "node_type": "reason",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0f261414-6092-4c0d-8a3e-374854528cf8": {
+    "summary": "Ultimate Justice and Moral Value",
+    "content": "{Moral value must possess supreme dignity or importance}, {Moral value is accessible to all rational agents}, {This accessibility offers a sense of justice and partial immunity to luck}",
+    "node_type": "reason",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "883c8340-6dd4-4b88-a0d0-61198b6ec833": {
+    "summary": "Intrinsic and Extrinsic Luck",
+    "content": "{Intrinsic luck relates to the success or failure of a project based on internal factors}, {Extrinsic luck involves external factors that affect the outcome}, {Success or failure can be influenced by both intrinsic and extrinsic luck}",
+    "node_type": "reason",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "85595cc7-a3af-4489-9dd0-160858996159": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret involves a personal wish that one had acted differently}, {Agent-regret is distinct from general regret felt by a spectator}, {Agent-regret can occur even in involuntary actions}",
+    "node_type": "reason",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2d2a5026-4b9e-44f2-b27d-78641869fb2f": {
+    "summary": "Retrospective Justification",
+    "content": "{Justification for actions can be retrospective}, {Success can retrospectively justify a decision}, {Failure can lead to regret and lack of justification}",
+    "node_type": "reason",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c8a309d4-febd-48e8-baf1-8f776adc3ade": {
+    "summary": "Moral Luck and Ethical Consistency",
+    "content": "{Moral luck challenges the idea of ethical consistency}, {Moral luck suggests that outcomes can affect moral judgments}, {The concept of moral luck questions the immunity of morality to external factors}",
+    "node_type": "reason",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3b9e4ace-45e6-414d-8060-c376da13f3c6": {
+    "summary": "Moral value is unconditioned by external factors",
+    "content": "{Moral value is considered immune to luck}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}",
+    "node_type": "reason",
+    "parent_id": "1ead2b8a-8cd2-4257-9a6d-6170e8a96834",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a23d058f-bce3-457c-8eeb-95eda4406245": {
+    "summary": "Moral agency is universally accessible",
+    "content": "{The capacity for moral agency is present to any rational agent}, {Moral agency is not dependent on birth, upbringing, or divine grace}",
+    "node_type": "reason",
+    "parent_id": "1ead2b8a-8cd2-4257-9a6d-6170e8a96834",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e7f85d40-33bc-4c38-8683-5aed1ba14044": {
+    "summary": "Moral value has supreme importance",
+    "content": "{Moral value must possess supreme dignity or importance}, {Moral value should claim one's most fundamental concerns as a rational agent}",
+    "node_type": "reason",
+    "parent_id": "1ead2b8a-8cd2-4257-9a6d-6170e8a96834",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ce1faf62-5fe3-43c5-8902-ba93339dd882": {
+    "summary": "Moral luck is incoherent",
+    "content": "{Any conception of 'moral luck' is considered incoherent}, {The Kantian conception embodies a basic idea of morality that aims to make it immune to luck}",
+    "node_type": "reason",
+    "parent_id": "1ead2b8a-8cd2-4257-9a6d-6170e8a96834",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d4093083-6675-4d70-855d-42189ae07c5a": {
+    "summary": "The influence of external factors on moral outcomes",
+    "content": "{Moral outcomes can be influenced by factors beyond an individual's control}, {These external factors can affect the success or failure of moral projects}, {The success or failure of moral projects can retrospectively justify or discredit the initial decision}",
+    "node_type": "reason",
+    "parent_id": "8e3d909a-014e-4076-86c8-c1c642730159",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "976e7a61-01c7-43cb-906a-b979571ee576": {
+    "summary": "The role of intrinsic and extrinsic luck in moral projects",
+    "content": "{Intrinsic luck relates to factors essential to the success of a moral project}, {Extrinsic luck involves external factors that can impact the outcome of a moral project}, {Intrinsic failure reveals the project as incapable of grounding the agent's life}",
+    "node_type": "reason",
+    "parent_id": "8e3d909a-014e-4076-86c8-c1c642730159",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c2225212-24dd-47f3-a8e6-4fa50117c254": {
+    "summary": "Agent-regret and its implications for moral assessment",
+    "content": "{Agent-regret involves a personal wish that one had acted differently}, {Agent-regret is distinct from general regret felt by a spectator}, {Agent-regret can occur even in cases of involuntary actions}",
+    "node_type": "reason",
+    "parent_id": "8e3d909a-014e-4076-86c8-c1c642730159",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0f8410da-464b-4976-ad14-cef7c2bf8a3a": {
+    "summary": "The retrospective justification of moral decisions",
+    "content": "{Retrospective justification depends on the success of the moral project}, {Success can retrospectively justify the initial decision}, {Failure can lead to basic regrets about the decision}",
+    "node_type": "reason",
+    "parent_id": "8e3d909a-014e-4076-86c8-c1c642730159",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c46c8397-6d1f-4af6-bde3-8a491b06fe18": {
+    "summary": "The limitations of moral immunity to luck",
+    "content": "{The aim of making morality immune to luck is often disappointed}, {Moral dispositions are conditioned by external factors}, {The Kantian conception of morality's immunity to luck is challenged by real-world complexities}",
+    "node_type": "reason",
+    "parent_id": "8e3d909a-014e-4076-86c8-c1c642730159",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b66b78ca-ea92-4e1f-8d59-644914eecebe": {
+    "summary": "The impact of moral luck on moral conceptions",
+    "content": "{Moral luck challenges the idea that moral value is unconditioned}, {Moral conceptions are affected by the presence of luck}, {The involvement of morality with luck calls moral conceptions into question}",
+    "node_type": "reason",
+    "parent_id": "8e3d909a-014e-4076-86c8-c1c642730159",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "20f1989d-483e-4be4-8834-53f184ce6ee7": {
+    "summary": "Success as Justification",
+    "content": "{Success in a project can retrospectively justify the decision to pursue it}, {Failure in a project can retrospectively indicate that the decision was wrong}",
+    "node_type": "reason",
+    "parent_id": "467bac67-ae47-4227-b585-bb895b0ea4a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dbe54786-aab1-4602-b89c-0b15335ca82a": {
+    "summary": "Intrinsic vs. Extrinsic Failure",
+    "content": "{Intrinsic failure reveals the project as incapable of grounding the agent's life}, {Extrinsic failure does not discredit the project itself}",
+    "node_type": "reason",
+    "parent_id": "467bac67-ae47-4227-b585-bb895b0ea4a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fad8a3bb-da10-44d4-9269-eb1aa24dcf2f": {
+    "summary": "Agent-Regret and Justification",
+    "content": "{Agent-regret involves a personal wish that one had acted differently}, {Success or failure affects the agent's retrospective feelings about their decision}",
+    "node_type": "reason",
+    "parent_id": "467bac67-ae47-4227-b585-bb895b0ea4a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8b6519de-3f43-4d0e-946a-f0a389a395b6": {
+    "summary": "Role of Luck in Justification",
+    "content": "{Luck plays a role in whether a decision is justified}, {Intrinsic luck relates to the agent's own abilities and decisions}, {Extrinsic luck involves factors outside the agent's control}",
+    "node_type": "reason",
+    "parent_id": "467bac67-ae47-4227-b585-bb895b0ea4a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bc2b01a3-92ca-4247-b614-c293119eac45": {
+    "summary": "Retrospective Assessment",
+    "content": "{Retrospective assessment of decisions is influenced by the outcome}, {The agent's sense of justification is contingent on the success or failure of their project}",
+    "node_type": "reason",
+    "parent_id": "467bac67-ae47-4227-b585-bb895b0ea4a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "187554d0-cead-48ea-b4bb-5268b39e7c2d": {
+    "summary": "Agent-regret involves personal responsibility",
+    "content": "{Agent-regret is a sentiment towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from regret felt by a spectator}, {Agent-regret can apply to both voluntary and involuntary actions}",
+    "node_type": "reason",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bee3bd26-a1f5-4752-a71d-2fa68416206d": {
+    "summary": "Moral value and immunity to luck",
+    "content": "{Moral value is considered immune to luck}, {Moral value is seen as supreme and unconditioned}, {The capacity for moral agency is present in all rational agents}",
+    "node_type": "reason",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4da0fc55-e420-430b-ad2c-71c3b2f5b373": {
+    "summary": "Constitutive luck and moral agency",
+    "content": "{Constitutive luck affects one's capacity to be a moral agent}, {The capacity for moral agency is supposedly present to any rational agent}, {Constitutive luck is a form of luck that affects one's fundamental characteristics}",
+    "node_type": "reason",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9a734943-5657-4858-a639-dea385a2ace0": {
+    "summary": "Intrinsic and extrinsic luck in projects",
+    "content": "{Intrinsic luck relates to the success or failure of a project itself}, {Extrinsic luck involves external factors affecting the project}, {Intrinsic failure reveals the project as incapable of grounding the agent's life}",
+    "node_type": "reason",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "833293f9-fce0-47a7-b1e1-a48705125c90": {
+    "summary": "Retrospective justification and success",
+    "content": "{Justification for a decision can be retrospective}, {Success can justify a decision retrospectively}, {Failure leads to regret and a wish to have acted otherwise}",
+    "node_type": "reason",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fe08ee89-e7a2-4db7-80fd-13eec3ba9e21": {
+    "summary": "Agent-regret and involuntary actions",
+    "content": "{Agent-regret can extend to involuntary actions}, {Agent-regret is different from regret felt by a spectator}, {Agent-regret involves a personal connection to the action}",
+    "node_type": "reason",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a7853c96-205e-4a95-a751-4e4e6b4e4306": {
+    "summary": "Rational deliberation and regret",
+    "content": "{Rational deliberation can lead to regret if outcomes are unfavorable}, {Regret can involve a wish to have deliberated differently}, {Satisfaction with deliberation may occur despite unfavorable outcomes}",
+    "node_type": "reason",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "794fe356-bafc-4aac-8431-f810f648243f": {
+    "summary": "Moral luck and ethical consistency",
+    "content": "{Moral luck challenges the idea of ethical consistency}, {Moral luck involves the impact of luck on moral outcomes}, {Moral luck questions the immunity of moral value to luck}",
+    "node_type": "reason",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f4a4da6c-e2d6-4153-9d77-90ba3f6b9cf1": {
+    "summary": "Is the Stoic sage truly immune to moral luck given the role of constitutive luck?",
+    "content": "{It is implausible that one can be entirely self-sufficient, as many aspects of life are influenced by external factors beyond one's control.}, {Consider a scenario where a person is born with a natural disposition towards wisdom and virtue, while another is not. Intuitively, we would judge that the former's ability to become a sage is due to constitutive luck, which challenges the idea of self-sufficiency.}, {Suppose we have a case in which a person strives to be a sage but is thwarted by external circumstances beyond their control. Intuitively, we either have to say that they are not responsible for their failure or that their failure is due to bad luck. If we say they are not responsible, then it contradicts the idea of self-sufficiency. If we say their failure is due to bad luck, then it contradicts the idea that the sage is immune to luck.}",
+    "node_type": "antithesis",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "29ec29bd-cdc7-49c3-b4a6-36ba5dfef60c": {
+    "summary": "Can happiness as reflective tranquillity be achieved without external influence?",
+    "content": "{There is a plausible principle that happiness requires some degree of external success or validation. This principle together with the idea that happiness is reflective tranquillity entails that tranquillity cannot be entirely self-generated.}, {Consider a scenario in which a person lives in complete isolation, devoid of any external interaction or validation. Intuitively, we would judge that such a person might struggle to achieve happiness as reflective tranquillity, suggesting that external factors play a role.}",
+    "node_type": "antithesis",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "537fb28b-62cc-49ed-8b4a-5d41d9b86f23": {
+    "summary": "Kantian Moral Immunity to Luck",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}, {The capacity for moral agency is present to any rational agent}, {Moral value possesses supreme dignity or importance}",
+    "node_type": "synthesis",
+    "parent_id": "29ec29bd-cdc7-49c3-b4a6-36ba5dfef60c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "98292bd6-d2c7-408f-a907-f06b20c10d4e": {
+    "summary": "Moral Agency as Universal and Unconditioned",
+    "content": "{The capacity for moral agency is present to any rational agent}, {Moral value is accessible to all rational agents}, {Moral value is immune to luck}, {Moral value has a claim on one's most fundamental concerns as a rational agent}",
+    "node_type": "synthesis",
+    "parent_id": "29ec29bd-cdc7-49c3-b4a6-36ba5dfef60c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ebd7cb26-b650-4413-b636-4a43a3612a9c": {
+    "summary": "Does the concept of moral luck undermine the Stoic ideal of the sage?",
+    "content": "{The concept of moral luck suggests that outcomes beyond one's control can affect moral judgment, which challenges the idea that the sage is immune to luck.}, {Consider a scenario where a person makes a morally sound decision, but due to unforeseen circumstances, the outcome is negative. Intuitively, we would judge that the person's moral standing is affected by luck, which contradicts the idea of the sage's immunity to luck.}",
+    "node_type": "antithesis",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3a00576b-d0d7-43e5-ad26-6aaee5e3d128": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}, {The capacity for moral agency is present to any rational agent}, {Moral value possesses supreme dignity or importance}",
+    "node_type": "synthesis",
+    "parent_id": "ebd7cb26-b650-4413-b636-4a43a3612a9c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2e232edc-be04-4587-9eeb-fa3cdd74b937": {
+    "summary": "Universal Moral Agency",
+    "content": "{The capacity for moral agency is present to any rational agent}, {The successful moral life is accessible to all rational beings}, {Moral value is not conditioned by birth or upbringing}, {Moral value is not conditioned by divine grace}, {Moral value is a career open to all talents}",
+    "node_type": "synthesis",
+    "parent_id": "ebd7cb26-b650-4413-b636-4a43a3612a9c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "55f8a979-aff2-439d-bbe6-674c9a0d8ecc": {
+    "summary": "Is the Stoic view of happiness as self-sufficiency compatible with the reality of human interdependence?",
+    "content": "{It is implausible that humans can achieve complete self-sufficiency, as human life is inherently social and interdependent.}, {Consider a scenario where a person relies on others for emotional support and companionship. Intuitively, we would judge that such reliance is essential for happiness, suggesting that self-sufficiency is not a realistic or desirable goal.}",
+    "node_type": "antithesis",
+    "parent_id": "76b3af13-b3f1-4b51-9082-a3e39c3e96ff",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "439dfaba-c635-4a96-8c6f-705f95c96a1f": {
+    "summary": "Kantian Moral Immunity to Luck",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}, {The capacity for moral agency is present to any rational agent}, {The successful moral life is accessible to all rational beings}",
+    "node_type": "synthesis",
+    "parent_id": "55f8a979-aff2-439d-bbe6-674c9a0d8ecc",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "51322760-be3e-4e7b-a452-c4f779526be0": {
+    "summary": "Moral Value as Supreme Dignity",
+    "content": "{Moral value possesses supreme dignity}, {Moral value is of fundamental concern to rational agents}, {Moral value is not merely one kind of value among others}, {Moral value offers partial immunity to luck through morality}",
+    "node_type": "synthesis",
+    "parent_id": "55f8a979-aff2-439d-bbe6-674c9a0d8ecc",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c67f63e6-7c29-4821-b4f1-a01ee83fa924": {
+    "summary": "Is moral value truly immune to luck?",
+    "content": "{There is a plausible principle that moral dispositions, however far back they are placed in the direction of motive and intention, are as 'conditioned' as anything else. This principle together with the idea that moral value is immune to luck entails that moral value is not truly immune to luck.}, {Consider a scenario in which an artist like Gauguin chooses to pursue his art at the expense of moral obligations to others. In such a scenario, intuitively we would judge that the success or failure of his artistic project, which is subject to luck, affects the moral assessment of his decision.}, {Suppose we have a case in which a person's moral success is contingent on factors beyond their control, such as their upbringing or social environment. Intuitively, we either have to say that moral value is conditioned by these factors or that moral value is independent of them. If we say moral value is conditioned by these factors, then it is not immune to luck. If we say moral value is independent of them, then it seems implausible given the influence of these factors on moral development.}",
+    "node_type": "antithesis",
+    "parent_id": "1ead2b8a-8cd2-4257-9a6d-6170e8a96834",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2b95eb5d-9410-4a1f-b892-17e64dbbcbd4": {
+    "summary": "Moral Value as Supreme and Unconditioned",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {Moral value has supreme dignity or importance}, {Moral agency is present to any rational agent}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}",
+    "node_type": "synthesis",
+    "parent_id": "c67f63e6-7c29-4821-b4f1-a01ee83fa924",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "324df7d8-d24c-485a-95a9-1e77117f90c9": {
+    "summary": "Moral Value as a Special Form of Value",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {Moral value is a special form of value accessible to all rational agents}, {Moral agency is present to any rational agent}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}",
+    "node_type": "synthesis",
+    "parent_id": "c67f63e6-7c29-4821-b4f1-a01ee83fa924",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "54ccc7cb-58a8-4497-8a56-c2fec3e8b9b5": {
+    "summary": "Can moral agency be truly free from external contingency?",
+    "content": "{Consider a scenario in which a person is raised in a morally corrupt environment but develops a strong moral character. In such a scenario, intuitively we would judge that their moral agency is influenced by external contingencies, such as their environment.}, {There is a plausible principle that moral agency is influenced by external factors such as upbringing and social context. This principle together with the claim that moral agency is free from external contingency entails that moral agency is not truly free from external contingency.}, {It is implausible that moral agency is entirely independent of external influences, given the significant role that social and environmental factors play in shaping an individual's moral beliefs and actions.}",
+    "node_type": "antithesis",
+    "parent_id": "1ead2b8a-8cd2-4257-9a6d-6170e8a96834",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "596b5ff4-b6b1-4fd6-9c8b-7d1bfdea9d89": {
+    "summary": "Does moral value possess supreme dignity or importance?",
+    "content": "{Consider a scenario in which a person must choose between a moral action and a non-moral action that leads to greater overall happiness. In such a scenario, intuitively we would judge that the non-moral action might be more important due to its consequences.}, {There is a plausible principle that moral value must have a claim on one's most fundamental concerns as a rational agent. This principle together with the idea that moral value is merely one kind of value among others entails that moral value does not possess supreme dignity or importance.}, {It is implausible that moral value is the only kind of value that is accessible to all rational agents, given that other values, such as aesthetic or prudential values, also play significant roles in human life.}",
+    "node_type": "antithesis",
+    "parent_id": "1ead2b8a-8cd2-4257-9a6d-6170e8a96834",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b807e4a3-087d-4073-81bd-3d194e9a9943": {
+    "summary": "Is morality truly immune to constitutive luck?",
+    "content": "{There is a plausible principle that moral value must be immune to luck to maintain its supreme importance. This principle together with the observation that moral life is subject to constitutive luck entails that moral value may not be as supreme as traditionally thought.}, {Consider a scenario in which a person makes a significant life decision based on their moral convictions, but the outcome is heavily influenced by factors beyond their control. In such a scenario, intuitively we would judge that the person's moral standing is affected by luck, challenging the idea that moral value is immune to luck.}, {It is implausible that moral dispositions, which are conditioned by external factors, can be entirely free from the influence of luck.}",
+    "node_type": "antithesis",
+    "parent_id": "8e3d909a-014e-4076-86c8-c1c642730159",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "467970a4-8193-47a2-ab4d-2e045475d882": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}, {Moral value possesses supreme dignity and importance}",
+    "node_type": "synthesis",
+    "parent_id": "b807e4a3-087d-4073-81bd-3d194e9a9943",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dd2aea54-a7cb-4216-9f25-a976d7c71863": {
+    "summary": "Rational Agency and Moral Capacity",
+    "content": "{The capacity for moral agency is present to any rational agent}, {The successful moral life is open to all rational beings}, {Moral agency is not dependent on birth or upbringing}, {Moral agency is not dependent on divine grace}",
+    "node_type": "synthesis",
+    "parent_id": "b807e4a3-087d-4073-81bd-3d194e9a9943",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3a165519-e154-42b6-bab8-8b687ae55cd8": {
+    "summary": "Can moral agency be justified retrospectively by success?",
+    "content": "{Consider a scenario in which an artist, like Gauguin, chooses to pursue their art at the expense of moral obligations to others, and their success or failure in art retrospectively justifies or condemns their decision. In such a scenario, intuitively we would judge that the justification of the decision is contingent on the outcome, suggesting that moral agency is subject to luck.}, {There is a plausible principle that moral justification should not depend on outcomes but on the rational deliberation at the time of decision. This principle together with the observation that success or failure can retrospectively justify or condemn a decision entails that moral agency is influenced by luck.}",
+    "node_type": "antithesis",
+    "parent_id": "8e3d909a-014e-4076-86c8-c1c642730159",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "da6e1ac3-b432-40a2-b79c-33f4026538b9": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}, {Moral value possesses supreme dignity and importance}",
+    "node_type": "synthesis",
+    "parent_id": "3a165519-e154-42b6-bab8-8b687ae55cd8",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dfebd7c3-b08e-40d1-8d17-1b685386df25": {
+    "summary": "Rational Agency and Moral Value",
+    "content": "{The capacity for moral agency is present to any rational agent}, {Moral life is a career open to all rational beings}, {Moral value is accessible to all rational agents}, {Moral value claims one's most fundamental concerns as a rational agent}",
+    "node_type": "synthesis",
+    "parent_id": "3a165519-e154-42b6-bab8-8b687ae55cd8",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7e83dd85-3d92-4d90-ac54-6daf2583ac06": {
+    "summary": "Does agent-regret reveal the influence of luck on moral decisions?",
+    "content": "{Consider a scenario in which a person feels agent-regret for a decision that led to unforeseen negative consequences, despite having made the decision with the best available information. In such a scenario, intuitively we would judge that the person's moral assessment is influenced by luck, as the regret stems from factors beyond their control.}, {There is a plausible principle that moral assessments should be based on the agent's intentions and deliberations, not on outcomes. This principle together with the experience of agent-regret for unforeseen consequences entails that moral assessments are influenced by luck.}",
+    "node_type": "antithesis",
+    "parent_id": "8e3d909a-014e-4076-86c8-c1c642730159",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "54500966-dc60-4619-804d-76f0647e115f": {
+    "summary": "Kantian Morality Immune to Luck",
+    "content": "{Moral value is immune to luck}, {Moral judgments are based on intention, not outcomes}, {The capacity for moral agency is present in all rational agents}, {Moral value possesses supreme dignity and importance}",
+    "node_type": "synthesis",
+    "parent_id": "7e83dd85-3d92-4d90-ac54-6daf2583ac06",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6d6e8366-b13a-4ff1-af74-8900ce819d43": {
+    "summary": "Rational Justification and Retrospective Success",
+    "content": "{Justification of decisions can be retrospective}, {Success in a project can justify the decision}, {Intrinsic failure reveals the project as empty}, {Extrinsic failure does not discredit the project}",
+    "node_type": "synthesis",
+    "parent_id": "7e83dd85-3d92-4d90-ac54-6daf2583ac06",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3c0118da-7858-46c8-9690-b4c5a2874722": {
+    "summary": "Is the Kantian conception of morality's immunity to luck sustainable?",
+    "content": "{There is a plausible principle that morality, to be supreme, must be immune to luck. This principle together with the observation that moral life is deeply intertwined with luck entails that the Kantian conception of morality's immunity to luck is unsustainable.}, {Consider a scenario in which a person's moral life is shaped by their upbringing and social environment, which are subject to luck. In such a scenario, intuitively we would judge that the person's moral dispositions are influenced by luck, challenging the Kantian view of morality's immunity to luck.}",
+    "node_type": "antithesis",
+    "parent_id": "8e3d909a-014e-4076-86c8-c1c642730159",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7aa4873d-b776-4bf6-ba91-f00b846ad313": {
+    "summary": "Moral Value as Reflective Tranquillity",
+    "content": "{Moral value is achieved through reflective tranquillity}, {Reflective tranquillity is the product of self-sufficiency}, {What is not in the domain of the self is subject to luck}, {The sage is immune to incident luck}",
+    "node_type": "synthesis",
+    "parent_id": "3c0118da-7858-46c8-9690-b4c5a2874722",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6460c023-6ddf-4d75-9be8-4204992f4830": {
+    "summary": "Unconditioned Moral Value",
+    "content": "{Moral value is immune to luck}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}, {Moral value is the product of the unconditioned will}",
+    "node_type": "synthesis",
+    "parent_id": "3c0118da-7858-46c8-9690-b4c5a2874722",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e77255ca-0dba-4b27-8c4f-1a373668f6d8": {
+    "summary": "Intrinsic Luck in Moral Projects",
+    "content": "{Intrinsic luck affects the success of moral projects}, {Intrinsic luck is related to the agent's own capacities}, {Intrinsic luck is distinct from extrinsic luck}, {Intrinsic luck can determine the justification of a moral decision}",
+    "node_type": "synthesis",
+    "parent_id": "3c0118da-7858-46c8-9690-b4c5a2874722",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "60eba573-9afa-4a1b-9fb3-a6694e9e42ef": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret is a sentiment towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can influence moral reflection and assessment}",
+    "node_type": "synthesis",
+    "parent_id": "3c0118da-7858-46c8-9690-b4c5a2874722",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5e02ff33-257d-4116-8251-93d80d5013c3": {
+    "summary": "Can success alone justify a decision retrospectively?",
+    "content": "{There is a plausible principle that moral value is immune to luck. This principle together with the idea that justification is contingent on the outcome entails that moral justification cannot be solely based on success.}, {Consider a scenario in which an artist, like Gauguin, chooses to pursue his art at the expense of other moral obligations. In such a scenario, intuitively we would judge that success in art does not erase the moral obligations neglected.}, {It is implausible that a decision can be justified solely by its successful outcome, as this would ignore the moral costs and obligations involved in the decision-making process.}",
+    "node_type": "antithesis",
+    "parent_id": "467bac67-ae47-4227-b585-bb895b0ea4a4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4d858cd4-8843-482f-9e2c-47bae733d1e6": {
+    "summary": "Moral Justification by Rational Deliberation",
+    "content": "{Justification for a decision is based on rational deliberation}, {Rational deliberation involves consistent thoughts and rational assessment of probabilities}, {The agent's decision is justified if it aligns with rational deliberation, regardless of the outcome}",
+    "node_type": "synthesis",
+    "parent_id": "5e02ff33-257d-4116-8251-93d80d5013c3",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6bae16b4-0301-4576-b797-744d9107437d": {
+    "summary": "Intrinsic and Extrinsic Luck in Justification",
+    "content": "{Justification for a decision depends on intrinsic success of the project}, {Intrinsic success is determined by factors internal to the project}, {Extrinsic factors do not affect the justification of the decision}",
+    "node_type": "synthesis",
+    "parent_id": "5e02ff33-257d-4116-8251-93d80d5013c3",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d01f2138-8cfb-4c67-a930-a8bbed9de978": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret involves a personal wish that one had acted differently}, {Agent-regret is distinct from spectator regret}, {Agent-regret can coexist with moral reflection on one's actions}",
+    "node_type": "synthesis",
+    "parent_id": "5e02ff33-257d-4116-8251-93d80d5013c3",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5ca1a82e-91ec-4cc3-8682-e6e7200cafdb": {
+    "summary": "Rational Deliberation and Life-Plan",
+    "content": "{Rational deliberation is directed towards a coherent life-plan}, {A life-plan treats all times of one's life as equally important}, {Deliberative rationality protects against self-reproach over time}",
+    "node_type": "synthesis",
+    "parent_id": "5e02ff33-257d-4116-8251-93d80d5013c3",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "aa023cd2-79ac-4c36-8c1d-166c5a6a0d96": {
+    "summary": "Moral Luck and Constitutive Luck",
+    "content": "{Moral luck involves the impact of luck on moral justification}, {Constitutive luck affects one's capacity for moral agency}, {Moral value is not immune to constitutive luck}",
+    "node_type": "synthesis",
+    "parent_id": "5e02ff33-257d-4116-8251-93d80d5013c3",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6a39fe96-7729-48d4-abc5-2ce2a4b53fb1": {
+    "summary": "Is it reasonable to base justification on outcomes given the role of luck?",
+    "content": "{Consider a scenario in which an agent makes a decision based on rational deliberation, but the outcome is determined by luck. In such a scenario, intuitively we would judge that the agent's justification should not be solely dependent on the outcome.}, {There is a plausible principle that rational deliberation should be the basis for justification. This principle together with the idea that justification is contingent on the outcome entails that justification should not be solely retrospective.}, {It is implausible that justification should be entirely retrospective, as this would undermine the role of rational deliberation and the agent's intentions.}",
+    "node_type": "antithesis",
+    "parent_id": "467bac67-ae47-4227-b585-bb895b0ea4a4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0b573601-d050-4e62-b19a-0735cf1e189a": {
+    "summary": "Does failure necessarily imply a wrong decision?",
+    "content": "{Consider a scenario in which an agent makes a well-reasoned decision that fails due to unforeseen circumstances. In such a scenario, intuitively we would judge that the decision was not wrong, despite the failure.}, {There is a plausible principle that a decision's moral worth is not solely determined by its outcome. This principle together with the idea that failure means the decision was wrong entails that failure does not necessarily imply a wrong decision.}, {It is implausible that failure alone can determine the wrongness of a decision, as this would ignore the quality of the decision-making process and the agent's intentions.}",
+    "node_type": "antithesis",
+    "parent_id": "467bac67-ae47-4227-b585-bb895b0ea4a4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6bcf467c-390c-47b5-8f0d-e6d3d6dfa9f0": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to all rational agents}, {Moral value has supreme importance}",
+    "node_type": "synthesis",
+    "parent_id": "0b573601-d050-4e62-b19a-0735cf1e189a",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "049224b3-0fd1-474e-88a9-143c50bd0b78": {
+    "summary": "Intrinsic Luck and Justification",
+    "content": "{Intrinsic luck affects the justification of a decision}, {Intrinsic luck is related to the agent's abilities and project}, {Extrinsic luck does not discredit the project}, {Success or failure is determined by intrinsic factors}",
+    "node_type": "synthesis",
+    "parent_id": "0b573601-d050-4e62-b19a-0735cf1e189a",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "107dfe99-bae2-4b20-89fe-666f070891d4": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret is a feeling towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from spectator's regret}, {Agent-regret is expressed through actions or feelings of recompense}",
+    "node_type": "synthesis",
+    "parent_id": "0b573601-d050-4e62-b19a-0735cf1e189a",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1f14cf6d-37e1-4723-adce-340da07c60df": {
+    "summary": "Can an agent's justification truly depend on the outcome?",
+    "content": "{Consider a scenario in which an agent's decision is justified by success, but the success is due to factors beyond the agent's control. In such a scenario, intuitively we would judge that the agent's justification should not depend on the outcome.}, {There is a plausible principle that justification should be based on the agent's intentions and rational deliberation. This principle together with the idea that the agent's justification is contingent on the outcome entails that justification should not be outcome-dependent.}, {It is implausible that an agent's justification can truly depend on the outcome, as this would undermine the importance of the agent's intentions and rational deliberation.}",
+    "node_type": "antithesis",
+    "parent_id": "467bac67-ae47-4227-b585-bb895b0ea4a4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b37297a2-3b85-4433-bd5b-4ae1b3653d3d": {
+    "summary": "Kantian Moral Justification",
+    "content": "{Moral value is immune to luck}, {Moral value is supreme and unconditioned}, {Justification is based on the agent's intentions and rational deliberation}, {The capacity for moral agency is present in all rational agents}",
+    "node_type": "synthesis",
+    "parent_id": "1f14cf6d-37e1-4723-adce-340da07c60df",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "72aeed49-26eb-4512-add2-a57b0b2f9e7c": {
+    "summary": "Intrinsic Luck and Justification",
+    "content": "{Justification is contingent on intrinsic factors related to the agent's project}, {Intrinsic luck relates to the agent's abilities and project success}, {Extrinsic luck does not affect the agent's justification}, {The agent's justification is retrospective and based on intrinsic success}",
+    "node_type": "synthesis",
+    "parent_id": "1f14cf6d-37e1-4723-adce-340da07c60df",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "91393ddd-4982-470b-85b3-6db924865699": {
+    "summary": "Is agent-regret truly distinct from spectator regret?",
+    "content": "{Agent-regret is not solely distinguished by its subject-matter, as it requires a particular kind of expression and psychological content.}, {Agent-regret can extend beyond voluntary actions to almost anything for which one was causally responsible, yet it remains distinct from regret felt by a spectator.}, {The sentiment of agent-regret is acknowledged in practice as being different from general regret, as seen in the example of a lorry driver who feels differently from a spectator after an accident.}",
+    "node_type": "antithesis",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "565427e8-05ae-4d28-a359-01d597b695e8": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {The capacity for moral agency is present in all rational agents}, {Moral value has supreme importance}",
+    "node_type": "synthesis",
+    "parent_id": "91393ddd-4982-470b-85b3-6db924865699",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c28e8acc-096b-41a9-9c6d-35698689ac13": {
+    "summary": "Constitutive Luck in Moral Agency",
+    "content": "{Constitutive luck affects one's capacity to be a moral agent}, {The capacity for moral agency is not equally available to all}, {Constitutive luck is a form of luck that affects one's moral life}",
+    "node_type": "synthesis",
+    "parent_id": "91393ddd-4982-470b-85b3-6db924865699",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "149e654c-ea55-4a80-9f4e-8b360b0cb573": {
+    "summary": "Intrinsic and Extrinsic Luck in Justification",
+    "content": "{Intrinsic luck affects the success of a project}, {Extrinsic luck affects the outcome but not the justification}, {Justification is retrospective and depends on success}",
+    "node_type": "synthesis",
+    "parent_id": "91393ddd-4982-470b-85b3-6db924865699",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2d6ea5d2-a3e1-4594-9af8-ad4450afc1d0": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret is a sentiment towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from regret felt by a spectator}, {Agent-regret can apply to both voluntary and involuntary actions}",
+    "node_type": "synthesis",
+    "parent_id": "91393ddd-4982-470b-85b3-6db924865699",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "17c730da-0874-4f1c-a64b-f37f59dcaa4b": {
+    "summary": "Can agent-regret apply to involuntary actions?",
+    "content": "{Agent-regret can extend far beyond what one intentionally did to almost anything for which one was causally responsible in virtue of something one intentionally did.}, {Even at deeply accidental or non-voluntary levels of agency, sentiments of agent-regret are different from regret in general, such as might be felt by a spectator, and are acknowledged in our practice as being different.}, {The lorry driver who, through no fault of his, runs over a child, will feel differently from any spectator, even a spectator next to him in the cab.}",
+    "node_type": "antithesis",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "890cc9b8-17ba-4464-9c68-410f13821f9e": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is supreme and holds a special dignity}, {Moral judgments are free from external contingency}, {The capacity for moral agency is present in all rational agents}",
+    "node_type": "synthesis",
+    "parent_id": "17c730da-0874-4f1c-a64b-f37f59dcaa4b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "10372a26-0cb3-466f-8581-f53b28b4f7a6": {
+    "summary": "Constitutive Luck in Morality",
+    "content": "{Morality is subject to constitutive luck}, {Constitutive luck affects one's capacity to be a moral agent}, {The dispositions of morality are conditioned by external factors}, {Moral value is not entirely immune to luck}",
+    "node_type": "synthesis",
+    "parent_id": "17c730da-0874-4f1c-a64b-f37f59dcaa4b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "31ce6cf1-244f-4c76-8be5-7a5ebfe7f788": {
+    "summary": "Intrinsic and Extrinsic Luck",
+    "content": "{Intrinsic luck relates to the success or failure of a project}, {Extrinsic luck involves external factors affecting the outcome}, {Intrinsic failure reveals a project as empty}, {Extrinsic failure does not discredit the project}",
+    "node_type": "synthesis",
+    "parent_id": "17c730da-0874-4f1c-a64b-f37f59dcaa4b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3ded59c7-443c-4712-9739-9f150d38620f": {
+    "summary": "Retrospective Justification",
+    "content": "{Justification of a decision can be retrospective}, {Success can justify a decision}, {Failure leads to basic regrets about the decision}, {The significance of a project conditions retrospective assessment}",
+    "node_type": "synthesis",
+    "parent_id": "17c730da-0874-4f1c-a64b-f37f59dcaa4b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6942cf78-65a0-4737-b85f-c66179988ff8": {
+    "summary": "Agent-Regret and Moral Assessment",
+    "content": "{Agent-regret is distinct from spectator regret}, {Agent-regret involves a wish to have acted otherwise}, {Agent-regret can apply to involuntary actions}, {Agent-regret reflects a personal connection to one's actions}",
+    "node_type": "synthesis",
+    "parent_id": "17c730da-0874-4f1c-a64b-f37f59dcaa4b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "60448719-6040-41ac-a9a1-1bc7e75366f6": {
+    "summary": "Does agent-regret necessarily involve a wish to have acted otherwise?",
+    "content": "{Regret necessarily involves a wish that things had been otherwise, for instance that one had not had to act as one did.}, {Agent-regret does not necessarily involve the wish, all things taken together, that one had acted otherwise.}, {In cases of conflict between two courses of action each of which is morally required, either course of action, even if it is judged to be for the best, leaves regrets, which are agent-regrets about something voluntarily done.}",
+    "node_type": "antithesis",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "114bd3eb-67fa-4c88-b07a-a82377e8e65f": {
+    "summary": "Agent-Regret Without the Wish to Have Acted Otherwise",
+    "content": "{Agent-regret is a sentiment towards one's own past actions}, {Agent-regret is distinct from regret felt by a spectator}, {Agent-regret can apply to both voluntary and involuntary actions}, {Agent-regret does not necessarily involve the wish, all things taken together, that one had acted otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "60448719-6040-41ac-a9a1-1bc7e75366f6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5bcbf23a-6c38-428e-8131-1c183b8157ea": {
+    "summary": "Is agent-regret compatible with moral justification?",
+    "content": "{The fact that these agents' justifications, if they acquired them, would not properly silence all complaints, does not itself lead to the conclusion that they are not moral justifications.}, {The moral luck of agents does not lie in acquiring a moral justification but rather in the relation of their life, and of their justification or lack of it, to morality.}, {The relation of agents' life to morality has to be seen in their perspective, one in which, if they fail, there is simply regret, but their life is recognizably part of moral life and has significance for others as well.}",
+    "node_type": "antithesis",
+    "parent_id": "f3c33b97-b895-4794-8424-ca45c45b1f37",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "55935356-e8d9-43e1-b7d1-94cd84188395": {
+    "summary": "Agent-Regret with Moral Justification",
+    "content": "{Agent-regret is a sentiment towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from regret felt by a spectator}, {Agent-regret can apply to both voluntary and involuntary actions}, {Agent-regret is compatible with moral justification when the agent's life is part of moral life and has significance for others}",
+    "node_type": "synthesis",
+    "parent_id": "5bcbf23a-6c38-428e-8131-1c183b8157ea",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9919f4e4-02e8-4c7b-bb57-94934c048733": {
+    "summary": "{The limitations of morality and the role of luck}",
+    "content": "{What are the limitations of morality in relation to luck, and how does this affect our understanding of moral life?}",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "2e382c09-03ed-4027-9ddd-7830a71f81df": {
+    "summary": "Morality as Immune to Luck",
+    "content": "{Moral value is immune to luck}, {Moral value is accessible to all rational agents}, {Moral value has supreme dignity and importance}, {Moral judgments are free from external contingency}, {The capacity for moral agency is present in all rational agents}",
+    "node_type": "thesis",
+    "parent_id": "9919f4e4-02e8-4c7b-bb57-94934c048733",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7c41c7a8-736d-4500-9c0d-0e0d442cf1dd": {
+    "summary": "Morality as Subject to Luck",
+    "content": "{Morality is subject to constitutive luck}, {Moral dispositions are conditioned by external factors}, {The success of moral actions can be affected by luck}, {Moral life is influenced by factors beyond one's control}",
+    "node_type": "thesis",
+    "parent_id": "9919f4e4-02e8-4c7b-bb57-94934c048733",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ca946941-5389-4039-a8fe-6b58a5c3f153": {
+    "summary": "Retrospective Justification",
+    "content": "{Justification of actions can be retrospective}, {Success can justify a decision after the fact}, {Failure leads to regret and lack of justification}, {Intrinsic luck affects the justification of actions}",
+    "node_type": "thesis",
+    "parent_id": "9919f4e4-02e8-4c7b-bb57-94934c048733",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a437cfcf-a530-45ab-ab89-ba461240a56a": {
+    "summary": "Agent-Regret and Moral Life",
+    "content": "{Agent-regret is a unique form of regret towards one's own actions}, {Agent-regret involves a wish that one had acted differently}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can occur even in involuntary actions}",
+    "node_type": "thesis",
+    "parent_id": "9919f4e4-02e8-4c7b-bb57-94934c048733",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "21af705e-1732-4694-ae3e-65b10bf6ba64": {
+    "summary": "Moral Life and Constitutive Luck",
+    "content": "{Constitutive luck affects one's capacity for moral agency}, {Constitutive luck influences one's moral life}, {Moral life cannot be entirely free from luck}, {Constitutive luck challenges the notion of moral responsibility}",
+    "node_type": "thesis",
+    "parent_id": "9919f4e4-02e8-4c7b-bb57-94934c048733",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ea1dac20-0b64-4a3e-b148-e4925596cba1": {
+    "summary": "Moral value as unconditioned by external factors",
+    "content": "{Moral value is considered unconditioned by external factors}, {Moral judgments are seen as free from external contingency}, {The disposition to correct moral judgment is not influenced by external factors}",
+    "node_type": "reason",
+    "parent_id": "2e382c09-03ed-4027-9ddd-7830a71f81df",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "907d03ca-24b5-42e5-b4c6-701d6526664a": {
+    "summary": "Moral agency accessible to all rational beings",
+    "content": "{The capacity for moral agency is present in all rational agents}, {Moral value is accessible to all rational agents}, {Moral life is presented as a career open to all rational beings}",
+    "node_type": "reason",
+    "parent_id": "2e382c09-03ed-4027-9ddd-7830a71f81df",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "80c3536b-119a-4b30-b773-cd041b4eade8": {
+    "summary": "Supreme dignity of moral value",
+    "content": "{Moral value has supreme dignity and importance}, {Moral value must have a claim on one's most fundamental concerns as a rational agent}, {Moral value is not merely one kind of value among others}",
+    "node_type": "reason",
+    "parent_id": "2e382c09-03ed-4027-9ddd-7830a71f81df",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "082a8f36-b251-4994-acb1-cb088d3a0de4": {
+    "summary": "Justice as a core of moral conception",
+    "content": "{A conception of ultimate justice is central to the allure of moral value}, {The thought of morality's immunity to luck is linked to a sense of justice}, {Justice requires that what one most fundamentally is should be beyond luck}",
+    "node_type": "reason",
+    "parent_id": "2e382c09-03ed-4027-9ddd-7830a71f81df",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "34ef024b-cee6-45ec-85c3-ed8eba775185": {
+    "summary": "Intrinsic failure versus extrinsic failure",
+    "content": "{Intrinsic failure reveals a project as empty and incapable of grounding the agent's life}, {Extrinsic failure does not discredit the project and may contribute to making sense of what is left}, {The distinction between intrinsic and extrinsic failure is important for understanding the risk in moral projects}",
+    "node_type": "reason",
+    "parent_id": "2e382c09-03ed-4027-9ddd-7830a71f81df",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "99718d61-1762-47bd-8b30-7f1969740250": {
+    "summary": "Constitutive Luck in Moral Development",
+    "content": "{There is an intuition that moral dispositions are influenced by factors beyond one's control}, {The capacity for moral agency is supposedly present to any rational agent}, {It is a matter of constitutive luck that one is capable of becoming a sage or morally virtuous}",
+    "node_type": "reason",
+    "parent_id": "7c41c7a8-736d-4500-9c0d-0e0d442cf1dd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1a17691e-39d9-4754-ad76-377c70028c1d": {
+    "summary": "Luck in Moral Outcomes",
+    "content": "{The success of moral actions can be affected by luck}, {Whether a project succeeds or fails can depend on factors outside the agent's control}, {Intrinsic failure reveals the project as incapable of grounding the agent's life}",
+    "node_type": "reason",
+    "parent_id": "7c41c7a8-736d-4500-9c0d-0e0d442cf1dd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3ce8766a-98f3-4b11-988c-0eb01083cf85": {
+    "summary": "Agent-Regret and Moral Responsibility",
+    "content": "{Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from regret felt by a spectator}, {Agent-regret can extend to actions for which one was causally responsible}",
+    "node_type": "reason",
+    "parent_id": "7c41c7a8-736d-4500-9c0d-0e0d442cf1dd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "143d74db-0595-4205-a031-3010f8c76af5": {
+    "summary": "Intrinsic and Extrinsic Luck in Moral Projects",
+    "content": "{Intrinsic luck affects the success of a project based on the agent's capabilities}, {Extrinsic luck involves factors outside the agent's control that affect the project's outcome}, {Intrinsic failure discredits the project, while extrinsic failure does not}",
+    "node_type": "reason",
+    "parent_id": "7c41c7a8-736d-4500-9c0d-0e0d442cf1dd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "947ef1ab-9211-4961-8e51-ff67c2b21d45": {
+    "summary": "Retrospective Justification and Success",
+    "content": "{Justification for a decision can be retrospective based on success}, {Success in a project can justify the decision for the agent}, {Failure leads to basic regrets about the decision}",
+    "node_type": "reason",
+    "parent_id": "7c41c7a8-736d-4500-9c0d-0e0d442cf1dd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "66d7d0ec-531b-4aa7-b899-ee36571a8fef": {
+    "summary": "The impact of intrinsic luck on success",
+    "content": "{Intrinsic luck affects whether a project succeeds or fails}, {Intrinsic luck is related to the agent's abilities and characteristics}, {Intrinsic luck is distinct from extrinsic factors like external obstacles}",
+    "node_type": "reason",
+    "parent_id": "ca946941-5389-4039-a8fe-6b58a5c3f153",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "660f585c-6e04-4b7f-a3f1-7d02747f3505": {
+    "summary": "Retrospective justification based on success",
+    "content": "{Success in a project can retrospectively justify the decision to pursue it}, {Failure in a project leads to regret and lack of justification}, {The justification of a decision is determined by the outcome}",
+    "node_type": "reason",
+    "parent_id": "ca946941-5389-4039-a8fe-6b58a5c3f153",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "aaf93dd5-2a03-4384-bff5-1b8343fd1e03": {
+    "summary": "The role of agent-regret in decision-making",
+    "content": "{Agent-regret involves wishing one had acted differently based on the outcome}, {Agent-regret is distinct from general regret felt by a spectator}, {Agent-regret is tied to one's own past actions and decisions}",
+    "node_type": "reason",
+    "parent_id": "ca946941-5389-4039-a8fe-6b58a5c3f153",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "953aa956-91d9-46ea-9aa6-38ff00e6477e": {
+    "summary": "The influence of moral luck on moral assessment",
+    "content": "{Moral luck affects the moral assessment of actions}, {Moral luck challenges the idea that morality is immune to external factors}, {The concept of moral luck suggests that outcomes can influence moral judgments}",
+    "node_type": "reason",
+    "parent_id": "ca946941-5389-4039-a8fe-6b58a5c3f153",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "261e3ff7-6895-419c-9005-0b4bc9a5d4b4": {
+    "summary": "The significance of rational deliberation",
+    "content": "{Rational deliberation is important for decision-making}, {Rational deliberation involves assessing probabilities and ordering actions}, {The success or failure of a decision can influence future deliberations}",
+    "node_type": "reason",
+    "parent_id": "ca946941-5389-4039-a8fe-6b58a5c3f153",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8c925a52-5b89-41f8-b7bb-0342a7ee7603": {
+    "summary": "Agent-regret involves a unique personal connection to one's actions",
+    "content": "{Agent-regret is a form of regret that focuses on one's own past actions}, {Agent-regret involves a wish that one had acted differently}, {Agent-regret is distinct from regret felt by a spectator}",
+    "node_type": "reason",
+    "parent_id": "a437cfcf-a530-45ab-ab89-ba461240a56a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "28cda783-9456-45f7-846f-bb3274a36d2e": {
+    "summary": "Agent-regret can occur even in involuntary actions",
+    "content": "{Agent-regret can extend to actions for which one was causally responsible, even if they were not voluntary}, {Agent-regret is different from general regret, which can be felt by anyone aware of the situation}",
+    "node_type": "reason",
+    "parent_id": "a437cfcf-a530-45ab-ab89-ba461240a56a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "af5b21c6-a38c-4ab9-aaa8-a5909c8a1e74": {
+    "summary": "Agent-regret is tied to personal responsibility",
+    "content": "{Agent-regret involves a personal sense of responsibility for the outcome of one's actions}, {Agent-regret is acknowledged in practice as being different from general regret}",
+    "node_type": "reason",
+    "parent_id": "a437cfcf-a530-45ab-ab89-ba461240a56a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "967b1f70-97a7-4add-afea-909881c2e179": {
+    "summary": "Agent-regret can lead to a desire for reparation",
+    "content": "{Agent-regret may lead to actions that symbolize recompense or restitution}, {Agent-regret involves a consciousness of having done something harmful as a consequence of one's actions}",
+    "node_type": "reason",
+    "parent_id": "a437cfcf-a530-45ab-ab89-ba461240a56a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4a70d9b9-1a47-4e7e-ab11-4e012562b2fd": {
+    "summary": "Agent-regret is distinct from spectator's regret",
+    "content": "{Agent-regret involves a personal connection to the action that a spectator does not have}, {Agent-regret is felt differently from the regret of a spectator, even if the spectator is closely involved}",
+    "node_type": "reason",
+    "parent_id": "a437cfcf-a530-45ab-ab89-ba461240a56a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "64ccf3eb-5dda-4702-a17e-e4e1c4da7d58": {
+    "summary": "Constitutive luck and moral agency",
+    "content": "{Constitutive luck affects one's capacity to become a sage}, {Constitutive luck influences one's ability to pursue a moral life}",
+    "node_type": "reason",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6a9befa7-3671-4d05-9540-a79ffc9acf9b": {
+    "summary": "Moral value and immunity to luck",
+    "content": "{Moral value is considered immune to luck}, {Moral value is seen as unconditioned by external factors}",
+    "node_type": "reason",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dc949f64-7182-47ce-ab54-e9c2099c11ca": {
+    "summary": "Kantian view on moral value",
+    "content": "{Moral value is accessible to all rational agents}, {Moral value is seen as having supreme importance}",
+    "node_type": "reason",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7b12443b-fdc8-4ffa-b4c6-9530ac81b5ed": {
+    "summary": "Failure of morality's immunity to luck",
+    "content": "{Morality is subject to constitutive luck}, {Attempts to make morality immune to luck are bound to fail}",
+    "node_type": "reason",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "135af34c-3547-4c62-a899-1b2870719c7e": {
+    "summary": "Intrinsic and extrinsic luck in projects",
+    "content": "{Intrinsic luck affects the success of a project}, {Extrinsic luck affects the outcome but not the justification of a project}",
+    "node_type": "reason",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ee114856-6c79-473b-b60a-87280c8cc95a": {
+    "summary": "Agent-regret and moral responsibility",
+    "content": "{Agent-regret involves a personal wish to have acted differently}, {Agent-regret is distinct from spectator's regret}",
+    "node_type": "reason",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f24c1219-a635-4a2b-b24b-4c5f1ddb38c3": {
+    "summary": "Rational deliberation and regret",
+    "content": "{Rational deliberation affects one's retrospective view of decisions}, {Regret is conditioned by the rationality of past deliberations}",
+    "node_type": "reason",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "824943c5-348f-4364-82b4-5b8518ba8ef8": {
+    "summary": "Moral justification and external complaints",
+    "content": "{Moral justification does not silence all external complaints}, {Moral justification is not always accepted by those affected}",
+    "node_type": "reason",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "92155ef6-911e-4266-9a6e-ca1210e8d5e1": {
+    "summary": "Significance of moral luck",
+    "content": "{Moral luck affects the relation of one's life to morality}, {Moral luck influences the justification or lack of it in moral life}",
+    "node_type": "reason",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1b9d3349-f955-452e-afd1-0efe992402d9": {
+    "summary": "Is moral value truly immune to luck?",
+    "content": "{There is a plausible principle that moral value is immune to luck. This principle together with the observation that many aspects of life, including moral dispositions, are influenced by factors beyond our control, entails that moral value is not immune to luck.}, {Consider a scenario in which a person makes a moral decision based on their best judgment and intentions, but the outcome is negative due to unforeseen circumstances. In such a scenario, intuitively we would judge that the person's moral standing is affected by luck.}, {Suppose we have a case in which a person's capacity for moral agency is influenced by their upbringing and social environment. Intuitively, we either have to say that moral agency is not equally accessible to all rational agents or that external factors can influence moral agency. If we say moral agency is not equally accessible, then it contradicts the claim that it is present in all rational agents. If we say external factors can influence moral agency, then it contradicts the claim that moral judgments are free from external contingency.}",
+    "node_type": "antithesis",
+    "parent_id": "2e382c09-03ed-4027-9ddd-7830a71f81df",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "417a7e3b-66c9-49d4-b03d-f86106929989": {
+    "summary": "Moral Value as Reflective Tranquility",
+    "content": "{Moral value is linked to happiness as reflective tranquility}, {Reflective tranquility is achieved through self-sufficiency}, {What is not within the domain of the self is subject to luck}, {The sage is immune to incident luck}, {Constitutive luck determines one's capacity to become a sage}",
+    "node_type": "synthesis",
+    "parent_id": "1b9d3349-f955-452e-afd1-0efe992402d9",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c7d62238-aeff-4018-9c32-6b48970a0af4": {
+    "summary": "Moral Value as Unconditioned Will",
+    "content": "{Moral value is the product of the unconditioned will}, {Moral judgments are free from external contingency}, {Anything resulting from happy or unhappy contingency is not a proper object of moral assessment}, {The capacity for moral agency is present in all rational agents}, {Moral value has supreme dignity and importance}",
+    "node_type": "synthesis",
+    "parent_id": "1b9d3349-f955-452e-afd1-0efe992402d9",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f646ac78-0e97-4863-a51e-feb038461949": {
+    "summary": "Can moral value be considered supreme if it is subject to luck?",
+    "content": "{There is a plausible principle that moral value has supreme dignity and importance. This principle together with the observation that moral value is subject to luck entails that moral value cannot have supreme dignity and importance if it is influenced by luck.}, {Consider a scenario in which a person's moral decision leads to a positive outcome purely due to luck, while another person's equally moral decision leads to a negative outcome due to bad luck. In such a scenario, intuitively we would judge that the supreme dignity of moral value is undermined by its dependence on luck.}",
+    "node_type": "antithesis",
+    "parent_id": "2e382c09-03ed-4027-9ddd-7830a71f81df",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b8b0102c-241e-477c-b4f1-49a47dedebaa": {
+    "summary": "Moral Value as Unconditioned by External Factors",
+    "content": "{Moral value is unconditioned by external factors}, {Moral value is accessible to all rational agents}, {Moral value has supreme dignity and importance}, {Moral judgments are based on intention rather than outcomes}, {The capacity for moral agency is present in all rational agents}",
+    "node_type": "synthesis",
+    "parent_id": "f646ac78-0e97-4863-a51e-feb038461949",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0d0499ee-8e85-4983-88fe-b2084898ab79": {
+    "summary": "Moral Value as Grounded in Rational Will",
+    "content": "{Moral value is grounded in the rational will}, {Moral value is accessible to all rational agents}, {Moral value has supreme dignity and importance}, {Moral judgments are based on the rational will}, {The capacity for moral agency is present in all rational agents}",
+    "node_type": "synthesis",
+    "parent_id": "f646ac78-0e97-4863-a51e-feb038461949",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8b3236c9-54d6-4a76-933f-48442611f16b": {
+    "summary": "Is the capacity for moral agency truly universal?",
+    "content": "{There is a plausible principle that the capacity for moral agency is present in all rational agents. This principle together with the observation that some individuals, due to their upbringing or social environment, may lack the capacity for moral agency, entails that the capacity for moral agency is not universally present.}, {Consider a scenario in which a person is raised in an environment that severely limits their exposure to moral reasoning and ethical considerations. In such a scenario, intuitively we would judge that the person's capacity for moral agency is compromised, challenging the universality of moral agency.}",
+    "node_type": "antithesis",
+    "parent_id": "2e382c09-03ed-4027-9ddd-7830a71f81df",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5e78ca27-e160-4ea9-b3a7-d7eb9247ce61": {
+    "summary": "Morality as Reflective Tranquillity",
+    "content": "{Moral value is immune to luck}, {Moral value is accessible to all rational agents}, {Moral value has supreme dignity and importance}, {Moral judgments are free from external contingency}, {The capacity for moral agency is present in those who achieve reflective tranquillity}",
+    "node_type": "synthesis",
+    "parent_id": "8b3236c9-54d6-4a76-933f-48442611f16b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e0853f3e-fa4b-4611-b1a2-0da267c2326a": {
+    "summary": "Morality as Unconditioned Will",
+    "content": "{Moral value is immune to luck}, {Moral value is accessible to all rational agents}, {Moral value has supreme dignity and importance}, {Moral judgments are free from external contingency}, {The capacity for moral agency is present in those who act from an unconditioned will}",
+    "node_type": "synthesis",
+    "parent_id": "8b3236c9-54d6-4a76-933f-48442611f16b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2d96ade1-c1fc-4c1f-98b0-cf034b35f511": {
+    "summary": "Morality as a Career Open to Talents",
+    "content": "{Moral value is immune to luck}, {Moral value is accessible to all rational agents}, {Moral value has supreme dignity and importance}, {Moral judgments are free from external contingency}, {The capacity for moral agency is present in all rational agents who develop their moral talents}",
+    "node_type": "synthesis",
+    "parent_id": "8b3236c9-54d6-4a76-933f-48442611f16b",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b15595bc-c443-433a-b958-e4a52c21a1e5": {
+    "summary": "Is morality truly immune to luck?",
+    "content": "{There is a plausible principle that moral value is immune to luck. This principle together with the idea that moral value must possess supreme dignity or importance entails that morality should be unaffected by external factors.}, {Consider a scenario in which a person makes a moral decision based on rational deliberation, but the outcome is determined by factors beyond their control. In such a scenario, intuitively we would judge that the person's moral standing is affected by the outcome, suggesting that morality is not immune to luck.}, {It is implausible that moral dispositions and actions are entirely free from external contingencies, as they are often influenced by factors beyond an individual's control.}",
+    "node_type": "antithesis",
+    "parent_id": "7c41c7a8-736d-4500-9c0d-0e0d442cf1dd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7ab93c61-756f-45cb-a3b3-9227de26b156": {
+    "summary": "Can moral success be justified retrospectively?",
+    "content": "{Consider a scenario in which an artist like Gauguin chooses to pursue his art at the expense of other moral claims, and his success or failure is determined by factors beyond his control. In such a scenario, intuitively we would judge that his decision can only be justified retrospectively by success, suggesting that moral justification is subject to luck.}, {There is a plausible principle that justification should be applicable at the time of decision-making, not retrospectively. This principle together with the idea that moral actions should be justified in advance entails that retrospective justification undermines the concept of moral agency.}",
+    "node_type": "antithesis",
+    "parent_id": "7c41c7a8-736d-4500-9c0d-0e0d442cf1dd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a3b31c69-5add-417c-a007-fd23675e6b22": {
+    "summary": "Morality as Immune to Luck",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}, {Moral agency is accessible to all rational agents}",
+    "node_type": "synthesis",
+    "parent_id": "7ab93c61-756f-45cb-a3b3-9227de26b156",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a26def75-7451-48b9-b759-de7f9a6cc395": {
+    "summary": "Kantian Moral Agency",
+    "content": "{Moral value possesses supreme dignity}, {Moral value is accessible to all rational agents}, {The capacity for moral agency is present to any rational agent}, {Moral life is a career open to all rational beings}",
+    "node_type": "synthesis",
+    "parent_id": "7ab93c61-756f-45cb-a3b3-9227de26b156",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "202c2f89-87b8-45b5-81aa-36be3c609f06": {
+    "summary": "Does agent-regret challenge the immunity of morality to luck?",
+    "content": "{Consider a scenario in which a lorry driver accidentally runs over a child through no fault of his own. In such a scenario, intuitively we would judge that the driver experiences agent-regret, which is distinct from spectator regret, indicating that moral responsibility is influenced by luck.}, {There is a plausible principle that moral responsibility should be based on voluntary actions. This principle together with the existence of agent-regret for involuntary actions entails that moral responsibility is not entirely free from luck.}",
+    "node_type": "antithesis",
+    "parent_id": "7c41c7a8-736d-4500-9c0d-0e0d442cf1dd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1f89b831-49a5-4219-942a-55db3d5a5af1": {
+    "summary": "Morality as Immune to Luck",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}, {Moral agency is accessible to all rational agents}",
+    "node_type": "synthesis",
+    "parent_id": "202c2f89-87b8-45b5-81aa-36be3c609f06",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "54d2b124-b791-4fd9-a1a6-8513a4485396": {
+    "summary": "Kantian Moral Agency",
+    "content": "{Moral value possesses supreme dignity and importance}, {Moral value is accessible to all rational agents}, {The capacity for moral agency is present in any rational agent}, {Moral life is a career open to all rational beings}",
+    "node_type": "synthesis",
+    "parent_id": "202c2f89-87b8-45b5-81aa-36be3c609f06",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "768bb930-237d-4ded-8d02-3eedd258816f": {
+    "summary": "Is the concept of morality undermined by its susceptibility to luck?",
+    "content": "{There is a plausible principle that the concept of morality is meant to establish a dimension of decision and assessment that transcends luck. This principle together with the observation that moral life is influenced by factors beyond one's control entails that the concept of morality is undermined by its susceptibility to luck.}, {Consider a scenario in which a person's moral actions are influenced by constitutive luck, such as their upbringing or inherent dispositions. In such a scenario, intuitively we would judge that the person's moral standing is affected by these uncontrollable factors, challenging the notion of morality as independent of luck.}",
+    "node_type": "antithesis",
+    "parent_id": "7c41c7a8-736d-4500-9c0d-0e0d442cf1dd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cfab7130-6940-48c6-9aba-9e3d08cac874": {
+    "summary": "Can moral value truly be immune to luck?",
+    "content": "{There is a plausible principle that moral value is immune to luck. This principle together with the idea that moral value is supreme entails that moral value should be unaffected by external contingencies.}, {It is implausible that moral value is entirely immune to luck, as moral dispositions and intentions are conditioned by external factors.}, {Consider a scenario in which a person makes a decision based on moral intentions, but the outcome is affected by unforeseen circumstances. In such a scenario, intuitively we would judge that the person's moral value is still subject to luck.}",
+    "node_type": "antithesis",
+    "parent_id": "ca946941-5389-4039-a8fe-6b58a5c3f153",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c48d8831-d7aa-4037-af34-37b319f84608": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is supreme and unconditioned}, {Moral dispositions and intentions are free from external contingency}, {The capacity for moral agency is present in all rational agents}",
+    "node_type": "synthesis",
+    "parent_id": "cfab7130-6940-48c6-9aba-9e3d08cac874",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9101532a-c700-4593-b570-9134393ddca3": {
+    "summary": "Rational Justification",
+    "content": "{Rational justification is independent of outcomes}, {Success or failure does not affect the rationality of a decision}, {Rational deliberation is based on consistency and assessment of probabilities}, {Rational agents should act to avoid self-reproach}",
+    "node_type": "synthesis",
+    "parent_id": "cfab7130-6940-48c6-9aba-9e3d08cac874",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1b0594dc-c668-48c3-a768-66d5b61c357e": {
+    "summary": "Intrinsic Luck in Projects",
+    "content": "{Intrinsic luck affects the success of a project}, {Intrinsic luck is related to the agent's abilities and decisions}, {Extrinsic luck does not discredit the project}, {Success or failure of a project is partly due to intrinsic luck}",
+    "node_type": "synthesis",
+    "parent_id": "cfab7130-6940-48c6-9aba-9e3d08cac874",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "42a6f0a3-d39e-4cad-9c49-5ab00defcb65": {
+    "summary": "Is retrospective justification truly coherent?",
+    "content": "{Consider a scenario in which a person makes a decision that leads to success, and this success is used to justify the decision retrospectively. In such a scenario, intuitively we would judge that the justification is contingent on the outcome, not the decision itself.}, {There is a plausible principle that justification should be based on considerations available at the time of the decision. This principle together with the idea of retrospective justification entails a contradiction, as retrospective justification relies on outcomes not known at the time of the decision.}",
+    "node_type": "antithesis",
+    "parent_id": "ca946941-5389-4039-a8fe-6b58a5c3f153",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ee04d60b-7deb-4a8e-88a1-7505133f627d": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {Moral value is accessible to all rational agents}, {Moral value has supreme dignity and importance}",
+    "node_type": "synthesis",
+    "parent_id": "42a6f0a3-d39e-4cad-9c49-5ab00defcb65",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "444177ad-b14d-4171-863c-6c82da5a2b58": {
+    "summary": "Intrinsic Luck in Moral Agency",
+    "content": "{Intrinsic luck affects the justification of actions}, {Intrinsic luck is related to the agent's abilities and characteristics}, {Intrinsic luck is distinct from extrinsic luck which is external to the agent}, {Intrinsic luck is necessary for success and justification}",
+    "node_type": "synthesis",
+    "parent_id": "42a6f0a3-d39e-4cad-9c49-5ab00defcb65",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "57893b56-f94a-4e64-b95a-79517ecd4035": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret is a feeling towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from regret felt by a spectator}, {Agent-regret can extend to involuntary actions}",
+    "node_type": "synthesis",
+    "parent_id": "42a6f0a3-d39e-4cad-9c49-5ab00defcb65",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "10c49776-56ac-47e7-bc19-8a680d418522": {
+    "summary": "Rational Deliberation and Justification",
+    "content": "{Rational deliberation can be justified or unjustified}, {Justification of deliberation is based on rational assessment of probabilities}, {Justification of deliberation is based on consistency of thoughts}, {Justification of deliberation is based on optimal ordering of actions in time}",
+    "node_type": "synthesis",
+    "parent_id": "42a6f0a3-d39e-4cad-9c49-5ab00defcb65",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e80bbdad-e471-40d9-8014-08345b723236": {
+    "summary": "Life-Plan Model of Rationality",
+    "content": "{Rational deliberation is directed to a life-plan}, {A life-plan treats all times of one's life as of equal concern}, {A life-plan requires harmonizing all one's projects}, {A life-plan is evaluated by reference to one's preferences}",
+    "node_type": "synthesis",
+    "parent_id": "42a6f0a3-d39e-4cad-9c49-5ab00defcb65",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8b802921-24a5-43d9-8369-3b9aade89df1": {
+    "summary": "Does intrinsic luck undermine the justification of actions?",
+    "content": "{Consider a scenario in which a person's success in a project is due to intrinsic factors beyond their control, such as innate talent. In such a scenario, intuitively we would judge that the justification of their actions is influenced by intrinsic luck.}, {There is a plausible principle that justification should not be influenced by factors beyond one's control. This principle together with the influence of intrinsic luck on success entails that justification is undermined by intrinsic luck.}",
+    "node_type": "antithesis",
+    "parent_id": "ca946941-5389-4039-a8fe-6b58a5c3f153",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "46e55536-9f4b-4925-8635-1a27bb526106": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to all rational agents}, {Moral value has supreme importance}",
+    "node_type": "synthesis",
+    "parent_id": "8b802921-24a5-43d9-8369-3b9aade89df1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "01fb0daa-9eed-43f4-a31a-510d8a8d97eb": {
+    "summary": "Rational Justification Independence",
+    "content": "{Rational justification is independent of external luck}, {Rational justification is based on the agent's deliberative processes}, {Rational justification is concerned with the rationality of decisions rather than outcomes}",
+    "node_type": "synthesis",
+    "parent_id": "8b802921-24a5-43d9-8369-3b9aade89df1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1336f5ea-c7d1-4caf-82e6-9d3867650914": {
+    "summary": "Intrinsic Luck and Moral Assessment",
+    "content": "{Intrinsic luck affects the justification of actions}, {Intrinsic luck is related to the agent's own capacities and decisions}, {Intrinsic luck is distinct from extrinsic luck which is outside the agent's control}",
+    "node_type": "synthesis",
+    "parent_id": "8b802921-24a5-43d9-8369-3b9aade89df1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9bed439a-7604-44c7-8e75-f886f2df01f0": {
+    "summary": "Can failure truly negate justification?",
+    "content": "{Consider a scenario in which a person makes a well-reasoned decision that fails due to unforeseen circumstances. In such a scenario, intuitively we would judge that the failure does not negate the justification of the decision.}, {There is a plausible principle that justification should be based on the reasoning process, not the outcome. This principle together with the idea that failure negates justification entails a contradiction, as failure is an outcome-based assessment.}",
+    "node_type": "antithesis",
+    "parent_id": "ca946941-5389-4039-a8fe-6b58a5c3f153",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2244254d-a46e-4774-a410-984667aded4d": {
+    "summary": "Moral Value as Immune to Luck",
+    "content": "{Moral value is immune to luck}, {Moral value is supreme and of special dignity}, {Moral value is accessible to all rational agents}, {Moral value is unconditioned by external contingency}",
+    "node_type": "synthesis",
+    "parent_id": "9bed439a-7604-44c7-8e75-f886f2df01f0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0e0c6841-7ad5-4fda-8894-fd4a897cd4e3": {
+    "summary": "Intrinsic Luck in Projects",
+    "content": "{Intrinsic luck affects the success of a project}, {Intrinsic luck is related to the agent's abilities and characteristics}, {Intrinsic luck is necessary for the justification of a project}, {Intrinsic luck is distinct from extrinsic luck}",
+    "node_type": "synthesis",
+    "parent_id": "9bed439a-7604-44c7-8e75-f886f2df01f0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3914b48a-e50a-4f37-8e2f-3667fefa3a64": {
+    "summary": "Agent-Regret and Moral Assessment",
+    "content": "{Agent-regret is a feeling towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from regret felt by a spectator}, {Agent-regret can extend to non-voluntary actions}",
+    "node_type": "synthesis",
+    "parent_id": "9bed439a-7604-44c7-8e75-f886f2df01f0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "75ecacee-07e8-4c31-bfc9-71fb6dfb29a3": {
+    "summary": "Rational Deliberation and Retrospective Justification",
+    "content": "{Rational deliberation can be justified or unjustified}, {Retrospective justification involves assessing the rationality of past decisions}, {Regret about deliberation can lead to resolutions for future actions}, {Success or failure affects the retrospective assessment of decisions}",
+    "node_type": "synthesis",
+    "parent_id": "9bed439a-7604-44c7-8e75-f886f2df01f0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "554ef6eb-7df8-4d41-b9e1-f5993e7fbcc7": {
+    "summary": "Constitutive Luck and Moral Life",
+    "content": "{Constitutive luck affects one's capacity for moral agency}, {Constitutive luck is a form of luck that cannot be controlled}, {Constitutive luck influences the moral life and its significance}, {Constitutive luck challenges the idea of morality as immune to luck}",
+    "node_type": "synthesis",
+    "parent_id": "9bed439a-7604-44c7-8e75-f886f2df01f0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "438f7501-d044-421f-a909-76de7ff0db02": {
+    "summary": "Is agent-regret truly distinct from spectator's regret?",
+    "content": "{Agent-regret is not distinguished from regret in general solely or simply in virtue of its subject-matter.}, {There can be cases of regret directed to one's own past actions which are not cases of agent-regret, because the past action is regarded purely externally, as one might regard anyone else's action.}, {The differences between agent-regret and regret felt by a spectator come out not just in thoughts and images that enter into the sentiment, but in differences of expression.}",
+    "node_type": "antithesis",
+    "parent_id": "a437cfcf-a530-45ab-ab89-ba461240a56a",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "443e69a1-0649-4f3a-99f3-c24c5942f976": {
+    "summary": "Agent-regret as Moral Luck",
+    "content": "{Agent-regret is a unique form of regret towards one's own actions}, {Agent-regret involves a wish that one had acted differently}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can occur even in involuntary actions}, {Agent-regret is influenced by moral luck, which affects the moral assessment of actions}",
+    "node_type": "synthesis",
+    "parent_id": "438f7501-d044-421f-a909-76de7ff0db02",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a0953998-4d63-4348-9308-8bb1783bea94": {
+    "summary": "Agent-regret and Constitutive Luck",
+    "content": "{Agent-regret is a unique form of regret towards one's own actions}, {Agent-regret involves a wish that one had acted differently}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can occur even in involuntary actions}, {Agent-regret is shaped by constitutive luck, which influences one's capacity for moral agency}",
+    "node_type": "synthesis",
+    "parent_id": "438f7501-d044-421f-a909-76de7ff0db02",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fd98d0e2-8fbc-401e-9581-8e4fec943fe8": {
+    "summary": "Agent-regret and Moral Value",
+    "content": "{Agent-regret is a unique form of regret towards one's own actions}, {Agent-regret involves a wish that one had acted differently}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can occur even in involuntary actions}, {Agent-regret is connected to moral value, which is considered immune to luck}",
+    "node_type": "synthesis",
+    "parent_id": "438f7501-d044-421f-a909-76de7ff0db02",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "870f8eb8-0fcb-42d1-96f5-eb552a2489b6": {
+    "summary": "Can agent-regret occur even in involuntary actions?",
+    "content": "{The sentiment of agent-regret is by no means restricted to voluntary agency.}, {Agent-regret can extend far beyond what one intentionally did to almost anything for which one was causally responsible in virtue of something one intentionally did.}, {Even at deeply accidental or non-voluntary levels of agency, sentiments of agent-regret are different from regret in general, such as might be felt by a spectator, and are acknowledged in our practice as being different.}",
+    "node_type": "antithesis",
+    "parent_id": "a437cfcf-a530-45ab-ab89-ba461240a56a",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e1e13ffc-3dc5-4fcf-953b-17cd92ec3372": {
+    "summary": "Agent-regret and Moral Responsibility",
+    "content": "{Agent-regret is a unique form of regret towards one's own actions}, {Agent-regret involves a wish that one had acted differently}, {Agent-regret is distinct from spectator's regret}, {Agent-regret is restricted to voluntary actions}",
+    "node_type": "synthesis",
+    "parent_id": "870f8eb8-0fcb-42d1-96f5-eb552a2489b6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "42fe3516-6c3a-49c0-81e1-2c185ea9d5ca": {
+    "summary": "Agent-regret and Moral Luck",
+    "content": "{Agent-regret is a unique form of regret towards one's own actions}, {Agent-regret involves a wish that one had acted differently}, {Agent-regret is distinct from spectator's regret}, {Agent-regret is influenced by moral luck, which affects the relations of one's decisions to morality}",
+    "node_type": "synthesis",
+    "parent_id": "870f8eb8-0fcb-42d1-96f5-eb552a2489b6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "794c6b84-6cac-4493-8648-1e920bfa4090": {
+    "summary": "Does agent-regret necessarily involve a wish to have acted differently?",
+    "content": "{Regret necessarily involves a wish that things had been otherwise, for instance that one had not had to act as one did.}, {Regret does not necessarily involve the wish, all things taken together, that one had acted otherwise.}, {We should not entirely assimilate agent-regret and the wish, all things taken together, to have acted otherwise.}",
+    "node_type": "antithesis",
+    "parent_id": "a437cfcf-a530-45ab-ab89-ba461240a56a",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ba948dd5-3c13-4b48-b5c7-ccddb86d6edb": {
+    "summary": "Agent-regret without the wish to have acted differently",
+    "content": "{Agent-regret is a unique form of regret towards one's own actions}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can occur even in involuntary actions}, {Agent-regret does not necessarily involve a wish to have acted differently}",
+    "node_type": "synthesis",
+    "parent_id": "794c6b84-6cac-4493-8648-1e920bfa4090",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ec47d2f0-81b8-4127-ac67-8bc503efa5e2": {
+    "summary": "Agent-regret as a moral reflection",
+    "content": "{Agent-regret is a unique form of regret towards one's own actions}, {Agent-regret involves a moral reflection on one's actions}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can occur even in involuntary actions}",
+    "node_type": "synthesis",
+    "parent_id": "794c6b84-6cac-4493-8648-1e920bfa4090",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e4cbbe16-96b7-4f0b-b69a-1e11ebeb6d49": {
+    "summary": "Does constitutive luck undermine the idea of moral responsibility?",
+    "content": "{There is a plausible principle that moral responsibility requires control over one's actions. This principle together with the idea that constitutive luck affects one's capacity for moral agency entails that moral responsibility is undermined if constitutive luck is significant.}, {Consider a scenario in which a person is born with a disposition that significantly influences their moral decisions. In such a scenario, intuitively we would judge that the person's moral responsibility is compromised due to factors beyond their control.}",
+    "node_type": "antithesis",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cc45dee1-00ce-42c7-a4a0-f03d91968039": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {The capacity for moral agency is present in all rational agents}, {Moral life is accessible to all rational beings equally}",
+    "node_type": "synthesis",
+    "parent_id": "e4cbbe16-96b7-4f0b-b69a-1e11ebeb6d49",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f7e87065-92cc-4ce3-a1a9-e511919f1534": {
+    "summary": "Rational Justification Perspective",
+    "content": "{Rational justification is independent of moral luck}, {Rational deliberation is essential for assessing one's actions}, {Success or failure in a project can retrospectively justify a decision}, {Intrinsic luck affects the justification of a decision}",
+    "node_type": "synthesis",
+    "parent_id": "e4cbbe16-96b7-4f0b-b69a-1e11ebeb6d49",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e78d84eb-325a-4684-9dc2-7b6607edd7c3": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret is distinct from general regret}, {Agent-regret involves a personal wish to have acted differently}, {Agent-regret can occur even in involuntary actions}, {Agent-regret reflects a deeper moral consciousness}",
+    "node_type": "synthesis",
+    "parent_id": "e4cbbe16-96b7-4f0b-b69a-1e11ebeb6d49",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "04455050-02cb-4b98-ae9d-660968a92f67": {
+    "summary": "Can moral value truly be immune to luck?",
+    "content": "{There is a plausible principle that moral value should be unconditioned by external factors. This principle together with the idea that constitutive luck influences one's moral life entails that moral value cannot be entirely immune to luck if constitutive luck is significant.}, {Consider a scenario in which a person's moral decisions are heavily influenced by their upbringing and environment. In such a scenario, intuitively we would judge that their moral value is conditioned by these external factors.}",
+    "node_type": "antithesis",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a8c4fa7f-7bf7-46b8-8930-69de0f21efec": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {The capacity for moral agency is present to any rational agent}, {Moral life is a career open to all rational beings}",
+    "node_type": "synthesis",
+    "parent_id": "04455050-02cb-4b98-ae9d-660968a92f67",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e5e5cd2f-86d7-45aa-bcee-5c7376964e85": {
+    "summary": "Rational Justification and Luck",
+    "content": "{Rational justification is not immune to luck}, {The outcome of a decision can retrospectively justify the decision}, {Intrinsic luck affects the justification of a decision}, {Extrinsic luck does not affect the justification of a decision}",
+    "node_type": "synthesis",
+    "parent_id": "04455050-02cb-4b98-ae9d-660968a92f67",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d6ca22a9-90db-49f8-8bef-22bfa750c3db": {
+    "summary": "Is the Kantian conception of morality too idealistic?",
+    "content": "{There is a plausible principle that moral agency should be accessible to all rational beings equally. This principle together with the idea that constitutive luck affects one's capacity for moral agency entails that the Kantian conception of morality is too idealistic if constitutive luck is significant.}, {Consider a scenario in which two individuals with different innate capacities for moral reasoning face the same moral dilemma. In such a scenario, intuitively we would judge that their moral agency is not equally accessible due to their differing capacities.}",
+    "node_type": "antithesis",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4e1b0577-b9f6-4be5-917c-45e980cfad9d": {
+    "summary": "Moral Value as Supreme and Unconditioned",
+    "content": "{Moral value is immune to luck}, {Moral value is supreme among values}, {Moral value is accessible to all rational agents equally}, {Moral value is unconditioned by external factors}",
+    "node_type": "synthesis",
+    "parent_id": "d6ca22a9-90db-49f8-8bef-22bfa750c3db",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ae774ed3-c0a8-46b9-bf06-a2bd39afd5a7": {
+    "summary": "Rational Agency and Moral Accessibility",
+    "content": "{The capacity for moral agency is present in all rational agents}, {Moral agency is not dependent on external conditions}, {Moral agency is equally accessible to all rational beings}, {Moral agency is a fundamental aspect of rationality}",
+    "node_type": "synthesis",
+    "parent_id": "d6ca22a9-90db-49f8-8bef-22bfa750c3db",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4b5fbaba-6726-4945-b62c-6c6c5ad4e084": {
+    "summary": "Intrinsic and Extrinsic Luck in Moral Life",
+    "content": "{Intrinsic luck affects the success of one's moral projects}, {Extrinsic luck does not discredit one's moral projects}, {Intrinsic luck is related to the agent's own capacities}, {Extrinsic luck is related to external circumstances}",
+    "node_type": "synthesis",
+    "parent_id": "d6ca22a9-90db-49f8-8bef-22bfa750c3db",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2210ac41-6c79-43a5-9dcd-5edbdce7e8b2": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret involves a personal wish that one had acted differently}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can occur even in involuntary actions}, {Agent-regret is a part of moral reflection on one's actions}",
+    "node_type": "synthesis",
+    "parent_id": "d6ca22a9-90db-49f8-8bef-22bfa750c3db",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bca8ee14-3852-459e-91fb-38460e99ff89": {
+    "summary": "Retrospective Justification and Moral Success",
+    "content": "{Moral success can retrospectively justify a decision}, {Failure in moral projects leads to basic regrets}, {Success in moral projects validates the agent's decision}, {Retrospective justification is linked to the significance of moral outcomes}",
+    "node_type": "synthesis",
+    "parent_id": "d6ca22a9-90db-49f8-8bef-22bfa750c3db",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d5614b72-61f3-457c-ac16-8c612628c235": {
+    "summary": "Does moral luck challenge the coherence of moral assessment?",
+    "content": "{There is a plausible principle that moral assessment should be based on factors within an individual's control. This principle together with the idea that constitutive luck challenges the notion of moral responsibility entails that moral assessment is challenged if constitutive luck is significant.}, {Consider a scenario in which a person's moral success is largely due to fortunate circumstances beyond their control. In such a scenario, intuitively we would judge that moral assessment based solely on outcomes is incoherent.}",
+    "node_type": "antithesis",
+    "parent_id": "21af705e-1732-4694-ae3e-65b10bf6ba64",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "732b47de-1345-4e7b-a30d-154c97704ee0": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {The capacity for moral agency is present in all rational agents}, {Moral life is accessible to all rational beings equally}",
+    "node_type": "synthesis",
+    "parent_id": "d5614b72-61f3-457c-ac16-8c612628c235",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "80b49762-72c6-4dd6-a657-1b62353b5fca": {
+    "summary": "Rational Justification Perspective",
+    "content": "{Rational justification is central to moral assessment}, {Success in one's projects can retrospectively justify decisions}, {Intrinsic luck affects the justification of decisions}, {Extrinsic luck does not affect the justification of decisions}",
+    "node_type": "synthesis",
+    "parent_id": "d5614b72-61f3-457c-ac16-8c612628c235",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "46e65382-3be3-48ff-85ab-dd5547847360": {
+    "summary": "{The moral implications of Gauguin's and Anna Karenina's decisions}",
+    "content": "{What are the moral implications of the decisions made by Gauguin and Anna Karenina, and how do these relate to the concept of moral luck?}",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "2d9dc942-db54-4cbb-a069-9a5a36b13e07": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to all rational agents}, {Moral value has supreme importance}",
+    "node_type": "thesis",
+    "parent_id": "46e65382-3be3-48ff-85ab-dd5547847360",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7ef494d0-5056-48b7-bf41-b2ef1a17fe4f": {
+    "summary": "Constitutive Luck in Morality",
+    "content": "{Morality is subject to constitutive luck}, {Constitutive luck affects one's capacity for moral agency}, {Constitutive luck influences the outcomes of moral decisions}",
+    "node_type": "thesis",
+    "parent_id": "46e65382-3be3-48ff-85ab-dd5547847360",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "08ec290f-b322-4013-8b4d-e1b2cee37ad5": {
+    "summary": "Retrospective Justification",
+    "content": "{Justification of a decision can be determined retrospectively}, {Success of a project can justify the decision}, {Failure of a project can render the decision unjustified}",
+    "node_type": "thesis",
+    "parent_id": "46e65382-3be3-48ff-85ab-dd5547847360",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "03a4a043-a6bd-41c3-b333-c3081b9161cd": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can apply to both voluntary and involuntary actions}",
+    "node_type": "thesis",
+    "parent_id": "46e65382-3be3-48ff-85ab-dd5547847360",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "36ba2dc2-df7a-472e-9e8e-e35622545d35": {
+    "summary": "Intrinsic and Extrinsic Luck",
+    "content": "{Intrinsic luck relates to factors within the project itself}, {Extrinsic luck relates to external factors affecting the project}, {Intrinsic luck is more relevant to the justification of a decision}",
+    "node_type": "thesis",
+    "parent_id": "46e65382-3be3-48ff-85ab-dd5547847360",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fce3bdea-0d99-4165-8d9b-0196e408fffb": {
+    "summary": "Moral Luck and Moral Life",
+    "content": "{Moral luck affects the relation of one's life to morality}, {Moral luck influences the justification or lack of it in moral decisions}, {Moral luck is part of the moral life and its significance}",
+    "node_type": "thesis",
+    "parent_id": "46e65382-3be3-48ff-85ab-dd5547847360",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d6015134-3a8f-47ee-93eb-d2ca6b8c3d0c": {
+    "summary": "Moral value is immune to luck",
+    "content": "{There is a strong intuition that moral value should not be influenced by external factors}, {The idea that moral value is immune to luck aligns with the belief that moral assessments should be based on intention rather than outcomes}",
+    "node_type": "reason",
+    "parent_id": "2d9dc942-db54-4cbb-a069-9a5a36b13e07",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6f85b36b-828f-4225-8af8-adf42d84d5c6": {
+    "summary": "Moral value is unconditioned by external factors",
+    "content": "{The notion that moral value is unconditioned by external factors supports the view that moral judgments should be based on the unconditioned will}, {The belief that moral value is independent of external contingencies reflects the idea that moral assessments should not be determined by happy or unhappy circumstances}",
+    "node_type": "reason",
+    "parent_id": "2d9dc942-db54-4cbb-a069-9a5a36b13e07",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3cee8724-653b-426d-b4cc-87ab6b079702": {
+    "summary": "Moral value is accessible to all rational agents",
+    "content": "{The capacity for moral agency is present to any rational agent, suggesting that moral value is universally accessible}, {The idea that moral value is accessible to all rational agents aligns with the belief that moral life is open to all, regardless of birth or upbringing}",
+    "node_type": "reason",
+    "parent_id": "2d9dc942-db54-4cbb-a069-9a5a36b13e07",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "04bdbef7-efb3-40ef-a6c1-8530d1e4aeef": {
+    "summary": "Moral value has supreme importance",
+    "content": "{The belief that moral value has supreme importance is supported by the idea that it should have a claim on one's most fundamental concerns as a rational agent}, {The notion that moral value is of supreme importance suggests that it should be prioritized over other kinds of value}",
+    "node_type": "reason",
+    "parent_id": "2d9dc942-db54-4cbb-a069-9a5a36b13e07",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7aac4a15-4c34-444e-b84d-bdb5a995d07c": {
+    "summary": "Constitutive luck affects moral agency",
+    "content": "{The capacity for moral agency is influenced by factors beyond one's control}, {These factors include one's upbringing and inherent abilities}, {Such factors are not equally distributed among individuals}",
+    "node_type": "reason",
+    "parent_id": "7ef494d0-5056-48b7-bf41-b2ef1a17fe4f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9f5567e5-610a-435f-8e8e-798dfec0415b": {
+    "summary": "Moral value and immunity to luck",
+    "content": "{There is a belief that moral value is immune to luck}, {This belief suggests that moral value is accessible to all rational agents}, {The belief implies that moral value should be of supreme importance}",
+    "node_type": "reason",
+    "parent_id": "7ef494d0-5056-48b7-bf41-b2ef1a17fe4f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1bac69a5-dbd7-47b2-b53b-d88deceac242": {
+    "summary": "Intrinsic and extrinsic luck in moral decisions",
+    "content": "{Intrinsic luck affects the success of a moral project}, {Extrinsic luck involves factors outside the agent's control}, {Both types of luck are necessary for the success of a moral decision}",
+    "node_type": "reason",
+    "parent_id": "7ef494d0-5056-48b7-bf41-b2ef1a17fe4f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "168880bc-2736-45d2-ac1d-4d2de991a91d": {
+    "summary": "Agent-regret and moral reflection",
+    "content": "{Agent-regret involves a personal wish that one had acted differently}, {This regret is distinct from general regret felt by observers}, {Agent-regret can influence one's moral reflection and future decisions}",
+    "node_type": "reason",
+    "parent_id": "7ef494d0-5056-48b7-bf41-b2ef1a17fe4f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0b014a76-1e7f-4b3a-8da3-a8e858099fd1": {
+    "summary": "Retrospective justification and moral success",
+    "content": "{Retrospective justification depends on the success of a moral decision}, {Success can validate the decision in the agent's perspective}, {Failure leads to fundamental regrets about the decision}",
+    "node_type": "reason",
+    "parent_id": "7ef494d0-5056-48b7-bf41-b2ef1a17fe4f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c85b6010-77a8-4d3f-8c63-0b7befc11ab9": {
+    "summary": "The impact of external factors on moral judgment",
+    "content": "{There is an intuition that moral value should be immune to luck}, {External factors beyond one's control can influence moral outcomes}, {The idea of moral luck challenges the notion of unconditioned moral value}",
+    "node_type": "reason",
+    "parent_id": "08ec290f-b322-4013-8b4d-e1b2cee37ad5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "938a8713-f533-4690-9ae5-1758bddec017": {
+    "summary": "The role of intention in moral evaluation",
+    "content": "{There is an intuition that intention is central to moral evaluation}, {Actual outcomes may not align with intentions due to unforeseen circumstances}, {The success or failure of actions can retrospectively affect the perceived justification of intentions}",
+    "node_type": "reason",
+    "parent_id": "08ec290f-b322-4013-8b4d-e1b2cee37ad5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7484ba01-412c-4390-8c3f-fcaa705588ca": {
+    "summary": "The significance of intrinsic versus extrinsic luck",
+    "content": "{Intrinsic luck relates to factors inherent to a project or decision}, {Extrinsic luck involves external factors that do not pertain to the core of the project}, {The distinction between intrinsic and extrinsic luck affects the retrospective justification of decisions}",
+    "node_type": "reason",
+    "parent_id": "08ec290f-b322-4013-8b4d-e1b2cee37ad5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9e3795f5-35a4-4ddc-bdb0-efcb5256612e": {
+    "summary": "Agent-regret and its implications",
+    "content": "{Agent-regret involves a personal wish that one had acted differently}, {Agent-regret is distinct from general regret felt by observers}, {The presence of agent-regret highlights the personal connection to one's actions and their outcomes}",
+    "node_type": "reason",
+    "parent_id": "08ec290f-b322-4013-8b4d-e1b2cee37ad5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e3530668-5c1b-4353-911d-1880a6e9b854": {
+    "summary": "The influence of moral and non-moral values",
+    "content": "{Moral values are often considered supreme and unconditioned}, {Non-moral values can sometimes conflict with moral values}, {The balance between moral and non-moral values can affect the justification of actions}",
+    "node_type": "reason",
+    "parent_id": "08ec290f-b322-4013-8b4d-e1b2cee37ad5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1067a956-dfc9-41b3-8ad5-e428f8ae6a0a": {
+    "summary": "The challenge of moral consistency",
+    "content": "{Moral consistency requires actions to be justifiable from a moral standpoint}, {Not all actions can be justified to all affected parties}, {The presence of moral luck complicates the notion of universal moral justification}",
+    "node_type": "reason",
+    "parent_id": "08ec290f-b322-4013-8b4d-e1b2cee37ad5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0d6c48ce-05e8-45f2-8510-f056b337a0a9": {
+    "summary": "Agent-regret involves a wish that one had acted otherwise",
+    "content": "{Agent-regret is a distinct form of regret that focuses on one's own past actions}, {Agent-regret involves a wish that one had acted differently in a given situation}, {Agent-regret can occur even when the action was involuntary or accidental}",
+    "node_type": "reason",
+    "parent_id": "03a4a043-a6bd-41c3-b333-c3081b9161cd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7f154cb7-5499-41c6-b2c4-8817caf5d266": {
+    "summary": "Agent-regret is distinct from spectator's regret",
+    "content": "{Agent-regret is different from the regret felt by a spectator}, {Agent-regret involves a personal connection to the action and its consequences}, {Agent-regret is expressed through actions or feelings of recompense or restitution}",
+    "node_type": "reason",
+    "parent_id": "03a4a043-a6bd-41c3-b333-c3081b9161cd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b80e6abb-1e55-4c1c-af92-3f87cbead396": {
+    "summary": "Agent-regret can apply to both voluntary and involuntary actions",
+    "content": "{Agent-regret can be felt for actions that were not voluntary}, {Agent-regret can extend to situations where one was causally responsible for an outcome}, {Agent-regret is acknowledged as different from general regret in our practices}",
+    "node_type": "reason",
+    "parent_id": "03a4a043-a6bd-41c3-b333-c3081b9161cd",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4ff4732b-646d-4eca-a95f-17f3cd763793": {
+    "summary": "The role of intrinsic and extrinsic luck in justification",
+    "content": "{Intrinsic luck affects the success of a project based on factors internal to the project}, {Extrinsic luck involves external factors that can impact the outcome of a project}, {Intrinsic luck is more relevant to the justification of a decision than extrinsic luck}",
+    "node_type": "reason",
+    "parent_id": "36ba2dc2-df7a-472e-9e8e-e35622545d35",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c0ffd186-ad89-42ba-9485-cc2b2fd22c80": {
+    "summary": "The impact of intrinsic failure on personal projects",
+    "content": "{Intrinsic failure reveals a project as empty and incapable of grounding an agent's life}, {Extrinsic failure does not discredit the project, allowing it to contribute to future aspirations}",
+    "node_type": "reason",
+    "parent_id": "36ba2dc2-df7a-472e-9e8e-e35622545d35",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "82611667-21ad-4d5a-9265-fa825df8951a": {
+    "summary": "The retrospective nature of justification",
+    "content": "{Justification for a decision can only be determined retrospectively based on the success of the project}, {Success provides a basis for the thought that the decision was justified}",
+    "node_type": "reason",
+    "parent_id": "36ba2dc2-df7a-472e-9e8e-e35622545d35",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "093b1bb6-86f0-4fa1-bcf3-f89c1f4203f2": {
+    "summary": "The distinction between agent-regret and spectator regret",
+    "content": "{Agent-regret involves a personal wish that one had acted differently}, {Spectator regret is a more detached feeling that can be experienced by anyone aware of the situation}",
+    "node_type": "reason",
+    "parent_id": "36ba2dc2-df7a-472e-9e8e-e35622545d35",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "68038235-1c0b-4319-9e66-588fa545bb5b": {
+    "summary": "The influence of moral luck on moral life",
+    "content": "{Moral luck challenges the idea that morality is immune to luck}, {The concept of moral luck suggests that moral outcomes can be influenced by factors beyond an individual's control}",
+    "node_type": "reason",
+    "parent_id": "36ba2dc2-df7a-472e-9e8e-e35622545d35",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "539ec0f9-96db-4aab-84d7-d47057ae78cc": {
+    "summary": "Happiness and Self-Sufficiency",
+    "content": "{Happiness is often seen as the end goal of life}, {Happiness is equated with reflective tranquility}, {Reflective tranquility is believed to result from self-sufficiency}, {What is outside the self's control is subject to luck}",
+    "node_type": "reason",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e5f2672f-8d8c-4bd6-b94f-b6c34cfc71ad": {
+    "summary": "Constitutive Luck and Moral Agency",
+    "content": "{The capacity for moral agency is supposedly present to any rational agent}, {Constitutive luck affects whether one is capable of becoming a sage or moral agent}, {The ancient sages benefited from constitutive luck}",
+    "node_type": "reason",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e3eac507-aad6-48db-abcc-29fde4475a85": {
+    "summary": "Moral Value and Immunity to Luck",
+    "content": "{Moral value is considered immune to luck}, {Moral value is seen as possessing supreme dignity or importance}, {The unconditioned will is thought to produce moral judgments free from external contingency}",
+    "node_type": "reason",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d9e9ca15-7b5d-472f-8744-0abaf9cb5fe2": {
+    "summary": "Intention and Moral Assessment",
+    "content": "{In moral assessment, intention is prioritized over actual changes in the world}, {Motive is considered more important than style, powers, or endowment}",
+    "node_type": "reason",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "510355e0-3603-4c5a-806b-0c0c1487f9e6": {
+    "summary": "Intrinsic and Extrinsic Luck",
+    "content": "{Intrinsic luck affects the success of a project from within}, {Extrinsic luck involves external factors that impact the outcome}, {Intrinsic failure reveals a project as empty and incapable of grounding an agent's life}",
+    "node_type": "reason",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "46f15ea8-3d4d-4039-a65a-e61def2477b1": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret involves a personal wish that one had acted differently}, {Agent-regret is distinct from general regret felt by a spectator}, {Agent-regret can extend to actions for which one was causally responsible}",
+    "node_type": "reason",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "59eeb5ba-af24-44b8-aed4-6f08a912d4fc": {
+    "summary": "Retrospective Justification",
+    "content": "{Justification for a decision can be retrospective}, {Success in a project can retrospectively justify a decision}, {Failure in a project can lead to regret and lack of justification}",
+    "node_type": "reason",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ca541ec0-f428-42cb-86bd-3afacac87428": {
+    "summary": "Moral Luck and Ethical Consistency",
+    "content": "{Moral luck affects the relation of one's life to morality}, {Moral luck influences the justification or lack of it in moral decisions}, {Moral luck is part of the moral life and its significance}",
+    "node_type": "reason",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a67fca14-2734-4000-acdd-4b2a4e9dfe2d": {
+    "summary": "Is moral value truly immune to luck?",
+    "content": "{There is a plausible principle that moral dispositions, however far back they are placed in the direction of motive and intention, are as 'conditioned' as anything else. This principle together with the idea that moral value is immune to luck entails that moral value is not immune to luck.}, {Consider a scenario in which a person makes a decision based on rational deliberation, but the outcome is determined by factors beyond their control. In such a scenario, intuitively we would judge that the person's moral standing is affected by luck.}, {Suppose we have a case in which a person's moral success or failure is determined by intrinsic factors beyond their control. Intuitively, we either have to say that moral value is conditioned by these factors or that moral value is independent of them. If we say moral value is conditioned by these factors, then moral value is not immune to luck. If we say moral value is independent of them, then moral value does not account for the agent's actual life.}",
+    "node_type": "antithesis",
+    "parent_id": "2d9dc942-db54-4cbb-a069-9a5a36b13e07",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1de4ed34-bfc3-4573-bf08-c20870c0083f": {
+    "summary": "Moral Value as Reflective Tranquility",
+    "content": "{Moral value is the end of life}, {Happiness is reflective tranquility}, {Tranquility is the product of self-sufficiency}, {What is not in the domain of the self is subject to luck}",
+    "node_type": "synthesis",
+    "parent_id": "a67fca14-2734-4000-acdd-4b2a4e9dfe2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "df1aecf0-b3ad-4041-aedc-ece18eab47e8": {
+    "summary": "Moral Value as Unconditioned Will",
+    "content": "{Moral value is immune to external contingency}, {Moral value is the product of the unconditioned will}, {Moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}",
+    "node_type": "synthesis",
+    "parent_id": "a67fca14-2734-4000-acdd-4b2a4e9dfe2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1207455f-cf55-42ed-8829-a8c0e2aa23f3": {
+    "summary": "Moral Value as Supreme Dignity",
+    "content": "{Moral value has supreme dignity}, {Moral value is accessible to all rational agents}, {Moral value is not merely one kind of value among others}, {Moral value has a claim on one's most fundamental concerns as a rational agent}",
+    "node_type": "synthesis",
+    "parent_id": "a67fca14-2734-4000-acdd-4b2a4e9dfe2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "eef4e578-3c31-43d8-80ec-81bcf2aedfaa": {
+    "summary": "Can moral value be unconditioned by external factors?",
+    "content": "{Consider a scenario in which a person's moral decision is influenced by their upbringing and social environment. In such a scenario, intuitively we would judge that external factors condition moral value.}, {There is a plausible principle that moral value is influenced by external contingencies such as upbringing and social environment. This principle together with the idea that moral value is unconditioned by external factors entails that moral value is conditioned by external factors.}, {Suppose we have a case in which a person's moral actions are shaped by their social context. Intuitively, we either have to say that moral value is conditioned by social context or that moral value is independent of it. If we say moral value is conditioned by social context, then moral value is not unconditioned by external factors. If we say moral value is independent of it, then moral value does not reflect the agent's real-world context.}",
+    "node_type": "antithesis",
+    "parent_id": "2d9dc942-db54-4cbb-a069-9a5a36b13e07",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d78c3817-fefc-44f6-9e32-0c406b62b7f4": {
+    "summary": "Moral Value Conditioned by Rational Agency",
+    "content": "{Moral value is immune to luck}, {Moral value is conditioned by rational agency}, {Moral value is accessible to all rational agents}, {Moral value has supreme importance}",
+    "node_type": "synthesis",
+    "parent_id": "eef4e578-3c31-43d8-80ec-81bcf2aedfaa",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "42ffb50b-6a44-4e75-b3f7-c5f4ffece942": {
+    "summary": "Moral Value as a Product of Rational Will",
+    "content": "{Moral value is immune to luck}, {Moral value is a product of the rational will}, {Moral value is accessible to all rational agents}, {Moral value has supreme importance}",
+    "node_type": "synthesis",
+    "parent_id": "eef4e578-3c31-43d8-80ec-81bcf2aedfaa",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5efbad91-90fb-460a-9907-362caa180219": {
+    "summary": "Moral Value and Constitutive Luck",
+    "content": "{Moral value is immune to incident luck}, {Moral value is subject to constitutive luck}, {Moral value is accessible to all rational agents}, {Moral value has supreme importance}",
+    "node_type": "synthesis",
+    "parent_id": "eef4e578-3c31-43d8-80ec-81bcf2aedfaa",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "57443128-8538-467b-98ce-f4c11e832103": {
+    "summary": "Is moral value truly accessible to all rational agents?",
+    "content": "{Consider a scenario in which a person lacks the capacity for moral agency due to cognitive limitations. In such a scenario, intuitively we would judge that moral value is not accessible to this person.}, {There is a plausible principle that not all rational agents possess the same capacity for moral agency. This principle together with the idea that moral value is accessible to all rational agents entails that moral value is not accessible to all rational agents.}, {Suppose we have a case in which a person is unable to comprehend moral principles due to cognitive impairments. Intuitively, we either have to say that moral value is not accessible to this person or that moral value is accessible regardless of comprehension. If we say moral value is not accessible to this person, then moral value is not accessible to all rational agents. If we say moral value is accessible regardless of comprehension, then moral value does not require understanding.}",
+    "node_type": "antithesis",
+    "parent_id": "2d9dc942-db54-4cbb-a069-9a5a36b13e07",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b5d66295-351d-406a-9451-5b7fb151d827": {
+    "summary": "Moral Value as Reflective Tranquility",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to rational agents with sufficient cognitive capacity}, {Moral value has supreme importance}",
+    "node_type": "synthesis",
+    "parent_id": "57443128-8538-467b-98ce-f4c11e832103",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3b0c666b-f655-4063-bafa-adeced9e349d": {
+    "summary": "Moral Value as Unconditioned Will",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to rational agents capable of moral judgment}, {Moral value has supreme importance}",
+    "node_type": "synthesis",
+    "parent_id": "57443128-8538-467b-98ce-f4c11e832103",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "823f0c04-7af0-4aa2-b8ea-68c438d2f303": {
+    "summary": "Does moral value have supreme importance?",
+    "content": "{Consider a scenario in which a person prioritizes personal happiness over moral obligations. In such a scenario, intuitively we would judge that moral value does not have supreme importance.}, {There is a plausible principle that moral value is one kind of value among others, such as personal happiness or artistic achievement. This principle together with the idea that moral value has supreme importance entails that moral value does not have supreme importance.}, {Suppose we have a case in which a person achieves great personal fulfillment at the expense of moral obligations. Intuitively, we either have to say that moral value is not supreme or that personal fulfillment is irrelevant. If we say moral value is not supreme, then moral value does not have supreme importance. If we say personal fulfillment is irrelevant, then moral value disregards significant aspects of human life.}",
+    "node_type": "antithesis",
+    "parent_id": "2d9dc942-db54-4cbb-a069-9a5a36b13e07",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f4ed8465-4b71-4fa9-82c0-c2a893c600df": {
+    "summary": "Kantian Moral Value with Limited Supremacy",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to all rational agents}, {Moral value is one kind of value among others}",
+    "node_type": "synthesis",
+    "parent_id": "823f0c04-7af0-4aa2-b8ea-68c438d2f303",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5d7f6e15-1289-4f4a-bfcb-6f0c635f6b10": {
+    "summary": "Kantian Moral Value with Contextual Supremacy",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to all rational agents}, {Moral value has supreme importance in specific contexts}",
+    "node_type": "synthesis",
+    "parent_id": "823f0c04-7af0-4aa2-b8ea-68c438d2f303",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "832fe2a9-3fce-40d1-808e-8fa1f92b3bbc": {
+    "summary": "Is morality truly immune to constitutive luck?",
+    "content": "{The Kantian view suggests that moral value is immune to luck and is unconditioned, meaning it is not influenced by external factors or contingencies.}, {The Kantian conception implies that morality is accessible to all rational agents equally, suggesting that constitutive luck should not affect one's moral capacity.}, {The idea that morality is immune to luck is challenged by the notion that moral dispositions, motives, and intentions are conditioned by factors beyond one's control, indicating that constitutive luck does play a role.}",
+    "node_type": "antithesis",
+    "parent_id": "7ef494d0-5056-48b7-bf41-b2ef1a17fe4f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "71b4f58d-417d-4f0e-a923-a849686dd3a1": {
+    "summary": "Moral Value as Unconditioned",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to all rational agents equally}",
+    "node_type": "synthesis",
+    "parent_id": "832fe2a9-3fce-40d1-808e-8fa1f92b3bbc",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "272207fa-9ac0-4cf9-bda2-dfdfe972a73d": {
+    "summary": "Rational Agency and Moral Capacity",
+    "content": "{The capacity for moral agency is present in all rational agents}, {Moral agency is not influenced by constitutive luck}, {Moral agency is determined by rationality and intention}",
+    "node_type": "synthesis",
+    "parent_id": "832fe2a9-3fce-40d1-808e-8fa1f92b3bbc",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a8b266de-88ce-4741-a0ed-3b57100bf9bc": {
+    "summary": "Intrinsic Value of Moral Intentions",
+    "content": "{Moral value is determined by intention rather than outcomes}, {Moral intentions are free from external contingencies}, {Moral assessment is based on the unconditioned will}",
+    "node_type": "synthesis",
+    "parent_id": "832fe2a9-3fce-40d1-808e-8fa1f92b3bbc",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7f703331-b793-4115-b8a6-d76bdb0c1bce": {
+    "summary": "Can moral agency be truly self-sufficient?",
+    "content": "{The notion of self-sufficiency in morality implies that one's moral agency is independent of external influences and luck.}, {The idea of self-sufficiency is challenged by the fact that one's capacity for moral agency can be influenced by constitutive luck, such as one's upbringing or inherent abilities.}, {The concept of self-sufficiency in moral agency is further questioned by the observation that moral decisions and their outcomes are often influenced by factors beyond one's control, suggesting that constitutive luck affects moral agency.}",
+    "node_type": "antithesis",
+    "parent_id": "7ef494d0-5056-48b7-bf41-b2ef1a17fe4f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d055e804-6c81-47dd-b5a7-c07b2d619a73": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {The capacity for moral agency is present in all rational agents}, {Moral value possesses supreme dignity and importance}",
+    "node_type": "synthesis",
+    "parent_id": "7f703331-b793-4115-b8a6-d76bdb0c1bce",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fdb751b7-775f-4526-a389-917b11ca4bdd": {
+    "summary": "Rational Justification Perspective",
+    "content": "{Rational justification is independent of moral outcomes}, {The rationality of a decision is assessed retrospectively}, {Rational deliberation is essential for agent's self-assessment}, {Success or failure in a project affects the agent's retrospective justification}",
+    "node_type": "synthesis",
+    "parent_id": "7f703331-b793-4115-b8a6-d76bdb0c1bce",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a30304ca-ce89-4796-952a-be06f1fd4cd4": {
+    "summary": "Does constitutive luck undermine the outcomes of moral decisions?",
+    "content": "{The Kantian perspective holds that moral decisions and their outcomes should be free from the influence of luck, maintaining a sense of moral justice.}, {The idea that moral decisions are immune to luck is challenged by the notion that constitutive luck can influence the outcomes of moral decisions, as seen in cases where success or failure is determined by factors beyond the agent's control.}, {The influence of constitutive luck on moral decisions raises questions about the fairness and justice of moral assessments, as outcomes may not solely reflect the agent's intentions or efforts.}",
+    "node_type": "antithesis",
+    "parent_id": "7ef494d0-5056-48b7-bf41-b2ef1a17fe4f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "065ac006-1493-4ea9-8219-34fdca013703": {
+    "summary": "Moral Value as Unconditioned",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to all rational agents}",
+    "node_type": "synthesis",
+    "parent_id": "a30304ca-ce89-4796-952a-be06f1fd4cd4",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "02435a5f-5c0f-4a69-8d81-0a242d640cf2": {
+    "summary": "Intrinsic Luck and Moral Agency",
+    "content": "{Intrinsic luck affects the success of moral projects}, {Intrinsic luck is related to the agent's own capacities}, {Intrinsic luck does not undermine moral agency}",
+    "node_type": "synthesis",
+    "parent_id": "a30304ca-ce89-4796-952a-be06f1fd4cd4",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bcfdf332-5a6e-4f7e-bb7d-c9623e3b563d": {
+    "summary": "Rational Justification and Retrospective Success",
+    "content": "{Rational justification is linked to the success of a project}, {Success retrospectively justifies the decision}, {Failure leads to regret and lack of justification}",
+    "node_type": "synthesis",
+    "parent_id": "a30304ca-ce89-4796-952a-be06f1fd4cd4",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d8c3378b-7577-4633-815d-d151cc5d8494": {
+    "summary": "Can retrospective justification truly account for moral luck?",
+    "content": "{The concept of moral luck suggests that outcomes beyond an individual's control can affect the moral assessment of their actions.}, {If success or failure of a project is determined by factors outside the agent's control, then the justification of the decision cannot solely depend on the outcome.}, {The notion of retrospective justification implies that success can justify a decision, but this conflicts with the idea that moral value should be immune to luck.}",
+    "node_type": "antithesis",
+    "parent_id": "08ec290f-b322-4013-8b4d-e1b2cee37ad5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7d353cf6-90bd-4e3c-8d43-4ff662d494f7": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is determined by the unconditioned will}, {Moral assessment is based on intention rather than outcomes}",
+    "node_type": "synthesis",
+    "parent_id": "d8c3378b-7577-4633-815d-d151cc5d8494",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e41fdee0-f334-482e-a921-ad64ec0f8656": {
+    "summary": "Intrinsic Luck Distinction",
+    "content": "{Intrinsic luck affects the success of a project}, {Intrinsic luck is related to the agent's abilities and characteristics}, {Extrinsic luck does not affect the justification of a decision}",
+    "node_type": "synthesis",
+    "parent_id": "d8c3378b-7577-4633-815d-d151cc5d8494",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4be4543b-ea79-4564-8da8-78dbd1056b7a": {
+    "summary": "Agent-Regret Framework",
+    "content": "{Agent-regret is a feeling towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from spectator's regret}",
+    "node_type": "synthesis",
+    "parent_id": "d8c3378b-7577-4633-815d-d151cc5d8494",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5f872679-d9b7-4c49-96a9-aebcdc08b0f6": {
+    "summary": "Rational Deliberation Justification",
+    "content": "{Rational deliberation can justify a decision}, {A decision is justified if it follows from rational deliberation}, {Regret about a decision can be mitigated by rational deliberation}",
+    "node_type": "synthesis",
+    "parent_id": "d8c3378b-7577-4633-815d-d151cc5d8494",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f245249e-1e4a-495e-ad84-f9645b075c2d": {
+    "summary": "Does the concept of intrinsic and extrinsic luck challenge retrospective justification?",
+    "content": "{Intrinsic luck refers to factors inherent to the project that affect its success or failure, while extrinsic luck involves external factors.}, {If a project's success or failure is due to intrinsic luck, it suggests that the agent's decision was justified or unjustified based on factors beyond their control.}, {Retrospective justification, which relies on the outcome, fails to account for the distinction between intrinsic and extrinsic luck, undermining the idea that success alone can justify a decision.}",
+    "node_type": "antithesis",
+    "parent_id": "08ec290f-b322-4013-8b4d-e1b2cee37ad5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "75c757c6-0e93-4cf9-86e6-7fe40afef603": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to all rational agents}, {Moral value possesses supreme dignity and importance}",
+    "node_type": "synthesis",
+    "parent_id": "f245249e-1e4a-495e-ad84-f9645b075c2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "97498592-616d-4c90-8d57-a68d4cc8e36e": {
+    "summary": "Intrinsic and Extrinsic Luck Distinction",
+    "content": "{Intrinsic luck refers to factors inherent to a project that affect its success or failure}, {Extrinsic luck involves external factors affecting a project's outcome}, {Intrinsic luck is relevant to the justification of a decision}, {Extrinsic luck does not unjustify a decision}",
+    "node_type": "synthesis",
+    "parent_id": "f245249e-1e4a-495e-ad84-f9645b075c2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c9c23641-cec8-4818-b810-58209c5bbf59": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret is a feeling towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can occur even in involuntary actions}",
+    "node_type": "synthesis",
+    "parent_id": "f245249e-1e4a-495e-ad84-f9645b075c2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "379de42f-2f53-47dc-8edd-7b04b86c5bfe": {
+    "summary": "Retrospective Justification through Success",
+    "content": "{Justification of a decision can be determined retrospectively}, {Success of a project can justify the decision}, {Failure of a project can render the decision unjustified}, {Intrinsic failure reveals the project as incapable of grounding the agent's life}",
+    "node_type": "synthesis",
+    "parent_id": "f245249e-1e4a-495e-ad84-f9645b075c2d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "329c1495-9bf7-4a3f-8553-aa993812e106": {
+    "summary": "Is agent-regret compatible with retrospective justification?",
+    "content": "{Agent-regret involves a personal wish that one had acted differently, based on the outcome of one's actions.}, {If retrospective justification depends on success, then agent-regret would be irrelevant, as the outcome alone would determine justification.}, {The presence of agent-regret suggests that justification cannot be solely retrospective, as it involves a personal assessment of one's actions beyond the outcome.}",
+    "node_type": "antithesis",
+    "parent_id": "08ec290f-b322-4013-8b4d-e1b2cee37ad5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "55eb69d3-e6b5-4b8d-abba-bf77e26272f4": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {Moral value is accessible to all rational agents}, {Moral value has supreme importance}",
+    "node_type": "synthesis",
+    "parent_id": "329c1495-9bf7-4a3f-8553-aa993812e106",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dc2e2577-4086-4cec-a028-ee5f2cc58080": {
+    "summary": "Intrinsic Luck and Justification",
+    "content": "{Intrinsic luck affects the success of a project}, {Intrinsic luck is related to the agent's abilities}, {Intrinsic luck determines the justification of a decision}, {Extrinsic luck does not affect the justification of a decision}",
+    "node_type": "synthesis",
+    "parent_id": "329c1495-9bf7-4a3f-8553-aa993812e106",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9960e24e-0cef-452f-b29d-26eb6726b15d": {
+    "summary": "Agent-Regret and Moral Assessment",
+    "content": "{Agent-regret involves a personal wish that one had acted differently}, {Agent-regret is distinct from general regret}, {Agent-regret requires a first-personal perspective}, {Agent-regret can coexist with moral justification}",
+    "node_type": "synthesis",
+    "parent_id": "329c1495-9bf7-4a3f-8553-aa993812e106",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ee609724-c4b6-4e63-a297-af2edadc2f1f": {
+    "summary": "Does the role of moral value challenge the idea of retrospective justification?",
+    "content": "{Moral value is often considered to be immune to luck and should not be determined by outcomes.}, {If retrospective justification relies on the success of a project to justify a decision, it implies that moral value is contingent on luck.}, {This reliance on outcomes contradicts the notion that moral value should be unconditioned and independent of luck.}",
+    "node_type": "antithesis",
+    "parent_id": "08ec290f-b322-4013-8b4d-e1b2cee37ad5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8ea90d9a-c317-48d2-97aa-5b5c258bb35a": {
+    "summary": "Intrinsic Justification",
+    "content": "{Justification of a decision can be determined retrospectively}, {Success of a project can justify the decision}, {Intrinsic success, rather than extrinsic factors, is what justifies the decision}",
+    "node_type": "synthesis",
+    "parent_id": "ee609724-c4b6-4e63-a297-af2edadc2f1f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "755d2c39-dd90-4435-a303-de7f3a71f236": {
+    "summary": "Constitutive Luck Acceptance",
+    "content": "{Justification of a decision can be determined retrospectively}, {Success of a project can justify the decision}, {Constitutive luck, which affects the agent's abilities, is acknowledged as part of the justification process}",
+    "node_type": "synthesis",
+    "parent_id": "ee609724-c4b6-4e63-a297-af2edadc2f1f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7d787c80-5b2d-4181-b0b5-82acd5b3189b": {
+    "summary": "Agent-Regret Consideration",
+    "content": "{Justification of a decision can be determined retrospectively}, {Success of a project can justify the decision}, {Agent-regret, a personal reflection on one's own actions, plays a role in the justification process}",
+    "node_type": "synthesis",
+    "parent_id": "ee609724-c4b6-4e63-a297-af2edadc2f1f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "75359b60-9932-4fd7-90d1-1a67ae2cb435": {
+    "summary": "Can agent-regret be justified if it involves involuntary actions?",
+    "content": "{Agent-regret can extend to involuntary actions, such as when a lorry driver accidentally runs over a child, and the driver feels differently from a spectator, even though it was not his fault.}, {The sentiment of agent-regret is acknowledged in practice as being different from regret in general, which might be felt by a spectator.}, {It is important that the driver is moved from the state of agent-regret to a more spectator-like position, but this transition is seen as necessary, indicating that agent-regret is distinct and significant.}",
+    "node_type": "antithesis",
+    "parent_id": "03a4a043-a6bd-41c3-b333-c3081b9161cd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "13e6d663-fea5-4476-8e8d-af72af35918c": {
+    "summary": "Is agent-regret a coherent concept if it involves retrospective justification?",
+    "content": "{Agent-regret involves a wish that one had acted otherwise, but this wish only fully develops when failure is declared.}, {The justification for actions like Gauguin's is essentially retrospective, meaning that success or failure determines whether the decision was justified.}, {In cases of intrinsic failure, the project is revealed as empty, incapable of grounding the agent's life, which affects the agent's retrospective assessment and sense of justification.}",
+    "node_type": "antithesis",
+    "parent_id": "03a4a043-a6bd-41c3-b333-c3081b9161cd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1eb206f0-cea6-45b1-bf4f-35b95e70c753": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {The capacity for moral agency is present in all rational agents}, {Moral value has supreme dignity and importance}",
+    "node_type": "synthesis",
+    "parent_id": "13e6d663-fea5-4476-8e8d-af72af35918c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c39fbf4d-a57c-4ff9-bdaa-7e927742f137": {
+    "summary": "Rational Justification Perspective",
+    "content": "{Rational justification is not subject to luck}, {The agent's reflective assessment of actions is based on rational justification}, {The agent's justification is determined by success or failure of the project}",
+    "node_type": "synthesis",
+    "parent_id": "13e6d663-fea5-4476-8e8d-af72af35918c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9b455d8d-b4b0-43cf-b005-7a9d6f7488e0": {
+    "summary": "Intrinsic and Extrinsic Luck Distinction",
+    "content": "{Intrinsic luck affects the justification of a decision}, {Extrinsic luck affects the success of a project but not its justification}, {Intrinsic failure reveals the project as incapable of grounding the agent's life}",
+    "node_type": "synthesis",
+    "parent_id": "13e6d663-fea5-4476-8e8d-af72af35918c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8dbc1c8e-3406-4672-ad02-711f12f71b49": {
+    "summary": "Agent-Regret and Moral Luck",
+    "content": "{Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can apply to both voluntary and involuntary actions}, {Agent-regret is influenced by the success or failure of the project}",
+    "node_type": "synthesis",
+    "parent_id": "13e6d663-fea5-4476-8e8d-af72af35918c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f7417572-cef4-454e-99d9-918075568346": {
+    "summary": "Does agent-regret conflict with the idea of moral luck?",
+    "content": "{The concept of moral luck suggests that morality is subject to luck, which challenges the idea that moral value is immune to external contingencies.}, {Agent-regret, as a form of moral reflection, seems to acknowledge the role of luck in moral assessments, which conflicts with the idea that moral value is unconditioned.}, {The notion of moral luck implies that the moral life is deeply intertwined with luck, which complicates the idea of agent-regret being a purely moral sentiment.}",
+    "node_type": "antithesis",
+    "parent_id": "03a4a043-a6bd-41c3-b333-c3081b9161cd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "338a4248-d5c5-4e98-adbc-7afed86a99de": {
+    "summary": "Agent-Regret with Moral Reflection",
+    "content": "{Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can apply to both voluntary and involuntary actions}, {Agent-regret acknowledges the role of luck in moral assessments}, {Agent-regret does not conflict with the idea that moral value is unconditioned}",
+    "node_type": "synthesis",
+    "parent_id": "f7417572-cef4-454e-99d9-918075568346",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "71c680fc-179f-4fd5-817d-f0aba00b8d09": {
+    "summary": "Agent-Regret with Constitutive Luck",
+    "content": "{Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can apply to both voluntary and involuntary actions}, {Agent-regret is compatible with the idea that constitutive luck affects moral life}, {Agent-regret acknowledges that moral life is intertwined with luck}",
+    "node_type": "synthesis",
+    "parent_id": "f7417572-cef4-454e-99d9-918075568346",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b34b79d7-40a2-4cfd-babb-2d5d6a25d63f": {
+    "summary": "Can agent-regret be reconciled with the Kantian view of morality?",
+    "content": "{The Kantian view holds that moral value is unconditioned and immune to luck, suggesting that moral judgments should not be influenced by external contingencies.}, {Agent-regret, which involves a personal wish that one had acted otherwise, seems to acknowledge the influence of luck on moral decisions, challenging the Kantian view.}, {The Kantian conception of morality as supreme and immune to luck conflicts with the idea that agent-regret can apply to both voluntary and involuntary actions.}",
+    "node_type": "antithesis",
+    "parent_id": "03a4a043-a6bd-41c3-b333-c3081b9161cd",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e65e71f4-6007-409c-839b-b51e7534f734": {
+    "summary": "Is intrinsic luck truly more relevant to decision justification than extrinsic luck?",
+    "content": "{Consider a scenario in which a person makes a decision based on intrinsic factors, such as their own abilities or motivations, and the decision results in failure due to extrinsic factors, like unforeseen external events. In such a scenario, intuitively we would judge that the decision's justification is affected by both intrinsic and extrinsic factors.}, {There is a plausible principle that the justification of a decision should consider all relevant factors, both intrinsic and extrinsic. This principle together with the notion that intrinsic luck is more relevant to justification entails that extrinsic factors might be unjustly overlooked.}",
+    "node_type": "antithesis",
+    "parent_id": "36ba2dc2-df7a-472e-9e8e-e35622545d35",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e994532e-6d0d-4c0e-9eef-1b3c680ad4a5": {
+    "summary": "Moral Value as Immune to Luck",
+    "content": "{Moral value is immune to luck}, {Moral value is the product of the unconditioned will}, {Anything which is the product of contingency is no proper object of moral assessment}",
+    "node_type": "synthesis",
+    "parent_id": "e65e71f4-6007-409c-839b-b51e7534f734",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "da16693a-1faa-47be-9d66-89318ff6542d": {
+    "summary": "Rational Justification Independent of Luck",
+    "content": "{Rational justification is independent of luck}, {The agent's reflective assessment of their actions is not a matter of luck}, {The agent's justification is determined by their rational deliberation}",
+    "node_type": "synthesis",
+    "parent_id": "e65e71f4-6007-409c-839b-b51e7534f734",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "76bcb2ab-c97b-4a6d-808e-b2c751d9a79d": {
+    "summary": "Intrinsic and Extrinsic Luck in Projects",
+    "content": "{Intrinsic luck relates to factors within the project itself}, {Extrinsic luck relates to external factors affecting the project}, {Both intrinsic and extrinsic luck are necessary for success}",
+    "node_type": "synthesis",
+    "parent_id": "e65e71f4-6007-409c-839b-b51e7534f734",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "59173773-e786-4ccf-822c-56e9da35dfda": {
+    "summary": "Can moral value be immune to luck if intrinsic factors are also subject to luck?",
+    "content": "{Consider a scenario where a person's moral character is shaped by intrinsic factors such as upbringing and personal experiences, which are themselves subject to luck. In such a scenario, intuitively we would judge that moral value cannot be entirely immune to luck.}, {It is implausible that intrinsic factors, which are subject to constitutive luck, can provide a basis for moral value that is completely immune to luck.}",
+    "node_type": "antithesis",
+    "parent_id": "36ba2dc2-df7a-472e-9e8e-e35622545d35",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d17aa585-6c86-43c9-a0ac-2096e568d95e": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned}, {Moral judgments are free from external contingency}, {The capacity for moral agency is present in all rational agents}, {Moral value possesses supreme dignity and importance}",
+    "node_type": "synthesis",
+    "parent_id": "59173773-e786-4ccf-822c-56e9da35dfda",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "964a00f2-9076-4bb6-8a84-46b29dd6c921": {
+    "summary": "Rational Justification Perspective",
+    "content": "{Rational justification is central to moral decisions}, {Success justifies decisions retrospectively}, {Intrinsic luck affects justification}, {Extrinsic luck affects success but not justification}, {Agent-regret involves a wish that things had been otherwise}",
+    "node_type": "synthesis",
+    "parent_id": "59173773-e786-4ccf-822c-56e9da35dfda",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8750339c-92ac-4cf0-abcd-678db0bb80da": {
+    "summary": "Does the distinction between intrinsic and extrinsic luck hold in all cases?",
+    "content": "{Suppose we have a case in which a person's success in a project depends on both their intrinsic talent and extrinsic opportunities. Intuitively, we either have to say that both types of luck are equally relevant or that one is more relevant than the other. If we say intrinsic luck is more relevant, then we overlook the significant role of extrinsic opportunities. If we say extrinsic luck is more relevant, then we undermine the importance of intrinsic talent.}",
+    "node_type": "antithesis",
+    "parent_id": "36ba2dc2-df7a-472e-9e8e-e35622545d35",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1d16fcb9-733b-4964-9e25-37b66184f152": {
+    "summary": "Moral Value as Immune to Luck",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {The capacity for moral agency is present to any rational agent}",
+    "node_type": "synthesis",
+    "parent_id": "8750339c-92ac-4cf0-abcd-678db0bb80da",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "338bee6c-2bd1-4c70-9072-dc9089d7b545": {
+    "summary": "Rational Justification Independent of Outcome",
+    "content": "{Rational justification is independent of the outcome}, {The justification of a decision is retrospective}, {Success itself justifies the decision}",
+    "node_type": "synthesis",
+    "parent_id": "8750339c-92ac-4cf0-abcd-678db0bb80da",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "53d82932-8826-44e8-84d5-e8de85561b03": {
+    "summary": "Intrinsic and Extrinsic Luck in Projects",
+    "content": "{Intrinsic luck relates to factors within the project itself}, {Extrinsic luck relates to external factors affecting the project}, {Intrinsic luck is more relevant to the justification of a decision}",
+    "node_type": "synthesis",
+    "parent_id": "8750339c-92ac-4cf0-abcd-678db0bb80da",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2024384c-71ef-4780-98ab-5b2d5195b8cd": {
+    "summary": "Can retrospective justification rely solely on intrinsic success?",
+    "content": "{Consider a scenario where a person makes a decision based on intrinsic factors and succeeds, but the success is largely due to extrinsic circumstances. In such a scenario, intuitively we would judge that the justification of the decision cannot rely solely on intrinsic success.}, {There is a plausible principle that justification should account for the actual reasons behind success or failure. This principle together with the reliance on intrinsic success for justification entails that extrinsic factors should also be considered.}",
+    "node_type": "antithesis",
+    "parent_id": "36ba2dc2-df7a-472e-9e8e-e35622545d35",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "de6863f7-b3f2-4b51-adb6-2c683fb12f0d": {
+    "summary": "Moral Value as Immune to Luck",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {The disposition to correct moral judgment is free from external contingency}, {The objects of moral judgment are free from external contingency}",
+    "node_type": "synthesis",
+    "parent_id": "2024384c-71ef-4780-98ab-5b2d5195b8cd",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "41005046-71cf-41a0-bdc1-f0dea764b0ed": {
+    "summary": "Intrinsic and Extrinsic Luck in Moral Projects",
+    "content": "{Intrinsic luck relates to factors within the project itself}, {Extrinsic luck relates to external factors affecting the project}, {Intrinsic luck is more relevant to the justification of a decision}, {Success in a project can justify a decision retrospectively}",
+    "node_type": "synthesis",
+    "parent_id": "2024384c-71ef-4780-98ab-5b2d5195b8cd",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2f4245d9-819e-4bf5-a735-203df213795c": {
+    "summary": "Rational Justification and Retrospective Success",
+    "content": "{Rational justification is linked to the success of a project}, {Success in a project can retrospectively justify a decision}, {Failure in a project can retrospectively unjustify a decision}, {Intrinsic factors are more relevant to justification than extrinsic factors}",
+    "node_type": "synthesis",
+    "parent_id": "2024384c-71ef-4780-98ab-5b2d5195b8cd",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "57aedc64-0be9-4612-a914-9c0667f66596": {
+    "summary": "Agent-Regret and Moral Reflection",
+    "content": "{Agent-regret is a feeling towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from regret felt by a spectator}, {Agent-regret can influence moral reflection and assessment}",
+    "node_type": "synthesis",
+    "parent_id": "2024384c-71ef-4780-98ab-5b2d5195b8cd",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e7880d93-42ee-42e7-9dbd-c7b4aa6f7cb5": {
+    "summary": "Moral Luck and Constitutive Luck",
+    "content": "{Moral luck is the influence of luck on moral judgment}, {Constitutive luck affects one's moral capacities and dispositions}, {Moral luck challenges the idea of morality being immune to luck}, {Moral luck can affect the justification of moral actions}",
+    "node_type": "synthesis",
+    "parent_id": "2024384c-71ef-4780-98ab-5b2d5195b8cd",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9b0ee8bd-1c15-4c00-b868-cdf0f2e4b28b": {
+    "summary": "Can moral value truly be immune to luck?",
+    "content": "{The idea that moral value is immune to luck is challenged by the notion that moral dispositions, motives, and intentions are as conditioned by external factors as anything else.}, {The Kantian conception of morality, which seeks to make moral value supreme and unconditioned by luck, is bound to be disappointed because morality is deeply subject to constitutive luck.}, {The attempt to make morality immune to luck is so intimate to our notion of morality that its failure may lead us to question whether we should give up that notion altogether.}",
+    "node_type": "antithesis",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1f009329-3b8e-40ad-b0f7-88f79e0fbb28": {
+    "summary": "Is retrospective justification truly valid?",
+    "content": "{In cases like Gauguin's, the only thing that will justify his choice is success itself, which means that justification is essentially retrospective.}, {The notion of justification that cannot be applied at the time of choice challenges the idea that rationality and justification should be based on considerations available at the time of decision.}, {The retrospective justification based on success undermines the idea that moral or rational justification should be determined independently of outcomes.}",
+    "node_type": "antithesis",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "db7774c4-b184-4830-b9f6-2bdc16e563eb": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is the supreme form of value}, {Moral value is accessible to all rational agents}, {Moral value is determined by intention rather than outcomes}",
+    "node_type": "synthesis",
+    "parent_id": "1f009329-3b8e-40ad-b0f7-88f79e0fbb28",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "97b6576e-b81b-4e4e-8805-351ea512ad32": {
+    "summary": "Intrinsic and Extrinsic Luck Distinction",
+    "content": "{Intrinsic luck affects the success of a project}, {Extrinsic luck does not discredit the project}, {Intrinsic failure reveals the project as empty}, {Extrinsic failure does not reveal the project as empty}",
+    "node_type": "synthesis",
+    "parent_id": "1f009329-3b8e-40ad-b0f7-88f79e0fbb28",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7ea419c3-c83c-456d-8cda-6ad3cab3138c": {
+    "summary": "Agent-Regret and Moral Luck",
+    "content": "{Agent-regret is a sentiment towards one's own past actions}, {Agent-regret involves a wish that one had acted otherwise}, {Agent-regret is distinct from spectator's regret}, {Agent-regret can exist even in involuntary actions}",
+    "node_type": "synthesis",
+    "parent_id": "1f009329-3b8e-40ad-b0f7-88f79e0fbb28",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6b867d61-7442-480d-a30c-00d10540d316": {
+    "summary": "Retrospective Justification by Success",
+    "content": "{Success can retrospectively justify a decision}, {Failure leads to basic regrets about the decision}, {The decision is justified for the agent by success}, {The decision is unjustified for the agent by failure}",
+    "node_type": "synthesis",
+    "parent_id": "1f009329-3b8e-40ad-b0f7-88f79e0fbb28",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9d1c30a9-7aa4-4230-b130-dc65467145a8": {
+    "summary": "Can moral decisions be justified without universal acceptance?",
+    "content": "{Gauguin may not be able to justify himself to others, as those who suffer from his decision may have justified grounds of reproach.}, {The idea that moral justifications should silence all complaints is unrealistically strong, as seen in political cases where moral costs are acknowledged.}, {The fact that these agents' justifications would not silence all complaints does not necessarily mean they are not moral justifications, but it raises questions about the nature of moral justification.}",
+    "node_type": "antithesis",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b49b37d5-cf6c-4641-ae59-e045a526b4cd": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is supreme and holds a special dignity}, {The capacity for moral agency is present in all rational agents}, {Moral judgments are free from external contingency}",
+    "node_type": "synthesis",
+    "parent_id": "9d1c30a9-7aa4-4230-b130-dc65467145a8",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "755f714b-cfec-434d-87de-7dc67283d395": {
+    "summary": "Reflective Tranquillity and Self-Sufficiency",
+    "content": "{Happiness is reflective tranquillity}, {Tranquillity is the product of self-sufficiency}, {What is not in the domain of the self is subject to luck}",
+    "node_type": "synthesis",
+    "parent_id": "9d1c30a9-7aa4-4230-b130-dc65467145a8",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d64f828e-0001-458e-97d8-7a2e773ae759": {
+    "summary": "Intrinsic and Extrinsic Luck in Moral Justification",
+    "content": "{Intrinsic luck affects the success of a project}, {Extrinsic luck does not discredit the project}, {Success justifies the decision retrospectively}",
+    "node_type": "synthesis",
+    "parent_id": "9d1c30a9-7aa4-4230-b130-dc65467145a8",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3e10d94b-28f1-4219-a7c5-57af6ee3ddec": {
+    "summary": "Does agent-regret reveal a flaw in moral justification?",
+    "content": "{Agent-regret involves a wish that one had acted otherwise, which is distinct from spectator's regret and indicates a personal connection to one's actions.}, {The presence of agent-regret in cases of involuntary agency suggests that moral justification cannot be entirely separated from the outcomes of one's actions.}, {The existence of agent-regret challenges the idea that moral justification can be purely rational and independent of the consequences of one's actions.}",
+    "node_type": "antithesis",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5570520e-2276-4f3b-9b34-d0a635bcc101": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is unconditioned by external factors}, {Moral value is accessible to all rational agents}, {Moral value possesses supreme dignity and importance}",
+    "node_type": "synthesis",
+    "parent_id": "3e10d94b-28f1-4219-a7c5-57af6ee3ddec",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8e2fb176-1493-434b-87fe-99513b88277d": {
+    "summary": "Rational Justification and Retrospective Success",
+    "content": "{Rational justification is determined retrospectively by success}, {Intrinsic success justifies the decision}, {Extrinsic failure does not discredit the project}, {The agent's sense of significance is conditioned by the project's outcome}",
+    "node_type": "synthesis",
+    "parent_id": "3e10d94b-28f1-4219-a7c5-57af6ee3ddec",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6616f7c8-c541-4bb7-82b3-e959116093a2": {
+    "summary": "Constitutive Luck and Moral Agency",
+    "content": "{Constitutive luck affects one's capacity for moral agency}, {The capacity for moral agency is present in all rational agents}, {Moral agency is not dependent on external contingencies}, {Moral life is a career open to all rational beings}",
+    "node_type": "synthesis",
+    "parent_id": "3e10d94b-28f1-4219-a7c5-57af6ee3ddec",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "97abc85c-b7bb-4b9b-a95f-178c98b877bf": {
+    "summary": "Is the concept of morality undermined by luck?",
+    "content": "{Skepticism about the freedom of morality from luck cannot leave the concept of morality where it was, as it challenges the image of a moral order that transcends luck.}, {The involvement of morality with luck suggests that the concept of morality may be less important than it is usually taken to be.}, {The recognition of moral luck forces us to question the motive of establishing a dimension of decision and assessment that hopes to transcend luck.}",
+    "node_type": "antithesis",
+    "parent_id": "fce3bdea-0d99-4165-8d9b-0196e408fffb",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "eef98423-d6eb-440f-9f5b-cd038e7e3066": {
+    "summary": "Kantian Moral Immunity",
+    "content": "{Moral value is immune to luck}, {Moral value is supreme and possesses special dignity}, {The capacity for moral agency is present to any rational agent}",
+    "node_type": "synthesis",
+    "parent_id": "97abc85c-b7bb-4b9b-a95f-178c98b877bf",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "79a9a94e-3881-4704-aa14-50bbd79d0ae8": {
+    "summary": "Reflective Tranquillity and Self-Sufficiency",
+    "content": "{Happiness is reflective tranquillity}, {Tranquillity is the product of self-sufficiency}, {What is not in the domain of the self is subject to luck}",
+    "node_type": "synthesis",
+    "parent_id": "97abc85c-b7bb-4b9b-a95f-178c98b877bf",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}

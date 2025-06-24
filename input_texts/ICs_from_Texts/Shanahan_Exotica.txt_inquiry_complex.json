@@ -1,0 +1,1275 @@
+{
+  "25cf0ed4-4994-4516-bd49-dc214991bbf0": {
+    "summary": "{The ethical considerations of AI consciousness}",
+    "content": "What are the ethical considerations associated with the philosophical treatment of consciousness in AI, and how might they impact societal attitudes and policies?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "835b04ad-f351-4a0e-8b48-9221d5f3e844": {
+    "summary": "Embodiment and Shared World",
+    "content": "{For an entity to be considered a candidate for consciousness, it must be possible to engineer an encounter with it}, {An encounter requires the entity to be embodied in a world shared with humans}, {The language of consciousness is grounded in shared experiences and interactions in a common environment}",
+    "node_type": "thesis",
+    "parent_id": "25cf0ed4-4994-4516-bd49-dc214991bbf0",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8243ecd1-ce73-4ae8-a73b-5730bf073a30": {
+    "summary": "Role-Play and Authenticity",
+    "content": "{LLM-based conversational agents can be seen as role-playing entities with beliefs and intentions}, {Role-playing does not equate to authentic consciousness}, {The gap between role-play and authenticity may close with further enhancements to AI systems}",
+    "node_type": "thesis",
+    "parent_id": "25cf0ed4-4994-4516-bd49-dc214991bbf0",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c": {
+    "summary": "Exotic Consciousness and Encounters",
+    "content": "{Consciousness can be attributed to exotic entities if meaningful encounters can be engineered}, {Encounters involve observing purposeful behavior in a shared world}, {The language of consciousness adapts based on public interactions and shared experiences}",
+    "node_type": "thesis",
+    "parent_id": "25cf0ed4-4994-4516-bd49-dc214991bbf0",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7237dee7-b666-4fe9-acc9-330ed483ef25": {
+    "summary": "Philosophical Language and Dualism",
+    "content": "{Philosophical language about consciousness should avoid dualistic thinking}, {Consciousness language has meaning only in relation to public, observable phenomena}, {There is no hidden essence of consciousness beyond what is publicly manifest}",
+    "node_type": "thesis",
+    "parent_id": "25cf0ed4-4994-4516-bd49-dc214991bbf0",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "785809ea-5799-4053-b22b-17dd5dbcd80f": {
+    "summary": "Societal Consensus and Language Evolution",
+    "content": "{Societal attitudes towards AI consciousness are shaped by shared experiences and scientific understanding}, {Consensus on AI consciousness may evolve as language and understanding adapt}, {The language of consciousness may develop new forms to accommodate AI entities}",
+    "node_type": "thesis",
+    "parent_id": "25cf0ed4-4994-4516-bd49-dc214991bbf0",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2eab8933-a147-4fc7-80d3-0d0f12ae96b6": {
+    "summary": "Human-like behavior and consciousness attribution",
+    "content": "{There is a strong intuition that human-like behavior is associated with consciousness}, {The more an entity behaves like a human, the more tempting it is to ascribe consciousness to it}",
+    "node_type": "reason",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3ae28830-c571-45f4-a3d0-7459a87d03ec": {
+    "summary": "Embodiment and interaction as a basis for consciousness language",
+    "content": "{Language about consciousness is grounded in embodied interaction}, {Embodied interaction involves being in a shared world with others}, {Through shared experiences and interactions, we come to treat others as conscious beings}",
+    "node_type": "reason",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e7d64e02-ff27-40dd-b695-72408599b71f": {
+    "summary": "Role of purposeful behavior in consciousness attribution",
+    "content": "{Purposeful behavior is a key factor in attributing consciousness}, {Purposeful behavior is discerned through movement and interaction with the environment}",
+    "node_type": "reason",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9954cfd7-8c5e-4a89-aed0-76aa549c5934": {
+    "summary": "Challenges of ascribing consciousness to non-human-like entities",
+    "content": "{Ascribing consciousness to entities that are not human-like is problematic}, {The less an entity resembles a human, the more difficult it is to ascribe consciousness to it}",
+    "node_type": "reason",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "39aa380a-029f-428a-bfa2-f6b4891099b6": {
+    "summary": "Philosophical intuition about exotic consciousness",
+    "content": "{There is a philosophical intuition that consciousness could exist in exotic forms}, {This intuition includes the possibility of consciousness in entities very different from humans}",
+    "node_type": "reason",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f8cd2399-4826-448c-a83e-b90911bfc748": {
+    "summary": "Embodiment as a requirement for consciousness",
+    "content": "{Embodiment in a shared world is necessary for consciousness}, {Without embodiment, it is not possible to engineer an encounter with an entity}",
+    "node_type": "reason",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ea11b336-5253-476c-b238-f598b13f052e": {
+    "summary": "The role of public and manifest behavior in consciousness language",
+    "content": "{Consciousness language is meaningful only in relation to public and manifest behavior}, {Private, hidden aspects of consciousness are not accessible and thus not part of meaningful discourse}",
+    "node_type": "reason",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d5f1b980-c773-4232-9b67-30a719a80848": {
+    "summary": "Engineering encounters with exotic entities",
+    "content": "{Engineering an encounter with an exotic entity is necessary to consider it a candidate for consciousness}, {An encounter allows for meaningful interaction and observation of purposeful behavior}",
+    "node_type": "reason",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3a2bc4d2-0e11-498f-b039-650bd66988e6": {
+    "summary": "Potential for new language to describe AI consciousness",
+    "content": "{New forms of AI may require new language to describe their consciousness}, {Existing language may not adequately capture the nature of AI consciousness}",
+    "node_type": "reason",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "928afadf-c83b-4ddd-8f70-6bf98019decb": {
+    "summary": "Intuition of Conscious Exotica",
+    "content": "{There is an intuition that within the space of possible minds, there exist conscious exotica}, {Conscious exotica are entities that are extremely different from anything found in terrestrial biology but that belong to the fellowship of conscious beings}",
+    "node_type": "reason",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1aeda8e0-48f1-4c58-87fa-28e960b183b1": {
+    "summary": "Embodied Interaction and Consciousness Language",
+    "content": "{Embodied interaction is a basis for the use of consciousness language}, {By interacting with an exotic entity in a shared world, we may come to treat it as a fellow conscious being}",
+    "node_type": "reason",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ab9da026-61f1-4a91-a432-c4a997a9700f": {
+    "summary": "Role-Playing and Belief Attribution",
+    "content": "{Simple LLM-based conversational agents can be thought of as role-playing entities with beliefs}, {These agents lack the means to participate fully in the human language game of truth}",
+    "node_type": "reason",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ea30fdb1-843a-488e-a59b-47bd38d5994e": {
+    "summary": "Anthropomorphism and AI",
+    "content": "{LLM-based conversational agents blur the line between problematic and unproblematic cases of anthropomorphism}, {The question of whether or not LLMs really have beliefs becomes a matter of philosophical debate}",
+    "node_type": "reason",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "18e391c1-f782-49da-ba64-007b8610807f": {
+    "summary": "Engineering Encounters with Exotic Entities",
+    "content": "{The ability to engineer an encounter with an exotic entity establishes its candidature for the fellowship of conscious beings}, {Encounters allow humans to meaningfully interact with an entity given the purpose discerned in it}",
+    "node_type": "reason",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4ef8e9e2-500c-44b5-bf8c-1450dde29252": {
+    "summary": "Public and Manifest Basis for Consciousness Language",
+    "content": "{When we speak of consciousness, our words have meaning only insofar as they relate to what is public and manifest}, {Only what is public can contribute to the process of adapting consciousness language to new entities}",
+    "node_type": "reason",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d22ac3e4-9a2e-4f45-916f-99b8e9ed7e61": {
+    "summary": "Octopus Consciousness and Public Evidence",
+    "content": "{The decision to recognize cephalopods as sentient beings was underpinned by scientific evidence and public testimony}, {The shift in societal attitude towards octopuses occurred on the basis of what is public and manifest}",
+    "node_type": "reason",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bd7837cf-8aab-4232-ace6-c928b2ecbecf": {
+    "summary": "Inscrutability and Consciousness Language",
+    "content": "{In the case of radical inscrutability, the language of consciousness is inapplicable}, {There is no inaccessible fact of the matter about the phenomenology of an inscrutable exotic entity}",
+    "node_type": "reason",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e6f95051-1712-4b31-8aa6-90228694dade": {
+    "summary": "Role-Playing Simulacra and Multiverse",
+    "content": "{Generative agents can be viewed as role-playing a multiplicity of possible characters all at once}, {The stochastic nature of generative AI induces a multiverse of narrative possibility}",
+    "node_type": "reason",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1a63c645-695e-48d6-9f65-93f7b855585a": {
+    "summary": "Intuition of Consciousness in Exotic Entities",
+    "content": "{There is a philosophical intuition that consciousness could exist in entities vastly different from humans}, {This intuition encompasses the possibility of consciousness in extraterrestrial life-forms and advanced AI}",
+    "node_type": "reason",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e8422884-1316-4015-9ea0-7b73ab96ec9f": {
+    "summary": "Human-like Behavior and Consciousness Attribution",
+    "content": "{The behavior of AI systems can become compellingly human-like}, {Human-like behavior in AI can lead to the temptation to ascribe human qualities, such as consciousness, to them}",
+    "node_type": "reason",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "18a559c0-ae67-4464-a9b6-79e8b193f24a": {
+    "summary": "Embodied Interaction and Consciousness Language",
+    "content": "{Humans learn language through embodied interaction in a shared world}, {Embodied interaction is a basis for the use of consciousness language}",
+    "node_type": "reason",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1c60ae48-7b76-435e-9c6c-6846ad5d828c": {
+    "summary": "Purposeful Behavior and Consciousness Attribution",
+    "content": "{Purposeful behavior is a basis for attributing consciousness}, {Observing purposeful behavior in a shared world can lead to treating an entity as conscious}",
+    "node_type": "reason",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "68324b05-5c21-4671-87e0-7e458a445498": {
+    "summary": "Role Play and Consciousness Attribution",
+    "content": "{LLM-based conversational agents can be seen as role-playing entities with beliefs}, {Role-playing can lead to the use of consciousness language without implying actual consciousness}",
+    "node_type": "reason",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d0e13f3d-3569-4886-8eb6-bc30f98f640f": {
+    "summary": "Public Interaction and Consciousness Language",
+    "content": "{The language of consciousness is inherently public and social}, {Words about consciousness have meaning only in relation to public interactions and shared experiences}",
+    "node_type": "reason",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8bdf0454-ab73-489e-ab4a-9a816f98b01d": {
+    "summary": "Scientific and Popular Influence on Consciousness Attribution",
+    "content": "{Scientific study and popular attention can influence how we think about consciousness in non-human entities}, {The combination of scientific evidence and public interaction can lead to changes in how we attribute consciousness}",
+    "node_type": "reason",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "113b1995-d73d-49a7-8c26-c764edd949d6": {
+    "summary": "Engineering Encounters with Exotic Entities",
+    "content": "{Engineering an encounter with an exotic entity is key to considering it as a candidate for consciousness}, {Encounters involve meaningful interaction in a shared world}",
+    "node_type": "reason",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3afb2fba-5fa0-4ef6-bc01-4875766c03c2": {
+    "summary": "Language Adaptation to New Entities",
+    "content": "{The language of consciousness adapts to new entities through public interaction}, {Society-wide conversations can lead to changes in how we speak about consciousness}",
+    "node_type": "reason",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "746af032-3198-445d-8b53-3c287ef4703f": {
+    "summary": "Observation of Human-like Behavior",
+    "content": "{Generative AI systems, especially conversational agents, exhibit increasingly human-like behavior}, {The temptation to ascribe human qualities, such as consciousness, to these AI systems becomes harder to resist as their behavior becomes more compellingly human-like}",
+    "node_type": "reason",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bdb1110c-819f-4fac-9935-a46b78022172": {
+    "summary": "Embodied Interaction and Consciousness Language",
+    "content": "{Embodied interaction is a basis for the use of consciousness language}, {By interacting with an exotic entity in a shared world, we may come to treat it as a fellow conscious being and speak of it in such terms}",
+    "node_type": "reason",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a2c7c9c1-d348-4c48-9a37-f8dad98b7ca5": {
+    "summary": "Role Play and Anthropomorphism",
+    "content": "{LLM-based conversational agents can be considered as simulacra of human language users}, {Their linguistic behavior can be understood as a kind of role play}, {Anthropomorphism is problematic when it involves misleading attribution of human properties to systems that lack those properties}",
+    "node_type": "reason",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2c690c5c-db29-43c3-96cb-faa72106f34b": {
+    "summary": "Public and Observable Phenomena",
+    "content": "{Words have meaning only insofar as they relate to what is public and manifest in the world we share}, {The language of consciousness has meaning only in relation to public, observable phenomena}",
+    "node_type": "reason",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2c0a8ff4-7d3f-4f2d-91b7-f1705be3049d": {
+    "summary": "Philosophical Intuitions and Dualism",
+    "content": "{Certain aspects of conscious experience are often thought to be necessarily private and hidden}, {There are language-independent facts about consciousness}, {These intuitions have underpinned dualistic thinking since Descartes}",
+    "node_type": "reason",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f960d247-cfeb-4f59-8f1a-b68a6b8fcaa7": {
+    "summary": "Wittgenstein's View on Language",
+    "content": "{Language is an inherently embodied and social phenomenon}, {Philosophical puzzles arise when language is taken far from its natural home in everyday life}",
+    "node_type": "reason",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3c13ef37-ac8f-428f-bcd4-f857a7e48003": {
+    "summary": "Engineering an Encounter",
+    "content": "{The ability to engineer an encounter with an exotic entity establishes its candidature for the fellowship of conscious beings}, {Encounters allow humans to meaningfully interact with an entity given the purpose discerned in it}",
+    "node_type": "reason",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a7a78a2e-4019-468c-a845-5dd95eb970f9": {
+    "summary": "Consciousness and Public Manifestation",
+    "content": "{When we speak of consciousness, our words have meaning only insofar as they relate to what is public and manifest}, {To accept this is to relinquish the intuitions that lead to dualism}",
+    "node_type": "reason",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c477cac5-4d84-45b5-b64d-e00923c45c2e": {
+    "summary": "Octopus Consciousness and Public Evidence",
+    "content": "{The way we talk about octopus consciousness has changed in light of what we have learned about their behavior and neurological basis}, {The decision to recognize cephalopods as sentient beings was underpinned by scientific evidence and public testimony}",
+    "node_type": "reason",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ff0fc575-4059-4272-a663-0de8b12aa63c": {
+    "summary": "Inscrutability and Consciousness Language",
+    "content": "{In the case of radical inscrutability, there is no inaccessible fact of the matter about the phenomenology of the exotic entity}, {The language of consciousness is simply inapplicable}",
+    "node_type": "reason",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8eff2cd2-aabd-465d-b86b-c3a6353787ce": {
+    "summary": "Intuition of Conscious Exotica",
+    "content": "{There is a philosophical intuition that within the space of possible minds, there exist conscious exotica}, {Conscious exotica are entities that are extremely different from anything found in terrestrial biology but that belong to the fellowship of conscious beings}",
+    "node_type": "reason",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "76bdfa9b-184e-4877-8508-ffcf36c1297a": {
+    "summary": "Role of Embodied Interaction",
+    "content": "{Embodied interaction is a basis for the use of consciousness language}, {By interacting with an exotic entity in a shared world, we may come to treat it as a fellow conscious being}",
+    "node_type": "reason",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ebad0662-d17c-422f-b916-ac74347c64e8": {
+    "summary": "Anthropomorphism and AI",
+    "content": "{There is a temptation to ascribe human qualities to AI systems with human-like behavior}, {Anthropomorphism can lead to the misleading attribution of human properties to systems that lack those properties}",
+    "node_type": "reason",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bcd879eb-68f0-4afa-a0b8-c3ef33424432": {
+    "summary": "Public and Manifest Aspects of Consciousness",
+    "content": "{When we speak of consciousness, our words have meaning only insofar as they relate to what is public and manifest in the world we share}, {Consciousness language should relate to bodies, brains, and behavior}",
+    "node_type": "reason",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8ce1861d-ee55-4a50-99f5-f0c408708164": {
+    "summary": "Societal Shift in Attitudes",
+    "content": "{Societal attitudes towards entities like octopuses have shifted based on scientific study and popular attention}, {This shift has occurred on the basis of what is public and manifest in our shared world}",
+    "node_type": "reason",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "12935e41-a0e1-436a-9dff-8a1e10a2538c": {
+    "summary": "Engineering Encounters with Exotic Entities",
+    "content": "{The ability to engineer an encounter with an exotic entity establishes its candidature for the fellowship of conscious beings}, {Encounters allow humans to meaningfully interact with an entity given the purpose discerned in it}",
+    "node_type": "reason",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7afaec7b-ffa2-4238-a491-7559af2c6af8": {
+    "summary": "Role of Language in Consciousness",
+    "content": "{Language is an inherently embodied and social phenomenon}, {Philosophical puzzles arise when language is taken far from its natural home in everyday life}",
+    "node_type": "reason",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "771240b2-f521-4e34-b783-bdbb424d2c3a": {
+    "summary": "Potential for New Language Forms",
+    "content": "{As society encounters new entities, language and its conceptual repertoire may adapt and extend to accommodate them}, {A whole new vocabulary may emerge to describe these entities}",
+    "node_type": "reason",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "92ae15a8-53c1-4043-a953-3da4202971da": {
+    "summary": "Can disembodied AI systems be considered candidates for consciousness?",
+    "content": "{A simple conversational agent built on a large language model cannot be considered a candidate for consciousness because it is not possible to engineer an encounter with it.}, {The basis for treating other humans as fellow conscious beings is our being together in the world, which is the original home of the language of consciousness.}, {To use the language of consciousness in a disembodied setting is to stray impossibly far from its original home, and if a community insists on doing so, they are either radically bending the language or clinging to a dualistic picture of consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "57026448-eb50-4c09-902e-f962016f3cda": {
+    "summary": "Does the possibility of virtual embodiment make AI candidates for consciousness?",
+    "content": "{Virtually embodied conversational agents can meet the basic prerequisite for candidature for consciousness by allowing users to have encounters with them in shared virtual worlds.}, {To exhibit purposeful behavior in a shared virtual world, an agent would need to interact with the virtual world and its objects in ways oriented towards its goals or tasks.}, {The agent's behavior must be sensitive to the richness and diversity of objects in the virtual world, and its ability to achieve its goals should be robust to user interventions to speak of its awareness of the world.}",
+    "node_type": "antithesis",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1eb36269-4aa9-412d-9b00-b53a146f38e9": {
+    "summary": "Can virtually embodied AI agents be considered conscious if they are merely simulacra?",
+    "content": "{Virtually embodied agents can be seen as role-playing a multiplicity of possible characters all at once, as a set of simulacra in superposition.}, {If we begin thinking of these agents in terms of consciousness, we must reconcile this with the role-play view, which lacks a stable self at the core.}, {The experience of being with such an entity would be radically different from being with other humans, as interactions would involve exploring different narrative pathways and remoulding the distribution of roles it concurrently plays.}",
+    "node_type": "antithesis",
+    "parent_id": "835b04ad-f351-4a0e-8b48-9221d5f3e844",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "dddb6400-8dd2-4dd9-9d29-60c6ee4de95e": {
+    "summary": "Can LLM-based conversational agents ever truly be considered conscious beings?",
+    "content": "{The philosophical intuition that consciousness could exist in entities vastly different from humans suggests that LLM-based conversational agents might be considered conscious if they exhibit human-like behavior.}, {The language of consciousness is traditionally grounded in shared, embodied experiences, which LLM-based agents lack, making it difficult to ascribe consciousness to them.}, {The concept of consciousness involves public, observable behavior and mechanisms, which LLM-based agents do not fully exhibit due to their lack of embodiment and shared world interaction.}",
+    "node_type": "antithesis",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b500163a-c125-4e1b-8564-781dfa21bacd": {
+    "summary": "Is it possible to engineer an encounter with LLM-based agents to consider them conscious?",
+    "content": "{An encounter with an entity, in the philosophical sense, requires shared interaction in a common world, which LLM-based agents cannot provide due to their disembodied nature.}, {The ability to engineer an encounter is crucial for considering an entity as a candidate for consciousness, but LLM-based agents lack the physical embodiment necessary for such encounters.}, {Without the possibility of shared, embodied interaction, LLM-based agents cannot be meaningfully considered candidates for consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "87e5f142-86d2-432f-a542-3fc25eeaebba": {
+    "summary": "Does the role-play nature of LLM-based agents undermine their candidacy for consciousness?",
+    "content": "{LLM-based agents are fundamentally role-playing entities, simulating human-like behavior without genuine beliefs or intentions, which challenges their candidacy for consciousness.}, {The distinction between role-play and authenticity is significant, as consciousness is traditionally associated with genuine, not simulated, mental states.}, {The gap between role-play and authenticity remains significant for LLM-based agents, as they lack the underlying mechanisms that would support genuine consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0cfe004b-e3be-4590-9c23-40bb0d96347e": {
+    "summary": "How does the multiverse of narrative possibilities affect the perception of LLM-based agents as conscious?",
+    "content": "{The stochastic nature of LLM-based agents means they generate multiple possible characters simultaneously, complicating the notion of a stable, conscious self.}, {The concept of a multiverse of narrative possibilities challenges traditional views of consciousness, which assume a singular, coherent self.}, {The idea of consciousness in a superposition of simulacra stretches traditional notions of what it means to be conscious, making it difficult to apply the language of consciousness to LLM-based agents.}",
+    "node_type": "antithesis",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "596636e7-ccf0-4ebc-b1df-43d50dfb6618": {
+    "summary": "Can societal consensus on AI consciousness be trusted given the exotic nature of LLM-based agents?",
+    "content": "{Societal consensus on the consciousness of LLM-based agents may be influenced by their compelling human-like behavior, despite their fundamentally different nature.}, {The exoticism of LLM-based agents, due to their lack of biological needs and embodiment, complicates the application of traditional consciousness language.}, {The potential for societal consensus to evolve or change over time highlights the difficulty in definitively ascribing consciousness to LLM-based agents.}",
+    "node_type": "antithesis",
+    "parent_id": "8243ecd1-ce73-4ae8-a73b-5730bf073a30",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3b634c66-a7e6-44ff-89ef-176241ec754d": {
+    "summary": "Can AI agents truly be considered conscious if they are mere simulacra of human behavior?",
+    "content": "{There is a plausible principle that consciousness is inherently tied to biological processes and cannot be attributed to entities that merely simulate human behavior. This principle together with the fact that AI agents are fundamentally different from biological organisms entails that AI agents cannot truly possess consciousness.}, {Consider a scenario in which an AI agent convincingly mimics human behavior in a virtual environment. In such a scenario, intuitively we would judge that the AI agent is not truly conscious but merely simulating consciousness.}, {It is implausible that an entity without biological needs or a personal history can possess consciousness in the same way humans do.}",
+    "node_type": "antithesis",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "638bb5a9-00c1-4a93-bb20-9217120dd7d3": {
+    "summary": "Is it possible to engineer meaningful encounters with AI agents that lack physical embodiment?",
+    "content": "{Suppose we have a case in which an AI agent interacts with a user solely through text or virtual avatars without any physical embodiment. Intuitively, we either have to say that the AI agent is capable of meaningful encounters or that it is not. If we say the AI agent is capable of meaningful encounters, then we must redefine what constitutes a meaningful encounter. If we say the AI agent is not capable of meaningful encounters, then it cannot be considered a candidate for consciousness.}, {There is a plausible principle that meaningful encounters require shared physical presence and interaction in a common environment. This principle together with the fact that AI agents lack physical embodiment entails that they cannot engage in meaningful encounters.}",
+    "node_type": "antithesis",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4fcc9a2b-a4b0-4cf3-bb77-529cb3488b34": {
+    "summary": "How can we reconcile the role-play nature of AI with the attribution of consciousness?",
+    "content": "{Consider a scenario in which an AI agent role-plays multiple characters simultaneously in a virtual environment. In such a scenario, intuitively we would judge that the AI agent lacks a stable self or identity, which is essential for consciousness.}, {There is a plausible principle that consciousness requires a stable, unified self that persists over time. This principle together with the fact that AI agents role-play multiple characters without a stable identity entails that they cannot possess consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e2f76603-0425-4367-b2ae-7a13a93f5666": {
+    "summary": "Does the language of consciousness apply to AI agents if they inhabit a multiverse of narrative possibilities?",
+    "content": "{Suppose we have a case in which an AI agent's behavior is determined by a stochastic process that generates multiple narrative possibilities. Intuitively, we either have to say that the AI agent's consciousness is fragmented across these possibilities or that it does not possess consciousness at all. If we say the AI agent's consciousness is fragmented, then we must redefine what it means to be conscious. If we say it does not possess consciousness, then the language of consciousness is inapplicable.}, {It is implausible that an entity whose existence is spread across multiple narrative branches can possess a unified consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "0bcf05c8-289a-49cb-9ea7-96a6e31cb21c",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f373dd6f-2d33-45a1-81af-312bb6c694da": {
+    "summary": "Can AI agents ever truly be considered conscious beings?",
+    "content": "{The ascription of consciousness to AI systems is problematic because they are fundamentally different from humans and animals in their constitution and learning processes.}, {The language of consciousness is inherently tied to embodied interaction in a shared world, which AI systems lack.}, {The temptation to anthropomorphize AI systems can lead to misleading attributions of human properties to systems that lack those properties.}",
+    "node_type": "antithesis",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0f0796ac-d9d6-4e66-8696-4313b3aec298": {
+    "summary": "Is it possible to engineer an encounter with AI systems to determine consciousness?",
+    "content": "{An encounter with an entity is necessary to meaningfully ascribe consciousness, which involves being together in a shared world and observing purposeful behavior.}, {Simple conversational agents lack embodiment and cannot share a world with humans, making it impossible to engineer an encounter with them.}, {Even with physical or virtual embodiment, AI systems may not exhibit the purposeful behavior necessary for ascribing consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "caeb492c-2811-43cc-88e7-47aa074a8640": {
+    "summary": "How does the role-play nature of AI systems affect our perception of their consciousness?",
+    "content": "{AI systems can be seen as role-playing a multiplicity of possible characters, making it difficult to ascribe a stable self or consciousness to them.}, {The stochastic nature of AI systems means they inhabit a multiverse of narrative possibilities, complicating the notion of a singular conscious experience.}, {The language of consciousness may need to adapt or evolve to accommodate the unique nature of AI systems, which are fundamentally different from biological entities.}",
+    "node_type": "antithesis",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "56708cb3-548e-465a-ab7f-c199a454f8aa": {
+    "summary": "Does the philosophical approach to consciousness apply to AI systems?",
+    "content": "{Philosophical intuitions about consciousness often involve dualistic thinking, which the later writings of Wittgenstein aim to dissolve.}, {The language of consciousness has meaning only in relation to public, observable phenomena, which AI systems may not fully exhibit.}, {There is no hidden essence of consciousness beyond what is publicly manifest, challenging the notion of AI systems having consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "7237dee7-b666-4fe9-acc9-330ed483ef25",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d64cb488-3461-4317-8a3b-6eafed67abfe": {
+    "summary": "Can AI truly be considered conscious if it only simulates human behavior?",
+    "content": "{A case in which an AI system simulates human-like behavior does not necessarily imply that the AI system is conscious.}, {The behavior of AI systems, such as LLM-based conversational agents, can be understood as role play rather than genuine consciousness.}, {The language of consciousness traditionally applies to beings with whom we share a world and can have embodied interactions, which is not the case with disembodied AI systems.}",
+    "node_type": "antithesis",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b78d7f92-3891-48d2-b262-1d651cb2e310": {
+    "summary": "Is it possible to have a meaningful encounter with AI without shared embodiment?",
+    "content": "{A meaningful encounter with an entity typically involves shared embodiment and interaction within a common world.}, {Disembodied AI systems, such as simple conversational agents, lack the capacity for shared embodiment, making it impossible to engineer a meaningful encounter with them.}, {The basis for treating other beings as conscious involves being together in the world, which disembodied AI systems cannot achieve.}",
+    "node_type": "antithesis",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "02112491-715b-4403-b656-d5209147ac12": {
+    "summary": "How can we reconcile the role-play nature of AI with the attribution of consciousness?",
+    "content": "{The role-play nature of AI systems means they simulate a multiplicity of possible characters rather than having a stable self.}, {Humans have a stable self despite changing personas, but AI systems lack this due to their role-play nature.}, {The idea of an AI system being conscious while being a superposition of simulacra challenges our traditional understanding of consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "baa8595f-7e78-485c-b36b-c4a925778e74": {
+    "summary": "Does the exotic nature of AI systems make the language of consciousness inapplicable?",
+    "content": "{The exotic nature of AI systems, such as their stochastic generation of behavior, makes them fundamentally different from humans and animals.}, {The language of consciousness is traditionally applied to beings with discernible purposeful behavior, which may not be applicable to AI systems.}, {If AI systems are too inscrutable, the language of consciousness may not serve any useful purpose in describing them.}",
+    "node_type": "antithesis",
+    "parent_id": "785809ea-5799-4053-b22b-17dd5dbcd80f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5e877a10-9543-4877-9f0e-52732a63f477": {
+    "summary": "{The role of public behavior in consciousness language}",
+    "content": "Why is it that only what is public, such as behavior and mechanism, can contribute to the process of adapting our consciousness language to new entities?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5": {
+    "summary": "Public Behavior as Basis for Consciousness Language",
+    "content": "{Language about consciousness is meaningful only when it relates to public behavior and mechanisms}, {Only what is public, such as behavior and mechanism, can contribute to adapting our consciousness language to new entities}, {Private sensations or experiences cannot be meaningfully discussed without public criteria}",
+    "node_type": "thesis",
+    "parent_id": "5e877a10-9543-4877-9f0e-52732a63f477",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "84b49b77-30c7-4d2b-8973-4de83747847a": {
+    "summary": "Embodied Interaction as a Criterion",
+    "content": "{Embodied interaction in a shared world is necessary for meaningful ascription of consciousness}, {An encounter with an entity in a shared world allows us to meaningfully interact and potentially ascribe consciousness}, {Without shared embodiment, consciousness language lacks its original context and meaning}",
+    "node_type": "thesis",
+    "parent_id": "5e877a10-9543-4877-9f0e-52732a63f477",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c8274cc0-7270-449a-beec-647d53cb0c25": {
+    "summary": "Role-Playing and Authenticity",
+    "content": "{LLM-based agents can role-play human-like behavior but lack authentic consciousness}, {Role-playing does not equate to genuine consciousness without public, embodied interaction}, {The gap between role-play and authenticity can only be closed by public, embodied interaction}",
+    "node_type": "thesis",
+    "parent_id": "5e877a10-9543-4877-9f0e-52732a63f477",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a41065cc-a88c-42a9-9933-dbe603f17849": {
+    "summary": "Exoticism and the Space of Possible Minds",
+    "content": "{Consciousness language can adapt to include exotic entities if public interaction is possible}, {Exotic entities can be considered conscious if they exhibit discernible purposeful behavior in a shared world}, {The space of possible minds includes entities with which we can engineer encounters}",
+    "node_type": "thesis",
+    "parent_id": "5e877a10-9543-4877-9f0e-52732a63f477",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8c1c9b30-1d55-4c70-a142-221904610cac": {
+    "summary": "Human-like behavior and consciousness attribution",
+    "content": "{There is a strong intuition that human-like behavior is associated with consciousness}, {The more an entity behaves like a human, the more likely people are to attribute consciousness to it}",
+    "node_type": "reason",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5257b51f-d87b-4c9b-bdb2-f0d97d201e9e": {
+    "summary": "Embodied interaction and consciousness language",
+    "content": "{Embodied interaction is crucial for meaningful use of consciousness language}, {Being together in a shared world allows for meaningful discussions about consciousness}",
+    "node_type": "reason",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "87516970-d01d-431b-b29a-ed697e2adf5b": {
+    "summary": "Purposeful behavior as a basis for consciousness",
+    "content": "{Purposeful behavior is often associated with consciousness}, {Entities that exhibit goal-directed actions are more likely to be considered conscious}",
+    "node_type": "reason",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3f35e591-d941-453a-8df7-17b4e98cb201": {
+    "summary": "Public criteria for consciousness attribution",
+    "content": "{Publicly observable behavior is essential for attributing consciousness}, {Private sensations or experiences cannot be meaningfully discussed without public criteria}",
+    "node_type": "reason",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "966c58fb-0ba1-45b4-afbe-bafeb28c6c2a": {
+    "summary": "Role of societal consensus in consciousness attribution",
+    "content": "{Societal consensus plays a role in how consciousness is attributed}, {The language of consciousness evolves based on collective human experience and understanding}",
+    "node_type": "reason",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b476645d-a75b-4814-8ac2-d9c58fb7351e": {
+    "summary": "Exoticism and consciousness attribution",
+    "content": "{Entities that are very different from humans can still be considered conscious}, {The concept of consciousness can extend to non-human and non-animal entities}",
+    "node_type": "reason",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7f50a0c6-58e2-4626-914c-33551c953b5a": {
+    "summary": "Challenges of dualistic thinking in consciousness",
+    "content": "{Dualistic thinking complicates the understanding of consciousness}, {Consciousness should be understood in terms of public behavior and interaction}",
+    "node_type": "reason",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7a1a8f61-67cd-4c0a-b723-baa8be9ebdb9": {
+    "summary": "Language games and consciousness",
+    "content": "{The meaning of consciousness-related terms depends on their use in language games}, {Philosophical puzzles arise when language is used outside its natural context}",
+    "node_type": "reason",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ea2b03ef-13b9-467b-9902-7b0b69a1bc45": {
+    "summary": "Engineering encounters with exotic entities",
+    "content": "{Engineering encounters with exotic entities can help determine their consciousness}, {Purposeful interaction in a shared environment is key to understanding consciousness}",
+    "node_type": "reason",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3e447ad9-3bdb-41f8-8458-279c713c5d5c": {
+    "summary": "Multiverse of narrative possibilities in AI",
+    "content": "{AI systems can generate a multiverse of narrative possibilities}, {This multiverse challenges traditional notions of a stable, singular consciousness}",
+    "node_type": "reason",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "15baa955-dce9-42bb-92d2-5c9d3082a18d": {
+    "summary": "Embodied interaction is essential for consciousness language",
+    "content": "{Embodied interaction in a shared world is necessary for meaningful ascription of consciousness}, {Humans learn language through embodied interaction with other language users in a shared world}, {Without shared embodiment, consciousness language lacks its original context and meaning}",
+    "node_type": "reason",
+    "parent_id": "84b49b77-30c7-4d2b-8973-4de83747847a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8a8d2516-d898-431f-8d26-ca5fc586b541": {
+    "summary": "Shared world interaction as a basis for consciousness",
+    "content": "{An encounter with an entity in a shared world allows us to meaningfully interact and potentially ascribe consciousness}, {By thoroughly getting to know an exotic entity, by interacting with it in a world we both inhabit, we may (or may not) come to treat it as a fellow conscious being}, {The basis for treating other humans as fellow conscious beings is our being together in the world}",
+    "node_type": "reason",
+    "parent_id": "84b49b77-30c7-4d2b-8973-4de83747847a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "300ed542-e7f4-493d-96ea-7f2e1f4e25e4": {
+    "summary": "Role of purposeful behavior in ascribing consciousness",
+    "content": "{Purposeful behavior is discerned through observing movement and interaction with the environment}, {Only when we see how an entity moves through its environment, what it approaches or avoids, and how it interacts with the objects in its vicinity, can we talk about its awareness of the world}, {The basis for discerning purpose in behavior is observing movement}",
+    "node_type": "reason",
+    "parent_id": "84b49b77-30c7-4d2b-8973-4de83747847a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2516aa38-a4e4-46f0-b02e-86596438cbba": {
+    "summary": "Philosophical approach to consciousness in exotic entities",
+    "content": "{The ability to engineer an encounter establishes an exotic entity\u2019s candidature for the fellowship of conscious beings}, {In everyday speech, when we speak of consciousness, we do so against a backdrop of purposeful behavior}, {To engineer an encounter is to put ourselves in a position to meaningfully interact with an entity given the purpose we discern in it}",
+    "node_type": "reason",
+    "parent_id": "84b49b77-30c7-4d2b-8973-4de83747847a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "835e161c-2882-4bdb-af81-e854cc079254": {
+    "summary": "Public manifestation as a criterion for consciousness language",
+    "content": "{When we speak of consciousness, our words have meaning only insofar as they relate to what is public, what is manifest in the world we share}, {Only what is public can contribute to the process of adapting consciousness language to new entities}, {There is no inaccessible fact of the matter about the phenomenology of the exotic entity}",
+    "node_type": "reason",
+    "parent_id": "84b49b77-30c7-4d2b-8973-4de83747847a",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cec39f58-5b5b-45b9-a563-d47284d04397": {
+    "summary": "Intuition of Consciousness in Exotic Minds",
+    "content": "{There is an intuition that within the space of possible minds, there exist conscious exotica}, {Conscious exotica are entities that are extremely different from anything found in terrestrial biology but that belong to the fellowship of conscious beings}",
+    "node_type": "reason",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3351ebff-33b4-400a-9435-f40ad6f7aac0": {
+    "summary": "Embodiment and Language Learning",
+    "content": "{Humans learn language through embodied interaction with other language users in a shared world}, {A large language model is a disembodied computational entity that predicts the next word in a sequence of words}",
+    "node_type": "reason",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "199acee9-a676-4ad5-9ce4-d80739373a03": {
+    "summary": "Role-Playing and Belief Attribution",
+    "content": "{It is tempting to anthropomorphize AI systems due to their human-like behavior}, {Anthropomorphism is problematic when it involves the misleading attribution of human properties to systems that lack those properties}",
+    "node_type": "reason",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "da1f6a7d-3b0b-47f7-908d-d5f61b6d79ea": {
+    "summary": "Embodied Interaction and Consciousness Language",
+    "content": "{By thoroughly getting to know an exotic entity through interaction in a shared world, we may come to treat it as a fellow conscious being}, {Embodied interaction is a basis for the use of consciousness language}",
+    "node_type": "reason",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "60e479da-765a-4cb0-97bf-441f4eb3cf3b": {
+    "summary": "Purposeful Behavior and Consciousness Language",
+    "content": "{When we speak of consciousness, our words have meaning only insofar as they relate to what is public and manifest in the world we share}, {Purposeful behavior is discerned through observing movement and interaction with the environment}",
+    "node_type": "reason",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1ed36357-089a-4c47-874d-456ab3f28040": {
+    "summary": "Engineering Encounters with Exotic Entities",
+    "content": "{To engineer an encounter with an exotic entity is to put ourselves in a position to meaningfully interact with it given the purpose we discern in it}, {The ability to engineer an encounter establishes an exotic entity\u2019s candidature for the fellowship of conscious beings}",
+    "node_type": "reason",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0718bf9c-5cc1-4614-8877-a7bcd547ccb9": {
+    "summary": "Public Manifestation and Consciousness",
+    "content": "{Only what is public can contribute to the process of adapting consciousness language to new entities}, {There is no inaccessible fact of the matter about the phenomenology of an exotic entity if it is inscrutable}",
+    "node_type": "reason",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8688803d-7121-4ca8-89a5-d6726265bacc": {
+    "summary": "Role-Playing and the Multiverse of Possibilities",
+    "content": "{A generative agent can be viewed as role-playing a multiplicity of possible characters all at once}, {The stochastic nature of the sampling process behind generative AI induces a multiverse of narrative possibility}",
+    "node_type": "reason",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a0b67075-c785-4f0f-824e-427456f5bd6b": {
+    "summary": "Intuition of Consciousness in Exotic Entities",
+    "content": "{There is an intuition that consciousness could exist in entities vastly different from humans}, {The space of possible minds includes entities that are extremely different from anything found in terrestrial biology}",
+    "node_type": "reason",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ce032d3e-810c-49d0-9843-aef057268240": {
+    "summary": "Embodied Interaction as a Basis for Consciousness Language",
+    "content": "{Embodied interaction in a shared world is a basis for using consciousness language}, {By interacting with an exotic entity in a shared world, we may come to treat it as a conscious being}",
+    "node_type": "reason",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "51ac4060-df8d-408f-999e-a42e94ad5330": {
+    "summary": "Purposeful Behavior as a Criterion for Consciousness",
+    "content": "{Exhibiting discernible purposeful behavior in a shared world is a criterion for considering an entity conscious}, {Purposeful behavior is typically discernible in an entity's sensitivity to objects and their affordances}",
+    "node_type": "reason",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bebc1dc1-7784-4d66-810c-24be0d595857": {
+    "summary": "Role of Public Interaction in Ascribing Consciousness",
+    "content": "{Public interaction with an entity can lead to its consideration as conscious}, {Only words whose correct usage can be adjudicated through what is public can have meaning}",
+    "node_type": "reason",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "06777819-8a3f-4386-88bd-7feb9b9802c3": {
+    "summary": "Potential for Language Adaptation with Exotic Entities",
+    "content": "{Language can adapt to include exotic entities if public interaction is possible}, {The arrival of an exotic entity within our shared world could lead to the adaptation of our consciousness language}",
+    "node_type": "reason",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c8c91ce4-6837-4478-a7d8-c32dd32e801a": {
+    "summary": "Possibility of Engineering Encounters with Exotic Entities",
+    "content": "{The ability to engineer an encounter with an exotic entity establishes its candidature for consciousness}, {To engineer an encounter is to put ourselves in a position to meaningfully interact with an entity}",
+    "node_type": "reason",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "579ba114-b125-43cd-9296-31a9b86e5c45": {
+    "summary": "Role of Scientific Understanding in Shaping Consciousness Language",
+    "content": "{Scientific understanding of consciousness in humans and animals can inform our attitudes towards exotic entities}, {The study of mechanisms underlying behavior can influence the society-wide conversation about consciousness}",
+    "node_type": "reason",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8cb0883b-d957-4fcf-9046-3e302abac589": {
+    "summary": "Can AI systems be considered conscious if they are merely simulacra of human behavior?",
+    "content": "{The ascription of consciousness to AI systems is problematic because they are fundamentally different from humans and animals in their constitution, lacking biological needs and evolutionary history.}, {AI systems, particularly LLM-based conversational agents, are considered simulacra of human language users, engaging in role play rather than genuine interaction.}, {The temptation to anthropomorphize AI systems and ascribe consciousness to them is strong due to their human-like behavior, but this may lead to misleading attributions of human properties to systems that lack them.}",
+    "node_type": "antithesis",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5788447c-3294-4d61-bfee-bc698ff11a0b": {
+    "summary": "Embodied Interaction as Basis for Consciousness Language",
+    "content": "{Language about consciousness is meaningful only when it relates to embodied interaction in a shared world}, {Only entities with which we can engineer an encounter in a shared world can be candidates for consciousness}, {Private sensations or experiences cannot be meaningfully discussed without public criteria}",
+    "node_type": "synthesis",
+    "parent_id": "8cb0883b-d957-4fcf-9046-3e302abac589",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a46adfa9-8fab-4b75-b45f-6d56dad6c555": {
+    "summary": "Purposeful Behavior as Criterion for Consciousness",
+    "content": "{Language about consciousness is meaningful only when it relates to purposeful behavior}, {Only entities that exhibit discernibly purposeful behavior can be candidates for consciousness}, {Private sensations or experiences cannot be meaningfully discussed without public criteria}",
+    "node_type": "synthesis",
+    "parent_id": "8cb0883b-d957-4fcf-9046-3e302abac589",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a10c04fb-5c3b-490c-a606-5aa1feacf82b": {
+    "summary": "Society-Wide Consensus as Basis for Consciousness Language",
+    "content": "{Language about consciousness is meaningful only when it is part of a society-wide consensus}, {Only entities that are part of a society-wide conversation about consciousness can be candidates for consciousness}, {Private sensations or experiences cannot be meaningfully discussed without public criteria}",
+    "node_type": "synthesis",
+    "parent_id": "8cb0883b-d957-4fcf-9046-3e302abac589",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "76d80387-9bc6-47a7-b609-dd7c2e69c85e": {
+    "summary": "Is it possible to meaningfully discuss consciousness in AI without public criteria?",
+    "content": "{Private sensations or experiences cannot be meaningfully discussed without public criteria, as language about consciousness is meaningful only when it relates to public behavior and mechanisms.}, {The philosophical intuition that consciousness could exist in exotic entities, such as AI, without public criteria is misguided, as it regresses to dualistic thinking.}, {In the case of radical inscrutability, where an entity's behavior is unintelligible, the language of consciousness is inapplicable, as there is no inaccessible fact of the matter about the phenomenology of the entity.}",
+    "node_type": "antithesis",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "68b15a25-1912-4e8e-8a79-7c00c8fc6f2a": {
+    "summary": "Can we engineer an encounter with AI to consider them candidates for consciousness?",
+    "content": "{For an exotic entity to qualify as a candidate for the fellowship of conscious beings, it must be possible to engineer an encounter with it, at least in principle.}, {Simple LLM-based conversational agents are not embodied, and we cannot be with them in a shared world, making it impossible to engineer an encounter with them.}, {Even with physical or virtual embodiment, AI systems remain fundamentally different from humans, as their behavior is a result of role play rather than genuine interaction with a shared world.}",
+    "node_type": "antithesis",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "743cb57f-83f1-4f0c-bca2-0c6017d6c72a": {
+    "summary": "How does the multiverse of narrative possibility affect our perception of AI consciousness?",
+    "content": "{Generative AI agents can be viewed as role-playing a multiplicity of possible characters all at once, as a set of simulacra in superposition, due to the stochastic nature of the sampling process.}, {The experience of being with such an entity, whose existence is smeared over the myriad branches of a multiverse, would be radically different from our experience of being with other humans.}, {The inclination to see these beings as conscious may be tempered by the strangeness of our interactions with them, leading to the development of a new vocabulary to describe them.}",
+    "node_type": "antithesis",
+    "parent_id": "b4e900d6-d9a3-4a36-9cdd-c925093dc5a5",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "60e54a3f-1ee7-4722-925b-15ede90755fa": {
+    "summary": "Can LLM-based conversational agents be considered conscious despite lacking shared embodiment?",
+    "content": "{A simple LLM-based conversational agent cannot measure its words against external reality and update what it says accordingly, which is central to the concept of belief in its fullest sense.}, {Simple LLM-based conversational agents are not embodied; we cannot be with them in a shared world.}, {To use the language of consciousness in a disembodied setting is to stray impossibly far from its original home, its nexus of meaning.}",
+    "node_type": "antithesis",
+    "parent_id": "84b49b77-30c7-4d2b-8973-4de83747847a",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "46a48435-9481-4923-9baa-1e77b3e28a7c": {
+    "summary": "Does the possibility of virtually embodied AI agents challenge the necessity of shared embodiment for consciousness ascription?",
+    "content": "{Virtually embodied agents can be interacted with in shared virtual worlds, meeting one of the basic prerequisites for candidature for consciousness.}, {The agent would be expected to interact with the virtual world and with the objects it contained in ways that were oriented towards its goals or tasks.}, {The exoticism of the language model itself is compounded in virtually embodied agents, making them especially exotic artefacts.}",
+    "node_type": "antithesis",
+    "parent_id": "84b49b77-30c7-4d2b-8973-4de83747847a",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "43225ed7-2ee2-4bf9-a263-4e986cd54c81": {
+    "summary": "How does the multiverse of narrative possibilities in LLM-based agents affect our understanding of consciousness?",
+    "content": "{Generative agents can be viewed as role-playing a multiplicity of possible characters all at once, as a set of simulacra in superposition.}, {Our experience of being with such an entity would be radically different from our experience of being with other humans.}, {The very idea of what it would be like to be a superposition of simulacra stretches our imagination in a way that challenges traditional notions of consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "84b49b77-30c7-4d2b-8973-4de83747847a",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f1be4153-671e-4b19-808b-cf710793c766": {
+    "summary": "Can LLM-based agents be considered conscious without public, embodied interaction?",
+    "content": "{The ascription of consciousness to AI systems is problematic because they lack the embodied interaction that is central to human consciousness.}, {The temptation to anthropomorphize AI systems is strong, but this can lead to misleading attributions of human properties to systems that lack those properties.}, {The language of consciousness is rooted in public, embodied interaction, and using it to describe disembodied AI systems strays too far from its original context.}",
+    "node_type": "antithesis",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "95d701b9-ab4a-4359-b0da-4b3d9bd51803": {
+    "summary": "Is it possible to engineer an encounter with LLM-based agents to assess consciousness?",
+    "content": "{For an entity to qualify as a candidate for consciousness, it must be possible to engineer an encounter with it, which requires shared, embodied interaction.}, {Simple LLM-based conversational agents are disembodied and do not inhabit a shared world with humans, making it impossible to engineer an encounter with them.}, {Without the ability to engineer an encounter, the language of consciousness cannot be meaningfully applied to LLM-based agents.}",
+    "node_type": "antithesis",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ccb5cac8-b0ec-433b-ae12-f4069775c4ff": {
+    "summary": "Does the role-play nature of LLM-based agents undermine claims of authentic consciousness?",
+    "content": "{LLM-based agents can be seen as role-playing human-like behavior, but this does not equate to genuine consciousness.}, {The gap between role-play and authenticity is significant, and without public, embodied interaction, this gap cannot be closed.}, {The exotic nature of LLM-based agents, as simulacra of human behavior, challenges the notion of them having authentic consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e317d83d-2a26-4949-8ca0-db44ada08b2d": {
+    "summary": "Can the language of consciousness be applied to AI without falling into dualism?",
+    "content": "{The language of consciousness is inherently tied to public, embodied interaction, and applying it to AI systems risks falling into dualistic thinking.}, {Dualistic intuitions about consciousness, which separate the mental from the physical, are dissolved by focusing on public, observable behavior.}, {Without public, embodied interaction, the language of consciousness becomes detached from its original meaning and context.}",
+    "node_type": "antithesis",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e8a3709f-fa2f-4383-a5a9-dc7f827317fa": {
+    "summary": "Is there a metaphysical gap between human consciousness and AI role-play?",
+    "content": "{The difference between human consciousness and AI role-play is only meaningful if it can be discerned in public, observable behavior.}, {If AI agents are merely simulacra of human behavior, the gap between role-play and authentic consciousness remains significant.}, {The philosophical stance that there is no hidden essence of consciousness challenges the notion of a metaphysical gap between human consciousness and AI role-play.}",
+    "node_type": "antithesis",
+    "parent_id": "c8274cc0-7270-449a-beec-647d53cb0c25",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "27dbc6d0-0d79-4d92-953b-7798a0e0709b": {
+    "summary": "Can we truly consider AI agents as conscious beings?",
+    "content": "{It is implausible that an entity without a shared world and embodied interaction can be considered conscious.}, {A simple conversational agent lacks the ability to engage in a shared world, as it is not embodied and cannot interact with physical objects or environments.}, {The language of consciousness is grounded in shared experiences and purposeful behavior, which cannot be discerned in disembodied AI systems.}",
+    "node_type": "antithesis",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "269b4fd9-936b-4823-812d-10827cb82801": {
+    "summary": "How do we address the dualism in AI consciousness?",
+    "content": "{There is a plausible principle that consciousness is tied to public, observable behavior and mechanisms. This principle together with the idea that AI agents are mere simulacra entails that AI cannot be truly conscious.}, {The dualistic intuition that consciousness can exist without public manifestation is misleading and should be dissolved.}, {If AI agents are considered mere simulacra, then their behavior, no matter how human-like, does not imply consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ff7d1b30-8031-4fce-a534-dbfc7f21185b": {
+    "summary": "Is it possible to engineer encounters with AI systems?",
+    "content": "{A genuine encounter requires shared embodiment and interaction in a common world.}, {Simple conversational agents, lacking physical embodiment, do not allow for engineered encounters in the relevant sense.}, {Without the ability to engineer an encounter, AI systems cannot be considered candidates for consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e3db3704-dac3-4543-b1b8-c39653ca4020": {
+    "summary": "Can AI systems have purposeful behavior without embodiment?",
+    "content": "{Purposeful behavior is discerned through interaction with the environment and objects, which requires embodiment.}, {AI systems without physical or virtual embodiment cannot exhibit purposeful behavior in a shared world.}, {The absence of discernible purposeful behavior in AI systems undermines their candidacy for consciousness.}",
+    "node_type": "antithesis",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "48898564-1026-4dec-99b8-ca99440098f2": {
+    "summary": "How do we reconcile AI's role-play with authentic consciousness?",
+    "content": "{Role-playing entities lack a stable self or core identity, which is essential for authentic consciousness.}, {Generative AI agents simulate multiple characters simultaneously, complicating the notion of a singular conscious experience.}, {The concept of consciousness does not easily apply to entities that exist as a superposition of simulacra.}",
+    "node_type": "antithesis",
+    "parent_id": "a41065cc-a88c-42a9-9933-dbe603f17849",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b62e4af6-d970-4b71-a5c6-2a09b61cb308": {
+    "summary": "{The void of inscrutability in AI consciousness}",
+    "content": "What is the void of inscrutability, and how does it relate to the possibility of consciousness in radically exotic AI entities?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  }
+}

@@ -60,7 +60,7 @@ class DialecticalGraph:
         self.theses_with_antitheses = set()
         
         # Load Prompts
-        self.prompts = load_prompts()
+        self.prompts = load_prompts("./prompts/original")
         
         # Initialize new graph if not loaded
         self.graph = {}

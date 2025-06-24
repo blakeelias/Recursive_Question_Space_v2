@@ -1,0 +1,2505 @@
+{
+  "a419dedc-f734-454d-8309-6f8a7d7d1caf": {
+    "summary": "{Asymmetry of miracles}",
+    "content": "{How does the asymmetry of miracles contribute to the asymmetry of counterfactual dependence, and what role does overdetermination play in this?}",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "6ae423a4-d0d1-4524-9158-cc381a16f2b9": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {the past is counterfactually independent of the present}, {counterfactual dependence is asymmetric except in special contexts}",
+    "node_type": "thesis",
+    "parent_id": "a419dedc-f734-454d-8309-6f8a7d7d1caf",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "34450bf3-4afd-4ed8-b39e-e8f80af32a88": {
+    "summary": "Role of Miracles in Counterfactual Dependence",
+    "content": "{Divergence from a world requires a small miracle}, {perfect convergence to a world requires a big, widespread, diverse miracle}, {the asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "thesis",
+    "parent_id": "a419dedc-f734-454d-8309-6f8a7d7d1caf",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7afcaa3b-8289-43bc-a2e0-329951ec5747": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones}, {earlier affairs are not overdetermined by later ones}, {the asymmetry of overdetermination explains the asymmetry of miracles}",
+    "node_type": "thesis",
+    "parent_id": "a419dedc-f734-454d-8309-6f8a7d7d1caf",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fa271af0-ad3a-437c-b5ff-a55886b6f1dc": {
+    "summary": "Future depends on present",
+    "content": "{The future depends on the present in a counterfactual sense}, {If the present were different, the future would be different}, {There are many true counterfactuals about how the future would change if the present were different}",
+    "node_type": "reason",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "16a3b7de-053c-40ea-9be5-f8ed768770a6": {
+    "summary": "Past is independent of present",
+    "content": "{The past is counterfactually independent of the present}, {If the present were different, the past would remain the same}, {It is difficult to find clearly true counterfactuals about how the past would change if the present were different}",
+    "node_type": "reason",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "39d4542b-4d35-4f05-8132-630de0176b60": {
+    "summary": "Common reasoning assumes past independence",
+    "content": "{In reasoning from a counterfactual supposition, we assume the past is independent of the present}, {We use knowledge of the past as auxiliary premises without questioning its truth under counterfactual suppositions about the present}",
+    "node_type": "reason",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "af33db56-5abc-4438-9031-4ac0d319ade1": {
+    "summary": "Back-tracking arguments are context-dependent",
+    "content": "{Back-tracking arguments suggest the past would be different if the present were different}, {These arguments are context-dependent and often not sustained}, {In ordinary reasoning, we revert to assuming past independence}",
+    "node_type": "reason",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d09dbab7-9408-44b1-8f53-2aa1689178e3": {
+    "summary": "Vagueness in counterfactuals",
+    "content": "{Counterfactuals are vague and context-dependent}, {Different contexts resolve this vagueness differently}, {Standard resolution assumes asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a8fac993-fb99-484a-8223-aca57eac1b23": {
+    "summary": "Temporal asymmetry of causation",
+    "content": "{Effects do not precede their causes}, {Causation is typically future-directed}, {Backward causation would require counterfactual dependence of the past on the future}",
+    "node_type": "reason",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "79c68632-c10b-4f42-b8b2-ffed4a918df0": {
+    "summary": "Open future vs. fixed past",
+    "content": "{The future is seen as open with multiple possibilities}, {The past is seen as fixed and immutable}, {This perception aligns with the asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "77d711f2-d0a9-4f3d-b339-2d19bdc17e86": {
+    "summary": "Asymmetry of overdetermination",
+    "content": "{Future events are overdetermined by past events}, {Past events are not similarly overdetermined by future events}, {This asymmetry contributes to the difficulty of perfect convergence to a past state}",
+    "node_type": "reason",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9dea6c37-ca04-4a05-ac07-8581526082fb": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {The past does not depend counterfactually on the present}, {Counterfactuals about the future are clearer and more determinate than those about the past}",
+    "node_type": "reason",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cf0043dd-a47e-413b-8e74-8e10e7574834": {
+    "summary": "Vagueness in Counterfactuals",
+    "content": "{Counterfactuals are infected with vagueness}, {Different contexts resolve this vagueness in different ways}, {Standard resolution of vagueness favors asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "93849ce8-9126-4e1b-87bf-78823721b711": {
+    "summary": "Back-Tracking Counterfactuals",
+    "content": "{Back-tracking counterfactuals suggest the past depends on the present}, {These counterfactuals are true in special contexts}, {Standard reasoning assumes the past is independent of the present}",
+    "node_type": "reason",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8e4e6283-647a-4930-bf9f-6774c3a5b5a5": {
+    "summary": "Temporal Asymmetry of Causation",
+    "content": "{Effects do not precede their causes}, {Causation is linked to counterfactual dependence}, {Backward causation requires counterfactual dependence of past on future}",
+    "node_type": "reason",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9c536c48-29d7-420e-a691-6aa31ad18c4b": {
+    "summary": "Asymmetry of Openness",
+    "content": "{The future is seen as open with multiple possibilities}, {The past is seen as fixed and immutable}, {This perception aligns with the asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8d295ad0-49b3-4620-bbfc-be4b7c0a56f6": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Future events are overdetermined by past events}, {Past events are not overdetermined by future events}, {This asymmetry contributes to the difficulty of perfect convergence to a past state}",
+    "node_type": "reason",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "44e19835-7934-4b1d-92fe-ce9034071a4c": {
+    "summary": "Role of Miracles in Divergence and Convergence",
+    "content": "{Divergence from a world requires a small miracle}, {Perfect convergence to a world requires a big, widespread, diverse miracle}, {This asymmetry of miracles explains the asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d44b06c1-c166-45b8-bb53-76a73f3e72e3": {
+    "summary": "Counterfactual dependence and time's arrow",
+    "content": "{The future depends counterfactually on the present}, {The present depends counterfactually on the past}, {The past does not depend counterfactually on the present}",
+    "node_type": "reason",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d345ff6e-33f3-49d3-b35b-eebcc34eccb8": {
+    "summary": "Asymmetry of counterfactual reasoning",
+    "content": "{In reasoning from a counterfactual supposition about the present, we assume the past remains unchanged}, {Facts about earlier times are assumed to be counterfactually independent of later times}",
+    "node_type": "reason",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cba464a2-b3ca-47a9-bdce-78aff486a9ef": {
+    "summary": "Back-tracking counterfactuals",
+    "content": "{In some contexts, we accept that if the present were different, the past would have to be different}, {This acceptance is temporary and context-dependent}",
+    "node_type": "reason",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0638e856-7863-4fa3-bdf7-90fa75482603": {
+    "summary": "Vagueness in counterfactuals",
+    "content": "{Counterfactuals are vague and context-dependent}, {Different contexts resolve this vagueness in different ways}",
+    "node_type": "reason",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7f4de402-a803-4d42-9fa6-bda29ca97f67": {
+    "summary": "Temporal asymmetry of causation",
+    "content": "{Effects do not precede their causes}, {Causation is linked to counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1d847323-0d47-4fda-92b6-1f4f65fc3268": {
+    "summary": "Open future and fixed past",
+    "content": "{The future is seen as a multitude of alternative possibilities}, {The past is regarded as a unique, settled actuality}",
+    "node_type": "reason",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "401dca43-d9b1-4e10-ab2a-1a4e45aefeaa": {
+    "summary": "Determinism and asymmetry",
+    "content": "{Deterministic laws imply that worlds are either exactly alike or not alike at all times}, {This determinism does not account for the asymmetry between past and future}",
+    "node_type": "reason",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "08c325cc-d84a-45c7-87d6-9976c0f53f8c": {
+    "summary": "Asymmetry of overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones}, {Earlier affairs are not overdetermined by later ones}",
+    "node_type": "reason",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "68baae26-a012-42f7-9082-9bf567e1ce83": {
+    "summary": "Miracles and counterfactuals",
+    "content": "{Divergence from a world requires a small miracle}, {Convergence to a world requires a large, widespread miracle}",
+    "node_type": "reason",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d2c42907-7a23-4c64-a005-3f7f8c8d88b7": {
+    "summary": "Ubiquity of traces",
+    "content": "{Everything that happens leaves many and varied traces}, {Eradicating these traces requires a large miracle}",
+    "node_type": "reason",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f85f73d5-6c1c-4a8b-a710-6e2a4b526c7f": {
+    "summary": "Can back-tracking counterfactuals challenge the asymmetry of counterfactual dependence?",
+    "content": "{There are scenarios where back-tracking counterfactuals seem plausible, such as when present conditions are argued to require different past causes to avoid contradiction with current states.}, {In certain contexts, people can be persuaded that if the present were different, the past would have to be different too, suggesting that counterfactual dependence might not be strictly asymmetric.}, {The plausibility of back-tracking counterfactuals in some contexts suggests that the asymmetry of counterfactual dependence might not hold universally, challenging the idea that the past is always counterfactually independent of the present.}",
+    "node_type": "antithesis",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7399978f-2fb3-4d7f-8dee-57c192ce88ab": {
+    "summary": "Standard Resolution of Vagueness",
+    "content": "{Counterfactuals are infected with vagueness}, {Different ways of resolving the vagueness are appropriate in different contexts}, {We ordinarily resolve the vagueness of counterfactuals in such a way that counterfactual dependence is asymmetric}, {Under the standard resolution, back-tracking arguments are mistaken}",
+    "node_type": "synthesis",
+    "parent_id": "f85f73d5-6c1c-4a8b-a710-6e2a4b526c7f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "acbe13cc-69e9-472f-afd7-a7e87eee2c26": {
+    "summary": "Contextual Resolution of Vagueness",
+    "content": "{Some special contexts favor a different resolution of vagueness}, {In these contexts, the past depends counterfactually on the present}, {Back-tracking arguments can be correct in these contexts}, {When the need for a special resolution of vagueness ends, the standard resolution returns}",
+    "node_type": "synthesis",
+    "parent_id": "f85f73d5-6c1c-4a8b-a710-6e2a4b526c7f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "eed31eaf-4bd8-4187-aa1a-add7d1446e96": {
+    "summary": "Comparative Similarity of Possible Worlds",
+    "content": "{A counterfactual is true if every world that makes the antecedent true without gratuitous departure from actuality is a world that also makes the consequent true}, {Overall similarity among worlds is a resultant of similarities and differences of many different kinds}, {Different resolutions of the vagueness of overall similarity are appropriate in different contexts}",
+    "node_type": "synthesis",
+    "parent_id": "f85f73d5-6c1c-4a8b-a710-6e2a4b526c7f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "43f6b26e-24ad-4833-9d6c-9fa809f7903b": {
+    "summary": "Asymmetry of Miracles",
+    "content": "{Divergence from a world like ours is easier than perfect convergence to it}, {Convergence takes a big, widespread, diverse miracle}, {The asymmetry of counterfactual dependence arises because the appropriate standards of similarity respond to this asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "f85f73d5-6c1c-4a8b-a710-6e2a4b526c7f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "08b769b8-60b5-4a30-989f-4b0c4676b6d2": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Any particular fact about a deterministic world is predetermined throughout the past and postdetermined throughout the future}, {Extreme overdetermination of earlier affairs by later ones is more or less universal at a world like ours}, {The abundance of future traces makes for a like abundance of future determinants}",
+    "node_type": "synthesis",
+    "parent_id": "f85f73d5-6c1c-4a8b-a710-6e2a4b526c7f",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d96680f5-ebee-4af0-87f3-d427b08bfeeb": {
+    "summary": "Does the vagueness of counterfactuals undermine the asymmetry of counterfactual dependence?",
+    "content": "{Counterfactuals are inherently vague, and different resolutions of this vagueness can lead to different judgments about counterfactual dependence.}, {In some contexts, resolving the vagueness of counterfactuals might lead to judgments that the past depends on the present, contradicting the idea of asymmetry.}, {The variability in resolving counterfactual vagueness suggests that the asymmetry of counterfactual dependence might not be as clear-cut as proposed.}",
+    "node_type": "antithesis",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6bc9bb1c-cbf8-4d0b-b589-959fe7602583": {
+    "summary": "Counterfactual Dependence with Contextual Resolution",
+    "content": "{Counterfactuals are inherently vague and require contextual resolution}, {The future depends counterfactually on the present}, {The past is counterfactually independent of the present under standard resolution}, {Counterfactual dependence is asymmetric except in special contexts where different resolutions apply}",
+    "node_type": "synthesis",
+    "parent_id": "d96680f5-ebee-4af0-87f3-d427b08bfeeb",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "98790548-0622-4c84-a09d-d3c860a8e450": {
+    "summary": "Counterfactual Dependence with Similarity of Worlds",
+    "content": "{Counterfactuals are evaluated based on the similarity of possible worlds}, {A counterfactual is true if the closest possible world where the antecedent is true also makes the consequent true}, {The future depends counterfactually on the present}, {The past is counterfactually independent of the present under standard resolution}",
+    "node_type": "synthesis",
+    "parent_id": "d96680f5-ebee-4af0-87f3-d427b08bfeeb",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "763ac674-5d0b-455a-b463-c5401eda95ed": {
+    "summary": "Could the asymmetry of counterfactual dependence be context-dependent rather than universal?",
+    "content": "{The asymmetry of counterfactual dependence is claimed to hold in familiar cases but might break down in extraordinary conditions such as time travel or at the edge of a black hole.}, {The existence of special contexts where the past seems to depend on the present suggests that the asymmetry might not be a universal feature of counterfactual dependence.}, {If the asymmetry of counterfactual dependence is context-dependent, it challenges the notion that it is a fundamental and universal principle.}",
+    "node_type": "antithesis",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2e988b49-88b7-470d-aeb2-c258b4c2d3ec": {
+    "summary": "Standard Resolution of Vagueness",
+    "content": "{Counterfactuals are vague and their vagueness is resolved differently in different contexts}, {In ordinary contexts, counterfactual dependence is asymmetric, meaning the future depends on the present but not vice versa}, {In special contexts, such as time travel, the past may depend on the present, allowing for back-tracking arguments}",
+    "node_type": "synthesis",
+    "parent_id": "763ac674-5d0b-455a-b463-c5401eda95ed",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bc923268-586b-4766-bac5-c791a01ef615": {
+    "summary": "Comparative Similarity of Worlds",
+    "content": "{A counterfactual is true if the closest possible world where the antecedent is true is also a world where the consequent is true}, {Overall similarity among worlds is determined by a balance of various respects of similarity and dissimilarity}, {The similarity relation is context-dependent and can vary, leading to different truth conditions for counterfactuals in different contexts}",
+    "node_type": "synthesis",
+    "parent_id": "763ac674-5d0b-455a-b463-c5401eda95ed",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "73c41c5c-df1b-48e8-9706-6cd13c9dc58b": {
+    "summary": "Asymmetry of Miracles",
+    "content": "{Divergence from a world like ours requires a small miracle, while perfect convergence requires a large, widespread, and diverse miracle}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}, {The asymmetry of miracles is contingent and may not hold in all possible worlds}",
+    "node_type": "synthesis",
+    "parent_id": "763ac674-5d0b-455a-b463-c5401eda95ed",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "82c02c28-da91-47bd-93a6-22c0519514d7": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later events are overdetermined by earlier events, meaning they have multiple sufficient conditions in the past}, {Earlier events are not similarly overdetermined by later events}, {This asymmetry of overdetermination contributes to the asymmetry of counterfactual dependence}",
+    "node_type": "synthesis",
+    "parent_id": "763ac674-5d0b-455a-b463-c5401eda95ed",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f94c9710-76a6-41c4-8af7-d81db7cfe678": {
+    "summary": "Does the asymmetry of counterfactual dependence rely too heavily on determinism?",
+    "content": "{The argument for the asymmetry of counterfactual dependence assumes a deterministic framework where the future depends on the present, but the past does not.}, {In an indeterministic world, where events are not strictly determined by prior states, the asymmetry of counterfactual dependence might not hold as strongly.}, {If the asymmetry of counterfactual dependence is contingent on determinism, it may not apply in indeterministic contexts, challenging its universality.}",
+    "node_type": "antithesis",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "72edc919-8f5d-4e2f-89a7-6c960733a0f3": {
+    "summary": "Counterfactual Dependence with Indeterminism",
+    "content": "{The future depends counterfactually on the present}, {the past is counterfactually independent of the present}, {counterfactual dependence is asymmetric except in special contexts}, {counterfactual dependence does not rely on determinism}",
+    "node_type": "synthesis",
+    "parent_id": "f94c9710-76a6-41c4-8af7-d81db7cfe678",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8d46d0cb-f73b-4e08-a4c6-7c14d456ceb1": {
+    "summary": "Counterfactual Dependence with Vagueness",
+    "content": "{The future depends counterfactually on the present}, {the past is counterfactually independent of the present}, {counterfactual dependence is asymmetric except in special contexts}, {counterfactuals are vague and context-dependent}",
+    "node_type": "synthesis",
+    "parent_id": "f94c9710-76a6-41c4-8af7-d81db7cfe678",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3d28554e-88df-4cdd-9989-0f266334ed5d": {
+    "summary": "Counterfactual Dependence with Similarity",
+    "content": "{The future depends counterfactually on the present}, {the past is counterfactually independent of the present}, {counterfactual dependence is asymmetric except in special contexts}, {counterfactuals are determined by the similarity of possible worlds}",
+    "node_type": "synthesis",
+    "parent_id": "f94c9710-76a6-41c4-8af7-d81db7cfe678",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c329b73e-b0e9-4320-970f-db7ef97314bd": {
+    "summary": "Is the asymmetry of counterfactual dependence undermined by the possibility of exceptions?",
+    "content": "{The asymmetry of counterfactual dependence is acknowledged to have exceptions, such as in cases involving time travel or certain cosmological models.}, {The recognition of possible exceptions to the asymmetry suggests that it might not be a strict rule but rather a general tendency.}, {If the asymmetry of counterfactual dependence allows for exceptions, it raises questions about its status as a fundamental principle.}",
+    "node_type": "antithesis",
+    "parent_id": "6ae423a4-d0d1-4524-9158-cc381a16f2b9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fb6ec1f4-ac31-42dd-8221-b8a332fdf240": {
+    "summary": "Counterfactual Dependence with Contextual Flexibility",
+    "content": "{The future depends counterfactually on the present}, {the past is generally counterfactually independent of the present}, {counterfactual dependence is context-dependent and can vary based on the resolution of vagueness}",
+    "node_type": "synthesis",
+    "parent_id": "c329b73e-b0e9-4320-970f-db7ef97314bd",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "75d925d0-b998-417d-9839-c172f6356d4f": {
+    "summary": "Counterfactual Dependence with Similarity-Based Analysis",
+    "content": "{The future depends counterfactually on the present}, {the past is generally counterfactually independent of the present}, {counterfactuals are evaluated based on the comparative similarity of possible worlds}",
+    "node_type": "synthesis",
+    "parent_id": "c329b73e-b0e9-4320-970f-db7ef97314bd",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fc3e03c9-eafb-48e8-b9ef-b19136c63101": {
+    "summary": "Counterfactual Dependence with Asymmetry of Miracles",
+    "content": "{The future depends counterfactually on the present}, {the past is generally counterfactually independent of the present}, {divergence from the actual world requires less of a miracle than perfect convergence to it}",
+    "node_type": "synthesis",
+    "parent_id": "c329b73e-b0e9-4320-970f-db7ef97314bd",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1ccb5d5f-8638-47d1-99cd-19423920987d": {
+    "summary": "Can counterfactuals about the past be clearly true or false?",
+    "content": "{Counterfactuals about how the past would be different if the present were different are seldom clearly true or false.}, {In reasoning from a counterfactual supposition about the present, we often assume that the past would remain unchanged.}, {Back-tracking arguments suggest that if the present were different, the past would have to be different, but these arguments are not always persuasive.}",
+    "node_type": "antithesis",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1c227319-ddf9-4b9a-8134-f90e89b7043d": {
+    "summary": "Counterfactual Dependence and Similarity of Worlds",
+    "content": "{Counterfactuals are true if every world where the antecedent is true and the consequent is true is more similar to the actual world than any world where the antecedent is true and the consequent is false}, {Overall similarity among worlds is a resultant of similarities and differences of many kinds}, {Different contexts require different resolutions of the vagueness of overall similarity}",
+    "node_type": "synthesis",
+    "parent_id": "1ccb5d5f-8638-47d1-99cd-19423920987d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0caba1f5-a460-42c9-8012-20d3a4c7a433": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {The past does not depend counterfactually on the present}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "1ccb5d5f-8638-47d1-99cd-19423920987d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "68bcbb5e-0d04-4dfa-9e66-664b36c751cf": {
+    "summary": "Asymmetry of Miracles",
+    "content": "{Divergence from a world requires a small miracle}, {Perfect convergence to a world requires a big, widespread, diverse miracle}, {The asymmetry of counterfactual dependence arises because convergence takes more of a miracle than divergence}",
+    "node_type": "synthesis",
+    "parent_id": "1ccb5d5f-8638-47d1-99cd-19423920987d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "539470d5-f0fa-462a-b895-82fd370dff2e": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones}, {Earlier affairs are not overdetermined by later ones}, {The asymmetry of overdetermination explains why convergence takes more of a miracle than divergence}",
+    "node_type": "synthesis",
+    "parent_id": "1ccb5d5f-8638-47d1-99cd-19423920987d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e5f8a734-46cb-4bfd-bc1f-7b4e332b0b59": {
+    "summary": "Indeterministic Counterfactuals and Quasi-Miracles",
+    "content": "{In an indeterministic world, divergence does not require a miracle}, {Perfect convergence requires a quasi-miracle}, {Quasi-miracles detract from similarity in much the same way as miracles do}",
+    "node_type": "synthesis",
+    "parent_id": "1ccb5d5f-8638-47d1-99cd-19423920987d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "66329420-07c4-46cf-9587-790ee3248639": {
+    "summary": "Is the asymmetry of counterfactual dependence context-dependent?",
+    "content": "{Counterfactuals are vague, and different contexts may resolve this vagueness in different ways.}, {In standard contexts, counterfactual dependence is asymmetric, meaning the future depends on the present, but not vice versa.}, {In special contexts, the past may depend counterfactually on the present, allowing for back-tracking arguments.}",
+    "node_type": "antithesis",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8287c87c-c67a-46b3-8833-398d97b8f734": {
+    "summary": "Does the asymmetry of counterfactual dependence always hold?",
+    "content": "{The asymmetry of counterfactual dependence does not hold in all possible or actual cases.}, {The asymmetry may break down in extraordinary conditions, such as time travel or near black holes.}, {The asymmetry is contingent on the specific conditions of the world and may not apply universally.}",
+    "node_type": "antithesis",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "42e07534-57d7-4be7-8b08-22c41e1f7e94": {
+    "summary": "Counterfactual Dependence and Similarity",
+    "content": "{Counterfactuals are true if the antecedent and consequent are true in the most similar possible worlds}, {Overall similarity among worlds is determined by a system of weights or priorities}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}, {Divergence from a world requires a small miracle}, {Perfect convergence to a world requires a big, widespread, diverse miracle}",
+    "node_type": "synthesis",
+    "parent_id": "8287c87c-c67a-46b3-8833-398d97b8f734",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e0463b7c-d2f4-477f-9242-c8f65c0afbb2": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones in a deterministic world}, {Earlier affairs are not overdetermined by later ones in a deterministic world}, {The asymmetry of overdetermination explains the asymmetry of miracles}, {Divergence from a world requires breaking fewer links than convergence to it}",
+    "node_type": "synthesis",
+    "parent_id": "8287c87c-c67a-46b3-8833-398d97b8f734",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5157f8b0-cc5a-41fe-aa54-39e3b6995c16": {
+    "summary": "Indeterministic Counterfactuals and Quasi-Miracles",
+    "content": "{In an indeterministic world, divergence does not require a miracle}, {Perfect convergence requires a quasi-miracle, which is a remarkable coincidence of lawful outcomes}, {Quasi-miracles detract from similarity in the same way as genuine miracles}, {Counterfactuals are true if they avoid quasi-miracles and maintain similarity}",
+    "node_type": "synthesis",
+    "parent_id": "8287c87c-c67a-46b3-8833-398d97b8f734",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "43a6d88d-33aa-46ea-b353-fd24673cecf5": {
+    "summary": "Is the asymmetry of counterfactual dependence related to the asymmetry of causation?",
+    "content": "{The temporal asymmetry of causation suggests that effects do not precede their causes.}, {A counterfactual analysis of causation links cause and effect through a chain of counterfactual dependences.}, {Backward causation would require counterfactual dependence of the past on the future, which is not typically observed.}",
+    "node_type": "antithesis",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6a3287e8-1515-4eb5-866a-dd54b2495242": {
+    "summary": "Counterfactual Dependence with Similarity",
+    "content": "{Counterfactuals are true if the antecedent and consequent are true in the most similar possible worlds}, {Similarity between worlds is determined by a balance of various respects of similarity and dissimilarity}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "43a6d88d-33aa-46ea-b353-fd24673cecf5",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2d273e98-4d57-408c-a8c6-d4a053fa5072": {
+    "summary": "Counterfactual Dependence with Overdetermination",
+    "content": "{Counterfactual dependence is influenced by the asymmetry of overdetermination}, {Later events are often overdetermined by earlier events, but not vice versa}, {The asymmetry of counterfactual dependence arises from this asymmetry of overdetermination}",
+    "node_type": "synthesis",
+    "parent_id": "43a6d88d-33aa-46ea-b353-fd24673cecf5",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9ac10005-b821-4079-9ad0-056470e4119b": {
+    "summary": "Does the asymmetry of counterfactual dependence explain the asymmetry of openness?",
+    "content": "{The asymmetry of openness refers to the perception of the future as open and the past as fixed.}, {The asymmetry of counterfactual dependence may explain this perception, as the future depends on the present, while the past does not.}, {Alternative explanations, such as epistemic asymmetry or indeterminism, do not fully account for the asymmetry of openness.}",
+    "node_type": "antithesis",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4f05ea88-714e-452b-a97a-3853bfc88463": {
+    "summary": "Is the asymmetry of counterfactual dependence contingent on determinism?",
+    "content": "{Determinism implies that possible worlds either match perfectly or not at all, without divergence or convergence.}, {The asymmetry of counterfactual dependence can arise even under strict determinism, without relying on indeterminism.}, {Indeterminism is neither necessary nor sufficient for the asymmetries of counterfactual dependence, causation, and openness.}",
+    "node_type": "antithesis",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "053ad5c6-f6d3-4d08-acac-50e7f35c37c9": {
+    "summary": "Counterfactual Dependence and Similarity",
+    "content": "{Counterfactuals are true if every world where the antecedent is true and the consequent is false is less similar to the actual world than any world where both are true}, {Overall similarity among worlds is determined by a weighted resultant of similarities and differences in various respects}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles, where divergence requires a small miracle and perfect convergence requires a big, widespread, diverse miracle}",
+    "node_type": "synthesis",
+    "parent_id": "4f05ea88-714e-452b-a97a-3853bfc88463",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fe822a2f-0f84-401d-8770-2a117d592b40": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{In a deterministic world, any particular fact is predetermined by earlier conditions and postdetermined by later conditions}, {There is an asymmetry of overdetermination where later conditions overdetermine earlier ones more than earlier conditions overdetermine later ones}, {The asymmetry of counterfactual dependence arises from this asymmetry of overdetermination, as divergence requires breaking fewer links than convergence}",
+    "node_type": "synthesis",
+    "parent_id": "4f05ea88-714e-452b-a97a-3853bfc88463",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0d06cfcd-1408-4117-a091-da18c8cd9558": {
+    "summary": "Does the asymmetry of counterfactual dependence rely on the asymmetry of miracles?",
+    "content": "{Divergence from a world requires a small miracle, while perfect convergence requires a big, widespread, diverse miracle.}, {The asymmetry of counterfactual dependence arises because the standards of similarity respond to the asymmetry of miracles.}, {The asymmetry of miracles is contingent and may not hold in all possible worlds.}",
+    "node_type": "antithesis",
+    "parent_id": "34450bf3-4afd-4ed8-b39e-e8f80af32a88",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6a8384fb-bfaa-4631-b25c-7fd99cfd8b5b": {
+    "summary": "Counterfactual Dependence and Similarity",
+    "content": "{Counterfactuals are true if the antecedent leads to the consequent in the most similar possible worlds}, {Overall similarity among worlds is determined by a system of weights or priorities}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "0d06cfcd-1408-4117-a091-da18c8cd9558",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f034a116-f6b5-43a6-91dc-333874c467f7": {
+    "summary": "Counterfactual Dependence and Overdetermination",
+    "content": "{Counterfactual dependence is influenced by the asymmetry of overdetermination}, {Later events are often overdetermined by earlier events in a world like ours}, {The asymmetry of counterfactual dependence arises because divergence requires fewer miracles than convergence}",
+    "node_type": "synthesis",
+    "parent_id": "0d06cfcd-1408-4117-a091-da18c8cd9558",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1a35e386-61bb-46f2-9e0f-a39687dc0ecb": {
+    "summary": "Can the asymmetry of overdetermination be explained by counterfactual dependence?",
+    "content": "{There is a plausible principle that counterfactual dependence is asymmetric, meaning that the future depends on the present, but the past does not depend on the future. This principle together with the idea that counterfactuals are context-dependent entails that the asymmetry of overdetermination is not a necessary feature of the world.}, {Consider a scenario in which a small miracle allows for divergence from a deterministic world. In such a scenario, intuitively we would judge that divergence is easier than perfect convergence, suggesting that the asymmetry of overdetermination is contingent on the nature of the world.}, {It is implausible that the asymmetry of overdetermination is a universal feature of all possible worlds, as it may not hold in worlds with different physical laws or in simple worlds with minimal complexity.}",
+    "node_type": "antithesis",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e703c07e-55f6-4345-a749-b2402d3b49b0": {
+    "summary": "Counterfactual Dependence and Time's Arrow",
+    "content": "{Counterfactual dependence is asymmetric, meaning the future depends on the present, but the past does not depend on the future}, {Counterfactuals are context-dependent, meaning their truth can vary based on the context in which they are considered}, {The asymmetry of counterfactual dependence explains the temporal asymmetry of causation, where causes precede effects}, {The asymmetry of counterfactual dependence explains the asymmetry of openness, where the future is seen as open and the past as fixed}",
+    "node_type": "synthesis",
+    "parent_id": "1a35e386-61bb-46f2-9e0f-a39687dc0ecb",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5e830af7-bc96-410c-8bc0-df5097e3c51f": {
+    "summary": "Similarity-Based Analysis of Counterfactuals",
+    "content": "{A counterfactual is true if every world where the antecedent is true and the consequent is true is more similar to the actual world than any world where the antecedent is true and the consequent is false}, {Overall similarity among worlds is determined by a weighted resultant of similarities and differences in various respects}, {The similarity relation governing counterfactuals is context-dependent and can vary based on the context}",
+    "node_type": "synthesis",
+    "parent_id": "1a35e386-61bb-46f2-9e0f-a39687dc0ecb",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c1871a00-f528-4350-b890-481cb7b7e279": {
+    "summary": "Asymmetry of Miracles",
+    "content": "{Divergence from a deterministic world requires a small miracle, while perfect convergence to it requires a large, widespread, and diverse miracle}, {The asymmetry of miracles explains the asymmetry of counterfactual dependence, as divergence is easier than convergence}, {The asymmetry of miracles is contingent and may not hold in all possible worlds}",
+    "node_type": "synthesis",
+    "parent_id": "1a35e386-61bb-46f2-9e0f-a39687dc0ecb",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "93f80fda-539b-47c7-ae34-1286e283f9fd": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones, meaning they have multiple sufficient conditions in the past}, {Earlier affairs are not overdetermined by later ones, meaning they do not have multiple sufficient conditions in the future}, {The asymmetry of overdetermination explains why convergence to a world like ours requires a large miracle}",
+    "node_type": "synthesis",
+    "parent_id": "1a35e386-61bb-46f2-9e0f-a39687dc0ecb",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "49f5bb1e-8256-42d3-b31f-4c2752201bf7": {
+    "summary": "Does the asymmetry of miracles necessarily lead to an asymmetry of counterfactual dependence?",
+    "content": "{There is a plausible principle that the asymmetry of miracles, where divergence requires less of a miracle than convergence, leads to an asymmetry of counterfactual dependence. This principle together with the idea that counterfactuals are evaluated based on similarity entails that the asymmetry of counterfactual dependence is not an inherent feature of counterfactuals themselves.}, {Consider a scenario in which a world is indeterministic, allowing for divergence without miracles. In such a scenario, intuitively we would judge that the asymmetry of counterfactual dependence may not arise from the asymmetry of miracles, as divergence can occur naturally.}, {It is implausible that the asymmetry of counterfactual dependence is solely due to the asymmetry of miracles, as counterfactuals are context-dependent and may vary based on the nature of the world.}",
+    "node_type": "antithesis",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6734a105-4f8e-4d3e-8bc5-bdd75eba2059": {
+    "summary": "Is the asymmetry of overdetermination a contingent feature of our world?",
+    "content": "{There is a plausible principle that overdetermination is asymmetric, with later affairs being overdetermined by earlier ones, but not vice versa. This principle together with the idea that overdetermination is a matter of degree entails that the asymmetry of overdetermination is contingent on the specific conditions of our world.}, {Consider a scenario in which a world has different physical laws that allow for symmetric overdetermination. In such a scenario, intuitively we would judge that the asymmetry of overdetermination is not a necessary feature of all possible worlds.}, {It is implausible that the asymmetry of overdetermination is a universal feature, as it may not hold in worlds with different causal structures or in simple worlds with minimal complexity.}",
+    "node_type": "antithesis",
+    "parent_id": "7afcaa3b-8289-43bc-a2e0-329951ec5747",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "82a247d5-a717-4b97-ab69-7da8e3ce55ad": {
+    "summary": "Counterfactual Dependence Asymmetry",
+    "content": "{The future depends counterfactually on the present}, {the past is counterfactually independent of the present}, {counterfactual dependence is asymmetric except in special contexts}",
+    "node_type": "synthesis",
+    "parent_id": "6734a105-4f8e-4d3e-8bc5-bdd75eba2059",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e5aa99ce-5e90-43fd-b4eb-05052f6583b1": {
+    "summary": "Counterfactual Similarity Analysis",
+    "content": "{Counterfactuals are true if the consequent holds in the most similar possible worlds where the antecedent is true}, {similarity is determined by a weighted balance of respects of comparison}, {perfect match of particular fact is prioritized over approximate match}",
+    "node_type": "synthesis",
+    "parent_id": "6734a105-4f8e-4d3e-8bc5-bdd75eba2059",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f38c656d-418c-4eff-a883-9c40102ffaac": {
+    "summary": "Miracle-Based Counterfactuals",
+    "content": "{Counterfactuals involve small miracles to permit divergence from actuality}, {perfect convergence to actuality requires large, diverse miracles}, {miracles are violations of the laws of nature relative to another world}",
+    "node_type": "synthesis",
+    "parent_id": "6734a105-4f8e-4d3e-8bc5-bdd75eba2059",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1d999ccc-1e14-4583-a51d-b04c2e48acdd": {
+    "summary": "Asymmetry of Miracles",
+    "content": "{Divergence from actuality requires a small miracle}, {perfect convergence to actuality requires a large, diverse miracle}, {the asymmetry of miracles explains the asymmetry of counterfactual dependence}",
+    "node_type": "synthesis",
+    "parent_id": "6734a105-4f8e-4d3e-8bc5-bdd75eba2059",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0ff08738-6c98-4ec8-bf59-f7bc31942102": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones}, {earlier affairs are not overdetermined by later ones}, {the asymmetry of overdetermination explains the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "6734a105-4f8e-4d3e-8bc5-bdd75eba2059",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6f2fc06c-a97e-4e2d-af93-2b7da171476a": {
+    "summary": "{Future similarity objection}",
+    "content": "{What is the future similarity objection to the analysis of counterfactuals, and how can it be addressed?}",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3": {
+    "summary": "Future Similarity Objection",
+    "content": "{The future similarity objection argues that if a counterfactual antecedent is true, it is possible to imagine a closer world where the consequent is false}, {The objection suggests that a small change could prevent a significant event without a great divergence from reality}, {The objection challenges the analysis of counterfactuals based on comparative similarity of possible worlds}",
+    "node_type": "thesis",
+    "parent_id": "6f2fc06c-a97e-4e2d-af93-2b7da171476a",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "efb00909-20b1-4d25-97f9-3a7c7973b788": {
+    "summary": "Addressing the Future Similarity Objection",
+    "content": "{The analysis of counterfactuals should consider the overall similarity of worlds, not just prominent similarity relations}, {A small miracle that allows divergence from reality is more plausible than a large miracle that allows convergence}, {Perfect match of particular fact is more important than approximate match}, {Avoidance of big miracles is more important than avoidance of small miracles}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "thesis",
+    "parent_id": "6f2fc06c-a97e-4e2d-af93-2b7da171476a",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "18dda47e-1817-4133-bd51-30f3ff80d748": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}",
+    "node_type": "reason",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0dd07259-52ae-4a70-aa08-3404ef37179a": {
+    "summary": "Back-Tracking Arguments",
+    "content": "{Back-tracking arguments suggest that if the present were different, the past would have to be different}, {These arguments are often rejected in favor of the view that the past remains the same regardless of present changes}",
+    "node_type": "reason",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ad893f57-cfcb-4708-90e2-cdde4bf448fd": {
+    "summary": "Vagueness in Counterfactuals",
+    "content": "{Counterfactuals are infected with vagueness}, {Different contexts resolve this vagueness in different ways}",
+    "node_type": "reason",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3c15bccf-afb7-40fe-8724-81e27174f93a": {
+    "summary": "Standard Resolution of Vagueness",
+    "content": "{The standard resolution of vagueness assumes counterfactual dependence is asymmetric}, {Under this resolution, back-tracking arguments are mistaken}",
+    "node_type": "reason",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7de0b8e5-d690-4985-bdcc-6c21892a80a2": {
+    "summary": "Asymmetry of Causation",
+    "content": "{Effects do not precede their causes}, {Causation is typically futureward}",
+    "node_type": "reason",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a9797ccd-317f-4284-bb08-6503d3075619": {
+    "summary": "Asymmetry of Openness",
+    "content": "{The future is seen as open with multiple possibilities}, {The past is seen as fixed and immutable}",
+    "node_type": "reason",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0bd77c57-7939-4166-bbdc-b481055452a6": {
+    "summary": "Determinism and Divergence",
+    "content": "{In a deterministic world, divergence from the actual world requires a miracle}, {Convergence to the actual world requires a larger miracle}",
+    "node_type": "reason",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ffc83fd1-de68-4a9e-9360-4cc80444cb16": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later events are overdetermined by earlier ones}, {Earlier events are not as overdetermined by later ones}",
+    "node_type": "reason",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e79dbf39-c46d-4cab-81dc-b0568a17ee68": {
+    "summary": "Ubiquity of Traces",
+    "content": "{Everything that happens leaves many and varied traces}, {Eradicating these traces would require a significant intervention}",
+    "node_type": "reason",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ad292f7f-e043-4a25-b26e-3711d71e4c13": {
+    "summary": "Counterfactual dependence is asymmetric",
+    "content": "{The future depends counterfactually on the present}, {The past does not depend counterfactually on the present}, {The asymmetry of counterfactual dependence is evident in everyday reasoning}",
+    "node_type": "reason",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0ca191e9-7b5c-46b3-bde6-1e6f8909c41f": {
+    "summary": "Back-tracking counterfactuals are context-dependent",
+    "content": "{Back-tracking counterfactuals can be true in special contexts}, {Ordinarily, facts about earlier times are assumed to be counterfactually independent of later times}, {The resolution of vagueness in counterfactuals can shift to accommodate back-tracking arguments}",
+    "node_type": "reason",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2ae43077-566b-4410-9992-7227b1e05964": {
+    "summary": "Asymmetry of causation and openness",
+    "content": "{Effects do not precede their causes}, {The future is seen as open with multiple possibilities}, {The past is seen as fixed and immutable}",
+    "node_type": "reason",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4d314a60-f8ba-43ea-895f-7317c321449c": {
+    "summary": "Determinism and asymmetry of counterfactual dependence",
+    "content": "{Deterministic laws imply that worlds are either exactly alike or not alike at all}, {Under determinism, the asymmetry of counterfactual dependence can arise without indeterminism}, {The asymmetry of counterfactual dependence is not necessarily tied to indeterministic laws}",
+    "node_type": "reason",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c658cf36-49fe-4bf9-afc1-82b8e9ec573f": {
+    "summary": "Perfect match and avoidance of big miracles",
+    "content": "{Perfect match of particular fact is more important than approximate match}, {Avoidance of big miracles is more important than avoidance of small miracles}, {Perfect convergence to a world requires a big, widespread, diverse miracle}",
+    "node_type": "reason",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f8124d9e-b1e5-4243-8212-2b8cea2add6b": {
+    "summary": "Asymmetry of overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones}, {Earlier affairs are not overdetermined by later ones}, {The asymmetry of overdetermination contributes to the asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3d1a5f3c-5f26-4712-b34e-a19b15a8e0d6": {
+    "summary": "Does the asymmetry of counterfactual dependence hold universally?",
+    "content": "{It is implausible that the asymmetry of counterfactual dependence holds universally, as it may break down in different conditions such as time travel, black holes, or in simple worlds like one solitary atom in the void.}, {Consider a scenario in which a world consists of one solitary atom in the void. In such a scenario, intuitively we would judge that convergence to this world takes no more of a varied and widespread miracle than divergence from it.}",
+    "node_type": "antithesis",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bec3cac2-fb03-43e1-80db-861542bd9e99": {
+    "summary": "Counterfactual Dependence with Asymmetry of Miracles",
+    "content": "{Counterfactuals are true if a small miracle allows divergence from the actual world}, {Perfect match of particular fact is prioritized over approximate match}, {Avoidance of big, widespread, diverse miracles is prioritized over small, localized miracles}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "3d1a5f3c-5f26-4712-b34e-a19b15a8e0d6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "11c13fbc-ec07-499c-aefa-c46190c32726": {
+    "summary": "Counterfactual Dependence with Comparative Similarity",
+    "content": "{A counterfactual is true if some world where both the antecedent and consequent are true is more similar to the actual world than any world where the antecedent is true but the consequent is false}, {Overall similarity among worlds is a resultant of similarities and differences of many kinds}, {Different contexts require different resolutions of the vagueness of overall similarity}",
+    "node_type": "synthesis",
+    "parent_id": "3d1a5f3c-5f26-4712-b34e-a19b15a8e0d6",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4faacf32-b1f4-43af-ae91-2c165b653fe9": {
+    "summary": "Can counterfactuals be resolved by similarity without ambiguity?",
+    "content": "{There is a plausible principle that counterfactuals are resolved by comparative similarity of possible worlds. This principle together with the observation that similarity is context-dependent and vague entails that counterfactuals cannot be resolved without ambiguity.}, {Consider a scenario in which two counterfactuals of the form \"If A, the world would be very different; but if A and B, the world would not be very different\" seem true. In such a scenario, intuitively we would judge that the similarity relation governing counterfactuals disagrees with that governing explicit judgments of what is \"very different.\"}",
+    "node_type": "antithesis",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e1cb986a-5627-4486-ba2d-109a3e124bf0": {
+    "summary": "Is the pre-eminence of perfect match in counterfactuals intuitively obvious?",
+    "content": "{It is implausible that the pre-eminence of perfect match in counterfactuals is intuitively obvious, as it is not a feature of the similarity relations most likely to guide our explicit judgments.}, {Consider a scenario in which a world diverges from another by a small miracle and then converges perfectly. In such a scenario, intuitively we would judge that the pre-eminence of perfect match is not obvious, as approximate similarities of particular fact should have little weight or none.}",
+    "node_type": "antithesis",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "56908ba2-d591-404d-b258-702ea349b02c": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{Counterfactual dependence is asymmetric, meaning the future depends on the present, but the past does not depend on the future}, {The asymmetry of counterfactual dependence is explained by the asymmetry of miracles, where divergence from the actual world requires a small miracle, but perfect convergence requires a large, widespread miracle}, {The asymmetry of counterfactual dependence is a contingent, de facto matter, not a necessary feature of all possible worlds}",
+    "node_type": "synthesis",
+    "parent_id": "e1cb986a-5627-4486-ba2d-109a3e124bf0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1eaf5a80-412d-4a6f-962b-b95eaae5f515": {
+    "summary": "Analysis Based on Comparative Similarity",
+    "content": "{A counterfactual is true if every world that makes the antecedent true without gratuitous departure from actuality is a world that also makes the consequent true}, {Overall similarity among worlds is a resultant of similarities and differences of many different kinds}, {The system of weights or priorities used to determine overall similarity is context-dependent and varies with different counterfactuals}",
+    "node_type": "synthesis",
+    "parent_id": "e1cb986a-5627-4486-ba2d-109a3e124bf0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0ea5c5e6-5057-4568-b69e-ede57d7a33d5": {
+    "summary": "Standard Resolution of Vagueness",
+    "content": "{Counterfactuals are infected with vagueness, and different resolutions of this vagueness are appropriate in different contexts}, {The standard resolution of vagueness invalidates back-tracking arguments, meaning the past is assumed to be independent of the present}, {Under the standard resolution, counterfactual dependence is asymmetric, with the future depending on the present but not vice versa}",
+    "node_type": "synthesis",
+    "parent_id": "e1cb986a-5627-4486-ba2d-109a3e124bf0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2544412e-07c4-4de4-af75-3bff8d171385": {
+    "summary": "Indeterminism and Quasi-Miracles",
+    "content": "{In an indeterministic world, divergence from actuality does not require a miracle due to abundant opportunities for divergence in chance processes}, {Perfect convergence to actuality would require a quasi-miracle, a remarkable coincidence of lawful outcomes of chance processes}, {Quasi-miracles detract from similarity in much the same way as genuine miracles, making them unlikely in the closest worlds to actuality}",
+    "node_type": "synthesis",
+    "parent_id": "e1cb986a-5627-4486-ba2d-109a3e124bf0",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "be57bcf4-da46-45de-8969-86587060b936": {
+    "summary": "Can small changes prevent significant events without great divergence from reality?",
+    "content": "{Consider a scenario in which Nixon presses a button, leading to a nuclear holocaust. In such a scenario, intuitively we would judge that a small change, such as a tiny miracle preventing the signal from reaching the rockets, could prevent the holocaust without a great divergence from reality.}, {It is implausible that approximate convergence to reality counts for much, as it does not outweigh the significance of a small miracle.}",
+    "node_type": "antithesis",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4e76b862-94b2-4cb4-a169-ac2a28bddb79": {
+    "summary": "Counterfactual Dependence with Asymmetry",
+    "content": "{Counterfactuals are statements about what would happen if a certain condition were met}, {Counterfactual dependence is asymmetric, meaning the future depends on the present, but not vice versa}, {The asymmetry of counterfactual dependence is explained by the asymmetry of miracles, where divergence from reality requires less of a miracle than convergence}",
+    "node_type": "synthesis",
+    "parent_id": "be57bcf4-da46-45de-8969-86587060b936",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6cde220b-71e7-4c31-ada7-323962f2930c": {
+    "summary": "Similarity-Based Analysis of Counterfactuals",
+    "content": "{Counterfactuals are evaluated based on the similarity of possible worlds}, {A counterfactual is true if the closest possible world where the antecedent is true also makes the consequent true}, {Overall similarity is determined by a system of weights or priorities among different respects of comparison}",
+    "node_type": "synthesis",
+    "parent_id": "be57bcf4-da46-45de-8969-86587060b936",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5ec27a88-584e-4999-801d-5223bf00f35b": {
+    "summary": "Asymmetry of Miracles and Overdetermination",
+    "content": "{Miracles are events that violate the laws of nature}, {Divergence from reality requires a small miracle, while convergence requires a large, widespread miracle}, {The asymmetry of miracles is due to the asymmetry of overdetermination, where the past is more overdetermined by the future than vice versa}",
+    "node_type": "synthesis",
+    "parent_id": "be57bcf4-da46-45de-8969-86587060b936",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5b692df1-1c89-456b-a7ed-0c9fefbec72b": {
+    "summary": "Indeterministic Counterfactuals with Quasi-Miracles",
+    "content": "{In an indeterministic world, divergence does not require a miracle due to chance processes}, {Perfect convergence requires a quasi-miracle, a lawful but extraordinarily improbable event}, {Quasi-miracles detract from similarity in the same way as genuine miracles}",
+    "node_type": "synthesis",
+    "parent_id": "be57bcf4-da46-45de-8969-86587060b936",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "746b5ec0-f9c5-4f44-8455-e777b56c6d0c": {
+    "summary": "Does the asymmetry of overdetermination explain the asymmetry of miracles?",
+    "content": "{There is a plausible principle that overdetermination of earlier affairs by later ones is more extreme than overdetermination of later affairs by earlier ones. This principle together with the observation that divergence requires breaking fewer links than convergence entails that the asymmetry of overdetermination explains the asymmetry of miracles.}, {Consider a scenario in which a world diverges from another by a small miracle. In such a scenario, intuitively we would judge that divergence is easier than perfect convergence due to the asymmetry of overdetermination.}",
+    "node_type": "antithesis",
+    "parent_id": "a9d89e7d-8e2e-4fba-a55b-0e905bf72ad3",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "418d8a45-4cdc-4682-8c3a-7ee32210c67e": {
+    "summary": "Counterfactual Dependence with Asymmetry of Miracles",
+    "content": "{Counterfactuals are true if the consequent holds in the most similar possible worlds where the antecedent is true}, {The similarity of possible worlds is determined by a system of weights or priorities}, {It is of the first importance to avoid big, widespread, diverse violations of law}, {It is of the second importance to maximize the spatio-temporal region throughout which perfect match of particular fact prevails}, {It is of the third importance to avoid even small, localized, simple violations of law}, {It is of little or no importance to secure approximate similarity of particular fact, even in matters that concern us greatly}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles, where divergence from reality requires fewer and smaller miracles than convergence}",
+    "node_type": "synthesis",
+    "parent_id": "746b5ec0-f9c5-4f44-8455-e777b56c6d0c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0bce1a93-6972-43a5-9466-13a63c6dbcb6": {
+    "summary": "Counterfactual Dependence with Asymmetry of Overdetermination",
+    "content": "{Counterfactuals are true if the consequent holds in the most similar possible worlds where the antecedent is true}, {The similarity of possible worlds is determined by a system of weights or priorities}, {It is of the first importance to avoid big, widespread, diverse violations of law}, {It is of the second importance to maximize the spatio-temporal region throughout which perfect match of particular fact prevails}, {It is of the third importance to avoid even small, localized, simple violations of law}, {It is of little or no importance to secure approximate similarity of particular fact, even in matters that concern us greatly}, {The asymmetry of counterfactual dependence is explained by the asymmetry of overdetermination, where later affairs are more overdetermined by earlier ones than vice versa}",
+    "node_type": "synthesis",
+    "parent_id": "746b5ec0-f9c5-4f44-8455-e777b56c6d0c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3fbb90dd-dcde-436b-9873-5bfdbba036ad": {
+    "summary": "Does the asymmetry of counterfactual dependence hold universally?",
+    "content": "{The asymmetry of counterfactual dependence may not hold in all possible or actual cases, especially in extraordinary conditions like time travel or near black holes.}, {The asymmetry of counterfactual dependence is contingent and may not apply in simple worlds or under different conditions.}, {The asymmetry of counterfactual dependence is not built into the analysis of counterfactuals but arises from the asymmetry of miracles.}",
+    "node_type": "antithesis",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c6c6cd45-3542-4324-84b0-a15aa3d73d04": {
+    "summary": "Similarity-Based Counterfactual Analysis",
+    "content": "{Counterfactuals are evaluated based on the overall similarity of possible worlds}, {A small miracle that allows divergence from reality is more plausible than a large miracle that allows convergence}, {Perfect match of particular fact is more important than approximate match}, {Avoidance of big miracles is more important than avoidance of small miracles}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "3fbb90dd-dcde-436b-9873-5bfdbba036ad",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d554bf2e-6ce0-443d-9074-7e604e16fc4f": {
+    "summary": "Vagueness and Context in Counterfactuals",
+    "content": "{Counterfactuals are inherently vague and context-dependent}, {Different contexts require different resolutions of vagueness}, {The standard resolution of vagueness invalidates back-tracking arguments}, {Counterfactual dependence is typically asymmetric except in special contexts}, {The asymmetry of counterfactual dependence is not built into the analysis but arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "3fbb90dd-dcde-436b-9873-5bfdbba036ad",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "750bdabe-efde-468b-96de-74edb09364f5": {
+    "summary": "Can back-tracking arguments challenge the asymmetry of counterfactual dependence?",
+    "content": "{Back-tracking arguments suggest that if the present were different, the past would also be different, challenging the idea that the past is counterfactually independent of the present.}, {In some contexts, back-tracking arguments are accepted, indicating that the past can depend counterfactually on the present.}, {The standard resolution of vagueness in counterfactuals usually invalidates back-tracking arguments, but special contexts can make them seem correct.}",
+    "node_type": "antithesis",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4db5ae76-69fa-4dcf-bba3-8f6296170159": {
+    "summary": "Similarity-Based Counterfactuals",
+    "content": "{Counterfactuals are evaluated based on the overall similarity of possible worlds}, {A small miracle that allows divergence from reality is more plausible than a large miracle that allows convergence}, {Perfect match of particular fact is more important than approximate match}, {Avoidance of big miracles is more important than avoidance of small miracles}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "750bdabe-efde-468b-96de-74edb09364f5",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "90b24109-a4c1-49d1-a8e5-f9e3c2856a25": {
+    "summary": "Miracle-Based Counterfactuals",
+    "content": "{Counterfactuals are evaluated based on the occurrence of miracles}, {A small miracle that allows divergence from reality is more plausible than a large miracle that allows convergence}, {Perfect match of particular fact is more important than approximate match}, {Avoidance of big miracles is more important than avoidance of small miracles}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "750bdabe-efde-468b-96de-74edb09364f5",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2a51ebed-c851-40a0-9374-831cc80c502a": {
+    "summary": "Is the pre-eminence of perfect match in counterfactuals intuitively obvious?",
+    "content": "{Perfect match of particular fact is considered more important than approximate match, even if the approximate match concerns matters of great importance.}, {The pre-eminence of perfect match is not intuitively obvious and does not align with the similarity relations that guide explicit judgments.}, {The pre-eminence of perfect match is a feature of some relations of overall similarity necessary for the analysis of counterfactuals.}",
+    "node_type": "antithesis",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "df0ea84a-0246-4d1f-b9b6-eb893ba41242": {
+    "summary": "Similarity-Based Counterfactuals",
+    "content": "{The analysis of counterfactuals should consider the overall similarity of worlds, not just prominent similarity relations}, {A small miracle that allows divergence from reality is more plausible than a large miracle that allows convergence}, {Perfect match of particular fact is more important than approximate match}, {Avoidance of big miracles is more important than avoidance of small miracles}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "2a51ebed-c851-40a0-9374-831cc80c502a",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "06bd906c-88cb-4c98-88a4-fa8375dc8796": {
+    "summary": "Can the avoidance of big miracles be justified as more important than the avoidance of small miracles?",
+    "content": "{Avoidance of big, widespread, diverse violations of law is considered more important than avoidance of small, localized, simple violations.}, {Big miracles consist of many little miracles together, and their avoidance is prioritized in the analysis of counterfactuals.}, {The distinction between big and little miracles is not based on the number of laws violated but on the complexity and diversity of the unlawful events.}",
+    "node_type": "antithesis",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0abb5765-761e-4ef3-97f5-9a25328b32c1": {
+    "summary": "Does the asymmetry of overdetermination explain the asymmetry of miracles?",
+    "content": "{The asymmetry of overdetermination suggests that later affairs are more overdetermined by earlier ones than vice versa.}, {Extreme overdetermination of earlier affairs by later ones is more common, making convergence to a world like ours require a big miracle.}, {The asymmetry of overdetermination is a contingent, de facto matter that may not hold universally.}",
+    "node_type": "antithesis",
+    "parent_id": "efb00909-20b1-4d25-97f9-3a7c7973b788",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f50a2c2c-861e-4886-bb77-d38cfdb8679e": {
+    "summary": "Counterfactuals and Similarity",
+    "content": "{Counterfactuals are evaluated based on the overall similarity of possible worlds}, {A small miracle that allows divergence from reality is more plausible than a large miracle that allows convergence}, {Perfect match of particular fact is more important than approximate match}, {Avoidance of big miracles is more important than avoidance of small miracles}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "0abb5765-761e-4ef3-97f5-9a25328b32c1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b8f14303-84ab-44c8-982c-6d98b8fba090": {
+    "summary": "Counterfactuals and Overdetermination",
+    "content": "{Counterfactuals are evaluated based on the overall similarity of possible worlds}, {A small miracle that allows divergence from reality is more plausible than a large miracle that allows convergence}, {Perfect match of particular fact is more important than approximate match}, {Avoidance of big miracles is more important than avoidance of small miracles}, {The asymmetry of counterfactual dependence arises from the asymmetry of overdetermination}",
+    "node_type": "synthesis",
+    "parent_id": "0abb5765-761e-4ef3-97f5-9a25328b32c1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "72a65f65-d3e8-42f5-9dd0-8abb1abcbc33": {
+    "summary": "{Similarity of possible worlds}",
+    "content": "{How does the concept of similarity among possible worlds contribute to the truth conditions of counterfactuals?}",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "7edbf2b4-9414-4d7a-80af-4ddef4f6352f": {
+    "summary": "Similarity and Counterfactual Truth",
+    "content": "{Counterfactuals are true if the antecedent and consequent hold in the most similar possible worlds}, {Similarity among possible worlds is determined by a system of weights or priorities}, {The similarity relation is context-dependent and varies with different counterfactuals}",
+    "node_type": "thesis",
+    "parent_id": "72a65f65-d3e8-42f5-9dd0-8abb1abcbc33",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7bb984d6-23cd-495e-8910-cf82891b71a4": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}, {Counterfactual dependence is asymmetric except in special contexts}",
+    "node_type": "thesis",
+    "parent_id": "72a65f65-d3e8-42f5-9dd0-8abb1abcbc33",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0832de3f-7f86-4674-a4a9-6c82b0a2174b": {
+    "summary": "Miracle-Based Similarity",
+    "content": "{Divergence from the actual world requires a small miracle}, {Convergence to the actual world requires a large, widespread, and diverse miracle}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "thesis",
+    "parent_id": "72a65f65-d3e8-42f5-9dd0-8abb1abcbc33",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5eaee3b6-efbd-4f01-aea6-49f47502ca51": {
+    "summary": "Vagueness and Contextual Resolution",
+    "content": "{Counterfactuals are vague and context-dependent}, {Different contexts resolve the vagueness of counterfactuals differently}, {Standard resolution of vagueness favors asymmetry of counterfactual dependence}",
+    "node_type": "thesis",
+    "parent_id": "72a65f65-d3e8-42f5-9dd0-8abb1abcbc33",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9": {
+    "summary": "Indeterminism and Quasi-Miracles",
+    "content": "{Indeterministic worlds allow divergence without miracles}, {Convergence requires a quasi-miracle, a remarkable coincidence of chance events}, {Quasi-miracles detract from similarity like genuine miracles}",
+    "node_type": "thesis",
+    "parent_id": "72a65f65-d3e8-42f5-9dd0-8abb1abcbc33",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e3b66e94-97ac-4c5d-811d-3a96d4304c9a": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}, {There is a strong intuition that the past remains unchanged regardless of present actions}",
+    "node_type": "reason",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d0a1e8c2-1f6f-4e6c-8a6c-c938c0c998ed": {
+    "summary": "Back-Tracking Counterfactuals",
+    "content": "{In some contexts, the past is considered to depend counterfactually on the present}, {Back-tracking arguments suggest that if the present were different, the past would have to be different too}, {Such contexts are exceptions and not the norm}",
+    "node_type": "reason",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "63665e03-fd58-4ae1-98ee-84f1bf5ba78b": {
+    "summary": "Vagueness in Counterfactuals",
+    "content": "{Counterfactuals are inherently vague}, {Different contexts resolve this vagueness in different ways}, {The resolution of vagueness affects the perceived truth of counterfactuals}",
+    "node_type": "reason",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7d13508e-3b9a-440b-93a4-4b819c7a0ace": {
+    "summary": "Temporal Asymmetry of Causation",
+    "content": "{Effects do not precede their causes}, {Causation is typically future-directed}, {Backward causation would require counterfactual dependence of the past on the future}",
+    "node_type": "reason",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c8574df3-197f-4a9c-ad02-7e6b29bfb90c": {
+    "summary": "Asymmetry of Openness",
+    "content": "{The future is perceived as open with multiple possibilities}, {The past is perceived as fixed and immutable}, {This perception aligns with the asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "85887785-551b-4264-a151-62e4e266797d": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Future events are overdetermined by past events}, {Past events leave many traces that determine future states}, {This overdetermination contributes to the asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "07034fe6-7759-473f-b6f5-d86d619f9417": {
+    "summary": "Asymmetry of Miracles",
+    "content": "{Divergence from a world like ours requires a small miracle}, {Perfect convergence to a world like ours requires a large, widespread miracle}, {This asymmetry in miracles supports the asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "393dfe4e-eb2e-45a2-b0a8-89225dc566b8": {
+    "summary": "Context-Dependent Similarity",
+    "content": "{Similarity among possible worlds is context-dependent}, {Different contexts prioritize different respects of similarity}, {This context-dependence affects the truth of counterfactuals}",
+    "node_type": "reason",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ae3d513e-7fe6-437e-901e-2b892b03e63c": {
+    "summary": "Future depends on present",
+    "content": "{The future depends on the present in a way that if the present were different, the future would be different}, {There are many true counterfactuals that describe how the future would change if the present were different}",
+    "node_type": "reason",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "63ab465d-05a4-4be0-a887-982562500f0f": {
+    "summary": "Past is independent of present",
+    "content": "{There is seldom a clearly true counterfactual about how the past would be different if the present were different}, {In reasoning from a counterfactual supposition, we assume that facts about earlier times are independent of the supposition}",
+    "node_type": "reason",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6ca830dc-682b-4df2-8127-ab68799b00aa": {
+    "summary": "Standard reasoning assumes past independence",
+    "content": "{In reasoning from a counterfactual supposition about any time, we assume that facts about earlier times are independent of the supposition}, {We feel free to use whatever we know about the past when considering counterfactuals about the present}",
+    "node_type": "reason",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b054da3c-9818-46e9-8b52-106897477759": {
+    "summary": "Back-tracking arguments are context-dependent",
+    "content": "{In some contexts, we accept that if the present were different, the past would have to be different}, {These contexts involve back-tracking arguments where past causes would need to be different to account for a different present}",
+    "node_type": "reason",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d1f355a9-69c5-459a-a642-f3f70620aead": {
+    "summary": "Vagueness in counterfactuals",
+    "content": "{Counterfactuals are vague and different resolutions of this vagueness are appropriate in different contexts}, {Ordinarily, we resolve the vagueness so that counterfactual dependence is asymmetric}",
+    "node_type": "reason",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "72f725c5-0042-4511-b3a4-2662ced9aabb": {
+    "summary": "Temporal asymmetry of causation",
+    "content": "{Effects do not ordinarily precede their causes}, {A causal chain is a chain of counterfactual dependences, and these counterfactuals are taken under the standard resolution of vagueness}",
+    "node_type": "reason",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "578f5e3a-5cf6-4bd0-be7b-3674d64b434b": {
+    "summary": "Open future vs. fixed past",
+    "content": "{The future is seen as a multitude of alternative possibilities, whereas the past is seen as a unique, settled actuality}, {This captures a genuine and important difference between past and future}",
+    "node_type": "reason",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ec3d8004-3071-41cb-b29a-cf852966224f": {
+    "summary": "Indeterminism and asymmetry",
+    "content": "{Indeterminism is neither necessary nor sufficient for the asymmetries between past and future}, {The asymmetries might arise even under strict determinism}",
+    "node_type": "reason",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9e87b27a-c10f-4fac-ae09-526f15f1606e": {
+    "summary": "Immutability of past, present, and future",
+    "content": "{Past, present, and future are alike immutable}, {We cannot bring about a difference between the state of affairs at a time and itself}",
+    "node_type": "reason",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e7835378-c453-4544-8a43-41e618bc4f24": {
+    "summary": "Asymmetry of overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones, but not vice versa}, {Whatever happens leaves widespread and varied traces at future times}",
+    "node_type": "reason",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "82106f1e-55c8-4d39-99cc-03c01088938b": {
+    "summary": "Counterfactual dependence and time's arrow",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}",
+    "node_type": "reason",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e77f1778-28fa-44ef-afd1-f74b6f1a6130": {
+    "summary": "Back-tracking counterfactuals",
+    "content": "{In some contexts, the past is considered to depend counterfactually on the present}, {Back-tracking arguments can make past events seem dependent on present conditions}",
+    "node_type": "reason",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "12462e18-8681-4a43-a406-49176c11a0d0": {
+    "summary": "Vagueness in counterfactuals",
+    "content": "{Counterfactuals are vague and context-dependent}, {Different contexts resolve the vagueness of counterfactuals differently}",
+    "node_type": "reason",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d4299119-803e-4034-84e9-a700b1bb6f0a": {
+    "summary": "Asymmetry of causation",
+    "content": "{Effects do not precede their causes}, {Causation typically follows a futureward direction}",
+    "node_type": "reason",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ca026252-67fb-4473-bbb6-80748656e09c": {
+    "summary": "Asymmetry of openness",
+    "content": "{The future is seen as open with multiple possibilities}, {The past is seen as fixed and immutable}",
+    "node_type": "reason",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6aaf3e43-45e0-4466-8d3b-0740b080e60d": {
+    "summary": "Determinism and counterfactuals",
+    "content": "{Deterministic laws imply that worlds are either exactly alike or never alike}, {Determinism suggests no divergence or convergence without a miracle}",
+    "node_type": "reason",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8184f78a-0ba0-4079-b242-882609164b3c": {
+    "summary": "Asymmetry of overdetermination",
+    "content": "{Later events are overdetermined by earlier ones}, {Earlier events are not overdetermined by later ones}",
+    "node_type": "reason",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c1ad45b5-e45e-4abe-b5c8-9f6500a4cb9d": {
+    "summary": "Ubiquity of traces",
+    "content": "{Events leave many and varied traces in the future}, {These traces make perfect convergence to a past state difficult}",
+    "node_type": "reason",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a89e55f1-c0f1-449a-aabe-67042d1d8882": {
+    "summary": "Counterfactual dependence is asymmetric",
+    "content": "{The future depends counterfactually on the present}, {The past does not depend counterfactually on the present}, {Counterfactuals about the future are often clearly true}, {Counterfactuals about the past are often unclear or doubtful}",
+    "node_type": "reason",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a356baf2-a4f9-444f-bba5-e11fdcdf25bf": {
+    "summary": "Back-tracking arguments are context-dependent",
+    "content": "{In some contexts, the past is assumed to be counterfactually independent of the present}, {In other contexts, back-tracking arguments suggest the past depends on the present}, {Different contexts resolve the vagueness of counterfactuals differently}",
+    "node_type": "reason",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9af52c6d-fc61-4658-8a40-b9609c9ab8e0": {
+    "summary": "Standard reasoning assumes fixed past",
+    "content": "{In reasoning from a counterfactual supposition, facts about earlier times are assumed to be independent of the supposition}, {We use factual knowledge about the past as auxiliary premises in counterfactual reasoning}, {The past is ordinarily assumed to be fixed and unaffected by present counterfactuals}",
+    "node_type": "reason",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2a332a5f-d387-44bd-9eb8-469efc56d55c": {
+    "summary": "Vagueness in counterfactuals",
+    "content": "{Counterfactuals are vague}, {Different contexts resolve the vagueness of counterfactuals differently}, {The standard resolution of vagueness favors asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a860dbf8-7b72-4e85-987d-5c08f60701e5": {
+    "summary": "Asymmetry of causation",
+    "content": "{Effects do not ordinarily precede their causes}, {Causation is typically future-directed}, {Backward causation would require counterfactual dependence of the past on the future}",
+    "node_type": "reason",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d08a6e0d-3e1c-4dea-97ea-de8871f375c9": {
+    "summary": "Open future vs. fixed past",
+    "content": "{The future is seen as a multitude of alternative possibilities}, {The past is regarded as a unique, settled actuality}, {This perception aligns with the asymmetry of counterfactual dependence}",
+    "node_type": "reason",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "705d3413-b823-4caa-a056-a96fb5d08237": {
+    "summary": "Asymmetry of overdetermination",
+    "content": "{Later events are often overdetermined by earlier ones}, {Earlier events are not typically overdetermined by later ones}, {This asymmetry contributes to the difficulty of perfect convergence to a past state}",
+    "node_type": "reason",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a086a84f-2194-4a54-8198-18bf8755f0e8": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}",
+    "node_type": "reason",
+    "parent_id": "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d4953ae9-4625-400b-b1dc-056953d88ed2": {
+    "summary": "Asymmetry of Causation",
+    "content": "{Effects do not precede their causes}, {Backward causation requires counterfactual dependence of past on future}",
+    "node_type": "reason",
+    "parent_id": "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "57a8efb4-d05b-426f-ab8b-b1ebba793949": {
+    "summary": "Asymmetry of Openness",
+    "content": "{The future is seen as a multitude of alternative possibilities}, {The past is regarded as a unique, settled actuality}",
+    "node_type": "reason",
+    "parent_id": "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "421a0ef8-c81a-40b7-a6eb-d9f52709f68b": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones}, {Earlier affairs are not overdetermined by later ones}",
+    "node_type": "reason",
+    "parent_id": "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "cd825f8d-22a7-4b84-b740-4e34c941d6ba": {
+    "summary": "Asymmetry of Miracles",
+    "content": "{Divergence from a deterministic world requires a small miracle}, {Perfect convergence to a deterministic world requires a big, widespread, diverse miracle}",
+    "node_type": "reason",
+    "parent_id": "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "72be02eb-3b91-44be-84c2-dc74206fbe70": {
+    "summary": "Ubiquity of Traces",
+    "content": "{Everything that happens leaves many and varied traces}, {Eradicating traces to achieve reconvergence requires a big miracle}",
+    "node_type": "reason",
+    "parent_id": "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3efab667-ad90-432f-bfa2-68d760e3f71c": {
+    "summary": "Quasi-Miracles and Similarity",
+    "content": "{Quasi-miracles are remarkable coincidences of chance events}, {Quasi-miracles detract from similarity like genuine miracles}",
+    "node_type": "reason",
+    "parent_id": "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9",
+    "depth": -1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "71ac7599-1a1b-4697-b88c-af2401fba3b1": {
+    "summary": "Does the asymmetry of counterfactual dependence challenge the context-dependence of similarity?",
+    "content": "{The asymmetry of counterfactual dependence suggests that the future depends on the present, but the past does not, which may not align with the context-dependent nature of similarity.}, {In reasoning about counterfactuals, we often assume that the past is independent of the present, which may conflict with the idea that similarity is context-dependent.}, {The context-dependent nature of similarity suggests that different contexts could lead to different resolutions of vagueness, potentially allowing for past dependence on the present, which contradicts the typical asymmetry of counterfactual dependence.}",
+    "node_type": "antithesis",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "fcdf623a-e492-4a6c-9170-8345d41b6cf3": {
+    "summary": "Standard Resolution of Vagueness",
+    "content": "{Counterfactuals are infected with vagueness}, {Different resolutions of vagueness are appropriate in different contexts}, {The standard resolution of vagueness invalidates back-tracking arguments}, {The standard resolution yields an asymmetry of counterfactual dependence}",
+    "node_type": "synthesis",
+    "parent_id": "71ac7599-1a1b-4697-b88c-af2401fba3b1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "db62c8f7-3bf4-4a52-bc0e-3ac977ef7993": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {The past does not depend counterfactually on the present}, {Counterfactual dependence is asymmetric except in special contexts}",
+    "node_type": "synthesis",
+    "parent_id": "71ac7599-1a1b-4697-b88c-af2401fba3b1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "518cfd60-7512-4c88-a31d-5a1ff7e1e580": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones}, {Earlier affairs are not overdetermined by later ones}, {Overdetermination contributes to the asymmetry of counterfactual dependence}",
+    "node_type": "synthesis",
+    "parent_id": "71ac7599-1a1b-4697-b88c-af2401fba3b1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7ea8e3c2-89eb-47aa-8489-0f890654473d": {
+    "summary": "Asymmetry of Miracles",
+    "content": "{Divergence from a world like ours requires a small miracle}, {Perfect convergence to a world like ours requires a big, widespread, diverse miracle}, {The asymmetry of miracles contributes to the asymmetry of counterfactual dependence}",
+    "node_type": "synthesis",
+    "parent_id": "71ac7599-1a1b-4697-b88c-af2401fba3b1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d9aff089-c504-4278-a148-6f7faf54e9ae": {
+    "summary": "Similarity and Counterfactuals",
+    "content": "{Counterfactuals are true if every world that makes the antecedent true without gratuitous departure from actuality also makes the consequent true}, {Overall similarity among worlds is a resultant of similarities and differences of many kinds}, {Different contexts require different resolutions of the vagueness of overall similarity}",
+    "node_type": "synthesis",
+    "parent_id": "71ac7599-1a1b-4697-b88c-af2401fba3b1",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5edd36c7-2a52-4976-a7f1-c1e05baabd29": {
+    "summary": "Can the notion of back-tracking counterfactuals undermine the system of weights or priorities in determining similarity?",
+    "content": "{Back-tracking counterfactuals, which suggest that the past could be different if the present were different, challenge the idea that similarity is determined by a fixed system of weights or priorities.}, {The existence of back-tracking counterfactuals implies that the similarity relation might need to accommodate scenarios where the past depends on the present, which could disrupt the established system of weights or priorities.}, {If back-tracking counterfactuals are contextually valid, this suggests that the system of weights or priorities is not universally applicable, potentially undermining its role in determining similarity.}",
+    "node_type": "antithesis",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "38881668-d222-444b-a522-7492e4bbdb6d": {
+    "summary": "Does the reliance on miracles in counterfactual reasoning conflict with the context-dependent similarity relation?",
+    "content": "{The use of miracles to explain divergence or convergence in counterfactual scenarios suggests a fixed aspect of similarity that may conflict with its context-dependent nature.}, {If similarity is truly context-dependent, then the necessity of miracles for explaining counterfactuals might not be consistent across different contexts, challenging the uniform application of this reasoning.}, {The reliance on miracles implies a certain rigidity in the similarity relation, which may not align with the flexibility expected from a context-dependent system.}",
+    "node_type": "antithesis",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7575f850-82f6-46d8-9f15-4728a4ebe5eb": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{Counterfactual dependence is asymmetric, with the future depending on the present but not vice versa}, {The asymmetry is explained by the difference in the ease of divergence and convergence in possible worlds}, {Divergence from the actual world requires only a small miracle, while convergence requires a large, complex miracle}, {The asymmetry of counterfactual dependence is contingent and may not hold in all possible worlds}",
+    "node_type": "synthesis",
+    "parent_id": "38881668-d222-444b-a522-7492e4bbdb6d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "17a3db7b-50f0-4f3b-bbe7-243bd58003a3": {
+    "summary": "Standard Resolution of Vagueness",
+    "content": "{Counterfactuals are vague and context-dependent, with different resolutions of vagueness appropriate in different contexts}, {The standard resolution of vagueness invalidates back-tracking arguments, maintaining the asymmetry of counterfactual dependence}, {Under the standard resolution, the past is assumed to be counterfactually independent of the present}",
+    "node_type": "synthesis",
+    "parent_id": "38881668-d222-444b-a522-7492e4bbdb6d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9439b376-8ef2-451f-a50d-d0cd36adfda9": {
+    "summary": "Comparative Similarity of Possible Worlds",
+    "content": "{Counterfactuals are true if every world that makes the antecedent true without gratuitous departure from actuality also makes the consequent true}, {Overall similarity among worlds is a resultant of similarities and differences of many kinds}, {The similarity relation is context-dependent and varies with different counterfactuals}",
+    "node_type": "synthesis",
+    "parent_id": "38881668-d222-444b-a522-7492e4bbdb6d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e4c5f172-ca65-4710-beca-4ccb0eafaf32": {
+    "summary": "Asymmetry of Miracles",
+    "content": "{Divergence from a deterministic world requires a small miracle, while convergence requires a large, complex miracle}, {The asymmetry of miracles explains the asymmetry of counterfactual dependence}, {The asymmetry of miracles is contingent and may not hold in all possible worlds}",
+    "node_type": "synthesis",
+    "parent_id": "38881668-d222-444b-a522-7492e4bbdb6d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e634c17a-0092-4551-8181-e58fc14b69c1": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones, with many determinants for any particular fact}, {Earlier affairs are not similarly overdetermined by later ones}, {The asymmetry of overdetermination explains the asymmetry of miracles and counterfactual dependence}",
+    "node_type": "synthesis",
+    "parent_id": "38881668-d222-444b-a522-7492e4bbdb6d",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c35251a7-4c28-4e04-b9f9-0f6cf621a0d5": {
+    "summary": "How does the asymmetry of overdetermination affect the context-dependence of similarity?",
+    "content": "{The asymmetry of overdetermination, where the past is more determined by the future than vice versa, may conflict with the context-dependent nature of similarity.}, {If similarity is context-dependent, then the asymmetry of overdetermination might not hold in all contexts, challenging the consistency of this asymmetry across different scenarios.}, {The asymmetry of overdetermination suggests a fixed directional influence, which may not align with the flexible, context-dependent nature of similarity.}",
+    "node_type": "antithesis",
+    "parent_id": "7edbf2b4-9414-4d7a-80af-4ddef4f6352f",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "82b81c16-2c82-4634-a467-0633e0a0917a": {
+    "summary": "Counterfactual Dependence and Asymmetry",
+    "content": "{Counterfactuals are true if the antecedent and consequent hold in the most similar possible worlds}, {Similarity among possible worlds is determined by a system of weights or priorities}, {The similarity relation is context-dependent and varies with different counterfactuals}, {Counterfactual dependence is asymmetric, with the future depending on the past but not vice versa}, {The asymmetry of counterfactual dependence is explained by the asymmetry of overdetermination, where the future is more overdetermined by the past than the past is by the future}",
+    "node_type": "synthesis",
+    "parent_id": "c35251a7-4c28-4e04-b9f9-0f6cf621a0d5",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "03724dcb-81eb-414e-b856-4dd465d885bb": {
+    "summary": "Similarity and Miracles",
+    "content": "{Counterfactuals are true if the antecedent and consequent hold in the most similar possible worlds}, {Similarity among possible worlds is determined by a system of weights or priorities}, {The similarity relation is context-dependent and varies with different counterfactuals}, {A small miracle can permit divergence from the actual world, while a large miracle is needed for perfect convergence}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles, where divergence requires less of a miracle than convergence}",
+    "node_type": "synthesis",
+    "parent_id": "c35251a7-4c28-4e04-b9f9-0f6cf621a0d5",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "64872d0d-4d39-4eb9-915a-a824f37ee75e": {
+    "summary": "Can back-tracking counterfactuals challenge the asymmetry of counterfactual dependence?",
+    "content": "{There are scenarios where if the present were different, the past would also have to be different, suggesting that the past can depend on the present.}, {In some contexts, back-tracking arguments are persuasive, indicating that the past might change if the present were different.}, {The standard resolution of vagueness in counterfactuals assumes the past is independent of the present, but this assumption can be context-dependent.}",
+    "node_type": "antithesis",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a69ebe77-557e-422c-986d-fbba07a63a0c": {
+    "summary": "Counterfactual Dependence with Contextual Resolution",
+    "content": "{Counterfactual dependence is generally asymmetric, with the future depending on the present and the present on the past}, {In standard contexts, the past is counterfactually independent of the present, meaning the past remains unchanged regardless of present changes}, {In special contexts, the resolution of vagueness allows for back-tracking counterfactuals where the past can depend on the present}",
+    "node_type": "synthesis",
+    "parent_id": "64872d0d-4d39-4eb9-915a-a824f37ee75e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "b4628a82-a5b4-4635-9fb8-ae252135dcb9": {
+    "summary": "Counterfactuals and Comparative Similarity",
+    "content": "{Counterfactuals are true if, in the most similar possible worlds where the antecedent is true, the consequent is also true}, {Overall similarity among worlds is determined by a balance of various respects of similarity and dissimilarity}, {The similarity relation governing counterfactuals is context-dependent and can vary based on the situation}",
+    "node_type": "synthesis",
+    "parent_id": "64872d0d-4d39-4eb9-915a-a824f37ee75e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2caa0a9f-2c12-40c1-85ac-24fbd779292c": {
+    "summary": "Asymmetry of Miracles and Counterfactual Dependence",
+    "content": "{Divergence from a world like ours requires a small miracle, while perfect convergence requires a large, widespread miracle}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles, where divergence is easier than convergence}, {The asymmetry of miracles is contingent and may not hold in all possible worlds}",
+    "node_type": "synthesis",
+    "parent_id": "64872d0d-4d39-4eb9-915a-a824f37ee75e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "87034930-1122-4ef3-8a12-edaa2c115aec": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{In a deterministic world, any fact is predetermined by past conditions and postdetermined by future conditions}, {There is an asymmetry of overdetermination, with future events being more overdetermined by past events than vice versa}, {This asymmetry of overdetermination contributes to the asymmetry of counterfactual dependence}",
+    "node_type": "synthesis",
+    "parent_id": "64872d0d-4d39-4eb9-915a-a824f37ee75e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e44127fe-82f9-48e7-aa78-51aeb9e9ba59": {
+    "summary": "Does the existence of special contexts undermine the asymmetry of counterfactual dependence?",
+    "content": "{Special contexts can lead to different resolutions of vagueness, where the past depends on the present, challenging the asymmetry of counterfactual dependence.}, {In conversations, participants may shift to a context that allows for back-tracking, suggesting that the asymmetry is not absolute.}, {The asymmetry of counterfactual dependence is not universally applicable and may break down in certain conditions, such as time travel or black holes.}",
+    "node_type": "antithesis",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "67876610-120d-4b9c-8f04-a0d2ee520190": {
+    "summary": "Counterfactual Dependence with Contextual Resolution",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}, {Counterfactual dependence is asymmetric except in special contexts}, {Special contexts can lead to different resolutions of vagueness, where the past depends on the present}",
+    "node_type": "synthesis",
+    "parent_id": "e44127fe-82f9-48e7-aa78-51aeb9e9ba59",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "3ef3a341-124d-422a-a7bf-e97c11326943": {
+    "summary": "Counterfactual Dependence with Asymmetry of Miracles",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}, {Counterfactual dependence is asymmetric due to the asymmetry of miracles}, {Divergence from the present requires less of a miracle than convergence to it}",
+    "node_type": "synthesis",
+    "parent_id": "e44127fe-82f9-48e7-aa78-51aeb9e9ba59",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "138d74ad-7caa-4bcf-8207-5831c41c0935": {
+    "summary": "Counterfactual Dependence with Asymmetry of Overdetermination",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}, {Counterfactual dependence is asymmetric due to the asymmetry of overdetermination}, {Later events are overdetermined by earlier events more than earlier events are by later events}",
+    "node_type": "synthesis",
+    "parent_id": "e44127fe-82f9-48e7-aa78-51aeb9e9ba59",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "56d4d5cb-fbdf-4dbb-a0f2-66727bd32b28": {
+    "summary": "Counterfactual Dependence with Asymmetry of Quasi-Miracles",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}, {Counterfactual dependence is asymmetric due to the asymmetry of quasi-miracles}, {Convergence to the present requires a quasi-miracle, while divergence does not}",
+    "node_type": "synthesis",
+    "parent_id": "e44127fe-82f9-48e7-aa78-51aeb9e9ba59",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a9cfea05-8038-42a8-97c7-2475b56832ad": {
+    "summary": "How does the asymmetry of miracles affect the asymmetry of counterfactual dependence?",
+    "content": "{Divergence from a world like ours is easier than perfect convergence to it, suggesting an asymmetry of miracles.}, {Convergence requires a big, widespread, diverse miracle, while divergence requires only a small miracle, indicating an asymmetry in the effort needed for each.}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles, not from the counterfactuals themselves.}",
+    "node_type": "antithesis",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7b60dfed-10bc-4d5f-b317-6eca94262975": {
+    "summary": "Counterfactual Dependence with Symmetric Similarity",
+    "content": "{Counterfactuals are evaluated based on the similarity of possible worlds}, {Similarity is determined by a weighted balance of respects of similarity and dissimilarity}, {The similarity relation is context-dependent and varies with different counterfactuals}, {Perfect match of particular fact is prioritized over approximate match}, {Avoidance of big, widespread, diverse miracles is prioritized over avoidance of small, localized, simple miracles}",
+    "node_type": "synthesis",
+    "parent_id": "a9cfea05-8038-42a8-97c7-2475b56832ad",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7bfe65b4-0318-4a74-a277-5e5eacf566b1": {
+    "summary": "Counterfactual Dependence with Asymmetry of Miracles",
+    "content": "{Counterfactual dependence arises from an asymmetry of miracles}, {Divergence from a world like ours requires a small miracle}, {Perfect convergence to a world like ours requires a big, widespread, diverse miracle}, {The asymmetry of counterfactual dependence is due to the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "a9cfea05-8038-42a8-97c7-2475b56832ad",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "79bd2ee7-e353-48b8-911b-85a12a7c646d": {
+    "summary": "Counterfactual Dependence with Asymmetry of Overdetermination",
+    "content": "{The asymmetry of counterfactual dependence is explained by an asymmetry of overdetermination}, {Later affairs are overdetermined by earlier ones to a greater extent than earlier affairs are overdetermined by later ones}, {The abundance of future traces makes for a like abundance of future determinants}, {Convergence to a world like ours requires breaking many links of overdetermination}",
+    "node_type": "synthesis",
+    "parent_id": "a9cfea05-8038-42a8-97c7-2475b56832ad",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "339d2f60-1cad-48c3-b38e-29b0b8201700": {
+    "summary": "Can the asymmetry of overdetermination explain the asymmetry of counterfactual dependence?",
+    "content": "{Later affairs are overdetermined by earlier ones, while earlier affairs are not as overdetermined by later ones, suggesting an asymmetry of overdetermination.}, {Convergence to a world like ours requires breaking many links of overdetermination, making it more difficult than divergence.}, {The asymmetry of overdetermination explains why convergence requires more of a miracle than divergence, supporting the asymmetry of counterfactual dependence.}",
+    "node_type": "antithesis",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8657ce73-1fa9-4114-8079-059e7ea1f781": {
+    "summary": "Does the possibility of quasi-miracles in an indeterministic world challenge the asymmetry of counterfactual dependence?",
+    "content": "{In an indeterministic world, convergence could occur through a quasi-miracle, which is a lawful but extraordinarily improbable event.}, {Quasi-miracles detract from similarity in much the same way as genuine miracles, suggesting that convergence is still unlikely.}, {The asymmetry of counterfactual dependence in an indeterministic world relies on the asymmetry of quasi-miracles, where divergence does not require a quasi-miracle but convergence does.}",
+    "node_type": "antithesis",
+    "parent_id": "7bb984d6-23cd-495e-8910-cf82891b71a4",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "c25ae170-8891-488c-b140-2548c330c10e": {
+    "summary": "Counterfactual Dependence with Contextual Vagueness",
+    "content": "{Counterfactuals are infected with vagueness, which is resolved differently in different contexts}, {In standard contexts, counterfactual dependence is asymmetric}, {In special contexts, the past may depend counterfactually on the present}",
+    "node_type": "synthesis",
+    "parent_id": "8657ce73-1fa9-4114-8079-059e7ea1f781",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "f5e66edb-2a4a-4103-b3be-913a4d6aaea0": {
+    "summary": "Counterfactual Dependence and Similarity of Worlds",
+    "content": "{Counterfactuals are true if the consequent holds in the most similar possible worlds where the antecedent is true}, {Overall similarity among worlds is determined by a system of weights or priorities}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "8657ce73-1fa9-4114-8079-059e7ea1f781",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "065d73a9-f6af-4c2b-9b76-9afe3c7d21c3": {
+    "summary": "Asymmetry of Counterfactual Dependence and Overdetermination",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}, {The asymmetry of counterfactual dependence is explained by the asymmetry of overdetermination}",
+    "node_type": "synthesis",
+    "parent_id": "8657ce73-1fa9-4114-8079-059e7ea1f781",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2c78d0a5-137a-4865-aa43-c5faad1fc0df": {
+    "summary": "Can the asymmetry of counterfactual dependence be explained without assuming an asymmetry of miracles?",
+    "content": "{There is a plausible principle that the asymmetry of counterfactual dependence arises from the asymmetry of miracles.}, {It is implausible that the asymmetry of counterfactual dependence can be explained solely by the asymmetry of miracles without considering other factors such as the asymmetry of overdetermination.}, {Consider a scenario in which a world is deterministic and everything that happens leaves many and varied traces. In such a scenario, intuitively we would judge that divergence from the actual world requires a small miracle, but perfect convergence to the actual world would require a large, widespread, and diverse miracle.}, {Suppose we have a case in which the asymmetry of counterfactual dependence is explained by the asymmetry of miracles alone. Intuitively, we either have to say that the asymmetry of overdetermination is irrelevant or that it is relevant. If we say it is irrelevant, then it is implausible because the asymmetry of overdetermination is a significant factor in explaining the asymmetry of counterfactual dependence. If we say it is relevant, then the asymmetry of miracles alone cannot fully explain the asymmetry of counterfactual dependence.}",
+    "node_type": "antithesis",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "34b6be96-84e4-417e-8f11-6514946eab5a": {
+    "summary": "Similarity-Based Counterfactuals",
+    "content": "{Counterfactuals are true if every world that makes the antecedent true without gratuitous departure from actuality is a world that also makes the consequent true}, {Overall similarity among worlds is a resultant of similarities and differences of many different kinds}, {The asymmetry of counterfactual dependence arises from an asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "2c78d0a5-137a-4865-aa43-c5faad1fc0df",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "9898dff6-19f5-45e5-a209-a53d6e4cbd2c": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{In a deterministic world, any particular fact is predetermined throughout the past and postdetermined throughout the future}, {Extreme overdetermination of earlier affairs by later ones is more or less universal at a world like ours}, {The asymmetry of counterfactual dependence arises because convergence to a world like ours takes more of a miracle than divergence from it}",
+    "node_type": "synthesis",
+    "parent_id": "2c78d0a5-137a-4865-aa43-c5faad1fc0df",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0c8fd3fc-e1c4-4d00-a8c3-82ed1d11c845": {
+    "summary": "Does the reliance on miracles make the theory too inflexible to account for exceptions?",
+    "content": "{There is a plausible principle that counterfactual dependence should allow for exceptions in extraordinary circumstances.}, {It is implausible that a theory relying solely on the asymmetry of miracles can account for exceptions such as time travel or cosmological models with closed timelike curves.}, {Consider a scenario in which time travel is possible. In such a scenario, intuitively we would judge that the asymmetry of counterfactual dependence might break down, allowing for backward causation.}, {Suppose we have a case in which the asymmetry of counterfactual dependence is rigidly explained by the asymmetry of miracles. Intuitively, we either have to say that exceptions like time travel are impossible or that the theory needs to be flexible enough to accommodate them. If we say exceptions are impossible, then it is implausible because such exceptions are conceivable. If we say the theory needs flexibility, then reliance on miracles alone is insufficient.}",
+    "node_type": "antithesis",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "4d77916e-c4fe-4d02-b751-34e4f60064ee": {
+    "summary": "Similarity-Based Counterfactuals",
+    "content": "{Counterfactuals are true if every world where the antecedent is true without gratuitous departure from actuality is a world where the consequent is true}, {Overall similarity among worlds is a resultant of similarities and differences of many kinds}, {Different contexts require different resolutions of the vagueness of overall similarity}",
+    "node_type": "synthesis",
+    "parent_id": "0c8fd3fc-e1c4-4d00-a8c3-82ed1d11c845",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "40228e83-4cd9-46d2-be61-681bcac0ce4d": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}, {The asymmetry of counterfactual dependence is explained by the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "0c8fd3fc-e1c4-4d00-a8c3-82ed1d11c845",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "296a387d-a606-4273-bffb-5e7611a2240a": {
+    "summary": "Asymmetry of Miracles",
+    "content": "{Divergence from a world requires a small miracle}, {Perfect convergence to a world requires a large, widespread, and diverse miracle}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "0c8fd3fc-e1c4-4d00-a8c3-82ed1d11c845",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "34d2f0a1-5310-4345-9979-4eb0bb70303e": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later affairs are overdetermined by earlier ones}, {Earlier affairs are not overdetermined by later ones}, {The asymmetry of overdetermination explains the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "0c8fd3fc-e1c4-4d00-a8c3-82ed1d11c845",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "999210f0-362b-4f48-bd83-4852aea793cf": {
+    "summary": "Is the concept of a \"miracle\" too vague to provide a clear explanation of counterfactual dependence?",
+    "content": "{There is a plausible principle that a clear and precise explanation of counterfactual dependence requires well-defined concepts.}, {It is implausible that the concept of a \"miracle,\" as used in the theory, is sufficiently clear and precise to explain counterfactual dependence.}, {Consider a scenario in which a small miracle is defined as a localized, simple violation of the laws of nature. In such a scenario, intuitively we would judge that the distinction between small and large miracles is vague and context-dependent.}, {Suppose we have a case in which the explanation of counterfactual dependence relies on the concept of a miracle. Intuitively, we either have to say that the concept is clear and precise or that it is vague and context-dependent. If we say it is clear and precise, then it is implausible because the distinction between small and large miracles is not well-defined. If we say it is vague and context-dependent, then the explanation lacks the clarity needed for a robust theory.}",
+    "node_type": "antithesis",
+    "parent_id": "0832de3f-7f86-4674-a4a9-6c82b0a2174b",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d0cbe957-75d9-4539-979f-8e794427c182": {
+    "summary": "Similarity-Based Counterfactuals",
+    "content": "{Counterfactuals are true if every world that makes the antecedent true without gratuitous departure from actuality is a world that also makes the consequent true}, {Overall similarity among worlds is a resultant of similarities and differences of many kinds}, {Different resolutions of the vagueness of overall similarity are appropriate in different contexts}",
+    "node_type": "synthesis",
+    "parent_id": "999210f0-362b-4f48-bd83-4852aea793cf",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7c65972a-b98d-4702-887f-03cd347d0a8c": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}, {The asymmetry of counterfactual dependence explains the temporal asymmetry of causation}",
+    "node_type": "synthesis",
+    "parent_id": "999210f0-362b-4f48-bd83-4852aea793cf",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d3c411a3-c770-4e12-a719-921a25e8fe0c": {
+    "summary": "Counterfactuals and Overdetermination",
+    "content": "{A fact in a deterministic world is predetermined by past conditions}, {A fact in a deterministic world is postdetermined by future conditions}, {The asymmetry of overdetermination explains why convergence to a world requires a larger miracle than divergence from it}",
+    "node_type": "synthesis",
+    "parent_id": "999210f0-362b-4f48-bd83-4852aea793cf",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "64129ca2-fe85-45a3-921e-32907a3afd60": {
+    "summary": "Counterfactuals and Quasi-Miracles",
+    "content": "{Quasi-miracles are patterns of outcomes of chance processes that simulate the traces of different processes}, {Quasi-miracles detract from similarity in much the same way that genuine miracles do}, {The asymmetry of quasi-miracles explains the asymmetry of counterfactual dependence in indeterministic worlds}",
+    "node_type": "synthesis",
+    "parent_id": "999210f0-362b-4f48-bd83-4852aea793cf",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7031c3e9-cd71-411d-84db-eae6401145a9": {
+    "summary": "Can counterfactuals be resolved without assuming asymmetry?",
+    "content": "{It is implausible that counterfactuals inherently possess an asymmetry of dependence without assuming a standard resolution of vagueness that favors such asymmetry.}, {Suppose we have a case in which a counterfactual supposition about the present is made. Intuitively, we either have to say that the past would be different or that it would remain the same. If we say the past would be different, then we allow for back-tracking arguments. If we say the past would remain the same, then we assume an asymmetry of counterfactual dependence.}",
+    "node_type": "antithesis",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "2cc4b3a3-fec6-42bd-bb5e-9da1e1b9675a": {
+    "summary": "Counterfactual Dependence with Symmetric Similarity",
+    "content": "{Counterfactuals are true if the antecedent leads to the consequent in the most similar possible worlds}, {Similarity between worlds is determined by a weighted balance of respects of similarity}, {Perfect match of particular fact is prioritized over approximate match}, {Avoidance of big, widespread, diverse violations of law is prioritized over small, localized, simple violations}",
+    "node_type": "synthesis",
+    "parent_id": "7031c3e9-cd71-411d-84db-eae6401145a9",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "bd3a8800-adf8-40f4-a717-fb22f35b6e24": {
+    "summary": "Counterfactual Dependence with Asymmetry of Miracles",
+    "content": "{Counterfactuals are true if the antecedent leads to the consequent in the most similar possible worlds}, {Divergence from a world requires a small miracle, while perfect convergence requires a big, widespread, diverse miracle}, {The asymmetry of counterfactual dependence arises from the asymmetry of miracles}, {The asymmetry of miracles is due to the asymmetry of overdetermination in the world}",
+    "node_type": "synthesis",
+    "parent_id": "7031c3e9-cd71-411d-84db-eae6401145a9",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "91316417-559f-40f2-b566-1d001f14e2ea": {
+    "summary": "Counterfactual Dependence with Quasi-Miracles",
+    "content": "{Counterfactuals are true if the antecedent leads to the consequent in the most similar possible worlds}, {Quasi-miracles, or remarkable coincidences of chance events, detract from similarity}, {Perfect convergence to a world requires a quasi-miracle, which is improbable but lawful}, {The asymmetry of counterfactual dependence arises from the asymmetry of quasi-miracles}",
+    "node_type": "synthesis",
+    "parent_id": "7031c3e9-cd71-411d-84db-eae6401145a9",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a85f41a3-744f-45fe-851b-249d72b16d37": {
+    "summary": "Is the asymmetry of counterfactual dependence universally applicable?",
+    "content": "{There is a plausible principle that the asymmetry of counterfactual dependence is not universally applicable. This principle together with the existence of contexts like time travel or black holes entails that the asymmetry may break down under certain conditions.}, {Consider a scenario in which time travel is possible. In such a scenario, intuitively we would judge that the past could depend on the future, challenging the asymmetry of counterfactual dependence.}",
+    "node_type": "antithesis",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ed47fe12-0326-4923-bbf0-6520fe69057b": {
+    "summary": "Counterfactual Dependence and Asymmetry",
+    "content": "{Counterfactuals are vague and context-dependent}, {Different contexts resolve the vagueness of counterfactuals differently}, {Standard resolution of vagueness favors asymmetry of counterfactual dependence}, {Counterfactual dependence is asymmetric in familiar cases}, {The asymmetry of counterfactual dependence may break down in special contexts like time travel or black holes}",
+    "node_type": "synthesis",
+    "parent_id": "a85f41a3-744f-45fe-851b-249d72b16d37",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e78e96c8-abf3-4145-902a-53464edea844": {
+    "summary": "Similarity-Based Analysis of Counterfactuals",
+    "content": "{Counterfactuals are true if every world that makes the antecedent true without gratuitous departure from actuality also makes the consequent true}, {Overall similarity among worlds is a resultant of similarities and differences of many kinds}, {Different contexts require different resolutions of the vagueness of overall similarity}, {The asymmetry of counterfactual dependence is explained by the asymmetry of miracles}",
+    "node_type": "synthesis",
+    "parent_id": "a85f41a3-744f-45fe-851b-249d72b16d37",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "1c3803a0-176e-4c37-9a15-597e421bdc55": {
+    "summary": "Does the asymmetry of counterfactual dependence rely on empirical facts?",
+    "content": "{It is implausible that the asymmetry of counterfactual dependence is purely a matter of logical necessity without reliance on empirical facts about the world.}, {Consider the empirical fact that the world exhibits an asymmetry of overdetermination, where past events are more heavily determined by their effects than future events are by their causes. This empirical fact supports the asymmetry of counterfactual dependence.}",
+    "node_type": "antithesis",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e6a3c8ad-fc44-4a88-a6e1-653d6454a9fa": {
+    "summary": "Can counterfactuals be contextually resolved without favoring asymmetry?",
+    "content": "{There is a plausible principle that counterfactuals can be resolved in different contexts without inherently favoring an asymmetry of dependence. This principle together with the existence of contexts that allow back-tracking arguments entails that the standard resolution of vagueness is not the only possible resolution.}, {Consider a scenario in which a back-tracking argument is presented. In such a scenario, intuitively we would judge that the past could be different if the present were different, suggesting a context where asymmetry is not favored.}",
+    "node_type": "antithesis",
+    "parent_id": "5eaee3b6-efbd-4f01-aea6-49f47502ca51",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "78ad299b-4b13-48f1-b432-344e8a37f02b": {
+    "summary": "Similarity-Based Counterfactuals",
+    "content": "{Counterfactuals are evaluated based on the similarity of possible worlds}, {A counterfactual is true if the closest possible world where the antecedent is true also makes the consequent true}, {Overall similarity among worlds is determined by a system of weights or priorities}, {Different contexts may require different resolutions of vagueness in determining similarity}",
+    "node_type": "synthesis",
+    "parent_id": "e6a3c8ad-fc44-4a88-a6e1-653d6454a9fa",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "81128ec7-9ef2-454a-b1d6-a9bd0fdeab01": {
+    "summary": "Miracle-Based Counterfactuals",
+    "content": "{Counterfactuals are evaluated based on the occurrence of miracles}, {A small miracle is a localized, simple violation of the laws of nature}, {A big miracle is a widespread, diverse violation of the laws of nature}, {The closest possible world is one where the antecedent is true with the least miraculous deviation from actuality}",
+    "node_type": "synthesis",
+    "parent_id": "e6a3c8ad-fc44-4a88-a6e1-653d6454a9fa",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0370ef89-3d5b-4bd7-b0b2-4e2b943d5bb2": {
+    "summary": "Asymmetry of Counterfactual Dependence",
+    "content": "{The future depends counterfactually on the present}, {The past is counterfactually independent of the present}, {This asymmetry is explained by the asymmetry of miracles}, {Divergence from actuality requires less of a miracle than convergence to it}",
+    "node_type": "synthesis",
+    "parent_id": "e6a3c8ad-fc44-4a88-a6e1-653d6454a9fa",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "5a8ad67e-73c5-422e-86c5-1ed400d5e59b": {
+    "summary": "Asymmetry of Overdetermination",
+    "content": "{Later events are overdetermined by earlier events}, {Earlier events are not overdetermined by later events}, {This asymmetry explains why convergence to a past state requires a large miracle}, {The asymmetry of overdetermination is a contingent, de facto matter}",
+    "node_type": "synthesis",
+    "parent_id": "e6a3c8ad-fc44-4a88-a6e1-653d6454a9fa",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "a750003d-d3e7-4f2a-b701-e0b4598d831a": {
+    "summary": "Indeterministic Counterfactuals",
+    "content": "{Counterfactuals are evaluated in an indeterministic world}, {Divergence from actuality does not require a miracle due to chance processes}, {Perfect convergence requires a quasi-miracle, a remarkable coincidence of chance outcomes}, {Quasi-miracles detract from similarity in the same way as genuine miracles}",
+    "node_type": "synthesis",
+    "parent_id": "e6a3c8ad-fc44-4a88-a6e1-653d6454a9fa",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8a27a4de-78a0-426b-a962-e8958e191b5e": {
+    "summary": "Can indeterministic worlds allow divergence without miracles?",
+    "content": "{In indeterministic worlds, divergence can occur without requiring a miracle, as chance events can lead to different outcomes naturally.}, {If divergence can occur naturally without a miracle, then the notion that divergence requires a miracle is challenged.}",
+    "node_type": "antithesis",
+    "parent_id": "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "8e2c8fad-4a59-4f75-957c-f93608ff376c": {
+    "summary": "Counterfactual Dependence and Asymmetry",
+    "content": "{Counterfactual dependence is asymmetric, with the future depending on the present but not vice versa}, {The asymmetry of counterfactual dependence is explained by the asymmetry of miracles}, {Divergence from a world like ours requires a small miracle, while perfect convergence requires a large, widespread miracle}, {The asymmetry of counterfactual dependence is contingent and may not hold in all possible worlds}",
+    "node_type": "synthesis",
+    "parent_id": "8a27a4de-78a0-426b-a962-e8958e191b5e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e80d8f74-347a-4856-a6c5-de1e168fa24c": {
+    "summary": "Similarity and Counterfactuals",
+    "content": "{Counterfactuals are evaluated based on the comparative similarity of possible worlds}, {A counterfactual is true if the closest world where the antecedent is true is also a world where the consequent is true}, {Overall similarity among worlds is determined by a system of weights or priorities}, {Perfect match of particular fact is prioritized over approximate match or avoidance of small miracles}",
+    "node_type": "synthesis",
+    "parent_id": "8a27a4de-78a0-426b-a962-e8958e191b5e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0c63a618-f5b9-4aa3-bae4-4808f2dbe9b6": {
+    "summary": "Indeterminism and Quasi-Miracles",
+    "content": "{Indeterministic worlds allow divergence without requiring a miracle}, {Convergence requires a quasi-miracle, a remarkable coincidence of chance events}, {Quasi-miracles detract from similarity like genuine miracles}, {The asymmetry of counterfactual dependence can arise in indeterministic worlds due to the asymmetry of quasi-miracles}",
+    "node_type": "synthesis",
+    "parent_id": "8a27a4de-78a0-426b-a962-e8958e191b5e",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ba8735eb-4835-49cd-8ac1-1892d7105e68": {
+    "summary": "Does convergence require a quasi-miracle?",
+    "content": "{Convergence to a previous state in an indeterministic world would require a remarkable coincidence of chance events, which is termed a quasi-miracle.}, {If convergence requires a quasi-miracle, it implies that such events are extraordinarily improbable and not typical of our world.}",
+    "node_type": "antithesis",
+    "parent_id": "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "0aa7e104-3dee-4f27-b754-1f17b4815107": {
+    "summary": "Counterfactual Dependence with Asymmetry",
+    "content": "{Counterfactual dependence is asymmetric, with the future depending on the present but not vice versa}, {This asymmetry is explained by the asymmetry of miracles, where divergence requires a small miracle and convergence requires a large one}, {The asymmetry of miracles is due to the asymmetry of overdetermination, where the past is overdetermined by the future more than the future is by the past}",
+    "node_type": "synthesis",
+    "parent_id": "ba8735eb-4835-49cd-8ac1-1892d7105e68",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "71f8c79b-8134-4d0b-b1a3-bf3090f7f3b2": {
+    "summary": "Counterfactuals and Similarity of Worlds",
+    "content": "{Counterfactuals are true if the closest possible world where the antecedent is true also makes the consequent true}, {The similarity of worlds is determined by a system of weights prioritizing the avoidance of large miracles, perfect match of particular facts, and avoidance of small miracles}, {Perfect match of particular facts is more important than approximate match, and avoiding large miracles is more important than avoiding small ones}",
+    "node_type": "synthesis",
+    "parent_id": "ba8735eb-4835-49cd-8ac1-1892d7105e68",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "6309d3bd-e648-4780-bd7f-6772c34a7401": {
+    "summary": "Indeterminism and Quasi-Miracles",
+    "content": "{In indeterministic worlds, divergence does not require a miracle, but convergence requires a quasi-miracle}, {A quasi-miracle is a remarkable coincidence of chance events that detracts from similarity like a genuine miracle}, {Quasi-miracles are extraordinarily improbable and not typical of our world}",
+    "node_type": "synthesis",
+    "parent_id": "ba8735eb-4835-49cd-8ac1-1892d7105e68",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "e34532c1-c5c1-429c-abbe-40be5879090c": {
+    "summary": "Do quasi-miracles detract from similarity like genuine miracles?",
+    "content": "{Quasi-miracles, despite being lawful, are such remarkable coincidences that they are unlike typical events in our world, thus detracting from similarity.}, {If quasi-miracles detract from similarity, they should not occur in the closest possible worlds to ours, where events unfold naturally without such coincidences.}",
+    "node_type": "antithesis",
+    "parent_id": "03330d9e-59a2-4d35-bfb9-8fab6fd51bf9",
+    "depth": 2,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "ee055859-55ac-4c87-abaa-c4daf0b824d3": {
+    "summary": "Counterfactual Dependence with Asymmetry of Miracles",
+    "content": "{Counterfactuals are true if the antecedent leads to the consequent in the most similar possible worlds}, {The similarity of worlds is determined by avoiding big, widespread, diverse violations of law}, {Perfect match of particular fact is prioritized over approximate match}, {Small, localized, simple violations of law are less significant than big ones}, {Quasi-miracles, despite being lawful, detract from similarity like genuine miracles}",
+    "node_type": "synthesis",
+    "parent_id": "e34532c1-c5c1-429c-abbe-40be5879090c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "d9b77e2c-795f-489c-814d-3cffcfc28566": {
+    "summary": "Counterfactual Dependence with Asymmetry of Quasi-Miracles",
+    "content": "{Counterfactuals are true if the antecedent leads to the consequent in the most similar possible worlds}, {The similarity of worlds is determined by avoiding big, widespread, diverse violations of law}, {Perfect match of particular fact is prioritized over approximate match}, {Small, localized, simple violations of law are less significant than big ones}, {Quasi-miracles, despite being lawful, detract from similarity like genuine miracles}, {Quasi-miracles are extraordinary coincidences that are unlike typical events in our world}",
+    "node_type": "synthesis",
+    "parent_id": "e34532c1-c5c1-429c-abbe-40be5879090c",
+    "depth": 3,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}
