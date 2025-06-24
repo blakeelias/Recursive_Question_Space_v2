@@ -93,8 +93,8 @@ graph = DialecticalGraph(
 ```python
 graph = DialecticalGraph(
     central_question="What is justice?",
-    num_responses=15,       # Moderate responses per level
-    num_reasons=7,          # Moderate supporting reasons
+    num_responses=100,       # Moderate responses per level.  Leave at 100 as prompt will not overgenerate items
+    num_reasons=100,          # Moderate supporting reasons.  Leave at 100 as prompt will not overgenerate items
     max_depth=4,            # Medium depth
     max_time_seconds=45*60, # 45 minutes
     save_dir="./temp"
@@ -105,8 +105,8 @@ graph = DialecticalGraph(
 ```python
 graph = DialecticalGraph(
     central_question="What is consciousness?",
-    num_responses=30,        # Many responses per level
-    num_reasons=10,          # Many supporting reasons
+    num_responses=100,        # Many responses per level. Leave at 100 as prompt will not overgenerate items
+    num_reasons=100,          # Many supporting reasons. Leave at 100 as prompt will not overgenerate items
     max_depth=6,             # Deep exploration
     max_time_seconds=120*60, # 2 hours
     save_dir="./temp"
@@ -217,10 +217,10 @@ Graph_Exports/
 ### Central Question Method Parameters
 
 - **`central_question`**: The philosophical question to explore
-- **`num_responses`**: Max responses per dialectical level (5-50 recommended)
-- **`num_reasons`**: Max supporting reasons per thesis (3-15 recommended)
-- **`max_depth`**: Dialectical recursion depth (2-8 recommended)
-- **`max_time_seconds`**: Time limit in seconds (600-7200 for 10min-2hrs)
+- **`num_responses`**: Max responses per dialectical level (100 recommended)
+- **`num_reasons`**: Max supporting reasons per thesis (100 recommended)
+- **`max_depth`**: Dialectical recursion depth (2-5 recommended. Depth 5 ~= $200 API spend. Leave as null to disable termination condition)
+- **`max_time_seconds`**: Time limit in seconds (600-7200 for 10min-2hrs. Leave as null to disable termination condition)
 - **`nonsense_threshold`**: Filter nonsensical responses (90-99 recommended)
 - **`view_identity_threshold`**: Filter duplicate views (90-99 recommended)
 - **`save_dir`**: Directory for state backups
