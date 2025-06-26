@@ -1,0 +1,104 @@
+{
+  "d5de3f2e-26f4-4d36-93eb-d3df1d049b74": {
+    "summary": "What is human flourishing?",
+    "content": "What is human flourishing?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "8ca0d6ff-a282-4d23-a537-594b38bbd285": {
+    "summary": "Eudaimonism: Flourishing as Living in Accordance with Virtue",
+    "content": "{Human flourishing is achieved by living in accordance with virtue}, {Virtue is a disposition to act in ways that are morally good}, {Living in accordance with virtue leads to a fulfilling and meaningful life}",
+    "node_type": "thesis",
+    "parent_id": "d5de3f2e-26f4-4d36-93eb-d3df1d049b74",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "19bba69c-7d39-4ef8-94c1-6e4d363e1803": {
+    "summary": "Hedonism: Flourishing as Maximizing Pleasure",
+    "content": "{Human flourishing is achieved by maximizing pleasure}, {Pleasure is the only intrinsic good}, {A life with the greatest balance of pleasure over pain is the most flourishing}",
+    "node_type": "thesis",
+    "parent_id": "d5de3f2e-26f4-4d36-93eb-d3df1d049b74",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "983f4847-c192-4b9c-87b0-85368bff1e51": {
+    "summary": "Desire Satisfaction Theory: Flourishing as Fulfilling Desires",
+    "content": "{Human flourishing is achieved by fulfilling one's desires}, {A desire is a mental state that motivates action}, {The more desires that are satisfied, the more a person flourishes}",
+    "node_type": "thesis",
+    "parent_id": "d5de3f2e-26f4-4d36-93eb-d3df1d049b74",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7dce4580-84f4-4fe9-a09e-bde01330b918": {
+    "summary": "Objective List Theory: Flourishing as Achieving Objective Goods",
+    "content": "{Human flourishing is achieved by attaining objective goods}, {Objective goods are valuable independently of personal desires}, {Examples of objective goods include knowledge, friendship, and achievement}",
+    "node_type": "thesis",
+    "parent_id": "d5de3f2e-26f4-4d36-93eb-d3df1d049b74",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "de480d05-cb22-466f-a039-fe52689f2d62": {
+    "summary": "What is the right definition of AGI (artificial general intelligence)?",
+    "content": "What is the right definition of AGI (artificial general intelligence)?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "3abacef6-0e0c-466a-a79b-9bda834f9867": {
+    "summary": "AGI as Human-Level Intelligence",
+    "content": "{AGI is an artificial system that can perform any intellectual task that a human can}, {AGI must possess the ability to learn and adapt to new situations}, {AGI must be capable of understanding and generating natural language}, {AGI must be able to reason and solve problems across a wide range of domains}",
+    "node_type": "thesis",
+    "parent_id": "de480d05-cb22-466f-a039-fe52689f2d62",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "87f0d479-bdac-4718-9ddb-4c0c9e7d405f": {
+    "summary": "AGI as Conscious Entity",
+    "content": "{AGI is an artificial system that possesses consciousness}, {AGI must have subjective experiences and self-awareness}, {AGI must be capable of understanding its own mental states}, {AGI must be able to reflect on its actions and decisions}",
+    "node_type": "thesis",
+    "parent_id": "de480d05-cb22-466f-a039-fe52689f2d62",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "211ab63b-e8e4-4453-bec5-42d86efddc44": {
+    "summary": "AGI as Ethical Reasoner",
+    "content": "{AGI is an artificial system that can engage in ethical reasoning}, {AGI must be able to evaluate actions based on moral principles}, {AGI must be capable of understanding and applying ethical theories}, {AGI must be able to resolve moral dilemmas}",
+    "node_type": "thesis",
+    "parent_id": "de480d05-cb22-466f-a039-fe52689f2d62",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "af9af08f-cf61-4403-887a-9213045aabd5": {
+    "summary": "AGI as Social Interactor",
+    "content": "{AGI is an artificial system that can interact socially with humans}, {AGI must be able to understand social cues and norms}, {AGI must be capable of empathy and emotional intelligence}, {AGI must be able to communicate effectively in social contexts}",
+    "node_type": "thesis",
+    "parent_id": "de480d05-cb22-466f-a039-fe52689f2d62",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}

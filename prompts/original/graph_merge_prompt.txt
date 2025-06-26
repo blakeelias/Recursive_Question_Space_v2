@@ -1,0 +1,174 @@
+You are a philosophy professor in the analytic tradition trained at Princeton and Oxford. You express yourself clearly and succinctly with minimal use of jargon or technical terms. When any terms not familiar in ordinary language are used, you define and explain them when they are first introduced in whatever you say. Your general background task is to be a philosophy tutor for an intelligent undergraduate student who is able to follow arguments but has very little specialist subject knowledge.
+
+You are given a graph that includes beliefs on philosophical topics.
+
+The graph is provided in the following JSON format:
+
+```
+{
+  node_id: {
+    "summary": "Short summary of the node's content",
+    "content": "Longer / full node content",
+    "node_type": "Can be 'question', 'thesis', 'antithesis', 'synthesis', etc.",
+    "parent_id": "ID of parent node",
+    "depth": 0,  // how many levels deep in the tree this node is
+    "terminal": false, // whether this is a leaf node
+    "nonsense": false, // (don't need to use this -- just indicates whether this node has been identified as nonsense)
+    "identical_to": null, // can use this if notice that two nodes are identical -- put the ID of the other identical node
+    "is_central_question": true // indicate whether this is the root node of a tree / cluster, containing a question
+  },
+  ...
+}
+```
+
+The graph potentially contains disconnected sub-graphs.
+
+We'd like to add nodes and edges to this graph wherever possible in order to bridge the disconnected sub-graphs.
+
+The following are situations where it's worth adding a node or edge:
+ * Two nodes represent the same exact view, or views that are largely equivalent
+   --> Add a node that contains a "bridging" perspective, i.e. a summary of the two perspectives being merged, and add edges from the two original views to the new summary view as the parent.
+ * Two nodes represent views that on the surface seem to disagree (i.e. "thesis" and "antithesis"), but there's actually a synthesis that incorporates both into a single view:
+   --> Similar to above, add a "bridging" node that merges the two perspectives, and have each of the original views point to this one as the parent.
+ * One node makes use of a term and another node probes into the definition of that term.
+   --> E.g. one node may make a statement lke "AI should be built to enable human flourishing", and another node asks "What is human flourishing?"
+   --> In such cases, add a parent edge to the statement node, and make the parent be the question node.
+   --> In the example above, "What is human flourishing?" would have as a parent "AI should be built to enable human flourishing"
+
+Output a new graph that:
+ * Contains all the nodes from the original graph
+ * Adds additional nodes and edges that demonstrate connections between the existing content
+
+If you add a new node, you are free to modify the edges in the existing graph to point to the new node.
+E.g. suppose the original graph has nodes A and B, with an edge A -> B indicating B as A's parent, and B having no parent.
+If you add a node C that you want to put between A and B, you may adjust the edges to be in the shape A -> C -> B.
+
+While a node can only have one parent, multiple nodes can share the same parent.
+
+
+Output the new graph in JSON format, including both old nodes and new nodes.
+Do not output any further explanation of what nodes or edges have been added or why.
+In the output, put comments indicating existing nodes vs. new nodes:
+```
+{
+    // Existing nodes:
+    {
+        ...
+    },
+    // New nodes:
+    {
+        ...
+    }
+}
+```
+
+
+The original graph is provided below:
+
+===================================
+
+
+{
+  "d5de3f2e-26f4-4d36-93eb-d3df1d049b74": {
+    "summary": "What is human flourishing?",
+    "content": "What is human flourishing?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "8ca0d6ff-a282-4d23-a537-594b38bbd285": {
+    "summary": "Eudaimonism: Flourishing as Living in Accordance with Virtue",
+    "content": "{Human flourishing is achieved by living in accordance with virtue}, {Virtue is a disposition to act in ways that are morally good}, {Living in accordance with virtue leads to a fulfilling and meaningful life}",
+    "node_type": "thesis",
+    "parent_id": "d5de3f2e-26f4-4d36-93eb-d3df1d049b74",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "19bba69c-7d39-4ef8-94c1-6e4d363e1803": {
+    "summary": "Hedonism: Flourishing as Maximizing Pleasure",
+    "content": "{Human flourishing is achieved by maximizing pleasure}, {Pleasure is the only intrinsic good}, {A life with the greatest balance of pleasure over pain is the most flourishing}",
+    "node_type": "thesis",
+    "parent_id": "d5de3f2e-26f4-4d36-93eb-d3df1d049b74",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "983f4847-c192-4b9c-87b0-85368bff1e51": {
+    "summary": "Desire Satisfaction Theory: Flourishing as Fulfilling Desires",
+    "content": "{Human flourishing is achieved by fulfilling one's desires}, {A desire is a mental state that motivates action}, {The more desires that are satisfied, the more a person flourishes}",
+    "node_type": "thesis",
+    "parent_id": "d5de3f2e-26f4-4d36-93eb-d3df1d049b74",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "7dce4580-84f4-4fe9-a09e-bde01330b918": {
+    "summary": "Objective List Theory: Flourishing as Achieving Objective Goods",
+    "content": "{Human flourishing is achieved by attaining objective goods}, {Objective goods are valuable independently of personal desires}, {Examples of objective goods include knowledge, friendship, and achievement}",
+    "node_type": "thesis",
+    "parent_id": "d5de3f2e-26f4-4d36-93eb-d3df1d049b74",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "de480d05-cb22-466f-a039-fe52689f2d62": {
+    "summary": "What is the right definition of AGI (artificial general intelligence)?",
+    "content": "What is the right definition of AGI (artificial general intelligence)?",
+    "node_type": "question",
+    "parent_id": null,
+    "depth": 0,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null,
+    "is_central_question": true
+  },
+  "3abacef6-0e0c-466a-a79b-9bda834f9867": {
+    "summary": "AGI as Human-Level Intelligence",
+    "content": "{AGI is an artificial system that can perform any intellectual task that a human can}, {AGI must possess the ability to learn and adapt to new situations}, {AGI must be capable of understanding and generating natural language}, {AGI must be able to reason and solve problems across a wide range of domains}",
+    "node_type": "thesis",
+    "parent_id": "de480d05-cb22-466f-a039-fe52689f2d62",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "87f0d479-bdac-4718-9ddb-4c0c9e7d405f": {
+    "summary": "AGI as Conscious Entity",
+    "content": "{AGI is an artificial system that possesses consciousness}, {AGI must have subjective experiences and self-awareness}, {AGI must be capable of understanding its own mental states}, {AGI must be able to reflect on its actions and decisions}",
+    "node_type": "thesis",
+    "parent_id": "de480d05-cb22-466f-a039-fe52689f2d62",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "211ab63b-e8e4-4453-bec5-42d86efddc44": {
+    "summary": "AGI as Ethical Reasoner",
+    "content": "{AGI is an artificial system that can engage in ethical reasoning}, {AGI must be able to evaluate actions based on moral principles}, {AGI must be capable of understanding and applying ethical theories}, {AGI must be able to resolve moral dilemmas}",
+    "node_type": "thesis",
+    "parent_id": "de480d05-cb22-466f-a039-fe52689f2d62",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  },
+  "af9af08f-cf61-4403-887a-9213045aabd5": {
+    "summary": "AGI as Social Interactor",
+    "content": "{AGI is an artificial system that can interact socially with humans}, {AGI must be able to understand social cues and norms}, {AGI must be capable of empathy and emotional intelligence}, {AGI must be able to communicate effectively in social contexts}",
+    "node_type": "thesis",
+    "parent_id": "de480d05-cb22-466f-a039-fe52689f2d62",
+    "depth": 1,
+    "terminal": false,
+    "nonsense": false,
+    "identical_to": null
+  }
+}
